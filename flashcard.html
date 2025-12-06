@@ -1,0 +1,548 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flashcard Nhật-Việt</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Arial, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 15px;
+            color: #333;
+        }
+
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+        }
+
+        .header {
+            background: white;
+            border-radius: 15px;
+            padding: 20px;
+            margin-bottom: 20px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+        }
+
+        .header h1 {
+            color: #667eea;
+            text-align: center;
+            margin-bottom: 15px;
+            font-size: 24px;
+        }
+
+        .level-selector {
+            display: flex;
+            gap: 8px;
+            justify-content: center;
+            margin-bottom: 15px;
+            flex-wrap: wrap;
+        }
+
+        .level-selector label {
+            display: flex;
+            align-items: center;
+            gap: 5px;
+            cursor: pointer;
+            padding: 6px 12px;
+            background: #f7fafc;
+            border-radius: 8px;
+            transition: all 0.3s;
+            font-size: 14px;
+        }
+
+        .level-selector label:hover {
+            background: #edf2f7;
+        }
+
+        .level-selector input[type="checkbox"] {
+            width: 16px;
+            height: 16px;
+            cursor: pointer;
+        }
+
+        .controls {
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+
+        .btn {
+            padding: 10px 20px;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 16px;
+            transition: all 0.3s;
+            font-weight: 600;
+        }
+
+        .btn-primary {
+            background: #667eea;
+            color: white;
+        }
+
+        .btn-primary:hover {
+            background: #5568d3;
+            transform: translateY(-2px);
+        }
+
+        .btn-secondary {
+            background: #48bb78;
+            color: white;
+        }
+
+        .btn-secondary:hover {
+            background: #38a169;
+            transform: translateY(-2px);
+        }
+
+        .btn-info {
+            background: #4299e1;
+            color: white;
+        }
+
+        .btn-info:hover {
+            background: #3182ce;
+        }
+
+        .language-selector {
+            display: flex;
+            gap: 10px;
+            justify-content: center;
+            margin-top: 15px;
+        }
+
+        .language-selector label {
+            display: flex;
+            align-items: center;
+            gap: 5px;
+            cursor: pointer;
+            padding: 8px 15px;
+            background: #f7fafc;
+            border-radius: 8px;
+            transition: all 0.3s;
+        }
+
+        .language-selector label:hover {
+            background: #edf2f7;
+        }
+
+        .language-selector input[type="radio"] {
+            width: 18px;
+            height: 18px;
+            cursor: pointer;
+        }
+
+        .flashcard {
+            background: white;
+            border-radius: 15px;
+            padding: 40px 30px;
+            margin-bottom: 20px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+            min-height: 250px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            position: relative;
+            cursor: pointer;
+            transition: transform 0.3s;
+        }
+
+        .flashcard:hover {
+            transform: scale(1.02);
+        }
+
+        .flashcard-content {
+            font-size: 20px;
+            line-height: 1.6;
+            text-align: center;
+            width: 100%;
+        }
+
+        .question {
+            color: #2d3748;
+            font-weight: 600;
+        }
+
+        .answer {
+            color: #48bb78;
+            margin-top: 20px;
+            padding-top: 20px;
+            border-top: 2px solid #e2e8f0;
+            display: none;
+        }
+
+        .answer.show {
+            display: block;
+        }
+
+        .language-badge {
+            position: absolute;
+            top: 15px;
+            right: 15px;
+            background: #667eea;
+            color: white;
+            padding: 5px 12px;
+            border-radius: 20px;
+            font-size: 11px;
+            font-weight: 600;
+            max-width: 140px;
+            text-align: center;
+        }
+
+        .star-btn {
+            position: absolute;
+            top: 15px;
+            left: 15px;
+            background: none;
+            border: none;
+            font-size: 32px;
+            cursor: pointer;
+            transition: transform 0.3s;
+        }
+
+        .star-btn:hover {
+            transform: scale(1.2);
+        }
+
+        .star-btn.starred {
+            color: #f6ad55;
+        }
+
+        .star-btn:not(.starred) {
+            color: #cbd5e0;
+        }
+
+        .action-buttons {
+            display: flex;
+            gap: 10px;
+            justify-content: center;
+            margin-top: 20px;
+            flex-wrap: wrap;
+        }
+
+        .panel {
+            background: white;
+            border-radius: 15px;
+            padding: 20px;
+            max-height: 400px;
+            overflow-y: auto;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+        }
+
+        .panel h2 {
+            color: #667eea;
+            margin-bottom: 15px;
+            font-size: 20px;
+        }
+
+        .history-item, .favorite-item {
+            padding: 12px;
+            margin-bottom: 8px;
+            background: #f7fafc;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: all 0.3s;
+            position: relative;
+            padding-left: 40px;
+        }
+
+        .history-item:hover, .favorite-item:hover {
+            background: #edf2f7;
+            transform: translateX(5px);
+        }
+
+        .item-text {
+            font-size: 14px;
+            line-height: 1.5;
+            color: #2d3748;
+        }
+
+        .item-translation {
+            font-size: 13px;
+            color: #718096;
+            margin-top: 5px;
+        }
+
+        .item-star {
+            position: absolute;
+            left: 10px;
+            top: 50%;
+            transform: translateY(-50%);
+            font-size: 20px;
+            cursor: pointer;
+        }
+
+        .close-panel {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: rgba(0,0,0,0.5);
+            z-index: 999;
+        }
+
+        .panel-container {
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            z-index: 1000;
+            width: 90%;
+            max-width: 600px;
+        }
+
+        .panel-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 15px;
+        }
+
+        .close-btn {
+            background: none;
+            border: none;
+            font-size: 24px;
+            cursor: pointer;
+            color: #718096;
+        }
+
+        .close-btn:hover {
+            color: #2d3748;
+        }
+
+        .empty-message {
+            text-align: center;
+            color: #a0aec0;
+            padding: 30px;
+            font-size: 14px;
+        }
+
+        .stats {
+            display: flex;
+            justify-content: space-around;
+            margin-top: 15px;
+            padding: 15px;
+            background: #f7fafc;
+            border-radius: 8px;
+        }
+
+        .stat-item {
+            text-align: center;
+        }
+
+        .stat-value {
+            font-size: 24px;
+            font-weight: bold;
+            color: #667eea;
+        }
+
+        .stat-label {
+            font-size: 12px;
+            color: #718096;
+            margin-top: 5px;
+        }
+
+        /* Mobile optimizations */
+        @media (max-width: 640px) {
+            body {
+                padding: 10px;
+            }
+
+            .header h1 {
+                font-size: 20px;
+            }
+
+            .btn {
+                padding: 8px 16px;
+                font-size: 14px;
+            }
+
+            .flashcard {
+                padding: 30px 20px;
+                min-height: 200px;
+            }
+
+            .flashcard-content {
+                font-size: 18px;
+            }
+
+            .star-btn {
+                font-size: 28px;
+            }
+
+            .language-badge {
+                font-size: 11px;
+                padding: 4px 10px;
+            }
+        }
+
+        @media (max-width: 400px) {
+            .controls {
+                flex-direction: column;
+            }
+
+            .btn {
+                width: 100%;
+            }
+
+            .language-selector {
+                flex-direction: column;
+            }
+
+            .language-selector label {
+                width: 100%;
+                justify-content: center;
+            }
+        }
+
+        /* Scrollbar styling */
+        .panel::-webkit-scrollbar {
+            width: 8px;
+        }
+
+        .panel::-webkit-scrollbar-track {
+            background: #f1f1f1;
+            border-radius: 10px;
+        }
+
+        .panel::-webkit-scrollbar-thumb {
+            background: #cbd5e0;
+            border-radius: 10px;
+        }
+
+        .panel::-webkit-scrollbar-thumb:hover {
+            background: #a0aec0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <div class="header">
+            <h1>📚 Flashcard Nhật-Việt</h1>
+            
+            <div class="level-selector">
+                <label>
+                    <input type="checkbox" id="levelN34" checked onchange="updateLevel()">
+                    <span>📗 N3-N4 (Dễ)</span>
+                </label>
+                <label>
+                    <input type="checkbox" id="levelN12" checked onchange="updateLevel()">
+                    <span>📕 N1-N2 (Khó)</span>
+                </label>
+                <label>
+                    <input type="checkbox" id="levelCorpus" checked onchange="updateLevel()">
+                    <span>📘 Corpus</span>
+                </label>
+                <label>
+                    <input type="checkbox" id="levelKaiwa" checked onchange="updateLevel()">
+                    <span>💬 Kaiwa</span>
+                </label>
+            </div>
+
+            <div class="controls">
+                <button class="btn btn-primary" onclick="showNewCard()">Câu Mới</button>
+                <button class="btn btn-info" onclick="showHistory()">Lịch Sử (50)</button>
+                <button class="btn btn-secondary" onclick="showFavorites()">Yêu Thích ⭐</button>
+            </div>
+
+            <div class="language-selector">
+                <label>
+                    <input type="radio" name="language" value="vn" checked onchange="updateLanguage()">
+                    <span>Hiện Việt → Nhật</span>
+                </label>
+                <label>
+                    <input type="radio" name="language" value="jp" onchange="updateLanguage()">
+                    <span>Hiện Nhật → Việt</span>
+                </label>
+            </div>
+
+            <div class="stats">
+                <div class="stat-item">
+                    <div class="stat-value" id="totalCount">0</div>
+                    <div class="stat-label">Câu đã chọn</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-value" id="availableCount">0</div>
+                    <div class="stat-label">Tổng có</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-value" id="viewedCount">0</div>
+                    <div class="stat-label">Đã xem</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-value" id="favoriteCount">0</div>
+                    <div class="stat-label">Yêu thích</div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Flashcard -->
+        <div class="flashcard" onclick="toggleAnswer()">
+            <button class="star-btn" onclick="toggleStar(event)" id="starBtn">☆</button>
+            <span class="language-badge" id="languageBadge">VN</span>
+            
+            <div class="flashcard-content">
+                <div class="question" id="question">
+                    Nhấn "Câu Mới" để bắt đầu
+                </div>
+                <div class="answer" id="answer">
+                    Đáp án sẽ hiện ở đây
+                </div>
+            </div>
+        </div>
+
+        <div class="action-buttons">
+            <button class="btn btn-secondary" onclick="toggleAnswer()">
+                Xem Đáp Án
+            </button>
+            <button class="btn btn-primary" onclick="showNewCard()">
+                Câu Tiếp →
+            </button>
+        </div>
+    </div>
+
+    <!-- History Panel -->
+    <div id="historyPanel" style="display: none;">
+        <div class="close-panel" onclick="closePanel()"></div>
+        <div class="panel-container">
+            <div class="panel">
+                <div class="panel-header">
+                    <h2>📖 Lịch Sử (50 câu gần nhất)</h2>
+                    <button class="close-btn" onclick="closePanel()">✕</button>
+                </div>
+                <div id="historyList"></div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Favorites Panel -->
+    <div id="favoritesPanel" style="display: none;">
+        <div class="close-panel" onclick="closePanel()"></div>
+        <div class="panel-container">
+            <div class="panel">
+                <div class="panel-header">
+                    <h2>⭐ Câu Yêu Thích</h2>
+                    <button class="close-btn" onclick="closePanel()">✕</button>
+                </div>
+                <div id="favoritesList"></div>
+            </div>
+        </div>
+    </div>
+
+    <script src="flashcard.js"></script>
+</body>
+</html>

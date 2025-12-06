@@ -1,0 +1,1782 @@
+1. VI: Mặc dù kế hoạch thay đổi, tôi vẫn cố gắng hết sức.
+   JP: 予定が変わったのに、私はまだ全力を尽くす。
+2. VI: kế hoạch thay đổi nên thay đổi dự định là điều đương nhiên.
+   JP: 予定が変わったので、予定を変えるのは当然です。
+3. VI: Hình như bài kiểm tra khó hơn dự đoán, cho nên nghỉ ngơi một chút.
+   JP: テストが予想以上に難しかったようで、少し休む。
+4. VI: Mặc dù bài kiểm tra khó hơn dự đoán, tôi vẫn tới trường đúng giờ.
+   JP: テストが予想以上に難しかったのに、私はまだ時間通りに学校へ行く。
+5. VI: Tôi nghĩ rằng trời mưa rất to, nhưng cố gắng hết sức.
+   JP: 大雨が降っていると思いましたが、全力を尽くす。
+6. VI: Mặc dù xe buýt đến muộn, tôi vẫn nghỉ ngơi một chút.
+   JP: バスが遅れたのに、私はまだ少し休む。
+7. VI: Ngay khi bài kiểm tra khó hơn dự đoán, tôi thay đổi dự định.
+   JP: テストが予想以上に難しかったとすぐに、予定を変える。
+8. VI: Không chỉ trời mưa rất to mà còn thay đổi dự định.
+   JP: 大雨が降っているだけでなく、予定を変える。
+9. VI: Không chỉ xe buýt đến muộn mà còn hoàn thành công việc.
+   JP: バスが遅れただけでなく、仕事を終える。
+10. VI: Bởi vì xe buýt đến muộn, nên tôi đã tới trường đúng giờ.
+   JP: バスが遅れたので、私は時間通りに学校へ行くしました。
+11. VI: Bởi vì tôi quên mang ví, nên tôi đã cố gắng hết sức.
+   JP: 私 quên mang víので、私は全力を尽くすしました。
+12. VI: Hình như trời mưa rất to, cho nên nghỉ ngơi một chút.
+   JP: 大雨が降っているようで、少し休む。
+14. VI: Nếu kế hoạch thay đổi, thì tôi sẽ gặp bạn vào chiều nay.
+   JP: 予定が変わったなら、私は今日の午後友達に会うつもりです。
+15. VI: Ngay khi tôi quên mang ví, tôi xin lỗi mọi người.
+   JP: 私 quên mang víとすぐに、皆に謝る。
+17. VI: Tôi nghĩ rằng trời mưa rất to, nhưng tới trường đúng giờ.
+   JP: 大雨が降っていると思いましたが、時間通りに学校へ行く。
+18. VI: Nếu tôi bận cả ngày, thì tôi sẽ tới trường đúng giờ.
+   JP: 私 bận cả ngàyなら、私は時間通りに学校へ行くつもりです。
+19. VI: Ngay khi tôi quên mang ví, tôi đi khám bác sĩ.
+   JP: 私 quên mang víとすぐに、病院に行く。
+20. VI: Tôi định liên lạc với thầy giáo, nhưng do bài kiểm tra khó hơn dự đoán.
+   JP: テストが予想以上に難しかったため、先生に連絡するつもりでした。
+24. VI: Hình như tôi chưa kịp chuẩn bị, cho nên thay đổi dự định.
+   JP: 私 chưa kịp chuẩn bịようで、予定を変える。
+26. VI: Tôi định tới trường đúng giờ, nhưng do xe buýt đến muộn.
+   JP: バスが遅れたため、時間通りに学校へ行くつもりでした。
+27. VI: Tôi định tới trường đúng giờ, nhưng do đường bị kẹt xe.
+   JP: 道路が渋滞していたため、時間通りに学校へ行くつもりでした。
+28. VI: Ngay khi bài kiểm tra khó hơn dự đoán, tôi nghỉ ngơi một chút.
+   JP: テストが予想以上に難しかったとすぐに、少し休む。
+30. VI: Tôi định gặp bạn vào chiều nay, nhưng do xe buýt đến muộn.
+   JP: バスが遅れたため、今日の午後友達に会うつもりでした。
+31. VI: Tôi định liên lạc với thầy giáo, nhưng do kế hoạch thay đổi.
+   JP: 予定が変わったため、先生に連絡するつもりでした。
+32. VI: Vì tôi chưa kịp chuẩn bị nên không thể liên lạc với thầy giáo.
+   JP: 私 chưa kịp chuẩn bịので、先生に連絡することができませんでした。
+34. VI: đường bị kẹt xe nên ra ngoài mua đồ là điều đương nhiên.
+   JP: 道路が渋滞していたので、買い物に出かけるのは当然です。
+35. VI: Không chỉ tôi quên mang ví mà còn xin lỗi mọi người.
+   JP: 私 quên mang víだけでなく、皆に謝る。
+36. VI: Không chỉ tôi phải làm thêm mà còn thay đổi dự định.
+   JP: 私 phải làm thêmだけでなく、予定を変える。
+37. VI: Không chỉ trời mưa rất to mà còn xin lỗi mọi người.
+   JP: 大雨が降っているだけでなく、皆に謝る。
+38. VI: Không chỉ tôi bận cả ngày mà còn tới trường đúng giờ.
+   JP: 私 bận cả ngàyだけでなく、時間通りに学校へ行く。
+39. VI: tôi chưa kịp chuẩn bị nên ra ngoài mua đồ là điều đương nhiên.
+   JP: 私 chưa kịp chuẩn bịので、買い物に出かけるのは当然です。
+40. VI: Hình như tôi chưa kịp chuẩn bị, cho nên tới trường đúng giờ.
+   JP: 私 chưa kịp chuẩn bịようで、時間通りに学校へ行く。
+41. VI: Không chỉ đường bị kẹt xe mà còn ra ngoài mua đồ.
+   JP: 道路が渋滞していただけでなく、買い物に出かける。
+42. VI: Bởi vì trời mưa rất to, nên tôi đã nghỉ ngơi một chút.
+   JP: 大雨が降っているので、私は少し休むしました。
+43. VI: Mặc dù tôi quên mang ví, tôi vẫn nghỉ ngơi một chút.
+   JP: 私 quên mang víのに、私はまだ少し休む。
+45. VI: Nếu tôi quên mang ví, thì tôi sẽ ra ngoài mua đồ.
+   JP: 私 quên mang víなら、私は買い物に出かけるつもりです。
+46. VI: Bởi vì đường bị kẹt xe, nên tôi đã nghỉ ngơi một chút.
+   JP: 道路が渋滞していたので、私は少し休むしました。
+47. VI: tôi quên mang ví nên xin lỗi mọi người là điều đương nhiên.
+   JP: 私 quên mang víので、皆に謝るのは当然です。
+48. VI: Bởi vì đường bị kẹt xe, nên tôi đã xin lỗi mọi người.
+   JP: 道路が渋滞していたので、私は皆に謝るしました。
+49. VI: Bởi vì kế hoạch thay đổi, nên tôi đã ra ngoài mua đồ.
+   JP: 予定が変わったので、私は買い物に出かけるしました。
+50. VI: tôi chưa kịp chuẩn bị nên cố gắng hết sức là điều đương nhiên.
+   JP: 私 chưa kịp chuẩn bịので、全力を尽くすのは当然です。
+51. VI: Không chỉ trời mưa rất to mà còn thay đổi dự định.
+   JP: 大雨が降っているだけでなく、予定を変える。
+52. VI: Ngay khi kế hoạch thay đổi, tôi liên lạc với thầy giáo.
+   JP: 予定が変わったとすぐに、先生に連絡する。
+53. VI: tôi chưa kịp chuẩn bị nên hoàn thành công việc là điều đương nhiên.
+   JP: 私 chưa kịp chuẩn bịので、仕事を終えるのは当然です。
+54. VI: Bởi vì tôi phải làm thêm, nên tôi đã gặp bạn vào chiều nay.
+   JP: 私 phải làm thêmので、私は今日の午後友達に会うしました。
+55. VI: Không chỉ tôi bận cả ngày mà còn cố gắng hết sức.
+   JP: 私 bận cả ngàyだけでなく、全力を尽くす。
+56. VI: Ngay khi bài kiểm tra khó hơn dự đoán, tôi gặp bạn vào chiều nay.
+   JP: テストが予想以上に難しかったとすぐに、今日の午後友達に会う。
+57. VI: Hình như bài kiểm tra khó hơn dự đoán, cho nên thay đổi dự định.
+   JP: テストが予想以上に難しかったようで、予定を変える。
+58. VI: Tôi định ra ngoài mua đồ, nhưng do trời mưa rất to.
+   JP: 大雨が降っているため、買い物に出かけるつもりでした。
+59. VI: Nếu xe buýt đến muộn, thì tôi sẽ liên lạc với thầy giáo.
+   JP: バスが遅れたなら、私は先生に連絡するつもりです。
+60. VI: Mặc dù bài kiểm tra khó hơn dự đoán, tôi vẫn cố gắng hết sức.
+   JP: テストが予想以上に難しかったのに、私はまだ全力を尽くす。
+61. VI: Ngay khi trời mưa rất to, tôi đi khám bác sĩ.
+   JP: 大雨が降っているとすぐに、病院に行く。
+62. VI: Mặc dù tôi chưa kịp chuẩn bị, tôi vẫn thay đổi dự định.
+   JP: 私 chưa kịp chuẩn bịのに、私はまだ予定を変える。
+64. VI: Hình như kế hoạch thay đổi, cho nên đi khám bác sĩ.
+   JP: 予定が変わったようで、病院に行く。
+65. VI: Không chỉ đường bị kẹt xe mà còn xin lỗi mọi người.
+   JP: 道路が渋滞していただけでなく、皆に謝る。
+66. VI: Không chỉ kế hoạch thay đổi mà còn xin lỗi mọi người.
+   JP: 予定が変わっただけでなく、皆に謝る。
+68. VI: Mặc dù trời mưa rất to, tôi vẫn hoàn thành công việc.
+   JP: 大雨が降っているのに、私はまだ仕事を終える。
+69. VI: Hình như tôi quên mang ví, cho nên cố gắng hết sức.
+   JP: 私 quên mang víようで、全力を尽くす。
+70. VI: Mặc dù đường bị kẹt xe, tôi vẫn xin lỗi mọi người.
+   JP: 道路が渋滞していたのに、私はまだ皆に謝る。
+71. VI: Vì tôi phải làm thêm nên không thể cố gắng hết sức.
+   JP: 私 phải làm thêmので、全力を尽くすことができませんでした。
+72. VI: Ngay khi tôi quên mang ví, tôi đi khám bác sĩ.
+   JP: 私 quên mang víとすぐに、病院に行く。
+73. VI: Vì kế hoạch thay đổi nên không thể gặp bạn vào chiều nay.
+   JP: 予定が変わったので、今日の午後友達に会うことができませんでした。
+74. VI: Vì kế hoạch thay đổi nên không thể nghỉ ngơi một chút.
+   JP: 予定が変わったので、少し休むことができませんでした。
+75. VI: Không chỉ tôi bận cả ngày mà còn cố gắng hết sức.
+   JP: 私 bận cả ngàyだけでなく、全力を尽くす。
+76. VI: Mặc dù tôi chưa kịp chuẩn bị, tôi vẫn ra ngoài mua đồ.
+   JP: 私 chưa kịp chuẩn bịのに、私はまだ買い物に出かける。
+77. VI: Mặc dù tôi phải làm thêm, tôi vẫn nghỉ ngơi một chút.
+   JP: 私 phải làm thêmのに、私はまだ少し休む。
+78. VI: Bởi vì đường bị kẹt xe, nên tôi đã đi khám bác sĩ.
+   JP: 道路が渋滞していたので、私は病院に行くしました。
+79. VI: Tôi nghĩ rằng đường bị kẹt xe, nhưng thay đổi dự định.
+   JP: 道路が渋滞していたと思いましたが、予定を変える。
+80. VI: Nếu xe buýt đến muộn, thì tôi sẽ liên lạc với thầy giáo.
+   JP: バスが遅れたなら、私は先生に連絡するつもりです。
+81. VI: Bởi vì kế hoạch thay đổi, nên tôi đã nghỉ ngơi một chút.
+   JP: 予定が変わったので、私は少し休むしました。
+82. VI: Mặc dù kế hoạch thay đổi, tôi vẫn ra ngoài mua đồ.
+   JP: 予定が変わったのに、私はまだ買い物に出かける。
+83. VI: Mặc dù tôi phải làm thêm, tôi vẫn ra ngoài mua đồ.
+   JP: 私 phải làm thêmのに、私はまだ買い物に出かける。
+84. VI: Vì tôi bận cả ngày nên không thể liên lạc với thầy giáo.
+   JP: 私 bận cả ngàyので、先生に連絡することができませんでした。
+85. VI: Nếu tôi bận cả ngày, thì tôi sẽ nghỉ ngơi một chút.
+   JP: 私 bận cả ngàyなら、私は少し休むつもりです。
+86. VI: Vì tôi quên mang ví nên không thể hoàn thành công việc.
+   JP: 私 quên mang víので、仕事を終えることができませんでした。
+87. VI: Mặc dù tôi chưa kịp chuẩn bị, tôi vẫn nghỉ ngơi một chút.
+   JP: 私 chưa kịp chuẩn bịのに、私はまだ少し休む。
+88. VI: đường bị kẹt xe nên gặp bạn vào chiều nay là điều đương nhiên.
+   JP: 道路が渋滞していたので、今日の午後友達に会うのは当然です。
+89. VI: Mặc dù tôi chưa kịp chuẩn bị, tôi vẫn nghỉ ngơi một chút.
+   JP: 私 chưa kịp chuẩn bịのに、私はまだ少し休む。
+90. VI: tôi quên mang ví nên hoàn thành công việc là điều đương nhiên.
+   JP: 私 quên mang víので、仕事を終えるのは当然です。
+91. VI: Tôi nghĩ rằng đường bị kẹt xe, nhưng gặp bạn vào chiều nay.
+   JP: 道路が渋滞していたと思いましたが、今日の午後友達に会う。
+92. VI: Không chỉ tôi quên mang ví mà còn tới trường đúng giờ.
+   JP: 私 quên mang víだけでなく、時間通りに学校へ行く。
+93. VI: Tôi định thay đổi dự định, nhưng do bài kiểm tra khó hơn dự đoán.
+   JP: テストが予想以上に難しかったため、予定を変えるつもりでした。
+95. VI: Nếu tôi phải làm thêm, thì tôi sẽ liên lạc với thầy giáo.
+   JP: 私 phải làm thêmなら、私は先生に連絡するつもりです。
+96. VI: Ngay khi kế hoạch thay đổi, tôi thay đổi dự định.
+   JP: 予定が変わったとすぐに、予定を変える。
+97. VI: tôi quên mang ví nên ra ngoài mua đồ là điều đương nhiên.
+   JP: 私 quên mang víので、買い物に出かけるのは当然です。
+98. VI: Mặc dù tôi quên mang ví, tôi vẫn nghỉ ngơi một chút.
+   JP: 私 quên mang víのに、私はまだ少し休む。
+99. VI: Vì kế hoạch thay đổi nên không thể cố gắng hết sức.
+   JP: 予定が変わったので、全力を尽くすことができませんでした。
+100. VI: Hình như tôi quên mang ví, cho nên xin lỗi mọi người.
+   JP: 私 quên mang víようで、皆に謝る。
+102. VI: Tôi nghĩ rằng tôi chưa kịp chuẩn bị, nhưng liên lạc với thầy giáo.
+   JP: 私 chưa kịp chuẩn bịと思いましたが、先生に連絡する。
+103. VI: tôi quên mang ví nên hoàn thành công việc là điều đương nhiên.
+   JP: 私 quên mang víので、仕事を終えるのは当然です。
+104. VI: Không chỉ tôi chưa kịp chuẩn bị mà còn ra ngoài mua đồ.
+   JP: 私 chưa kịp chuẩn bịだけでなく、買い物に出かける。
+105. VI: Hình như bài kiểm tra khó hơn dự đoán, cho nên tới trường đúng giờ.
+   JP: テストが予想以上に難しかったようで、時間通りに学校へ行く。
+106. VI: Tôi định đi khám bác sĩ, nhưng do tôi phải làm thêm.
+   JP: 私 phải làm thêmため、病院に行くつもりでした。
+107. VI: Tôi nghĩ rằng bài kiểm tra khó hơn dự đoán, nhưng gặp bạn vào chiều nay.
+   JP: テストが予想以上に難しかったと思いましたが、今日の午後友達に会う。
+108. VI: Hình như bài kiểm tra khó hơn dự đoán, cho nên gặp bạn vào chiều nay.
+   JP: テストが予想以上に難しかったようで、今日の午後友達に会う。
+109. VI: Bởi vì trời mưa rất to, nên tôi đã ra ngoài mua đồ.
+   JP: 大雨が降っているので、私は買い物に出かけるしました。
+110. VI: Nếu tôi quên mang ví, thì tôi sẽ liên lạc với thầy giáo.
+   JP: 私 quên mang víなら、私は先生に連絡するつもりです。
+111. VI: Nếu tôi bận cả ngày, thì tôi sẽ thay đổi dự định.
+   JP: 私 bận cả ngàyなら、私は予定を変えるつもりです。
+112. VI: Hình như bài kiểm tra khó hơn dự đoán, cho nên cố gắng hết sức.
+   JP: テストが予想以上に難しかったようで、全力を尽くす。
+113. VI: Nếu tôi phải làm thêm, thì tôi sẽ đi khám bác sĩ.
+   JP: 私 phải làm thêmなら、私は病院に行くつもりです。
+114. VI: tôi bận cả ngày nên đi khám bác sĩ là điều đương nhiên.
+   JP: 私 bận cả ngàyので、病院に行くのは当然です。
+115. VI: Vì bài kiểm tra khó hơn dự đoán nên không thể liên lạc với thầy giáo.
+   JP: テストが予想以上に難しかったので、先生に連絡することができませんでした。
+116. VI: Vì trời mưa rất to nên không thể gặp bạn vào chiều nay.
+   JP: 大雨が降っているので、今日の午後友達に会うことができませんでした。
+117. VI: Tôi nghĩ rằng xe buýt đến muộn, nhưng tới trường đúng giờ.
+   JP: バスが遅れたと思いましたが、時間通りに学校へ行く。
+118. VI: Vì đường bị kẹt xe nên không thể liên lạc với thầy giáo.
+   JP: 道路が渋滞していたので、先生に連絡することができませんでした。
+119. VI: Hình như đường bị kẹt xe, cho nên gặp bạn vào chiều nay.
+   JP: 道路が渋滞していたようで、今日の午後友達に会う。
+120. VI: Tôi định nghỉ ngơi một chút, nhưng do tôi phải làm thêm.
+   JP: 私 phải làm thêmため、少し休むつもりでした。
+121. VI: Hình như đường bị kẹt xe, cho nên hoàn thành công việc.
+   JP: 道路が渋滞していたようで、仕事を終える。
+122. VI: Vì xe buýt đến muộn nên không thể gặp bạn vào chiều nay.
+   JP: バスが遅れたので、今日の午後友達に会うことができませんでした。
+123. VI: Hình như bài kiểm tra khó hơn dự đoán, cho nên xin lỗi mọi người.
+   JP: テストが予想以上に難しかったようで、皆に謝る。
+124. VI: Vì xe buýt đến muộn nên không thể hoàn thành công việc.
+   JP: バスが遅れたので、仕事を終えることができませんでした。
+125. VI: Hình như xe buýt đến muộn, cho nên đi khám bác sĩ.
+   JP: バスが遅れたようで、病院に行く。
+126. VI: Bởi vì trời mưa rất to, nên tôi đã đi khám bác sĩ.
+   JP: 大雨が降っているので、私は病院に行くしました。
+127. VI: Tôi nghĩ rằng kế hoạch thay đổi, nhưng tới trường đúng giờ.
+   JP: 予定が変わったと思いましたが、時間通りに学校へ行く。
+128. VI: Hình như tôi chưa kịp chuẩn bị, cho nên thay đổi dự định.
+   JP: 私 chưa kịp chuẩn bịようで、予定を変える。
+129. VI: Bởi vì tôi quên mang ví, nên tôi đã cố gắng hết sức.
+   JP: 私 quên mang víので、私は全力を尽くすしました。
+130. VI: Hình như xe buýt đến muộn, cho nên xin lỗi mọi người.
+   JP: バスが遅れたようで、皆に謝る。
+131. VI: Hình như tôi quên mang ví, cho nên tới trường đúng giờ.
+   JP: 私 quên mang víようで、時間通りに学校へ行く。
+132. VI: Tôi nghĩ rằng xe buýt đến muộn, nhưng ra ngoài mua đồ.
+   JP: バスが遅れたと思いましたが、買い物に出かける。
+133. VI: Ngay khi kế hoạch thay đổi, tôi cố gắng hết sức.
+   JP: 予定が変わったとすぐに、全力を尽くす。
+134. VI: Hình như tôi phải làm thêm, cho nên tới trường đúng giờ.
+   JP: 私 phải làm thêmようで、時間通りに学校へ行く。
+135. VI: Hình như tôi bận cả ngày, cho nên xin lỗi mọi người.
+   JP: 私 bận cả ngàyようで、皆に謝る。
+136. VI: Nếu bài kiểm tra khó hơn dự đoán, thì tôi sẽ thay đổi dự định.
+   JP: テストが予想以上に難しかったなら、私は予定を変えるつもりです。
+137. VI: Nếu tôi phải làm thêm, thì tôi sẽ liên lạc với thầy giáo.
+   JP: 私 phải làm thêmなら、私は先生に連絡するつもりです。
+138. VI: bài kiểm tra khó hơn dự đoán nên gặp bạn vào chiều nay là điều đương nhiên.
+   JP: テストが予想以上に難しかったので、今日の午後友達に会うのは当然です。
+140. VI: Ngay khi trời mưa rất to, tôi liên lạc với thầy giáo.
+   JP: 大雨が降っているとすぐに、先生に連絡する。
+141. VI: Không chỉ xe buýt đến muộn mà còn cố gắng hết sức.
+   JP: バスが遅れただけでなく、全力を尽くす。
+142. VI: Không chỉ tôi bận cả ngày mà còn liên lạc với thầy giáo.
+   JP: 私 bận cả ngàyだけでなく、先生に連絡する。
+143. VI: tôi phải làm thêm nên liên lạc với thầy giáo là điều đương nhiên.
+   JP: 私 phải làm thêmので、先生に連絡するのは当然です。
+144. VI: Vì tôi quên mang ví nên không thể nghỉ ngơi một chút.
+   JP: 私 quên mang víので、少し休むことができませんでした。
+145. VI: Vì đường bị kẹt xe nên không thể ra ngoài mua đồ.
+   JP: 道路が渋滞していたので、買い物に出かけることができませんでした。
+146. VI: Tôi định gặp bạn vào chiều nay, nhưng do tôi chưa kịp chuẩn bị.
+   JP: 私 chưa kịp chuẩn bịため、今日の午後友達に会うつもりでした。
+147. VI: Nếu tôi chưa kịp chuẩn bị, thì tôi sẽ liên lạc với thầy giáo.
+   JP: 私 chưa kịp chuẩn bịなら、私は先生に連絡するつもりです。
+148. VI: Bởi vì bài kiểm tra khó hơn dự đoán, nên tôi đã tới trường đúng giờ.
+   JP: テストが予想以上に難しかったので、私は時間通りに学校へ行くしました。
+149. VI: Bởi vì đường bị kẹt xe, nên tôi đã tới trường đúng giờ.
+   JP: 道路が渋滞していたので、私は時間通りに学校へ行くしました。
+150. VI: Không chỉ bài kiểm tra khó hơn dự đoán mà còn đi khám bác sĩ.
+   JP: テストが予想以上に難しかっただけでなく、病院に行く。
+151. VI: Nếu đường bị kẹt xe, thì tôi sẽ hoàn thành công việc.
+   JP: 道路が渋滞していたなら、私は仕事を終えるつもりです。
+152. VI: tôi bận cả ngày nên nghỉ ngơi một chút là điều đương nhiên.
+   JP: 私 bận cả ngàyので、少し休むのは当然です。
+153. VI: Mặc dù đường bị kẹt xe, tôi vẫn đi khám bác sĩ.
+   JP: 道路が渋滞していたのに、私はまだ病院に行く。
+154. VI: Không chỉ tôi bận cả ngày mà còn nghỉ ngơi một chút.
+   JP: 私 bận cả ngàyだけでなく、少し休む。
+155. VI: Bởi vì đường bị kẹt xe, nên tôi đã nghỉ ngơi một chút.
+   JP: 道路が渋滞していたので、私は少し休むしました。
+156. VI: Hình như đường bị kẹt xe, cho nên tới trường đúng giờ.
+   JP: 道路が渋滞していたようで、時間通りに学校へ行く。
+157. VI: Bởi vì đường bị kẹt xe, nên tôi đã tới trường đúng giờ.
+   JP: 道路が渋滞していたので、私は時間通りに学校へ行くしました。
+158. VI: Tôi nghĩ rằng tôi phải làm thêm, nhưng xin lỗi mọi người.
+   JP: 私 phải làm thêmと思いましたが、皆に謝る。
+159. VI: Ngay khi tôi quên mang ví, tôi nghỉ ngơi một chút.
+   JP: 私 quên mang víとすぐに、少し休む。
+160. VI: đường bị kẹt xe nên ra ngoài mua đồ là điều đương nhiên.
+   JP: 道路が渋滞していたので、買い物に出かけるのは当然です。
+162. VI: Vì bài kiểm tra khó hơn dự đoán nên không thể nghỉ ngơi một chút.
+   JP: テストが予想以上に難しかったので、少し休むことができませんでした。
+163. VI: Bởi vì tôi quên mang ví, nên tôi đã liên lạc với thầy giáo.
+   JP: 私 quên mang víので、私は先生に連絡するしました。
+164. VI: bài kiểm tra khó hơn dự đoán nên cố gắng hết sức là điều đương nhiên.
+   JP: テストが予想以上に難しかったので、全力を尽くすのは当然です。
+165. VI: Không chỉ tôi chưa kịp chuẩn bị mà còn ra ngoài mua đồ.
+   JP: 私 chưa kịp chuẩn bịだけでなく、買い物に出かける。
+167. VI: Nếu tôi chưa kịp chuẩn bị, thì tôi sẽ thay đổi dự định.
+   JP: 私 chưa kịp chuẩn bịなら、私は予定を変えるつもりです。
+168. VI: Mặc dù xe buýt đến muộn, tôi vẫn tới trường đúng giờ.
+   JP: バスが遅れたのに、私はまだ時間通りに学校へ行く。
+171. VI: Mặc dù xe buýt đến muộn, tôi vẫn thay đổi dự định.
+   JP: バスが遅れたのに、私はまだ予定を変える。
+172. VI: tôi phải làm thêm nên liên lạc với thầy giáo là điều đương nhiên.
+   JP: 私 phải làm thêmので、先生に連絡するのは当然です。
+173. VI: Không chỉ tôi quên mang ví mà còn xin lỗi mọi người.
+   JP: 私 quên mang víだけでなく、皆に謝る。
+174. VI: Tôi định đi khám bác sĩ, nhưng do xe buýt đến muộn.
+   JP: バスが遅れたため、病院に行くつもりでした。
+175. VI: Mặc dù tôi quên mang ví, tôi vẫn tới trường đúng giờ.
+   JP: 私 quên mang víのに、私はまだ時間通りに学校へ行く。
+176. VI: Hình như kế hoạch thay đổi, cho nên nghỉ ngơi một chút.
+   JP: 予定が変わったようで、少し休む。
+177. VI: Nếu đường bị kẹt xe, thì tôi sẽ xin lỗi mọi người.
+   JP: 道路が渋滞していたなら、私は皆に謝るつもりです。
+178. VI: Tôi định cố gắng hết sức, nhưng do bài kiểm tra khó hơn dự đoán.
+   JP: テストが予想以上に難しかったため、全力を尽くすつもりでした。
+179. VI: Không chỉ tôi quên mang ví mà còn thay đổi dự định.
+   JP: 私 quên mang víだけでなく、予定を変える。
+180. VI: Hình như kế hoạch thay đổi, cho nên đi khám bác sĩ.
+   JP: 予定が変わったようで、病院に行く。
+181. VI: Vì tôi quên mang ví nên không thể gặp bạn vào chiều nay.
+   JP: 私 quên mang víので、今日の午後友達に会うことができませんでした。
+182. VI: Vì kế hoạch thay đổi nên không thể hoàn thành công việc.
+   JP: 予定が変わったので、仕事を終えることができませんでした。
+183. VI: tôi chưa kịp chuẩn bị nên tới trường đúng giờ là điều đương nhiên.
+   JP: 私 chưa kịp chuẩn bịので、時間通りに学校へ行くのは当然です。
+184. VI: Tôi định xin lỗi mọi người, nhưng do tôi chưa kịp chuẩn bị.
+   JP: 私 chưa kịp chuẩn bịため、皆に謝るつもりでした。
+185. VI: Ngay khi kế hoạch thay đổi, tôi liên lạc với thầy giáo.
+   JP: 予定が変わったとすぐに、先生に連絡する。
+186. VI: Tôi định liên lạc với thầy giáo, nhưng do đường bị kẹt xe.
+   JP: 道路が渋滞していたため、先生に連絡するつもりでした。
+187. VI: đường bị kẹt xe nên thay đổi dự định là điều đương nhiên.
+   JP: 道路が渋滞していたので、予定を変えるのは当然です。
+188. VI: Không chỉ tôi quên mang ví mà còn liên lạc với thầy giáo.
+   JP: 私 quên mang víだけでなく、先生に連絡する。
+189. VI: Tôi định cố gắng hết sức, nhưng do kế hoạch thay đổi.
+   JP: 予定が変わったため、全力を尽くすつもりでした。
+190. VI: Vì trời mưa rất to nên không thể liên lạc với thầy giáo.
+   JP: 大雨が降っているので、先生に連絡することができませんでした。
+191. VI: Bởi vì tôi phải làm thêm, nên tôi đã tới trường đúng giờ.
+   JP: 私 phải làm thêmので、私は時間通りに学校へ行くしました。
+192. VI: Bởi vì xe buýt đến muộn, nên tôi đã cố gắng hết sức.
+   JP: バスが遅れたので、私は全力を尽くすしました。
+193. VI: trời mưa rất to nên thay đổi dự định là điều đương nhiên.
+   JP: 大雨が降っているので、予定を変えるのは当然です。
+194. VI: Ngay khi tôi chưa kịp chuẩn bị, tôi xin lỗi mọi người.
+   JP: 私 chưa kịp chuẩn bịとすぐに、皆に謝る。
+196. VI: tôi phải làm thêm nên hoàn thành công việc là điều đương nhiên.
+   JP: 私 phải làm thêmので、仕事を終えるのは当然です。
+197. VI: Vì kế hoạch thay đổi nên không thể hoàn thành công việc.
+   JP: 予定が変わったので、仕事を終えることができませんでした。
+198. VI: Bởi vì bài kiểm tra khó hơn dự đoán, nên tôi đã đi khám bác sĩ.
+   JP: テストが予想以上に難しかったので、私は病院に行くしました。
+200. VI: Vì trời mưa rất to nên không thể liên lạc với thầy giáo.
+   JP: 大雨が降っているので、先生に連絡することができませんでした。
+201. VI: tôi quên mang ví nên xin lỗi mọi người là điều đương nhiên.
+   JP: 私 quên mang víので、皆に謝るのは当然です。
+203. VI: đường bị kẹt xe nên liên lạc với thầy giáo là điều đương nhiên.
+   JP: 道路が渋滞していたので、先生に連絡するのは当然です。
+204. VI: Bởi vì tôi bận cả ngày, nên tôi đã gặp bạn vào chiều nay.
+   JP: 私 bận cả ngàyので、私は今日の午後友達に会うしました。
+205. VI: Bởi vì tôi phải làm thêm, nên tôi đã thay đổi dự định.
+   JP: 私 phải làm thêmので、私は予定を変えるしました。
+206. VI: Không chỉ tôi phải làm thêm mà còn tới trường đúng giờ.
+   JP: 私 phải làm thêmだけでなく、時間通りに学校へ行く。
+207. VI: Hình như trời mưa rất to, cho nên gặp bạn vào chiều nay.
+   JP: 大雨が降っているようで、今日の午後友達に会う。
+208. VI: Bởi vì tôi phải làm thêm, nên tôi đã hoàn thành công việc.
+   JP: 私 phải làm thêmので、私は仕事を終えるしました。
+209. VI: Mặc dù kế hoạch thay đổi, tôi vẫn gặp bạn vào chiều nay.
+   JP: 予定が変わったのに、私はまだ今日の午後友達に会う。
+210. VI: Hình như tôi quên mang ví, cho nên tới trường đúng giờ.
+   JP: 私 quên mang víようで、時間通りに学校へ行く。
+211. VI: Không chỉ tôi chưa kịp chuẩn bị mà còn xin lỗi mọi người.
+   JP: 私 chưa kịp chuẩn bịだけでなく、皆に謝る。
+212. VI: Hình như tôi quên mang ví, cho nên liên lạc với thầy giáo.
+   JP: 私 quên mang víようで、先生に連絡する。
+213. VI: Ngay khi xe buýt đến muộn, tôi liên lạc với thầy giáo.
+   JP: バスが遅れたとすぐに、先生に連絡する。
+214. VI: Hình như trời mưa rất to, cho nên cố gắng hết sức.
+   JP: 大雨が降っているようで、全力を尽くす。
+216. VI: Ngay khi trời mưa rất to, tôi ra ngoài mua đồ.
+   JP: 大雨が降っているとすぐに、買い物に出かける。
+217. VI: Nếu tôi chưa kịp chuẩn bị, thì tôi sẽ nghỉ ngơi một chút.
+   JP: 私 chưa kịp chuẩn bịなら、私は少し休むつもりです。
+218. VI: Ngay khi tôi phải làm thêm, tôi hoàn thành công việc.
+   JP: 私 phải làm thêmとすぐに、仕事を終える。
+219. VI: Ngay khi tôi chưa kịp chuẩn bị, tôi đi khám bác sĩ.
+   JP: 私 chưa kịp chuẩn bịとすぐに、病院に行く。
+220. VI: Vì xe buýt đến muộn nên không thể ra ngoài mua đồ.
+   JP: バスが遅れたので、買い物に出かけることができませんでした。
+221. VI: Nếu tôi quên mang ví, thì tôi sẽ thay đổi dự định.
+   JP: 私 quên mang víなら、私は予定を変えるつもりです。
+222. VI: Vì trời mưa rất to nên không thể đi khám bác sĩ.
+   JP: 大雨が降っているので、病院に行くことができませんでした。
+223. VI: Ngay khi bài kiểm tra khó hơn dự đoán, tôi đi khám bác sĩ.
+   JP: テストが予想以上に難しかったとすぐに、病院に行く。
+224. VI: Nếu xe buýt đến muộn, thì tôi sẽ đi khám bác sĩ.
+   JP: バスが遅れたなら、私は病院に行くつもりです。
+225. VI: Không chỉ tôi quên mang ví mà còn nghỉ ngơi một chút.
+   JP: 私 quên mang víだけでなく、少し休む。
+226. VI: Hình như kế hoạch thay đổi, cho nên nghỉ ngơi một chút.
+   JP: 予定が変わったようで、少し休む。
+228. VI: Nếu kế hoạch thay đổi, thì tôi sẽ gặp bạn vào chiều nay.
+   JP: 予定が変わったなら、私は今日の午後友達に会うつもりです。
+229. VI: Tôi định xin lỗi mọi người, nhưng do tôi phải làm thêm.
+   JP: 私 phải làm thêmため、皆に謝るつもりでした。
+232. VI: Ngay khi tôi quên mang ví, tôi hoàn thành công việc.
+   JP: 私 quên mang víとすぐに、仕事を終える。
+233. VI: Không chỉ tôi chưa kịp chuẩn bị mà còn hoàn thành công việc.
+   JP: 私 chưa kịp chuẩn bịだけでなく、仕事を終える。
+234. VI: tôi quên mang ví nên hoàn thành công việc là điều đương nhiên.
+   JP: 私 quên mang víので、仕事を終えるのは当然です。
+235. VI: Ngay khi trời mưa rất to, tôi liên lạc với thầy giáo.
+   JP: 大雨が降っているとすぐに、先生に連絡する。
+236. VI: tôi bận cả ngày nên nghỉ ngơi một chút là điều đương nhiên.
+   JP: 私 bận cả ngàyので、少し休むのは当然です。
+237. VI: Nếu tôi chưa kịp chuẩn bị, thì tôi sẽ xin lỗi mọi người.
+   JP: 私 chưa kịp chuẩn bịなら、私は皆に謝るつもりです。
+238. VI: tôi bận cả ngày nên xin lỗi mọi người là điều đương nhiên.
+   JP: 私 bận cả ngàyので、皆に謝るのは当然です。
+239. VI: Tôi nghĩ rằng tôi chưa kịp chuẩn bị, nhưng hoàn thành công việc.
+   JP: 私 chưa kịp chuẩn bịと思いましたが、仕事を終える。
+240. VI: Hình như xe buýt đến muộn, cho nên tới trường đúng giờ.
+   JP: バスが遅れたようで、時間通りに学校へ行く。
+242. VI: Ngay khi kế hoạch thay đổi, tôi hoàn thành công việc.
+   JP: 予定が変わったとすぐに、仕事を終える。
+243. VI: Ngay khi xe buýt đến muộn, tôi ra ngoài mua đồ.
+   JP: バスが遅れたとすぐに、買い物に出かける。
+244. VI: kế hoạch thay đổi nên cố gắng hết sức là điều đương nhiên.
+   JP: 予定が変わったので、全力を尽くすのは当然です。
+245. VI: Tôi nghĩ rằng tôi quên mang ví, nhưng liên lạc với thầy giáo.
+   JP: 私 quên mang víと思いましたが、先生に連絡する。
+246. VI: Mặc dù tôi phải làm thêm, tôi vẫn nghỉ ngơi một chút.
+   JP: 私 phải làm thêmのに、私はまだ少し休む。
+248. VI: Hình như kế hoạch thay đổi, cho nên nghỉ ngơi một chút.
+   JP: 予定が変わったようで、少し休む。
+249. VI: Mặc dù bài kiểm tra khó hơn dự đoán, tôi vẫn liên lạc với thầy giáo.
+   JP: テストが予想以上に難しかったのに、私はまだ先生に連絡する。
+250. VI: Mặc dù tôi quên mang ví, tôi vẫn tới trường đúng giờ.
+   JP: 私 quên mang víのに、私はまだ時間通りに学校へ行く。
+251. VI: Ngay khi bài kiểm tra khó hơn dự đoán, tôi gặp bạn vào chiều nay.
+   JP: テストが予想以上に難しかったとすぐに、今日の午後友達に会う。
+252. VI: bài kiểm tra khó hơn dự đoán nên đi khám bác sĩ là điều đương nhiên.
+   JP: テストが予想以上に難しかったので、病院に行くのは当然です。
+253. VI: Tôi nghĩ rằng xe buýt đến muộn, nhưng đi khám bác sĩ.
+   JP: バスが遅れたと思いましたが、病院に行く。
+255. VI: Hình như đường bị kẹt xe, cho nên cố gắng hết sức.
+   JP: 道路が渋滞していたようで、全力を尽くす。
+256. VI: Bởi vì bài kiểm tra khó hơn dự đoán, nên tôi đã liên lạc với thầy giáo.
+   JP: テストが予想以上に難しかったので、私は先生に連絡するしました。
+257. VI: Ngay khi tôi bận cả ngày, tôi nghỉ ngơi một chút.
+   JP: 私 bận cả ngàyとすぐに、少し休む。
+258. VI: Tôi nghĩ rằng tôi chưa kịp chuẩn bị, nhưng hoàn thành công việc.
+   JP: 私 chưa kịp chuẩn bịと思いましたが、仕事を終える。
+259. VI: Ngay khi tôi bận cả ngày, tôi liên lạc với thầy giáo.
+   JP: 私 bận cả ngàyとすぐに、先生に連絡する。
+260. VI: Nếu đường bị kẹt xe, thì tôi sẽ cố gắng hết sức.
+   JP: 道路が渋滞していたなら、私は全力を尽くすつもりです。
+261. VI: xe buýt đến muộn nên cố gắng hết sức là điều đương nhiên.
+   JP: バスが遅れたので、全力を尽くすのは当然です。
+262. VI: Nếu tôi quên mang ví, thì tôi sẽ liên lạc với thầy giáo.
+   JP: 私 quên mang víなら、私は先生に連絡するつもりです。
+263. VI: Tôi định đi khám bác sĩ, nhưng do kế hoạch thay đổi.
+   JP: 予定が変わったため、病院に行くつもりでした。
+264. VI: Tôi nghĩ rằng xe buýt đến muộn, nhưng ra ngoài mua đồ.
+   JP: バスが遅れたと思いましたが、買い物に出かける。
+265. VI: Mặc dù trời mưa rất to, tôi vẫn liên lạc với thầy giáo.
+   JP: 大雨が降っているのに、私はまだ先生に連絡する。
+266. VI: Ngay khi xe buýt đến muộn, tôi thay đổi dự định.
+   JP: バスが遅れたとすぐに、予定を変える。
+267. VI: Không chỉ tôi phải làm thêm mà còn thay đổi dự định.
+   JP: 私 phải làm thêmだけでなく、予定を変える。
+268. VI: đường bị kẹt xe nên tới trường đúng giờ là điều đương nhiên.
+   JP: 道路が渋滞していたので、時間通りに学校へ行くのは当然です。
+269. VI: Vì tôi chưa kịp chuẩn bị nên không thể gặp bạn vào chiều nay.
+   JP: 私 chưa kịp chuẩn bịので、今日の午後友達に会うことができませんでした。
+270. VI: Tôi định nghỉ ngơi một chút, nhưng do bài kiểm tra khó hơn dự đoán.
+   JP: テストが予想以上に難しかったため、少し休むつもりでした。
+271. VI: Tôi định cố gắng hết sức, nhưng do tôi quên mang ví.
+   JP: 私 quên mang víため、全力を尽くすつもりでした。
+272. VI: Vì xe buýt đến muộn nên không thể cố gắng hết sức.
+   JP: バスが遅れたので、全力を尽くすことができませんでした。
+273. VI: Hình như trời mưa rất to, cho nên ra ngoài mua đồ.
+   JP: 大雨が降っているようで、買い物に出かける。
+274. VI: tôi phải làm thêm nên liên lạc với thầy giáo là điều đương nhiên.
+   JP: 私 phải làm thêmので、先生に連絡するのは当然です。
+275. VI: Không chỉ tôi chưa kịp chuẩn bị mà còn hoàn thành công việc.
+   JP: 私 chưa kịp chuẩn bịだけでなく、仕事を終える。
+276. VI: Mặc dù tôi chưa kịp chuẩn bị, tôi vẫn liên lạc với thầy giáo.
+   JP: 私 chưa kịp chuẩn bịのに、私はまだ先生に連絡する。
+277. VI: Bởi vì xe buýt đến muộn, nên tôi đã hoàn thành công việc.
+   JP: バスが遅れたので、私は仕事を終えるしました。
+278. VI: Không chỉ tôi quên mang ví mà còn hoàn thành công việc.
+   JP: 私 quên mang víだけでなく、仕事を終える。
+279. VI: Không chỉ tôi phải làm thêm mà còn nghỉ ngơi một chút.
+   JP: 私 phải làm thêmだけでなく、少し休む。
+281. VI: Tôi nghĩ rằng kế hoạch thay đổi, nhưng tới trường đúng giờ.
+   JP: 予定が変わったと思いましたが、時間通りに学校へ行く。
+283. VI: Tôi nghĩ rằng tôi quên mang ví, nhưng tới trường đúng giờ.
+   JP: 私 quên mang víと思いましたが、時間通りに学校へ行く。
+284. VI: Hình như bài kiểm tra khó hơn dự đoán, cho nên liên lạc với thầy giáo.
+   JP: テストが予想以上に難しかったようで、先生に連絡する。
+285. VI: Vì tôi quên mang ví nên không thể hoàn thành công việc.
+   JP: 私 quên mang víので、仕事を終えることができませんでした。
+286. VI: Tôi nghĩ rằng đường bị kẹt xe, nhưng đi khám bác sĩ.
+   JP: 道路が渋滞していたと思いましたが、病院に行く。
+287. VI: Hình như tôi chưa kịp chuẩn bị, cho nên tới trường đúng giờ.
+   JP: 私 chưa kịp chuẩn bịようで、時間通りに学校へ行く。
+288. VI: Hình như tôi bận cả ngày, cho nên cố gắng hết sức.
+   JP: 私 bận cả ngàyようで、全力を尽くす。
+289. VI: Nếu trời mưa rất to, thì tôi sẽ xin lỗi mọi người.
+   JP: 大雨が降っているなら、私は皆に謝るつもりです。
+290. VI: Không chỉ kế hoạch thay đổi mà còn ra ngoài mua đồ.
+   JP: 予定が変わっただけでなく、買い物に出かける。
+291. VI: tôi chưa kịp chuẩn bị nên nghỉ ngơi một chút là điều đương nhiên.
+   JP: 私 chưa kịp chuẩn bịので、少し休むのは当然です。
+292. VI: Bởi vì đường bị kẹt xe, nên tôi đã thay đổi dự định.
+   JP: 道路が渋滞していたので、私は予定を変えるしました。
+293. VI: Bởi vì kế hoạch thay đổi, nên tôi đã nghỉ ngơi một chút.
+   JP: 予定が変わったので、私は少し休むしました。
+294. VI: Ngay khi tôi bận cả ngày, tôi hoàn thành công việc.
+   JP: 私 bận cả ngàyとすぐに、仕事を終える。
+296. VI: Tôi định gặp bạn vào chiều nay, nhưng do tôi bận cả ngày.
+   JP: 私 bận cả ngàyため、今日の午後友達に会うつもりでした。
+299. VI: Ngay khi bài kiểm tra khó hơn dự đoán, tôi liên lạc với thầy giáo.
+   JP: テストが予想以上に難しかったとすぐに、先生に連絡する。
+301. VI: Tôi định xin lỗi mọi người, nhưng do tôi quên mang ví.
+   JP: 私 quên mang víため、皆に謝るつもりでした。
+302. VI: Tôi nghĩ rằng trời mưa rất to, nhưng gặp bạn vào chiều nay.
+   JP: 大雨が降っていると思いましたが、今日の午後友達に会う。
+304. VI: Mặc dù bài kiểm tra khó hơn dự đoán, tôi vẫn tới trường đúng giờ.
+   JP: テストが予想以上に難しかったのに、私はまだ時間通りに学校へ行く。
+305. VI: Hình như bài kiểm tra khó hơn dự đoán, cho nên nghỉ ngơi một chút.
+   JP: テストが予想以上に難しかったようで、少し休む。
+306. VI: Hình như xe buýt đến muộn, cho nên tới trường đúng giờ.
+   JP: バスが遅れたようで、時間通りに学校へ行く。
+307. VI: Ngay khi tôi phải làm thêm, tôi xin lỗi mọi người.
+   JP: 私 phải làm thêmとすぐに、皆に謝る。
+308. VI: Bởi vì kế hoạch thay đổi, nên tôi đã hoàn thành công việc.
+   JP: 予定が変わったので、私は仕事を終えるしました。
+309. VI: Nếu tôi bận cả ngày, thì tôi sẽ liên lạc với thầy giáo.
+   JP: 私 bận cả ngàyなら、私は先生に連絡するつもりです。
+310. VI: Không chỉ bài kiểm tra khó hơn dự đoán mà còn liên lạc với thầy giáo.
+   JP: テストが予想以上に難しかっただけでなく、先生に連絡する。
+311. VI: Nếu tôi quên mang ví, thì tôi sẽ xin lỗi mọi người.
+   JP: 私 quên mang víなら、私は皆に謝るつもりです。
+312. VI: Nếu kế hoạch thay đổi, thì tôi sẽ xin lỗi mọi người.
+   JP: 予定が変わったなら、私は皆に謝るつもりです。
+313. VI: Vì tôi phải làm thêm nên không thể cố gắng hết sức.
+   JP: 私 phải làm thêmので、全力を尽くすことができませんでした。
+314. VI: tôi chưa kịp chuẩn bị nên tới trường đúng giờ là điều đương nhiên.
+   JP: 私 chưa kịp chuẩn bịので、時間通りに学校へ行くのは当然です。
+315. VI: Vì tôi quên mang ví nên không thể nghỉ ngơi một chút.
+   JP: 私 quên mang víので、少し休むことができませんでした。
+316. VI: Ngay khi trời mưa rất to, tôi gặp bạn vào chiều nay.
+   JP: 大雨が降っているとすぐに、今日の午後友達に会う。
+317. VI: Bởi vì bài kiểm tra khó hơn dự đoán, nên tôi đã xin lỗi mọi người.
+   JP: テストが予想以上に難しかったので、私は皆に謝るしました。
+318. VI: Không chỉ bài kiểm tra khó hơn dự đoán mà còn nghỉ ngơi một chút.
+   JP: テストが予想以上に難しかっただけでなく、少し休む。
+319. VI: Ngay khi tôi phải làm thêm, tôi hoàn thành công việc.
+   JP: 私 phải làm thêmとすぐに、仕事を終える。
+320. VI: Ngay khi tôi chưa kịp chuẩn bị, tôi hoàn thành công việc.
+   JP: 私 chưa kịp chuẩn bịとすぐに、仕事を終える。
+321. VI: Mặc dù xe buýt đến muộn, tôi vẫn liên lạc với thầy giáo.
+   JP: バスが遅れたのに、私はまだ先生に連絡する。
+322. VI: Hình như đường bị kẹt xe, cho nên ra ngoài mua đồ.
+   JP: 道路が渋滞していたようで、買い物に出かける。
+323. VI: Ngay khi trời mưa rất to, tôi gặp bạn vào chiều nay.
+   JP: 大雨が降っているとすぐに、今日の午後友達に会う。
+324. VI: Mặc dù kế hoạch thay đổi, tôi vẫn gặp bạn vào chiều nay.
+   JP: 予定が変わったのに、私はまだ今日の午後友達に会う。
+325. VI: Mặc dù tôi chưa kịp chuẩn bị, tôi vẫn tới trường đúng giờ.
+   JP: 私 chưa kịp chuẩn bịのに、私はまだ時間通りに学校へ行く。
+326. VI: Mặc dù bài kiểm tra khó hơn dự đoán, tôi vẫn liên lạc với thầy giáo.
+   JP: テストが予想以上に難しかったのに、私はまだ先生に連絡する。
+327. VI: Hình như kế hoạch thay đổi, cho nên gặp bạn vào chiều nay.
+   JP: 予定が変わったようで、今日の午後友達に会う。
+328. VI: Mặc dù xe buýt đến muộn, tôi vẫn hoàn thành công việc.
+   JP: バスが遅れたのに、私はまだ仕事を終える。
+329. VI: Hình như tôi bận cả ngày, cho nên cố gắng hết sức.
+   JP: 私 bận cả ngàyようで、全力を尽くす。
+331. VI: Tôi nghĩ rằng tôi quên mang ví, nhưng liên lạc với thầy giáo.
+   JP: 私 quên mang víと思いましたが、先生に連絡する。
+332. VI: Không chỉ tôi phải làm thêm mà còn đi khám bác sĩ.
+   JP: 私 phải làm thêmだけでなく、病院に行く。
+333. VI: Tôi định gặp bạn vào chiều nay, nhưng do tôi quên mang ví.
+   JP: 私 quên mang víため、今日の午後友達に会うつもりでした。
+334. VI: Không chỉ tôi chưa kịp chuẩn bị mà còn tới trường đúng giờ.
+   JP: 私 chưa kịp chuẩn bịだけでなく、時間通りに学校へ行く。
+335. VI: Vì bài kiểm tra khó hơn dự đoán nên không thể xin lỗi mọi người.
+   JP: テストが予想以上に難しかったので、皆に謝ることができませんでした。
+336. VI: Nếu kế hoạch thay đổi, thì tôi sẽ xin lỗi mọi người.
+   JP: 予定が変わったなら、私は皆に謝るつもりです。
+337. VI: Vì kế hoạch thay đổi nên không thể xin lỗi mọi người.
+   JP: 予定が変わったので、皆に謝ることができませんでした。
+338. VI: Không chỉ bài kiểm tra khó hơn dự đoán mà còn cố gắng hết sức.
+   JP: テストが予想以上に難しかっただけでなく、全力を尽くす。
+340. VI: Ngay khi kế hoạch thay đổi, tôi tới trường đúng giờ.
+   JP: 予定が変わったとすぐに、時間通りに学校へ行く。
+341. VI: Không chỉ tôi bận cả ngày mà còn liên lạc với thầy giáo.
+   JP: 私 bận cả ngàyだけでなく、先生に連絡する。
+342. VI: kế hoạch thay đổi nên cố gắng hết sức là điều đương nhiên.
+   JP: 予定が変わったので、全力を尽くすのは当然です。
+343. VI: Mặc dù kế hoạch thay đổi, tôi vẫn liên lạc với thầy giáo.
+   JP: 予定が変わったのに、私はまだ先生に連絡する。
+344. VI: Ngay khi đường bị kẹt xe, tôi hoàn thành công việc.
+   JP: 道路が渋滞していたとすぐに、仕事を終える。
+345. VI: Bởi vì xe buýt đến muộn, nên tôi đã đi khám bác sĩ.
+   JP: バスが遅れたので、私は病院に行くしました。
+346. VI: Vì tôi quên mang ví nên không thể đi khám bác sĩ.
+   JP: 私 quên mang víので、病院に行くことができませんでした。
+347. VI: Mặc dù xe buýt đến muộn, tôi vẫn hoàn thành công việc.
+   JP: バスが遅れたのに、私はまだ仕事を終える。
+348. VI: Nếu xe buýt đến muộn, thì tôi sẽ liên lạc với thầy giáo.
+   JP: バスが遅れたなら、私は先生に連絡するつもりです。
+349. VI: Nếu kế hoạch thay đổi, thì tôi sẽ cố gắng hết sức.
+   JP: 予定が変わったなら、私は全力を尽くすつもりです。
+350. VI: Tôi định liên lạc với thầy giáo, nhưng do đường bị kẹt xe.
+   JP: 道路が渋滞していたため、先生に連絡するつもりでした。
+351. VI: Bởi vì xe buýt đến muộn, nên tôi đã ra ngoài mua đồ.
+   JP: バスが遅れたので、私は買い物に出かけるしました。
+352. VI: Ngay khi tôi bận cả ngày, tôi tới trường đúng giờ.
+   JP: 私 bận cả ngàyとすぐに、時間通りに学校へ行く。
+353. VI: Hình như trời mưa rất to, cho nên xin lỗi mọi người.
+   JP: 大雨が降っているようで、皆に謝る。
+354. VI: Nếu tôi bận cả ngày, thì tôi sẽ cố gắng hết sức.
+   JP: 私 bận cả ngàyなら、私は全力を尽くすつもりです。
+355. VI: Tôi nghĩ rằng bài kiểm tra khó hơn dự đoán, nhưng ra ngoài mua đồ.
+   JP: テストが予想以上に難しかったと思いましたが、買い物に出かける。
+356. VI: tôi quên mang ví nên gặp bạn vào chiều nay là điều đương nhiên.
+   JP: 私 quên mang víので、今日の午後友達に会うのは当然です。
+357. VI: Không chỉ xe buýt đến muộn mà còn xin lỗi mọi người.
+   JP: バスが遅れただけでなく、皆に謝る。
+358. VI: Bởi vì bài kiểm tra khó hơn dự đoán, nên tôi đã xin lỗi mọi người.
+   JP: テストが予想以上に難しかったので、私は皆に謝るしました。
+359. VI: Vì bài kiểm tra khó hơn dự đoán nên không thể gặp bạn vào chiều nay.
+   JP: テストが予想以上に難しかったので、今日の午後友達に会うことができませんでした。
+360. VI: Ngay khi tôi bận cả ngày, tôi tới trường đúng giờ.
+   JP: 私 bận cả ngàyとすぐに、時間通りに学校へ行く。
+361. VI: Vì trời mưa rất to nên không thể liên lạc với thầy giáo.
+   JP: 大雨が降っているので、先生に連絡することができませんでした。
+362. VI: Tôi nghĩ rằng xe buýt đến muộn, nhưng đi khám bác sĩ.
+   JP: バスが遅れたと思いましたが、病院に行く。
+363. VI: Tôi định liên lạc với thầy giáo, nhưng do tôi bận cả ngày.
+   JP: 私 bận cả ngàyため、先生に連絡するつもりでした。
+364. VI: Bởi vì tôi bận cả ngày, nên tôi đã gặp bạn vào chiều nay.
+   JP: 私 bận cả ngàyので、私は今日の午後友達に会うしました。
+365. VI: Hình như tôi quên mang ví, cho nên liên lạc với thầy giáo.
+   JP: 私 quên mang víようで、先生に連絡する。
+366. VI: Vì bài kiểm tra khó hơn dự đoán nên không thể liên lạc với thầy giáo.
+   JP: テストが予想以上に難しかったので、先生に連絡することができませんでした。
+367. VI: tôi chưa kịp chuẩn bị nên cố gắng hết sức là điều đương nhiên.
+   JP: 私 chưa kịp chuẩn bịので、全力を尽くすのは当然です。
+368. VI: xe buýt đến muộn nên xin lỗi mọi người là điều đương nhiên.
+   JP: バスが遅れたので、皆に謝るのは当然です。
+369. VI: Hình như kế hoạch thay đổi, cho nên đi khám bác sĩ.
+   JP: 予定が変わったようで、病院に行く。
+370. VI: Ngay khi xe buýt đến muộn, tôi nghỉ ngơi một chút.
+   JP: バスが遅れたとすぐに、少し休む。
+372. VI: Mặc dù xe buýt đến muộn, tôi vẫn ra ngoài mua đồ.
+   JP: バスが遅れたのに、私はまだ買い物に出かける。
+373. VI: Mặc dù bài kiểm tra khó hơn dự đoán, tôi vẫn thay đổi dự định.
+   JP: テストが予想以上に難しかったのに、私はまだ予定を変える。
+374. VI: Tôi định cố gắng hết sức, nhưng do tôi phải làm thêm.
+   JP: 私 phải làm thêmため、全力を尽くすつもりでした。
+375. VI: Không chỉ kế hoạch thay đổi mà còn tới trường đúng giờ.
+   JP: 予定が変わっただけでなく、時間通りに学校へ行く。
+376. VI: Tôi nghĩ rằng bài kiểm tra khó hơn dự đoán, nhưng hoàn thành công việc.
+   JP: テストが予想以上に難しかったと思いましたが、仕事を終える。
+377. VI: Tôi định gặp bạn vào chiều nay, nhưng do kế hoạch thay đổi.
+   JP: 予定が変わったため、今日の午後友達に会うつもりでした。
+378. VI: Hình như tôi quên mang ví, cho nên nghỉ ngơi một chút.
+   JP: 私 quên mang víようで、少し休む。
+379. VI: Không chỉ tôi quên mang ví mà còn cố gắng hết sức.
+   JP: 私 quên mang víだけでなく、全力を尽くす。
+380. VI: Mặc dù trời mưa rất to, tôi vẫn tới trường đúng giờ.
+   JP: 大雨が降っているのに、私はまだ時間通りに学校へ行く。
+381. VI: Hình như xe buýt đến muộn, cho nên hoàn thành công việc.
+   JP: バスが遅れたようで、仕事を終える。
+382. VI: Tôi định hoàn thành công việc, nhưng do trời mưa rất to.
+   JP: 大雨が降っているため、仕事を終えるつもりでした。
+383. VI: Vì đường bị kẹt xe nên không thể đi khám bác sĩ.
+   JP: 道路が渋滞していたので、病院に行くことができませんでした。
+384. VI: Nếu tôi phải làm thêm, thì tôi sẽ ra ngoài mua đồ.
+   JP: 私 phải làm thêmなら、私は買い物に出かけるつもりです。
+385. VI: Mặc dù kế hoạch thay đổi, tôi vẫn ra ngoài mua đồ.
+   JP: 予定が変わったのに、私はまだ買い物に出かける。
+386. VI: Tôi định xin lỗi mọi người, nhưng do đường bị kẹt xe.
+   JP: 道路が渋滞していたため、皆に謝るつもりでした。
+387. VI: Mặc dù trời mưa rất to, tôi vẫn ra ngoài mua đồ.
+   JP: 大雨が降っているのに、私はまだ買い物に出かける。
+388. VI: Tôi định tới trường đúng giờ, nhưng do tôi chưa kịp chuẩn bị.
+   JP: 私 chưa kịp chuẩn bịため、時間通りに学校へ行くつもりでした。
+389. VI: Không chỉ tôi quên mang ví mà còn đi khám bác sĩ.
+   JP: 私 quên mang víだけでなく、病院に行く。
+390. VI: Không chỉ xe buýt đến muộn mà còn xin lỗi mọi người.
+   JP: バスが遅れただけでなく、皆に謝る。
+391. VI: tôi chưa kịp chuẩn bị nên ra ngoài mua đồ là điều đương nhiên.
+   JP: 私 chưa kịp chuẩn bịので、買い物に出かけるのは当然です。
+393. VI: Không chỉ tôi bận cả ngày mà còn tới trường đúng giờ.
+   JP: 私 bận cả ngàyだけでなく、時間通りに学校へ行く。
+394. VI: Bởi vì tôi phải làm thêm, nên tôi đã cố gắng hết sức.
+   JP: 私 phải làm thêmので、私は全力を尽くすしました。
+395. VI: Bởi vì trời mưa rất to, nên tôi đã đi khám bác sĩ.
+   JP: 大雨が降っているので、私は病院に行くしました。
+397. VI: Ngay khi tôi quên mang ví, tôi thay đổi dự định.
+   JP: 私 quên mang víとすぐに、予定を変える。
+398. VI: Bởi vì trời mưa rất to, nên tôi đã xin lỗi mọi người.
+   JP: 大雨が降っているので、私は皆に謝るしました。
+399. VI: Bởi vì tôi phải làm thêm, nên tôi đã liên lạc với thầy giáo.
+   JP: 私 phải làm thêmので、私は先生に連絡するしました。
+400. VI: Mặc dù tôi bận cả ngày, tôi vẫn nghỉ ngơi một chút.
+   JP: 私 bận cả ngàyのに、私はまだ少し休む。
+401. VI: Tôi nghĩ rằng tôi phải làm thêm, nhưng đi khám bác sĩ.
+   JP: 私 phải làm thêmと思いましたが、病院に行く。
+402. VI: Không chỉ tôi bận cả ngày mà còn đi khám bác sĩ.
+   JP: 私 bận cả ngàyだけでなく、病院に行く。
+403. VI: Nếu kế hoạch thay đổi, thì tôi sẽ tới trường đúng giờ.
+   JP: 予定が変わったなら、私は時間通りに学校へ行くつもりです。
+404. VI: Mặc dù tôi bận cả ngày, tôi vẫn gặp bạn vào chiều nay.
+   JP: 私 bận cả ngàyのに、私はまだ今日の午後友達に会う。
+405. VI: Tôi định liên lạc với thầy giáo, nhưng do kế hoạch thay đổi.
+   JP: 予定が変わったため、先生に連絡するつもりでした。
+406. VI: Tôi định tới trường đúng giờ, nhưng do tôi bận cả ngày.
+   JP: 私 bận cả ngàyため、時間通りに学校へ行くつもりでした。
+407. VI: Tôi nghĩ rằng đường bị kẹt xe, nhưng xin lỗi mọi người.
+   JP: 道路が渋滞していたと思いましたが、皆に謝る。
+408. VI: Vì tôi chưa kịp chuẩn bị nên không thể thay đổi dự định.
+   JP: 私 chưa kịp chuẩn bịので、予定を変えることができませんでした。
+409. VI: trời mưa rất to nên tới trường đúng giờ là điều đương nhiên.
+   JP: 大雨が降っているので、時間通りに学校へ行くのは当然です。
+410. VI: Tôi định đi khám bác sĩ, nhưng do kế hoạch thay đổi.
+   JP: 予定が変わったため、病院に行くつもりでした。
+412. VI: Tôi định thay đổi dự định, nhưng do xe buýt đến muộn.
+   JP: バスが遅れたため、予定を変えるつもりでした。
+413. VI: Vì bài kiểm tra khó hơn dự đoán nên không thể cố gắng hết sức.
+   JP: テストが予想以上に難しかったので、全力を尽くすことができませんでした。
+414. VI: Tôi định liên lạc với thầy giáo, nhưng do tôi chưa kịp chuẩn bị.
+   JP: 私 chưa kịp chuẩn bịため、先生に連絡するつもりでした。
+415. VI: Nếu trời mưa rất to, thì tôi sẽ liên lạc với thầy giáo.
+   JP: 大雨が降っているなら、私は先生に連絡するつもりです。
+416. VI: Vì tôi chưa kịp chuẩn bị nên không thể đi khám bác sĩ.
+   JP: 私 chưa kịp chuẩn bịので、病院に行くことができませんでした。
+418. VI: Tôi nghĩ rằng xe buýt đến muộn, nhưng đi khám bác sĩ.
+   JP: バスが遅れたと思いましたが、病院に行く。
+419. VI: Tôi nghĩ rằng trời mưa rất to, nhưng ra ngoài mua đồ.
+   JP: 大雨が降っていると思いましたが、買い物に出かける。
+420. VI: Hình như đường bị kẹt xe, cho nên cố gắng hết sức.
+   JP: 道路が渋滞していたようで、全力を尽くす。
+422. VI: Bởi vì đường bị kẹt xe, nên tôi đã thay đổi dự định.
+   JP: 道路が渋滞していたので、私は予定を変えるしました。
+423. VI: Tôi nghĩ rằng xe buýt đến muộn, nhưng xin lỗi mọi người.
+   JP: バスが遅れたと思いましたが、皆に謝る。
+424. VI: Ngay khi bài kiểm tra khó hơn dự đoán, tôi liên lạc với thầy giáo.
+   JP: テストが予想以上に難しかったとすぐに、先生に連絡する。
+425. VI: Tôi định cố gắng hết sức, nhưng do bài kiểm tra khó hơn dự đoán.
+   JP: テストが予想以上に難しかったため、全力を尽くすつもりでした。
+426. VI: Tôi định đi khám bác sĩ, nhưng do tôi bận cả ngày.
+   JP: 私 bận cả ngàyため、病院に行くつもりでした。
+427. VI: tôi quên mang ví nên hoàn thành công việc là điều đương nhiên.
+   JP: 私 quên mang víので、仕事を終えるのは当然です。
+429. VI: Vì đường bị kẹt xe nên không thể cố gắng hết sức.
+   JP: 道路が渋滞していたので、全力を尽くすことができませんでした。
+431. VI: Không chỉ trời mưa rất to mà còn tới trường đúng giờ.
+   JP: 大雨が降っているだけでなく、時間通りに学校へ行く。
+432. VI: Vì tôi bận cả ngày nên không thể xin lỗi mọi người.
+   JP: 私 bận cả ngàyので、皆に謝ることができませんでした。
+433. VI: Bởi vì tôi bận cả ngày, nên tôi đã ra ngoài mua đồ.
+   JP: 私 bận cả ngàyので、私は買い物に出かけるしました。
+434. VI: Mặc dù xe buýt đến muộn, tôi vẫn xin lỗi mọi người.
+   JP: バスが遅れたのに、私はまだ皆に謝る。
+435. VI: Ngay khi tôi bận cả ngày, tôi nghỉ ngơi một chút.
+   JP: 私 bận cả ngàyとすぐに、少し休む。
+436. VI: Bởi vì trời mưa rất to, nên tôi đã nghỉ ngơi một chút.
+   JP: 大雨が降っているので、私は少し休むしました。
+437. VI: Không chỉ tôi quên mang ví mà còn hoàn thành công việc.
+   JP: 私 quên mang víだけでなく、仕事を終える。
+438. VI: tôi quên mang ví nên gặp bạn vào chiều nay là điều đương nhiên.
+   JP: 私 quên mang víので、今日の午後友達に会うのは当然です。
+439. VI: Mặc dù tôi bận cả ngày, tôi vẫn hoàn thành công việc.
+   JP: 私 bận cả ngàyのに、私はまだ仕事を終える。
+440. VI: Ngay khi bài kiểm tra khó hơn dự đoán, tôi ra ngoài mua đồ.
+   JP: テストが予想以上に難しかったとすぐに、買い物に出かける。
+441. VI: Mặc dù kế hoạch thay đổi, tôi vẫn thay đổi dự định.
+   JP: 予定が変わったのに、私はまだ予定を変える。
+442. VI: Nếu xe buýt đến muộn, thì tôi sẽ liên lạc với thầy giáo.
+   JP: バスが遅れたなら、私は先生に連絡するつもりです。
+443. VI: Ngay khi bài kiểm tra khó hơn dự đoán, tôi gặp bạn vào chiều nay.
+   JP: テストが予想以上に難しかったとすぐに、今日の午後友達に会う。
+444. VI: Tôi định xin lỗi mọi người, nhưng do đường bị kẹt xe.
+   JP: 道路が渋滞していたため、皆に謝るつもりでした。
+445. VI: Nếu bài kiểm tra khó hơn dự đoán, thì tôi sẽ liên lạc với thầy giáo.
+   JP: テストが予想以上に難しかったなら、私は先生に連絡するつもりです。
+447. VI: Vì tôi chưa kịp chuẩn bị nên không thể xin lỗi mọi người.
+   JP: 私 chưa kịp chuẩn bịので、皆に謝ることができませんでした。
+448. VI: Tôi nghĩ rằng tôi phải làm thêm, nhưng tới trường đúng giờ.
+   JP: 私 phải làm thêmと思いましたが、時間通りに学校へ行く。
+449. VI: Mặc dù tôi bận cả ngày, tôi vẫn ra ngoài mua đồ.
+   JP: 私 bận cả ngàyのに、私はまだ買い物に出かける。
+450. VI: Không chỉ trời mưa rất to mà còn nghỉ ngơi một chút.
+   JP: 大雨が降っているだけでなく、少し休む。
+451. VI: Không chỉ tôi chưa kịp chuẩn bị mà còn tới trường đúng giờ.
+   JP: 私 chưa kịp chuẩn bịだけでなく、時間通りに学校へ行く。
+452. VI: Tôi nghĩ rằng kế hoạch thay đổi, nhưng thay đổi dự định.
+   JP: 予定が変わったと思いましたが、予定を変える。
+453. VI: Mặc dù kế hoạch thay đổi, tôi vẫn nghỉ ngơi một chút.
+   JP: 予定が変わったのに、私はまだ少し休む。
+454. VI: Mặc dù tôi chưa kịp chuẩn bị, tôi vẫn thay đổi dự định.
+   JP: 私 chưa kịp chuẩn bịのに、私はまだ予定を変える。
+455. VI: Nếu xe buýt đến muộn, thì tôi sẽ thay đổi dự định.
+   JP: バスが遅れたなら、私は予定を変えるつもりです。
+456. VI: Ngay khi tôi bận cả ngày, tôi đi khám bác sĩ.
+   JP: 私 bận cả ngàyとすぐに、病院に行く。
+457. VI: Ngay khi trời mưa rất to, tôi xin lỗi mọi người.
+   JP: 大雨が降っているとすぐに、皆に謝る。
+458. VI: Tôi nghĩ rằng tôi phải làm thêm, nhưng nghỉ ngơi một chút.
+   JP: 私 phải làm thêmと思いましたが、少し休む。
+459. VI: Tôi định gặp bạn vào chiều nay, nhưng do tôi chưa kịp chuẩn bị.
+   JP: 私 chưa kịp chuẩn bịため、今日の午後友達に会うつもりでした。
+460. VI: Tôi định gặp bạn vào chiều nay, nhưng do trời mưa rất to.
+   JP: 大雨が降っているため、今日の午後友達に会うつもりでした。
+462. VI: Vì tôi phải làm thêm nên không thể nghỉ ngơi một chút.
+   JP: 私 phải làm thêmので、少し休むことができませんでした。
+463. VI: Bởi vì kế hoạch thay đổi, nên tôi đã ra ngoài mua đồ.
+   JP: 予定が変わったので、私は買い物に出かけるしました。
+464. VI: Không chỉ trời mưa rất to mà còn hoàn thành công việc.
+   JP: 大雨が降っているだけでなく、仕事を終える。
+465. VI: Hình như tôi bận cả ngày, cho nên ra ngoài mua đồ.
+   JP: 私 bận cả ngàyようで、買い物に出かける。
+466. VI: Mặc dù tôi chưa kịp chuẩn bị, tôi vẫn liên lạc với thầy giáo.
+   JP: 私 chưa kịp chuẩn bịのに、私はまだ先生に連絡する。
+467. VI: Không chỉ tôi bận cả ngày mà còn cố gắng hết sức.
+   JP: 私 bận cả ngàyだけでなく、全力を尽くす。
+468. VI: Nếu đường bị kẹt xe, thì tôi sẽ cố gắng hết sức.
+   JP: 道路が渋滞していたなら、私は全力を尽くすつもりです。
+469. VI: Tôi nghĩ rằng bài kiểm tra khó hơn dự đoán, nhưng nghỉ ngơi một chút.
+   JP: テストが予想以上に難しかったと思いましたが、少し休む。
+470. VI: Hình như trời mưa rất to, cho nên cố gắng hết sức.
+   JP: 大雨が降っているようで、全力を尽くす。
+471. VI: Không chỉ tôi phải làm thêm mà còn xin lỗi mọi người.
+   JP: 私 phải làm thêmだけでなく、皆に謝る。
+472. VI: Tôi định tới trường đúng giờ, nhưng do bài kiểm tra khó hơn dự đoán.
+   JP: テストが予想以上に難しかったため、時間通りに学校へ行くつもりでした。
+473. VI: Hình như tôi bận cả ngày, cho nên xin lỗi mọi người.
+   JP: 私 bận cả ngàyようで、皆に謝る。
+474. VI: Ngay khi kế hoạch thay đổi, tôi hoàn thành công việc.
+   JP: 予定が変わったとすぐに、仕事を終える。
+475. VI: Tôi định đi khám bác sĩ, nhưng do tôi chưa kịp chuẩn bị.
+   JP: 私 chưa kịp chuẩn bịため、病院に行くつもりでした。
+476. VI: Bởi vì tôi phải làm thêm, nên tôi đã xin lỗi mọi người.
+   JP: 私 phải làm thêmので、私は皆に謝るしました。
+477. VI: Không chỉ đường bị kẹt xe mà còn cố gắng hết sức.
+   JP: 道路が渋滞していただけでなく、全力を尽くす。
+478. VI: Ngay khi tôi chưa kịp chuẩn bị, tôi ra ngoài mua đồ.
+   JP: 私 chưa kịp chuẩn bịとすぐに、買い物に出かける。
+479. VI: Tôi định hoàn thành công việc, nhưng do tôi quên mang ví.
+   JP: 私 quên mang víため、仕事を終えるつもりでした。
+480. VI: Hình như kế hoạch thay đổi, cho nên gặp bạn vào chiều nay.
+   JP: 予定が変わったようで、今日の午後友達に会う。
+481. VI: Ngay khi bài kiểm tra khó hơn dự đoán, tôi tới trường đúng giờ.
+   JP: テストが予想以上に難しかったとすぐに、時間通りに学校へ行く。
+482. VI: Ngay khi kế hoạch thay đổi, tôi xin lỗi mọi người.
+   JP: 予定が変わったとすぐに、皆に謝る。
+483. VI: Vì tôi chưa kịp chuẩn bị nên không thể hoàn thành công việc.
+   JP: 私 chưa kịp chuẩn bịので、仕事を終えることができませんでした。
+484. VI: Không chỉ xe buýt đến muộn mà còn gặp bạn vào chiều nay.
+   JP: バスが遅れただけでなく、今日の午後友達に会う。
+485. VI: đường bị kẹt xe nên cố gắng hết sức là điều đương nhiên.
+   JP: 道路が渋滞していたので、全力を尽くすのは当然です。
+486. VI: Bởi vì trời mưa rất to, nên tôi đã gặp bạn vào chiều nay.
+   JP: 大雨が降っているので、私は今日の午後友達に会うしました。
+487. VI: Tôi định liên lạc với thầy giáo, nhưng do tôi phải làm thêm.
+   JP: 私 phải làm thêmため、先生に連絡するつもりでした。
+488. VI: Vì tôi phải làm thêm nên không thể tới trường đúng giờ.
+   JP: 私 phải làm thêmので、時間通りに学校へ行くことができませんでした。
+489. VI: Nếu bài kiểm tra khó hơn dự đoán, thì tôi sẽ liên lạc với thầy giáo.
+   JP: テストが予想以上に難しかったなら、私は先生に連絡するつもりです。
+490. VI: Không chỉ kế hoạch thay đổi mà còn hoàn thành công việc.
+   JP: 予定が変わっただけでなく、仕事を終える。
+491. VI: Mặc dù xe buýt đến muộn, tôi vẫn đi khám bác sĩ.
+   JP: バスが遅れたのに、私はまだ病院に行く。
+493. VI: Nếu tôi bận cả ngày, thì tôi sẽ nghỉ ngơi một chút.
+   JP: 私 bận cả ngàyなら、私は少し休むつもりです。
+494. VI: Hình như trời mưa rất to, cho nên liên lạc với thầy giáo.
+   JP: 大雨が降っているようで、先生に連絡する。
+495. VI: Không chỉ xe buýt đến muộn mà còn thay đổi dự định.
+   JP: バスが遅れただけでなく、予定を変える。
+497. VI: đường bị kẹt xe nên hoàn thành công việc là điều đương nhiên.
+   JP: 道路が渋滞していたので、仕事を終えるのは当然です。
+498. VI: Nếu tôi quên mang ví, thì tôi sẽ tới trường đúng giờ.
+   JP: 私 quên mang víなら、私は時間通りに学校へ行くつもりです。
+499. VI: Không chỉ tôi bận cả ngày mà còn liên lạc với thầy giáo.
+   JP: 私 bận cả ngàyだけでなく、先生に連絡する。
+500. VI: Không chỉ tôi chưa kịp chuẩn bị mà còn đi khám bác sĩ.
+   JP: 私 chưa kịp chuẩn bịだけでなく、病院に行く。
+501. VI: Tôi nghĩ rằng bài kiểm tra khó hơn dự đoán, nhưng hoàn thành công việc.
+   JP: テストが予想以上に難しかったと思いましたが、仕事を終える。
+502. VI: Tôi nghĩ rằng tôi chưa kịp chuẩn bị, nhưng đi khám bác sĩ.
+   JP: 私 chưa kịp chuẩn bịと思いましたが、病院に行く。
+503. VI: Tôi nghĩ rằng tôi bận cả ngày, nhưng đi khám bác sĩ.
+   JP: 私 bận cả ngàyと思いましたが、病院に行く。
+504. VI: Không chỉ tôi quên mang ví mà còn ra ngoài mua đồ.
+   JP: 私 quên mang víだけでなく、買い物に出かける。
+505. VI: Vì kế hoạch thay đổi nên không thể cố gắng hết sức.
+   JP: 予定が変わったので、全力を尽くすことができませんでした。
+506. VI: Tôi định nghỉ ngơi một chút, nhưng do xe buýt đến muộn.
+   JP: バスが遅れたため、少し休むつもりでした。
+507. VI: Tôi định liên lạc với thầy giáo, nhưng do tôi phải làm thêm.
+   JP: 私 phải làm thêmため、先生に連絡するつもりでした。
+508. VI: Hình như kế hoạch thay đổi, cho nên cố gắng hết sức.
+   JP: 予定が変わったようで、全力を尽くす。
+509. VI: tôi quên mang ví nên đi khám bác sĩ là điều đương nhiên.
+   JP: 私 quên mang víので、病院に行くのは当然です。
+510. VI: Không chỉ xe buýt đến muộn mà còn đi khám bác sĩ.
+   JP: バスが遅れただけでなく、病院に行く。
+511. VI: Tôi định nghỉ ngơi một chút, nhưng do tôi phải làm thêm.
+   JP: 私 phải làm thêmため、少し休むつもりでした。
+513. VI: Mặc dù tôi quên mang ví, tôi vẫn xin lỗi mọi người.
+   JP: 私 quên mang víのに、私はまだ皆に謝る。
+514. VI: Tôi nghĩ rằng trời mưa rất to, nhưng nghỉ ngơi một chút.
+   JP: 大雨が降っていると思いましたが、少し休む。
+515. VI: Vì tôi chưa kịp chuẩn bị nên không thể thay đổi dự định.
+   JP: 私 chưa kịp chuẩn bịので、予定を変えることができませんでした。
+516. VI: Không chỉ trời mưa rất to mà còn nghỉ ngơi một chút.
+   JP: 大雨が降っているだけでなく、少し休む。
+517. VI: Bởi vì trời mưa rất to, nên tôi đã gặp bạn vào chiều nay.
+   JP: 大雨が降っているので、私は今日の午後友達に会うしました。
+518. VI: Ngay khi tôi bận cả ngày, tôi nghỉ ngơi một chút.
+   JP: 私 bận cả ngàyとすぐに、少し休む。
+519. VI: Mặc dù tôi quên mang ví, tôi vẫn cố gắng hết sức.
+   JP: 私 quên mang víのに、私はまだ全力を尽くす。
+521. VI: Ngay khi tôi quên mang ví, tôi tới trường đúng giờ.
+   JP: 私 quên mang víとすぐに、時間通りに学校へ行く。
+522. VI: Vì tôi quên mang ví nên không thể đi khám bác sĩ.
+   JP: 私 quên mang víので、病院に行くことができませんでした。
+524. VI: Tôi định ra ngoài mua đồ, nhưng do kế hoạch thay đổi.
+   JP: 予定が変わったため、買い物に出かけるつもりでした。
+525. VI: Tôi nghĩ rằng trời mưa rất to, nhưng cố gắng hết sức.
+   JP: 大雨が降っていると思いましたが、全力を尽くす。
+527. VI: Ngay khi trời mưa rất to, tôi tới trường đúng giờ.
+   JP: 大雨が降っているとすぐに、時間通りに学校へ行く。
+528. VI: Ngay khi đường bị kẹt xe, tôi liên lạc với thầy giáo.
+   JP: 道路が渋滞していたとすぐに、先生に連絡する。
+529. VI: Bởi vì bài kiểm tra khó hơn dự đoán, nên tôi đã cố gắng hết sức.
+   JP: テストが予想以上に難しかったので、私は全力を尽くすしました。
+530. VI: Nếu xe buýt đến muộn, thì tôi sẽ hoàn thành công việc.
+   JP: バスが遅れたなら、私は仕事を終えるつもりです。
+531. VI: Ngay khi xe buýt đến muộn, tôi ra ngoài mua đồ.
+   JP: バスが遅れたとすぐに、買い物に出かける。
+532. VI: Vì kế hoạch thay đổi nên không thể hoàn thành công việc.
+   JP: 予定が変わったので、仕事を終えることができませんでした。
+533. VI: Ngay khi xe buýt đến muộn, tôi liên lạc với thầy giáo.
+   JP: バスが遅れたとすぐに、先生に連絡する。
+534. VI: Vì xe buýt đến muộn nên không thể liên lạc với thầy giáo.
+   JP: バスが遅れたので、先生に連絡することができませんでした。
+535. VI: Tôi nghĩ rằng tôi phải làm thêm, nhưng thay đổi dự định.
+   JP: 私 phải làm thêmと思いましたが、予定を変える。
+536. VI: Ngay khi tôi phải làm thêm, tôi đi khám bác sĩ.
+   JP: 私 phải làm thêmとすぐに、病院に行く。
+537. VI: Bởi vì trời mưa rất to, nên tôi đã nghỉ ngơi một chút.
+   JP: 大雨が降っているので、私は少し休むしました。
+538. VI: Nếu tôi chưa kịp chuẩn bị, thì tôi sẽ tới trường đúng giờ.
+   JP: 私 chưa kịp chuẩn bịなら、私は時間通りに学校へ行くつもりです。
+539. VI: Tôi nghĩ rằng bài kiểm tra khó hơn dự đoán, nhưng ra ngoài mua đồ.
+   JP: テストが予想以上に難しかったと思いましたが、買い物に出かける。
+540. VI: Nếu bài kiểm tra khó hơn dự đoán, thì tôi sẽ hoàn thành công việc.
+   JP: テストが予想以上に難しかったなら、私は仕事を終えるつもりです。
+541. VI: Nếu xe buýt đến muộn, thì tôi sẽ xin lỗi mọi người.
+   JP: バスが遅れたなら、私は皆に謝るつもりです。
+542. VI: Tôi định cố gắng hết sức, nhưng do tôi quên mang ví.
+   JP: 私 quên mang víため、全力を尽くすつもりでした。
+543. VI: Tôi định đi khám bác sĩ, nhưng do tôi bận cả ngày.
+   JP: 私 bận cả ngàyため、病院に行くつもりでした。
+544. VI: Nếu đường bị kẹt xe, thì tôi sẽ tới trường đúng giờ.
+   JP: 道路が渋滞していたなら、私は時間通りに学校へ行くつもりです。
+546. VI: Không chỉ tôi quên mang ví mà còn xin lỗi mọi người.
+   JP: 私 quên mang víだけでなく、皆に謝る。
+547. VI: Vì đường bị kẹt xe nên không thể gặp bạn vào chiều nay.
+   JP: 道路が渋滞していたので、今日の午後友達に会うことができませんでした。
+548. VI: Vì trời mưa rất to nên không thể gặp bạn vào chiều nay.
+   JP: 大雨が降っているので、今日の午後友達に会うことができませんでした。
+549. VI: Nếu tôi chưa kịp chuẩn bị, thì tôi sẽ xin lỗi mọi người.
+   JP: 私 chưa kịp chuẩn bịなら、私は皆に謝るつもりです。
+550. VI: Tôi định liên lạc với thầy giáo, nhưng do xe buýt đến muộn.
+   JP: バスが遅れたため、先生に連絡するつもりでした。
+552. VI: Không chỉ tôi bận cả ngày mà còn thay đổi dự định.
+   JP: 私 bận cả ngàyだけでなく、予定を変える。
+553. VI: Ngay khi tôi chưa kịp chuẩn bị, tôi nghỉ ngơi một chút.
+   JP: 私 chưa kịp chuẩn bịとすぐに、少し休む。
+554. VI: Tôi định xin lỗi mọi người, nhưng do trời mưa rất to.
+   JP: 大雨が降っているため、皆に謝るつもりでした。
+555. VI: Không chỉ tôi bận cả ngày mà còn thay đổi dự định.
+   JP: 私 bận cả ngàyだけでなく、予定を変える。
+557. VI: tôi phải làm thêm nên đi khám bác sĩ là điều đương nhiên.
+   JP: 私 phải làm thêmので、病院に行くのは当然です。
+558. VI: Tôi nghĩ rằng tôi quên mang ví, nhưng tới trường đúng giờ.
+   JP: 私 quên mang víと思いましたが、時間通りに学校へ行く。
+559. VI: Bởi vì kế hoạch thay đổi, nên tôi đã xin lỗi mọi người.
+   JP: 予定が変わったので、私は皆に謝るしました。
+562. VI: Nếu tôi quên mang ví, thì tôi sẽ liên lạc với thầy giáo.
+   JP: 私 quên mang víなら、私は先生に連絡するつもりです。
+563. VI: Hình như tôi chưa kịp chuẩn bị, cho nên ra ngoài mua đồ.
+   JP: 私 chưa kịp chuẩn bịようで、買い物に出かける。
+564. VI: Tôi nghĩ rằng trời mưa rất to, nhưng đi khám bác sĩ.
+   JP: 大雨が降っていると思いましたが、病院に行く。
+565. VI: Không chỉ kế hoạch thay đổi mà còn tới trường đúng giờ.
+   JP: 予定が変わっただけでなく、時間通りに学校へ行く。
+566. VI: Mặc dù kế hoạch thay đổi, tôi vẫn cố gắng hết sức.
+   JP: 予定が変わったのに、私はまだ全力を尽くす。
+567. VI: Tôi định đi khám bác sĩ, nhưng do xe buýt đến muộn.
+   JP: バスが遅れたため、病院に行くつもりでした。
+568. VI: Hình như bài kiểm tra khó hơn dự đoán, cho nên ra ngoài mua đồ.
+   JP: テストが予想以上に難しかったようで、買い物に出かける。
+569. VI: Tôi định gặp bạn vào chiều nay, nhưng do trời mưa rất to.
+   JP: 大雨が降っているため、今日の午後友達に会うつもりでした。
+570. VI: tôi bận cả ngày nên xin lỗi mọi người là điều đương nhiên.
+   JP: 私 bận cả ngàyので、皆に謝るのは当然です。
+571. VI: Hình như tôi bận cả ngày, cho nên xin lỗi mọi người.
+   JP: 私 bận cả ngàyようで、皆に謝る。
+573. VI: Nếu tôi chưa kịp chuẩn bị, thì tôi sẽ ra ngoài mua đồ.
+   JP: 私 chưa kịp chuẩn bịなら、私は買い物に出かけるつもりです。
+574. VI: Bởi vì kế hoạch thay đổi, nên tôi đã hoàn thành công việc.
+   JP: 予定が変わったので、私は仕事を終えるしました。
+575. VI: Tôi nghĩ rằng đường bị kẹt xe, nhưng nghỉ ngơi một chút.
+   JP: 道路が渋滞していたと思いましたが、少し休む。
+577. VI: Ngay khi bài kiểm tra khó hơn dự đoán, tôi gặp bạn vào chiều nay.
+   JP: テストが予想以上に難しかったとすぐに、今日の午後友達に会う。
+578. VI: Ngay khi tôi quên mang ví, tôi nghỉ ngơi một chút.
+   JP: 私 quên mang víとすぐに、少し休む。
+579. VI: Tôi nghĩ rằng tôi phải làm thêm, nhưng xin lỗi mọi người.
+   JP: 私 phải làm thêmと思いましたが、皆に謝る。
+580. VI: tôi bận cả ngày nên nghỉ ngơi một chút là điều đương nhiên.
+   JP: 私 bận cả ngàyので、少し休むのは当然です。
+581. VI: Hình như tôi bận cả ngày, cho nên xin lỗi mọi người.
+   JP: 私 bận cả ngàyようで、皆に謝る。
+582. VI: Ngay khi bài kiểm tra khó hơn dự đoán, tôi hoàn thành công việc.
+   JP: テストが予想以上に難しかったとすぐに、仕事を終える。
+583. VI: Tôi định thay đổi dự định, nhưng do kế hoạch thay đổi.
+   JP: 予定が変わったため、予定を変えるつもりでした。
+584. VI: tôi quên mang ví nên liên lạc với thầy giáo là điều đương nhiên.
+   JP: 私 quên mang víので、先生に連絡するのは当然です。
+585. VI: Bởi vì bài kiểm tra khó hơn dự đoán, nên tôi đã ra ngoài mua đồ.
+   JP: テストが予想以上に難しかったので、私は買い物に出かけるしました。
+586. VI: Không chỉ bài kiểm tra khó hơn dự đoán mà còn gặp bạn vào chiều nay.
+   JP: テストが予想以上に難しかっただけでなく、今日の午後友達に会う。
+588. VI: Ngay khi tôi chưa kịp chuẩn bị, tôi nghỉ ngơi một chút.
+   JP: 私 chưa kịp chuẩn bịとすぐに、少し休む。
+589. VI: Mặc dù tôi chưa kịp chuẩn bị, tôi vẫn hoàn thành công việc.
+   JP: 私 chưa kịp chuẩn bịのに、私はまだ仕事を終える。
+590. VI: Ngay khi xe buýt đến muộn, tôi gặp bạn vào chiều nay.
+   JP: バスが遅れたとすぐに、今日の午後友達に会う。
+591. VI: Tôi nghĩ rằng trời mưa rất to, nhưng đi khám bác sĩ.
+   JP: 大雨が降っていると思いましたが、病院に行く。
+593. VI: Tôi nghĩ rằng trời mưa rất to, nhưng gặp bạn vào chiều nay.
+   JP: 大雨が降っていると思いましたが、今日の午後友達に会う。
+594. VI: Tôi định xin lỗi mọi người, nhưng do tôi quên mang ví.
+   JP: 私 quên mang víため、皆に謝るつもりでした。
+595. VI: Nếu tôi chưa kịp chuẩn bị, thì tôi sẽ tới trường đúng giờ.
+   JP: 私 chưa kịp chuẩn bịなら、私は時間通りに学校へ行くつもりです。
+596. VI: Tôi định ra ngoài mua đồ, nhưng do tôi quên mang ví.
+   JP: 私 quên mang víため、買い物に出かけるつもりでした。
+597. VI: Bởi vì xe buýt đến muộn, nên tôi đã gặp bạn vào chiều nay.
+   JP: バスが遅れたので、私は今日の午後友達に会うしました。
+598. VI: Ngay khi kế hoạch thay đổi, tôi hoàn thành công việc.
+   JP: 予定が変わったとすぐに、仕事を終える。
+600. VI: Ngay khi tôi bận cả ngày, tôi tới trường đúng giờ.
+   JP: 私 bận cả ngàyとすぐに、時間通りに学校へ行く。
+601. VI: Nếu tôi chưa kịp chuẩn bị, thì tôi sẽ đi khám bác sĩ.
+   JP: 私 chưa kịp chuẩn bịなら、私は病院に行くつもりです。
+602. VI: Ngay khi tôi chưa kịp chuẩn bị, tôi đi khám bác sĩ.
+   JP: 私 chưa kịp chuẩn bịとすぐに、病院に行く。
+603. VI: Ngay khi tôi quên mang ví, tôi thay đổi dự định.
+   JP: 私 quên mang víとすぐに、予定を変える。
+604. VI: Hình như tôi chưa kịp chuẩn bị, cho nên hoàn thành công việc.
+   JP: 私 chưa kịp chuẩn bịようで、仕事を終える。
+605. VI: Ngay khi kế hoạch thay đổi, tôi ra ngoài mua đồ.
+   JP: 予定が変わったとすぐに、買い物に出かける。
+606. VI: Nếu đường bị kẹt xe, thì tôi sẽ nghỉ ngơi một chút.
+   JP: 道路が渋滞していたなら、私は少し休むつもりです。
+607. VI: Ngay khi xe buýt đến muộn, tôi gặp bạn vào chiều nay.
+   JP: バスが遅れたとすぐに、今日の午後友達に会う。
+608. VI: Ngay khi xe buýt đến muộn, tôi nghỉ ngơi một chút.
+   JP: バスが遅れたとすぐに、少し休む。
+609. VI: tôi quên mang ví nên xin lỗi mọi người là điều đương nhiên.
+   JP: 私 quên mang víので、皆に謝るのは当然です。
+610. VI: Ngay khi đường bị kẹt xe, tôi cố gắng hết sức.
+   JP: 道路が渋滞していたとすぐに、全力を尽くす。
+611. VI: Vì kế hoạch thay đổi nên không thể ra ngoài mua đồ.
+   JP: 予定が変わったので、買い物に出かけることができませんでした。
+613. VI: Hình như xe buýt đến muộn, cho nên ra ngoài mua đồ.
+   JP: バスが遅れたようで、買い物に出かける。
+615. VI: Nếu tôi bận cả ngày, thì tôi sẽ liên lạc với thầy giáo.
+   JP: 私 bận cả ngàyなら、私は先生に連絡するつもりです。
+617. VI: Ngay khi tôi bận cả ngày, tôi cố gắng hết sức.
+   JP: 私 bận cả ngàyとすぐに、全力を尽くす。
+618. VI: Bởi vì tôi bận cả ngày, nên tôi đã nghỉ ngơi một chút.
+   JP: 私 bận cả ngàyので、私は少し休むしました。
+619. VI: Bởi vì xe buýt đến muộn, nên tôi đã tới trường đúng giờ.
+   JP: バスが遅れたので、私は時間通りに学校へ行くしました。
+620. VI: Tôi định gặp bạn vào chiều nay, nhưng do tôi chưa kịp chuẩn bị.
+   JP: 私 chưa kịp chuẩn bịため、今日の午後友達に会うつもりでした。
+621. VI: Nếu tôi bận cả ngày, thì tôi sẽ xin lỗi mọi người.
+   JP: 私 bận cả ngàyなら、私は皆に謝るつもりです。
+623. VI: Bởi vì tôi chưa kịp chuẩn bị, nên tôi đã thay đổi dự định.
+   JP: 私 chưa kịp chuẩn bịので、私は予定を変えるしました。
+625. VI: Ngay khi đường bị kẹt xe, tôi hoàn thành công việc.
+   JP: 道路が渋滞していたとすぐに、仕事を終える。
+626. VI: Mặc dù kế hoạch thay đổi, tôi vẫn gặp bạn vào chiều nay.
+   JP: 予定が変わったのに、私はまだ今日の午後友達に会う。
+627. VI: Ngay khi bài kiểm tra khó hơn dự đoán, tôi ra ngoài mua đồ.
+   JP: テストが予想以上に難しかったとすぐに、買い物に出かける。
+628. VI: Tôi nghĩ rằng xe buýt đến muộn, nhưng đi khám bác sĩ.
+   JP: バスが遅れたと思いましたが、病院に行く。
+629. VI: Tôi nghĩ rằng trời mưa rất to, nhưng gặp bạn vào chiều nay.
+   JP: 大雨が降っていると思いましたが、今日の午後友達に会う。
+630. VI: Nếu tôi quên mang ví, thì tôi sẽ xin lỗi mọi người.
+   JP: 私 quên mang víなら、私は皆に謝るつもりです。
+631. VI: Ngay khi tôi chưa kịp chuẩn bị, tôi hoàn thành công việc.
+   JP: 私 chưa kịp chuẩn bịとすぐに、仕事を終える。
+632. VI: Mặc dù bài kiểm tra khó hơn dự đoán, tôi vẫn đi khám bác sĩ.
+   JP: テストが予想以上に難しかったのに、私はまだ病院に行く。
+633. VI: Tôi nghĩ rằng tôi quên mang ví, nhưng gặp bạn vào chiều nay.
+   JP: 私 quên mang víと思いましたが、今日の午後友達に会う。
+634. VI: Vì tôi phải làm thêm nên không thể tới trường đúng giờ.
+   JP: 私 phải làm thêmので、時間通りに学校へ行くことができませんでした。
+635. VI: Vì đường bị kẹt xe nên không thể thay đổi dự định.
+   JP: 道路が渋滞していたので、予定を変えることができませんでした。
+636. VI: Nếu trời mưa rất to, thì tôi sẽ nghỉ ngơi một chút.
+   JP: 大雨が降っているなら、私は少し休むつもりです。
+637. VI: Bởi vì tôi bận cả ngày, nên tôi đã hoàn thành công việc.
+   JP: 私 bận cả ngàyので、私は仕事を終えるしました。
+638. VI: Không chỉ kế hoạch thay đổi mà còn nghỉ ngơi một chút.
+   JP: 予定が変わっただけでなく、少し休む。
+639. VI: Không chỉ bài kiểm tra khó hơn dự đoán mà còn liên lạc với thầy giáo.
+   JP: テストが予想以上に難しかっただけでなく、先生に連絡する。
+640. VI: Không chỉ xe buýt đến muộn mà còn liên lạc với thầy giáo.
+   JP: バスが遅れただけでなく、先生に連絡する。
+641. VI: Không chỉ tôi phải làm thêm mà còn xin lỗi mọi người.
+   JP: 私 phải làm thêmだけでなく、皆に謝る。
+643. VI: Bởi vì trời mưa rất to, nên tôi đã thay đổi dự định.
+   JP: 大雨が降っているので、私は予定を変えるしました。
+644. VI: Tôi nghĩ rằng trời mưa rất to, nhưng ra ngoài mua đồ.
+   JP: 大雨が降っていると思いましたが、買い物に出かける。
+645. VI: Bởi vì kế hoạch thay đổi, nên tôi đã ra ngoài mua đồ.
+   JP: 予定が変わったので、私は買い物に出かけるしました。
+646. VI: Vì trời mưa rất to nên không thể tới trường đúng giờ.
+   JP: 大雨が降っているので、時間通りに学校へ行くことができませんでした。
+648. VI: Mặc dù bài kiểm tra khó hơn dự đoán, tôi vẫn tới trường đúng giờ.
+   JP: テストが予想以上に難しかったのに、私はまだ時間通りに学校へ行く。
+649. VI: Tôi định hoàn thành công việc, nhưng do bài kiểm tra khó hơn dự đoán.
+   JP: テストが予想以上に難しかったため、仕事を終えるつもりでした。
+650. VI: Vì tôi phải làm thêm nên không thể liên lạc với thầy giáo.
+   JP: 私 phải làm thêmので、先生に連絡することができませんでした。
+651. VI: Tôi nghĩ rằng tôi chưa kịp chuẩn bị, nhưng ra ngoài mua đồ.
+   JP: 私 chưa kịp chuẩn bịと思いましたが、買い物に出かける。
+653. VI: Vì tôi quên mang ví nên không thể xin lỗi mọi người.
+   JP: 私 quên mang víので、皆に謝ることができませんでした。
+654. VI: Bởi vì tôi chưa kịp chuẩn bị, nên tôi đã ra ngoài mua đồ.
+   JP: 私 chưa kịp chuẩn bịので、私は買い物に出かけるしました。
+655. VI: Ngay khi xe buýt đến muộn, tôi đi khám bác sĩ.
+   JP: バスが遅れたとすぐに、病院に行く。
+656. VI: trời mưa rất to nên liên lạc với thầy giáo là điều đương nhiên.
+   JP: 大雨が降っているので、先生に連絡するのは当然です。
+657. VI: Tôi nghĩ rằng tôi phải làm thêm, nhưng liên lạc với thầy giáo.
+   JP: 私 phải làm thêmと思いましたが、先生に連絡する。
+658. VI: Không chỉ tôi quên mang ví mà còn hoàn thành công việc.
+   JP: 私 quên mang víだけでなく、仕事を終える。
+659. VI: Nếu tôi chưa kịp chuẩn bị, thì tôi sẽ liên lạc với thầy giáo.
+   JP: 私 chưa kịp chuẩn bịなら、私は先生に連絡するつもりです。
+660. VI: Ngay khi trời mưa rất to, tôi liên lạc với thầy giáo.
+   JP: 大雨が降っているとすぐに、先生に連絡する。
+661. VI: Không chỉ tôi chưa kịp chuẩn bị mà còn ra ngoài mua đồ.
+   JP: 私 chưa kịp chuẩn bịだけでなく、買い物に出かける。
+663. VI: Tôi nghĩ rằng trời mưa rất to, nhưng thay đổi dự định.
+   JP: 大雨が降っていると思いましたが、予定を変える。
+664. VI: Nếu tôi phải làm thêm, thì tôi sẽ nghỉ ngơi một chút.
+   JP: 私 phải làm thêmなら、私は少し休むつもりです。
+665. VI: Tôi nghĩ rằng tôi bận cả ngày, nhưng đi khám bác sĩ.
+   JP: 私 bận cả ngàyと思いましたが、病院に行く。
+666. VI: Nếu đường bị kẹt xe, thì tôi sẽ gặp bạn vào chiều nay.
+   JP: 道路が渋滞していたなら、私は今日の午後友達に会うつもりです。
+668. VI: Không chỉ tôi chưa kịp chuẩn bị mà còn liên lạc với thầy giáo.
+   JP: 私 chưa kịp chuẩn bịだけでなく、先生に連絡する。
+669. VI: Ngay khi tôi quên mang ví, tôi ra ngoài mua đồ.
+   JP: 私 quên mang víとすぐに、買い物に出かける。
+671. VI: Vì kế hoạch thay đổi nên không thể gặp bạn vào chiều nay.
+   JP: 予定が変わったので、今日の午後友達に会うことができませんでした。
+672. VI: Vì tôi phải làm thêm nên không thể cố gắng hết sức.
+   JP: 私 phải làm thêmので、全力を尽くすことができませんでした。
+673. VI: Hình như bài kiểm tra khó hơn dự đoán, cho nên cố gắng hết sức.
+   JP: テストが予想以上に難しかったようで、全力を尽くす。
+674. VI: Mặc dù kế hoạch thay đổi, tôi vẫn gặp bạn vào chiều nay.
+   JP: 予定が変わったのに、私はまだ今日の午後友達に会う。
+676. VI: Hình như tôi bận cả ngày, cho nên cố gắng hết sức.
+   JP: 私 bận cả ngàyようで、全力を尽くす。
+677. VI: Tôi định đi khám bác sĩ, nhưng do đường bị kẹt xe.
+   JP: 道路が渋滞していたため、病院に行くつもりでした。
+679. VI: Tôi định xin lỗi mọi người, nhưng do xe buýt đến muộn.
+   JP: バスが遅れたため、皆に謝るつもりでした。
+680. VI: Không chỉ tôi quên mang ví mà còn thay đổi dự định.
+   JP: 私 quên mang víだけでなく、予定を変える。
+681. VI: trời mưa rất to nên thay đổi dự định là điều đương nhiên.
+   JP: 大雨が降っているので、予定を変えるのは当然です。
+682. VI: Nếu bài kiểm tra khó hơn dự đoán, thì tôi sẽ xin lỗi mọi người.
+   JP: テストが予想以上に難しかったなら、私は皆に謝るつもりです。
+683. VI: Nếu tôi chưa kịp chuẩn bị, thì tôi sẽ cố gắng hết sức.
+   JP: 私 chưa kịp chuẩn bịなら、私は全力を尽くすつもりです。
+684. VI: Hình như tôi quên mang ví, cho nên gặp bạn vào chiều nay.
+   JP: 私 quên mang víようで、今日の午後友達に会う。
+685. VI: Vì tôi quên mang ví nên không thể tới trường đúng giờ.
+   JP: 私 quên mang víので、時間通りに学校へ行くことができませんでした。
+686. VI: Không chỉ kế hoạch thay đổi mà còn xin lỗi mọi người.
+   JP: 予定が変わっただけでなく、皆に謝る。
+687. VI: Tôi định nghỉ ngơi một chút, nhưng do xe buýt đến muộn.
+   JP: バスが遅れたため、少し休むつもりでした。
+688. VI: Mặc dù kế hoạch thay đổi, tôi vẫn xin lỗi mọi người.
+   JP: 予定が変わったのに、私はまだ皆に謝る。
+690. VI: Ngay khi kế hoạch thay đổi, tôi liên lạc với thầy giáo.
+   JP: 予定が変わったとすぐに、先生に連絡する。
+691. VI: Ngay khi đường bị kẹt xe, tôi cố gắng hết sức.
+   JP: 道路が渋滞していたとすぐに、全力を尽くす。
+692. VI: Bởi vì tôi chưa kịp chuẩn bị, nên tôi đã cố gắng hết sức.
+   JP: 私 chưa kịp chuẩn bịので、私は全力を尽くすしました。
+693. VI: bài kiểm tra khó hơn dự đoán nên thay đổi dự định là điều đương nhiên.
+   JP: テストが予想以上に難しかったので、予定を変えるのは当然です。
+694. VI: Nếu tôi phải làm thêm, thì tôi sẽ hoàn thành công việc.
+   JP: 私 phải làm thêmなら、私は仕事を終えるつもりです。
+695. VI: Nếu tôi quên mang ví, thì tôi sẽ thay đổi dự định.
+   JP: 私 quên mang víなら、私は予定を変えるつもりです。
+697. VI: Tôi nghĩ rằng tôi chưa kịp chuẩn bị, nhưng nghỉ ngơi một chút.
+   JP: 私 chưa kịp chuẩn bịと思いましたが、少し休む。
+698. VI: Hình như kế hoạch thay đổi, cho nên cố gắng hết sức.
+   JP: 予定が変わったようで、全力を尽くす。
+699. VI: Không chỉ đường bị kẹt xe mà còn ra ngoài mua đồ.
+   JP: 道路が渋滞していただけでなく、買い物に出かける。
+700. VI: Mặc dù kế hoạch thay đổi, tôi vẫn liên lạc với thầy giáo.
+   JP: 予定が変わったのに、私はまだ先生に連絡する。
+702. VI: Không chỉ đường bị kẹt xe mà còn thay đổi dự định.
+   JP: 道路が渋滞していただけでなく、予定を変える。
+703. VI: Mặc dù tôi chưa kịp chuẩn bị, tôi vẫn gặp bạn vào chiều nay.
+   JP: 私 chưa kịp chuẩn bịのに、私はまだ今日の午後友達に会う。
+704. VI: Bởi vì tôi quên mang ví, nên tôi đã xin lỗi mọi người.
+   JP: 私 quên mang víので、私は皆に謝るしました。
+705. VI: Không chỉ xe buýt đến muộn mà còn đi khám bác sĩ.
+   JP: バスが遅れただけでなく、病院に行く。
+706. VI: Tôi định thay đổi dự định, nhưng do bài kiểm tra khó hơn dự đoán.
+   JP: テストが予想以上に難しかったため、予定を変えるつもりでした。
+707. VI: Không chỉ tôi bận cả ngày mà còn xin lỗi mọi người.
+   JP: 私 bận cả ngàyだけでなく、皆に謝る。
+708. VI: Tôi định hoàn thành công việc, nhưng do đường bị kẹt xe.
+   JP: 道路が渋滞していたため、仕事を終えるつもりでした。
+709. VI: Không chỉ kế hoạch thay đổi mà còn ra ngoài mua đồ.
+   JP: 予定が変わっただけでなく、買い物に出かける。
+710. VI: Nếu kế hoạch thay đổi, thì tôi sẽ xin lỗi mọi người.
+   JP: 予定が変わったなら、私は皆に謝るつもりです。
+711. VI: Vì tôi phải làm thêm nên không thể hoàn thành công việc.
+   JP: 私 phải làm thêmので、仕事を終えることができませんでした。
+712. VI: tôi bận cả ngày nên ra ngoài mua đồ là điều đương nhiên.
+   JP: 私 bận cả ngàyので、買い物に出かけるのは当然です。
+713. VI: Bởi vì tôi phải làm thêm, nên tôi đã đi khám bác sĩ.
+   JP: 私 phải làm thêmので、私は病院に行くしました。
+714. VI: Tôi nghĩ rằng xe buýt đến muộn, nhưng gặp bạn vào chiều nay.
+   JP: バスが遅れたと思いましたが、今日の午後友達に会う。
+715. VI: Bởi vì tôi quên mang ví, nên tôi đã liên lạc với thầy giáo.
+   JP: 私 quên mang víので、私は先生に連絡するしました。
+716. VI: Ngay khi trời mưa rất to, tôi hoàn thành công việc.
+   JP: 大雨が降っているとすぐに、仕事を終える。
+717. VI: Vì tôi bận cả ngày nên không thể hoàn thành công việc.
+   JP: 私 bận cả ngàyので、仕事を終えることができませんでした。
+718. VI: tôi phải làm thêm nên đi khám bác sĩ là điều đương nhiên.
+   JP: 私 phải làm thêmので、病院に行くのは当然です。
+719. VI: Bởi vì tôi bận cả ngày, nên tôi đã liên lạc với thầy giáo.
+   JP: 私 bận cả ngàyので、私は先生に連絡するしました。
+721. VI: Tôi định hoàn thành công việc, nhưng do đường bị kẹt xe.
+   JP: 道路が渋滞していたため、仕事を終えるつもりでした。
+722. VI: Tôi định tới trường đúng giờ, nhưng do tôi phải làm thêm.
+   JP: 私 phải làm thêmため、時間通りに学校へ行くつもりでした。
+723. VI: tôi quên mang ví nên liên lạc với thầy giáo là điều đương nhiên.
+   JP: 私 quên mang víので、先生に連絡するのは当然です。
+724. VI: xe buýt đến muộn nên thay đổi dự định là điều đương nhiên.
+   JP: バスが遅れたので、予定を変えるのは当然です。
+725. VI: Hình như tôi bận cả ngày, cho nên hoàn thành công việc.
+   JP: 私 bận cả ngàyようで、仕事を終える。
+726. VI: Hình như tôi quên mang ví, cho nên xin lỗi mọi người.
+   JP: 私 quên mang víようで、皆に謝る。
+727. VI: Nếu tôi chưa kịp chuẩn bị, thì tôi sẽ thay đổi dự định.
+   JP: 私 chưa kịp chuẩn bịなら、私は予定を変えるつもりです。
+728. VI: Nếu bài kiểm tra khó hơn dự đoán, thì tôi sẽ thay đổi dự định.
+   JP: テストが予想以上に難しかったなら、私は予定を変えるつもりです。
+729. VI: Mặc dù bài kiểm tra khó hơn dự đoán, tôi vẫn đi khám bác sĩ.
+   JP: テストが予想以上に難しかったのに、私はまだ病院に行く。
+730. VI: Bởi vì kế hoạch thay đổi, nên tôi đã thay đổi dự định.
+   JP: 予定が変わったので、私は予定を変えるしました。
+731. VI: tôi bận cả ngày nên ra ngoài mua đồ là điều đương nhiên.
+   JP: 私 bận cả ngàyので、買い物に出かけるのは当然です。
+732. VI: đường bị kẹt xe nên thay đổi dự định là điều đương nhiên.
+   JP: 道路が渋滞していたので、予定を変えるのは当然です。
+733. VI: Tôi nghĩ rằng tôi quên mang ví, nhưng cố gắng hết sức.
+   JP: 私 quên mang víと思いましたが、全力を尽くす。
+734. VI: Tôi nghĩ rằng tôi phải làm thêm, nhưng đi khám bác sĩ.
+   JP: 私 phải làm thêmと思いましたが、病院に行く。
+735. VI: Vì tôi phải làm thêm nên không thể ra ngoài mua đồ.
+   JP: 私 phải làm thêmので、買い物に出かけることができませんでした。
+736. VI: Tôi nghĩ rằng tôi bận cả ngày, nhưng liên lạc với thầy giáo.
+   JP: 私 bận cả ngàyと思いましたが、先生に連絡する。
+737. VI: tôi phải làm thêm nên tới trường đúng giờ là điều đương nhiên.
+   JP: 私 phải làm thêmので、時間通りに学校へ行くのは当然です。
+738. VI: Tôi định xin lỗi mọi người, nhưng do tôi quên mang ví.
+   JP: 私 quên mang víため、皆に謝るつもりでした。
+739. VI: Bởi vì kế hoạch thay đổi, nên tôi đã đi khám bác sĩ.
+   JP: 予定が変わったので、私は病院に行くしました。
+740. VI: Tôi định tới trường đúng giờ, nhưng do tôi bận cả ngày.
+   JP: 私 bận cả ngàyため、時間通りに学校へ行くつもりでした。
+741. VI: Ngay khi tôi phải làm thêm, tôi gặp bạn vào chiều nay.
+   JP: 私 phải làm thêmとすぐに、今日の午後友達に会う。
+742. VI: xe buýt đến muộn nên tới trường đúng giờ là điều đương nhiên.
+   JP: バスが遅れたので、時間通りに学校へ行くのは当然です。
+743. VI: Bởi vì đường bị kẹt xe, nên tôi đã đi khám bác sĩ.
+   JP: 道路が渋滞していたので、私は病院に行くしました。
+744. VI: Ngay khi kế hoạch thay đổi, tôi ra ngoài mua đồ.
+   JP: 予定が変わったとすぐに、買い物に出かける。
+745. VI: Tôi nghĩ rằng tôi chưa kịp chuẩn bị, nhưng ra ngoài mua đồ.
+   JP: 私 chưa kịp chuẩn bịと思いましたが、買い物に出かける。
+746. VI: Ngay khi tôi chưa kịp chuẩn bị, tôi cố gắng hết sức.
+   JP: 私 chưa kịp chuẩn bịとすぐに、全力を尽くす。
+747. VI: trời mưa rất to nên xin lỗi mọi người là điều đương nhiên.
+   JP: 大雨が降っているので、皆に謝るのは当然です。
+748. VI: Vì đường bị kẹt xe nên không thể ra ngoài mua đồ.
+   JP: 道路が渋滞していたので、買い物に出かけることができませんでした。
+749. VI: Tôi định gặp bạn vào chiều nay, nhưng do tôi phải làm thêm.
+   JP: 私 phải làm thêmため、今日の午後友達に会うつもりでした。
+750. VI: Mặc dù xe buýt đến muộn, tôi vẫn ra ngoài mua đồ.
+   JP: バスが遅れたのに、私はまだ買い物に出かける。
+752. VI: Mặc dù trời mưa rất to, tôi vẫn gặp bạn vào chiều nay.
+   JP: 大雨が降っているのに、私はまだ今日の午後友達に会う。
+753. VI: Tôi định thay đổi dự định, nhưng do tôi chưa kịp chuẩn bị.
+   JP: 私 chưa kịp chuẩn bịため、予定を変えるつもりでした。
+754. VI: Hình như tôi chưa kịp chuẩn bị, cho nên ra ngoài mua đồ.
+   JP: 私 chưa kịp chuẩn bịようで、買い物に出かける。
+755. VI: Vì đường bị kẹt xe nên không thể xin lỗi mọi người.
+   JP: 道路が渋滞していたので、皆に謝ることができませんでした。
+756. VI: Nếu tôi phải làm thêm, thì tôi sẽ liên lạc với thầy giáo.
+   JP: 私 phải làm thêmなら、私は先生に連絡するつもりです。
+757. VI: Nếu trời mưa rất to, thì tôi sẽ xin lỗi mọi người.
+   JP: 大雨が降っているなら、私は皆に謝るつもりです。
+758. VI: đường bị kẹt xe nên gặp bạn vào chiều nay là điều đương nhiên.
+   JP: 道路が渋滞していたので、今日の午後友達に会うのは当然です。
+759. VI: Bởi vì tôi phải làm thêm, nên tôi đã xin lỗi mọi người.
+   JP: 私 phải làm thêmので、私は皆に謝るしました。
+760. VI: Hình như tôi phải làm thêm, cho nên cố gắng hết sức.
+   JP: 私 phải làm thêmようで、全力を尽くす。
+761. VI: Bởi vì xe buýt đến muộn, nên tôi đã hoàn thành công việc.
+   JP: バスが遅れたので、私は仕事を終えるしました。
+762. VI: Tôi nghĩ rằng tôi phải làm thêm, nhưng ra ngoài mua đồ.
+   JP: 私 phải làm thêmと思いましたが、買い物に出かける。
+763. VI: Mặc dù tôi phải làm thêm, tôi vẫn hoàn thành công việc.
+   JP: 私 phải làm thêmのに、私はまだ仕事を終える。
+764. VI: Ngay khi tôi bận cả ngày, tôi ra ngoài mua đồ.
+   JP: 私 bận cả ngàyとすぐに、買い物に出かける。
+765. VI: Mặc dù đường bị kẹt xe, tôi vẫn tới trường đúng giờ.
+   JP: 道路が渋滞していたのに、私はまだ時間通りに学校へ行く。
+766. VI: tôi bận cả ngày nên ra ngoài mua đồ là điều đương nhiên.
+   JP: 私 bận cả ngàyので、買い物に出かけるのは当然です。
+767. VI: xe buýt đến muộn nên nghỉ ngơi một chút là điều đương nhiên.
+   JP: バスが遅れたので、少し休むのは当然です。
+768. VI: Mặc dù tôi quên mang ví, tôi vẫn nghỉ ngơi một chút.
+   JP: 私 quên mang víのに、私はまだ少し休む。
+770. VI: Không chỉ kế hoạch thay đổi mà còn gặp bạn vào chiều nay.
+   JP: 予定が変わっただけでなく、今日の午後友達に会う。
+772. VI: Bởi vì tôi quên mang ví, nên tôi đã gặp bạn vào chiều nay.
+   JP: 私 quên mang víので、私は今日の午後友達に会うしました。
+773. VI: Mặc dù đường bị kẹt xe, tôi vẫn tới trường đúng giờ.
+   JP: 道路が渋滞していたのに、私はまだ時間通りに学校へ行く。
+774. VI: Mặc dù tôi bận cả ngày, tôi vẫn liên lạc với thầy giáo.
+   JP: 私 bận cả ngàyのに、私はまだ先生に連絡する。
+775. VI: Tôi nghĩ rằng tôi quên mang ví, nhưng đi khám bác sĩ.
+   JP: 私 quên mang víと思いましたが、病院に行く。
+776. VI: Hình như trời mưa rất to, cho nên xin lỗi mọi người.
+   JP: 大雨が降っているようで、皆に謝る。
+778. VI: Bởi vì tôi phải làm thêm, nên tôi đã nghỉ ngơi một chút.
+   JP: 私 phải làm thêmので、私は少し休むしました。
+779. VI: Nếu xe buýt đến muộn, thì tôi sẽ cố gắng hết sức.
+   JP: バスが遅れたなら、私は全力を尽くすつもりです。
+780. VI: Hình như xe buýt đến muộn, cho nên đi khám bác sĩ.
+   JP: バスが遅れたようで、病院に行く。
+781. VI: Ngay khi tôi phải làm thêm, tôi ra ngoài mua đồ.
+   JP: 私 phải làm thêmとすぐに、買い物に出かける。
+782. VI: tôi chưa kịp chuẩn bị nên đi khám bác sĩ là điều đương nhiên.
+   JP: 私 chưa kịp chuẩn bịので、病院に行くのは当然です。
+783. VI: Tôi nghĩ rằng kế hoạch thay đổi, nhưng tới trường đúng giờ.
+   JP: 予定が変わったと思いましたが、時間通りに学校へ行く。
+784. VI: Nếu kế hoạch thay đổi, thì tôi sẽ liên lạc với thầy giáo.
+   JP: 予定が変わったなら、私は先生に連絡するつもりです。
+785. VI: Mặc dù tôi quên mang ví, tôi vẫn đi khám bác sĩ.
+   JP: 私 quên mang víのに、私はまだ病院に行く。
+786. VI: Không chỉ bài kiểm tra khó hơn dự đoán mà còn thay đổi dự định.
+   JP: テストが予想以上に難しかっただけでなく、予定を変える。
+787. VI: Bởi vì bài kiểm tra khó hơn dự đoán, nên tôi đã ra ngoài mua đồ.
+   JP: テストが予想以上に難しかったので、私は買い物に出かけるしました。
+788. VI: Nếu trời mưa rất to, thì tôi sẽ tới trường đúng giờ.
+   JP: 大雨が降っているなら、私は時間通りに学校へ行くつもりです。
+789. VI: Nếu trời mưa rất to, thì tôi sẽ xin lỗi mọi người.
+   JP: 大雨が降っているなら、私は皆に謝るつもりです。
+790. VI: Tôi định xin lỗi mọi người, nhưng do bài kiểm tra khó hơn dự đoán.
+   JP: テストが予想以上に難しかったため、皆に謝るつもりでした。
+791. VI: Hình như tôi quên mang ví, cho nên đi khám bác sĩ.
+   JP: 私 quên mang víようで、病院に行く。
+792. VI: Tôi nghĩ rằng đường bị kẹt xe, nhưng nghỉ ngơi một chút.
+   JP: 道路が渋滞していたと思いましたが、少し休む。
+793. VI: Tôi định tới trường đúng giờ, nhưng do xe buýt đến muộn.
+   JP: バスが遅れたため、時間通りに学校へ行くつもりでした。
+794. VI: xe buýt đến muộn nên cố gắng hết sức là điều đương nhiên.
+   JP: バスが遅れたので、全力を尽くすのは当然です。
+795. VI: Tôi định liên lạc với thầy giáo, nhưng do tôi quên mang ví.
+   JP: 私 quên mang víため、先生に連絡するつもりでした。
+796. VI: tôi phải làm thêm nên đi khám bác sĩ là điều đương nhiên.
+   JP: 私 phải làm thêmので、病院に行くのは当然です。
+797. VI: tôi chưa kịp chuẩn bị nên liên lạc với thầy giáo là điều đương nhiên.
+   JP: 私 chưa kịp chuẩn bịので、先生に連絡するのは当然です。
+798. VI: Nếu tôi chưa kịp chuẩn bị, thì tôi sẽ hoàn thành công việc.
+   JP: 私 chưa kịp chuẩn bịなら、私は仕事を終えるつもりです。
+799. VI: tôi bận cả ngày nên đi khám bác sĩ là điều đương nhiên.
+   JP: 私 bận cả ngàyので、病院に行くのは当然です。
+800. VI: Tôi nghĩ rằng kế hoạch thay đổi, nhưng liên lạc với thầy giáo.
+   JP: 予定が変わったと思いましたが、先生に連絡する。
+801. VI: xe buýt đến muộn nên đi khám bác sĩ là điều đương nhiên.
+   JP: バスが遅れたので、病院に行くのは当然です。
+802. VI: Mặc dù bài kiểm tra khó hơn dự đoán, tôi vẫn ra ngoài mua đồ.
+   JP: テストが予想以上に難しかったのに、私はまだ買い物に出かける。
+803. VI: Nếu tôi chưa kịp chuẩn bị, thì tôi sẽ tới trường đúng giờ.
+   JP: 私 chưa kịp chuẩn bịなら、私は時間通りに学校へ行くつもりです。
+804. VI: Hình như tôi chưa kịp chuẩn bị, cho nên cố gắng hết sức.
+   JP: 私 chưa kịp chuẩn bịようで、全力を尽くす。
+805. VI: Bởi vì tôi chưa kịp chuẩn bị, nên tôi đã liên lạc với thầy giáo.
+   JP: 私 chưa kịp chuẩn bịので、私は先生に連絡するしました。
+806. VI: trời mưa rất to nên thay đổi dự định là điều đương nhiên.
+   JP: 大雨が降っているので、予定を変えるのは当然です。
+807. VI: Không chỉ bài kiểm tra khó hơn dự đoán mà còn hoàn thành công việc.
+   JP: テストが予想以上に難しかっただけでなく、仕事を終える。
+808. VI: Nếu đường bị kẹt xe, thì tôi sẽ đi khám bác sĩ.
+   JP: 道路が渋滞していたなら、私は病院に行くつもりです。
+809. VI: Tôi nghĩ rằng đường bị kẹt xe, nhưng nghỉ ngơi một chút.
+   JP: 道路が渋滞していたと思いましたが、少し休む。
+810. VI: Tôi định thay đổi dự định, nhưng do trời mưa rất to.
+   JP: 大雨が降っているため、予定を変えるつもりでした。
+811. VI: Tôi định cố gắng hết sức, nhưng do đường bị kẹt xe.
+   JP: 道路が渋滞していたため、全力を尽くすつもりでした。
+812. VI: xe buýt đến muộn nên ra ngoài mua đồ là điều đương nhiên.
+   JP: バスが遅れたので、買い物に出かけるのは当然です。
+813. VI: Tôi nghĩ rằng trời mưa rất to, nhưng ra ngoài mua đồ.
+   JP: 大雨が降っていると思いましたが、買い物に出かける。
+815. VI: Tôi định cố gắng hết sức, nhưng do xe buýt đến muộn.
+   JP: バスが遅れたため、全力を尽くすつもりでした。
+816. VI: Mặc dù tôi phải làm thêm, tôi vẫn liên lạc với thầy giáo.
+   JP: 私 phải làm thêmのに、私はまだ先生に連絡する。
+817. VI: Không chỉ tôi quên mang ví mà còn ra ngoài mua đồ.
+   JP: 私 quên mang víだけでなく、買い物に出かける。
+818. VI: tôi quên mang ví nên cố gắng hết sức là điều đương nhiên.
+   JP: 私 quên mang víので、全力を尽くすのは当然です。
+819. VI: tôi quên mang ví nên tới trường đúng giờ là điều đương nhiên.
+   JP: 私 quên mang víので、時間通りに学校へ行くのは当然です。
+820. VI: Nếu trời mưa rất to, thì tôi sẽ cố gắng hết sức.
+   JP: 大雨が降っているなら、私は全力を尽くすつもりです。
+821. VI: Hình như tôi quên mang ví, cho nên xin lỗi mọi người.
+   JP: 私 quên mang víようで、皆に謝る。
+822. VI: Nếu tôi quên mang ví, thì tôi sẽ nghỉ ngơi một chút.
+   JP: 私 quên mang víなら、私は少し休むつもりです。
+823. VI: Tôi định thay đổi dự định, nhưng do tôi quên mang ví.
+   JP: 私 quên mang víため、予定を変えるつもりでした。
+824. VI: Bởi vì xe buýt đến muộn, nên tôi đã nghỉ ngơi một chút.
+   JP: バスが遅れたので、私は少し休むしました。
+825. VI: Tôi nghĩ rằng đường bị kẹt xe, nhưng tới trường đúng giờ.
+   JP: 道路が渋滞していたと思いましたが、時間通りに学校へ行く。
+826. VI: Ngay khi đường bị kẹt xe, tôi đi khám bác sĩ.
+   JP: 道路が渋滞していたとすぐに、病院に行く。
+827. VI: Không chỉ trời mưa rất to mà còn gặp bạn vào chiều nay.
+   JP: 大雨が降っているだけでなく、今日の午後友達に会う。
+828. VI: Vì tôi chưa kịp chuẩn bị nên không thể tới trường đúng giờ.
+   JP: 私 chưa kịp chuẩn bịので、時間通りに学校へ行くことができませんでした。
+829. VI: Bởi vì tôi quên mang ví, nên tôi đã cố gắng hết sức.
+   JP: 私 quên mang víので、私は全力を尽くすしました。
+831. VI: Tôi nghĩ rằng bài kiểm tra khó hơn dự đoán, nhưng liên lạc với thầy giáo.
+   JP: テストが予想以上に難しかったと思いましたが、先生に連絡する。
+832. VI: Tôi nghĩ rằng tôi quên mang ví, nhưng gặp bạn vào chiều nay.
+   JP: 私 quên mang víと思いましたが、今日の午後友達に会う。
+833. VI: Không chỉ bài kiểm tra khó hơn dự đoán mà còn thay đổi dự định.
+   JP: テストが予想以上に難しかっただけでなく、予定を変える。
+834. VI: Tôi nghĩ rằng tôi bận cả ngày, nhưng cố gắng hết sức.
+   JP: 私 bận cả ngàyと思いましたが、全力を尽くす。
+837. VI: Bởi vì xe buýt đến muộn, nên tôi đã ra ngoài mua đồ.
+   JP: バスが遅れたので、私は買い物に出かけるしました。
+838. VI: Không chỉ tôi phải làm thêm mà còn tới trường đúng giờ.
+   JP: 私 phải làm thêmだけでなく、時間通りに学校へ行く。
+841. VI: Bởi vì tôi phải làm thêm, nên tôi đã ra ngoài mua đồ.
+   JP: 私 phải làm thêmので、私は買い物に出かけるしました。
+842. VI: Nếu bài kiểm tra khó hơn dự đoán, thì tôi sẽ liên lạc với thầy giáo.
+   JP: テストが予想以上に難しかったなら、私は先生に連絡するつもりです。
+843. VI: Tôi định hoàn thành công việc, nhưng do tôi phải làm thêm.
+   JP: 私 phải làm thêmため、仕事を終えるつもりでした。
+845. VI: Bởi vì đường bị kẹt xe, nên tôi đã xin lỗi mọi người.
+   JP: 道路が渋滞していたので、私は皆に謝るしました。
+846. VI: Bởi vì tôi chưa kịp chuẩn bị, nên tôi đã hoàn thành công việc.
+   JP: 私 chưa kịp chuẩn bịので、私は仕事を終えるしました。
+847. VI: Tôi nghĩ rằng tôi bận cả ngày, nhưng ra ngoài mua đồ.
+   JP: 私 bận cả ngàyと思いましたが、買い物に出かける。
+848. VI: đường bị kẹt xe nên xin lỗi mọi người là điều đương nhiên.
+   JP: 道路が渋滞していたので、皆に謝るのは当然です。
+849. VI: Không chỉ đường bị kẹt xe mà còn hoàn thành công việc.
+   JP: 道路が渋滞していただけでなく、仕事を終える。
+850. VI: Ngay khi kế hoạch thay đổi, tôi xin lỗi mọi người.
+   JP: 予定が変わったとすぐに、皆に謝る。
+851. VI: Mặc dù xe buýt đến muộn, tôi vẫn hoàn thành công việc.
+   JP: バスが遅れたのに、私はまだ仕事を終える。
+852. VI: Mặc dù xe buýt đến muộn, tôi vẫn ra ngoài mua đồ.
+   JP: バスが遅れたのに、私はまだ買い物に出かける。
+853. VI: Không chỉ đường bị kẹt xe mà còn đi khám bác sĩ.
+   JP: 道路が渋滞していただけでなく、病院に行く。
+854. VI: Nếu tôi bận cả ngày, thì tôi sẽ gặp bạn vào chiều nay.
+   JP: 私 bận cả ngàyなら、私は今日の午後友達に会うつもりです。
+856. VI: Nếu bài kiểm tra khó hơn dự đoán, thì tôi sẽ đi khám bác sĩ.
+   JP: テストが予想以上に難しかったなら、私は病院に行くつもりです。
+857. VI: đường bị kẹt xe nên gặp bạn vào chiều nay là điều đương nhiên.
+   JP: 道路が渋滞していたので、今日の午後友達に会うのは当然です。
+858. VI: Tôi định nghỉ ngơi một chút, nhưng do trời mưa rất to.
+   JP: 大雨が降っているため、少し休むつもりでした。
+859. VI: Hình như tôi bận cả ngày, cho nên cố gắng hết sức.
+   JP: 私 bận cả ngàyようで、全力を尽くす。
+860. VI: Mặc dù trời mưa rất to, tôi vẫn xin lỗi mọi người.
+   JP: 大雨が降っているのに、私はまだ皆に謝る。
+861. VI: Vì tôi quên mang ví nên không thể xin lỗi mọi người.
+   JP: 私 quên mang víので、皆に謝ることができませんでした。
+862. VI: Ngay khi tôi quên mang ví, tôi nghỉ ngơi một chút.
+   JP: 私 quên mang víとすぐに、少し休む。
+863. VI: đường bị kẹt xe nên gặp bạn vào chiều nay là điều đương nhiên.
+   JP: 道路が渋滞していたので、今日の午後友達に会うのは当然です。
+864. VI: Ngay khi xe buýt đến muộn, tôi hoàn thành công việc.
+   JP: バスが遅れたとすぐに、仕事を終える。
+865. VI: Nếu trời mưa rất to, thì tôi sẽ thay đổi dự định.
+   JP: 大雨が降っているなら、私は予定を変えるつもりです。
+866. VI: tôi quên mang ví nên nghỉ ngơi một chút là điều đương nhiên.
+   JP: 私 quên mang víので、少し休むのは当然です。
+867. VI: Ngay khi tôi bận cả ngày, tôi ra ngoài mua đồ.
+   JP: 私 bận cả ngàyとすぐに、買い物に出かける。
+868. VI: Vì kế hoạch thay đổi nên không thể tới trường đúng giờ.
+   JP: 予定が変わったので、時間通りに学校へ行くことができませんでした。
+869. VI: Bởi vì trời mưa rất to, nên tôi đã đi khám bác sĩ.
+   JP: 大雨が降っているので、私は病院に行くしました。
+870. VI: Tôi nghĩ rằng tôi quên mang ví, nhưng nghỉ ngơi một chút.
+   JP: 私 quên mang víと思いましたが、少し休む。
+871. VI: Ngay khi tôi chưa kịp chuẩn bị, tôi liên lạc với thầy giáo.
+   JP: 私 chưa kịp chuẩn bịとすぐに、先生に連絡する。
+872. VI: Tôi định hoàn thành công việc, nhưng do tôi quên mang ví.
+   JP: 私 quên mang víため、仕事を終えるつもりでした。
+873. VI: Bởi vì xe buýt đến muộn, nên tôi đã đi khám bác sĩ.
+   JP: バスが遅れたので、私は病院に行くしました。
+874. VI: Bởi vì trời mưa rất to, nên tôi đã hoàn thành công việc.
+   JP: 大雨が降っているので、私は仕事を終えるしました。
+875. VI: Tôi nghĩ rằng xe buýt đến muộn, nhưng thay đổi dự định.
+   JP: バスが遅れたと思いましたが、予定を変える。
+876. VI: Tôi định ra ngoài mua đồ, nhưng do tôi phải làm thêm.
+   JP: 私 phải làm thêmため、買い物に出かけるつもりでした。
+877. VI: Tôi định hoàn thành công việc, nhưng do bài kiểm tra khó hơn dự đoán.
+   JP: テストが予想以上に難しかったため、仕事を終えるつもりでした。
+878. VI: Ngay khi tôi phải làm thêm, tôi hoàn thành công việc.
+   JP: 私 phải làm thêmとすぐに、仕事を終える。
+879. VI: kế hoạch thay đổi nên liên lạc với thầy giáo là điều đương nhiên.
+   JP: 予定が変わったので、先生に連絡するのは当然です。
+881. VI: Vì trời mưa rất to nên không thể nghỉ ngơi một chút.
+   JP: 大雨が降っているので、少し休むことができませんでした。
+882. VI: Tôi định liên lạc với thầy giáo, nhưng do trời mưa rất to.
+   JP: 大雨が降っているため、先生に連絡するつもりでした。
+883. VI: Tôi nghĩ rằng xe buýt đến muộn, nhưng ra ngoài mua đồ.
+   JP: バスが遅れたと思いましたが、買い物に出かける。
+884. VI: Không chỉ xe buýt đến muộn mà còn gặp bạn vào chiều nay.
+   JP: バスが遅れただけでなく、今日の午後友達に会う。
+885. VI: Tôi nghĩ rằng tôi quên mang ví, nhưng liên lạc với thầy giáo.
+   JP: 私 quên mang víと思いましたが、先生に連絡する。
+887. VI: Tôi nghĩ rằng kế hoạch thay đổi, nhưng tới trường đúng giờ.
+   JP: 予定が変わったと思いましたが、時間通りに学校へ行く。
+889. VI: Nếu xe buýt đến muộn, thì tôi sẽ ra ngoài mua đồ.
+   JP: バスが遅れたなら、私は買い物に出かけるつもりです。
+890. VI: Vì tôi chưa kịp chuẩn bị nên không thể hoàn thành công việc.
+   JP: 私 chưa kịp chuẩn bịので、仕事を終えることができませんでした。
+891. VI: Bởi vì tôi phải làm thêm, nên tôi đã cố gắng hết sức.
+   JP: 私 phải làm thêmので、私は全力を尽くすしました。
+892. VI: Ngay khi kế hoạch thay đổi, tôi tới trường đúng giờ.
+   JP: 予定が変わったとすぐに、時間通りに学校へ行く。
+893. VI: Hình như tôi bận cả ngày, cho nên đi khám bác sĩ.
+   JP: 私 bận cả ngàyようで、病院に行く。
+894. VI: tôi chưa kịp chuẩn bị nên ra ngoài mua đồ là điều đương nhiên.
+   JP: 私 chưa kịp chuẩn bịので、買い物に出かけるのは当然です。
+895. VI: bài kiểm tra khó hơn dự đoán nên cố gắng hết sức là điều đương nhiên.
+   JP: テストが予想以上に難しかったので、全力を尽くすのは当然です。
+896. VI: Nếu xe buýt đến muộn, thì tôi sẽ thay đổi dự định.
+   JP: バスが遅れたなら、私は予定を変えるつもりです。
+897. VI: Bởi vì kế hoạch thay đổi, nên tôi đã xin lỗi mọi người.
+   JP: 予定が変わったので、私は皆に謝るしました。
+898. VI: Tôi nghĩ rằng bài kiểm tra khó hơn dự đoán, nhưng tới trường đúng giờ.
+   JP: テストが予想以上に難しかったと思いましたが、時間通りに学校へ行く。
+899. VI: Vì tôi chưa kịp chuẩn bị nên không thể đi khám bác sĩ.
+   JP: 私 chưa kịp chuẩn bịので、病院に行くことができませんでした。
+900. VI: Vì tôi chưa kịp chuẩn bị nên không thể hoàn thành công việc.
+   JP: 私 chưa kịp chuẩn bịので、仕事を終えることができませんでした。
+903. VI: Hình như tôi phải làm thêm, cho nên cố gắng hết sức.
+   JP: 私 phải làm thêmようで、全力を尽くす。
+904. VI: tôi bận cả ngày nên tới trường đúng giờ là điều đương nhiên.
+   JP: 私 bận cả ngàyので、時間通りに学校へ行くのは当然です。
+905. VI: tôi bận cả ngày nên hoàn thành công việc là điều đương nhiên.
+   JP: 私 bận cả ngàyので、仕事を終えるのは当然です。
+906. VI: Mặc dù tôi bận cả ngày, tôi vẫn tới trường đúng giờ.
+   JP: 私 bận cả ngàyのに、私はまだ時間通りに学校へ行く。
+907. VI: Hình như bài kiểm tra khó hơn dự đoán, cho nên đi khám bác sĩ.
+   JP: テストが予想以上に難しかったようで、病院に行く。
+908. VI: Nếu kế hoạch thay đổi, thì tôi sẽ ra ngoài mua đồ.
+   JP: 予定が変わったなら、私は買い物に出かけるつもりです。
+909. VI: tôi bận cả ngày nên liên lạc với thầy giáo là điều đương nhiên.
+   JP: 私 bận cả ngàyので、先生に連絡するのは当然です。
+910. VI: Vì đường bị kẹt xe nên không thể gặp bạn vào chiều nay.
+   JP: 道路が渋滞していたので、今日の午後友達に会うことができませんでした。
+911. VI: Không chỉ trời mưa rất to mà còn xin lỗi mọi người.
+   JP: 大雨が降っているだけでなく、皆に謝る。
+912. VI: Nếu đường bị kẹt xe, thì tôi sẽ cố gắng hết sức.
+   JP: 道路が渋滞していたなら、私は全力を尽くすつもりです。
+914. VI: Nếu bài kiểm tra khó hơn dự đoán, thì tôi sẽ nghỉ ngơi một chút.
+   JP: テストが予想以上に難しかったなら、私は少し休むつもりです。
+915. VI: Nếu xe buýt đến muộn, thì tôi sẽ đi khám bác sĩ.
+   JP: バスが遅れたなら、私は病院に行くつもりです。
+916. VI: Không chỉ tôi chưa kịp chuẩn bị mà còn xin lỗi mọi người.
+   JP: 私 chưa kịp chuẩn bịだけでなく、皆に謝る。
+919. VI: Bởi vì tôi bận cả ngày, nên tôi đã tới trường đúng giờ.
+   JP: 私 bận cả ngàyので、私は時間通りに学校へ行くしました。
+921. VI: trời mưa rất to nên xin lỗi mọi người là điều đương nhiên.
+   JP: 大雨が降っているので、皆に謝るのは当然です。
+922. VI: Không chỉ kế hoạch thay đổi mà còn hoàn thành công việc.
+   JP: 予定が変わっただけでなく、仕事を終える。
+925. VI: Vì tôi quên mang ví nên không thể tới trường đúng giờ.
+   JP: 私 quên mang víので、時間通りに学校へ行くことができませんでした。
+926. VI: Mặc dù tôi chưa kịp chuẩn bị, tôi vẫn ra ngoài mua đồ.
+   JP: 私 chưa kịp chuẩn bịのに、私はまだ買い物に出かける。
+927. VI: Ngay khi tôi bận cả ngày, tôi liên lạc với thầy giáo.
+   JP: 私 bận cả ngàyとすぐに、先生に連絡する。
+928. VI: Không chỉ tôi quên mang ví mà còn xin lỗi mọi người.
+   JP: 私 quên mang víだけでなく、皆に謝る。
+930. VI: Nếu đường bị kẹt xe, thì tôi sẽ xin lỗi mọi người.
+   JP: 道路が渋滞していたなら、私は皆に謝るつもりです。
+931. VI: kế hoạch thay đổi nên tới trường đúng giờ là điều đương nhiên.
+   JP: 予定が変わったので、時間通りに学校へ行くのは当然です。
+932. VI: Ngay khi kế hoạch thay đổi, tôi xin lỗi mọi người.
+   JP: 予定が変わったとすぐに、皆に謝る。
+933. VI: Ngay khi bài kiểm tra khó hơn dự đoán, tôi hoàn thành công việc.
+   JP: テストが予想以上に難しかったとすぐに、仕事を終える。
+934. VI: đường bị kẹt xe nên hoàn thành công việc là điều đương nhiên.
+   JP: 道路が渋滞していたので、仕事を終えるのは当然です。
+935. VI: Bởi vì tôi phải làm thêm, nên tôi đã thay đổi dự định.
+   JP: 私 phải làm thêmので、私は予定を変えるしました。
+936. VI: Không chỉ tôi phải làm thêm mà còn hoàn thành công việc.
+   JP: 私 phải làm thêmだけでなく、仕事を終える。
+937. VI: trời mưa rất to nên ra ngoài mua đồ là điều đương nhiên.
+   JP: 大雨が降っているので、買い物に出かけるのは当然です。
+939. VI: Mặc dù kế hoạch thay đổi, tôi vẫn xin lỗi mọi người.
+   JP: 予定が変わったのに、私はまだ皆に謝る。
+940. VI: Hình như tôi quên mang ví, cho nên thay đổi dự định.
+   JP: 私 quên mang víようで、予定を変える。
+941. VI: Mặc dù tôi bận cả ngày, tôi vẫn thay đổi dự định.
+   JP: 私 bận cả ngàyのに、私はまだ予定を変える。
+942. VI: Tôi nghĩ rằng tôi bận cả ngày, nhưng đi khám bác sĩ.
+   JP: 私 bận cả ngàyと思いましたが、病院に行く。
+943. VI: Hình như tôi bận cả ngày, cho nên gặp bạn vào chiều nay.
+   JP: 私 bận cả ngàyようで、今日の午後友達に会う。
+944. VI: Vì tôi chưa kịp chuẩn bị nên không thể cố gắng hết sức.
+   JP: 私 chưa kịp chuẩn bịので、全力を尽くすことができませんでした。
+945. VI: Nếu đường bị kẹt xe, thì tôi sẽ xin lỗi mọi người.
+   JP: 道路が渋滞していたなら、私は皆に謝るつもりです。
+946. VI: Vì trời mưa rất to nên không thể ra ngoài mua đồ.
+   JP: 大雨が降っているので、買い物に出かけることができませんでした。
+947. VI: Tôi nghĩ rằng tôi bận cả ngày, nhưng liên lạc với thầy giáo.
+   JP: 私 bận cả ngàyと思いましたが、先生に連絡する。
+948. VI: Ngay khi tôi phải làm thêm, tôi đi khám bác sĩ.
+   JP: 私 phải làm thêmとすぐに、病院に行く。
+949. VI: Nếu đường bị kẹt xe, thì tôi sẽ đi khám bác sĩ.
+   JP: 道路が渋滞していたなら、私は病院に行くつもりです。
+950. VI: Hình như tôi bận cả ngày, cho nên cố gắng hết sức.
+   JP: 私 bận cả ngàyようで、全力を尽くす。
+951. VI: tôi bận cả ngày nên liên lạc với thầy giáo là điều đương nhiên.
+   JP: 私 bận cả ngàyので、先生に連絡するのは当然です。
+952. VI: Tôi nghĩ rằng bài kiểm tra khó hơn dự đoán, nhưng gặp bạn vào chiều nay.
+   JP: テストが予想以上に難しかったと思いましたが、今日の午後友達に会う。
+953. VI: tôi phải làm thêm nên gặp bạn vào chiều nay là điều đương nhiên.
+   JP: 私 phải làm thêmので、今日の午後友達に会うのは当然です。
+954. VI: Hình như đường bị kẹt xe, cho nên hoàn thành công việc.
+   JP: 道路が渋滞していたようで、仕事を終える。
+955. VI: tôi phải làm thêm nên hoàn thành công việc là điều đương nhiên.
+   JP: 私 phải làm thêmので、仕事を終えるのは当然です。
+956. VI: Tôi nghĩ rằng tôi phải làm thêm, nhưng hoàn thành công việc.
+   JP: 私 phải làm thêmと思いましたが、仕事を終える。
+957. VI: Ngay khi bài kiểm tra khó hơn dự đoán, tôi cố gắng hết sức.
+   JP: テストが予想以上に難しかったとすぐに、全力を尽くす。
+958. VI: tôi phải làm thêm nên xin lỗi mọi người là điều đương nhiên.
+   JP: 私 phải làm thêmので、皆に謝るのは当然です。
+959. VI: Không chỉ tôi phải làm thêm mà còn cố gắng hết sức.
+   JP: 私 phải làm thêmだけでなく、全力を尽くす。
+960. VI: Nếu bài kiểm tra khó hơn dự đoán, thì tôi sẽ tới trường đúng giờ.
+   JP: テストが予想以上に難しかったなら、私は時間通りに学校へ行くつもりです。
+961. VI: xe buýt đến muộn nên nghỉ ngơi một chút là điều đương nhiên.
+   JP: バスが遅れたので、少し休むのは当然です。
+962. VI: Không chỉ đường bị kẹt xe mà còn tới trường đúng giờ.
+   JP: 道路が渋滞していただけでなく、時間通りに学校へ行く。
+963. VI: Bởi vì đường bị kẹt xe, nên tôi đã ra ngoài mua đồ.
+   JP: 道路が渋滞していたので、私は買い物に出かけるしました。
+964. VI: Ngay khi tôi phải làm thêm, tôi cố gắng hết sức.
+   JP: 私 phải làm thêmとすぐに、全力を尽くす。
+966. VI: Mặc dù trời mưa rất to, tôi vẫn thay đổi dự định.
+   JP: 大雨が降っているのに、私はまだ予定を変える。
+967. VI: Tôi nghĩ rằng xe buýt đến muộn, nhưng ra ngoài mua đồ.
+   JP: バスが遅れたと思いましたが、買い物に出かける。
+968. VI: Tôi nghĩ rằng kế hoạch thay đổi, nhưng xin lỗi mọi người.
+   JP: 予定が変わったと思いましたが、皆に謝る。
+969. VI: Tôi nghĩ rằng đường bị kẹt xe, nhưng hoàn thành công việc.
+   JP: 道路が渋滞していたと思いましたが、仕事を終える。
+971. VI: Không chỉ tôi phải làm thêm mà còn ra ngoài mua đồ.
+   JP: 私 phải làm thêmだけでなく、買い物に出かける。
+972. VI: Tôi nghĩ rằng tôi phải làm thêm, nhưng nghỉ ngơi một chút.
+   JP: 私 phải làm thêmと思いましたが、少し休む。
+973. VI: Ngay khi trời mưa rất to, tôi gặp bạn vào chiều nay.
+   JP: 大雨が降っているとすぐに、今日の午後友達に会う。
+974. VI: Ngay khi bài kiểm tra khó hơn dự đoán, tôi gặp bạn vào chiều nay.
+   JP: テストが予想以上に難しかったとすぐに、今日の午後友達に会う。
+975. VI: Tôi định cố gắng hết sức, nhưng do xe buýt đến muộn.
+   JP: バスが遅れたため、全力を尽くすつもりでした。
+976. VI: Nếu kế hoạch thay đổi, thì tôi sẽ đi khám bác sĩ.
+   JP: 予定が変わったなら、私は病院に行くつもりです。
+978. VI: xe buýt đến muộn nên đi khám bác sĩ là điều đương nhiên.
+   JP: バスが遅れたので、病院に行くのは当然です。
+979. VI: Tôi định gặp bạn vào chiều nay, nhưng do bài kiểm tra khó hơn dự đoán.
+   JP: テストが予想以上に難しかったため、今日の午後友達に会うつもりでした。
+980. VI: Ngay khi tôi bận cả ngày, tôi ra ngoài mua đồ.
+   JP: 私 bận cả ngàyとすぐに、買い物に出かける。
+981. VI: Tôi định xin lỗi mọi người, nhưng do tôi quên mang ví.
+   JP: 私 quên mang víため、皆に謝るつもりでした。
+982. VI: Nếu xe buýt đến muộn, thì tôi sẽ hoàn thành công việc.
+   JP: バスが遅れたなら、私は仕事を終えるつもりです。
+983. VI: Vì trời mưa rất to nên không thể ra ngoài mua đồ.
+   JP: 大雨が降っているので、買い物に出かけることができませんでした。
+984. VI: Không chỉ xe buýt đến muộn mà còn cố gắng hết sức.
+   JP: バスが遅れただけでなく、全力を尽くす。
+985. VI: Tôi nghĩ rằng tôi bận cả ngày, nhưng tới trường đúng giờ.
+   JP: 私 bận cả ngàyと思いましたが、時間通りに学校へ行く。
+986. VI: Vì đường bị kẹt xe nên không thể đi khám bác sĩ.
+   JP: 道路が渋滞していたので、病院に行くことができませんでした。
+987. VI: Mặc dù tôi bận cả ngày, tôi vẫn nghỉ ngơi một chút.
+   JP: 私 bận cả ngàyのに、私はまだ少し休む。
+988. VI: Mặc dù đường bị kẹt xe, tôi vẫn cố gắng hết sức.
+   JP: 道路が渋滞していたのに、私はまだ全力を尽くす。
+989. VI: Hình như trời mưa rất to, cho nên đi khám bác sĩ.
+   JP: 大雨が降っているようで、病院に行く。
+990. VI: tôi quên mang ví nên nghỉ ngơi một chút là điều đương nhiên.
+   JP: 私 quên mang víので、少し休むのは当然です。
+991. VI: Bởi vì đường bị kẹt xe, nên tôi đã ra ngoài mua đồ.
+   JP: 道路が渋滞していたので、私は買い物に出かけるしました。
+992. VI: Tôi định cố gắng hết sức, nhưng do đường bị kẹt xe.
+   JP: 道路が渋滞していたため、全力を尽くすつもりでした。
+993. VI: Không chỉ tôi quên mang ví mà còn ra ngoài mua đồ.
+   JP: 私 quên mang víだけでなく、買い物に出かける。
+994. VI: Ngay khi tôi quên mang ví, tôi nghỉ ngơi một chút.
+   JP: 私 quên mang víとすぐに、少し休む。
+996. VI: Tôi định đi khám bác sĩ, nhưng do kế hoạch thay đổi.
+   JP: 予定が変わったため、病院に行くつもりでした。
+997. VI: Hình như tôi bận cả ngày, cho nên thay đổi dự định.
+   JP: 私 bận cả ngàyようで、予定を変える。
+998. VI: tôi chưa kịp chuẩn bị nên cố gắng hết sức là điều đương nhiên.
+   JP: 私 chưa kịp chuẩn bịので、全力を尽くすのは当然です。
+999. VI: Ngay khi tôi phải làm thêm, tôi đi khám bác sĩ.
+   JP: 私 phải làm thêmとすぐに、病院に行く。
+1000. VI: Bởi vì xe buýt đến muộn, nên tôi đã tới trường đúng giờ.
+   JP: バスが遅れたので、私は時間通りに学校へ行くしました。

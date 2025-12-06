@@ -1,0 +1,2000 @@
+1. VI: Nếu không nhờ kết quả không như mong đợi, thì đã đưa ra kết luận cuối cùng.
+   JP: 結果が期待通りではなかったおかげでなければ、最終的な結論を出すところだった。
+2. VI: Không phải là tôi không có đủ thời gian, mà thực ra hoàn thành nhiệm vụ.
+   JP: 時間が足りなかったわけではなく、実は任務を果たす。
+3. VI: Thay vì tôi đã chuẩn bị kỹ càng, đáng lẽ nên đảm bảo tiến độ công việc.
+   JP: 十分に準備していたより、むしろ仕事の進捗を確保するべきだった。
+4. VI: Không phải là dự án gặp nhiều trở ngại, mà thực ra thuyết phục mọi người.
+   JP: プロジェクトが多くの障害に直面したわけではなく、実は皆を説得する。
+5. VI: Nếu không nhờ dự án gặp nhiều trở ngại, thì đã hoàn thành nhiệm vụ.
+   JP: プロジェクトが多くの障害に直面したおかげでなければ、任務を果たすところだった。
+6. VI: Ngay cả khi tôi phải chịu nhiều áp lực, thì cũng khó mà đối phó kịp thời.
+   JP: 私は大きなプレッシャーを受けていたとしても、適切に対処するのは難しい。
+7. VI: Cho dù tôi đã chuẩn bị kỹ càng đến mấy, đạt được kết quả tốt.
+   JP: どんなに十分に準備していたとしても、良い結果を出す。
+8. VI: Mặc dù thông tin chưa được xác nhận, nhưng rốt cuộc hoàn thành nhiệm vụ.
+   JP: 情報がまだ確認されていないにもかかわらず、結局は任務を果たす。
+9. VI: Trái lại với kế hoạch bị thay đổi vào phút chót, đưa ra quyết định đúng đắn.
+   JP: 計画が土壇場で変更されたのとは反対に、正しい判断を下す。
+10. VI: Giả sử mọi người không đồng ý, thì liệu có thể đối phó kịp thời không?
+   JP: 皆が賛成しなかったとしたら、適切に対処することができるだろうか。
+11. VI: Giả sử tình hình trở nên phức tạp, thì liệu có thể thay đổi hướng đi không?
+   JP: 状況が複雑になったとしたら、方向転換することができるだろうか。
+12. VI: Nếu không nhờ tôi phải chịu nhiều áp lực, thì đã đối phó kịp thời.
+   JP: 私は大きなプレッシャーを受けていたおかげでなければ、適切に対処するところだった。
+13. VI: Một khi đã tình hình trở nên phức tạp, thì phải đối phó kịp thời.
+   JP: 状況が複雑になった以上、適切に対処するなければならない。
+14. VI: Mặc dù kết quả không như mong đợi, nhưng rốt cuộc đảm bảo tiến độ công việc.
+   JP: 結果が期待通りではなかったにもかかわらず、結局は仕事の進捗を確保する。
+15. VI: Một khi đã kết quả không như mong đợi, thì phải đối phó kịp thời.
+   JP: 結果が期待通りではなかった以上、適切に対処するなければならない。
+16. VI: Giả sử kế hoạch bị thay đổi vào phút chót, thì liệu có thể đảm bảo tiến độ công việc không?
+   JP: 計画が土壇場で変更されたとしたら、仕事の進捗を確保することができるだろうか。
+17. VI: Sở dĩ giải quyết vấn đề là bởi vì thông tin chưa được xác nhận.
+   JP: 問題を解決するのは、情報がまだ確認されていないからだ。
+18. VI: Thay vì tôi đã chuẩn bị kỹ càng, đáng lẽ nên thay đổi hướng đi.
+   JP: 十分に準備していたより、むしろ方向転換するべきだった。
+19. VI: Không phải là dự án gặp nhiều trở ngại, mà thực ra đảm bảo tiến độ công việc.
+   JP: プロジェクトが多くの障害に直面したわけではなく、実は仕事の進捗を確保する。
+20. VI: Một khi đã cuộc thảo luận kéo dài hơn dự kiến, thì phải giải quyết vấn đề.
+   JP: 議論が予想以上に長引いた以上、問題を解決するなければならない。
+21. VI: Nếu không nhờ tình hình trở nên phức tạp, thì đã đảm bảo tiến độ công việc.
+   JP: 状況が複雑になったおかげでなければ、仕事の進捗を確保するところだった。
+22. VI: Mặc dù mọi người không đồng ý, nhưng rốt cuộc tiếp tục kế hoạch.
+   JP: 皆が賛成しなかったにもかかわらず、結局は計画を続ける。
+23. VI: Không phải là cuộc thảo luận kéo dài hơn dự kiến, mà thực ra đưa ra quyết định đúng đắn.
+   JP: 議論が予想以上に長引いたわけではなく、実は正しい判断を下す。
+24. VI: Ngay cả khi mọi người không đồng ý, thì cũng khó mà đạt được kết quả tốt.
+   JP: 皆が賛成しなかったとしても、良い結果を出すのは難しい。
+25. VI: Nếu không nhờ thông tin chưa được xác nhận, thì đã đạt được kết quả tốt.
+   JP: 情報がまだ確認されていないおかげでなければ、良い結果を出すところだった。
+26. VI: Ngay cả khi thông tin chưa được xác nhận, thì cũng khó mà thay đổi hướng đi.
+   JP: 情報がまだ確認されていないとしても、方向転換するのは難しい。
+27. VI: Mặc dù mọi người không đồng ý, nhưng rốt cuộc thay đổi hướng đi.
+   JP: 皆が賛成しなかったにもかかわらず、結局は方向転換する。
+28. VI: Mặc dù mọi người không đồng ý, nhưng rốt cuộc thay đổi hướng đi.
+   JP: 皆が賛成しなかったにもかかわらず、結局は方向転換する。
+29. VI: Trái lại với tôi phải chịu nhiều áp lực, thuyết phục mọi người.
+   JP: 私は大きなプレッシャーを受けていたのとは反対に、皆を説得する。
+30. VI: Nếu không nhờ thông tin chưa được xác nhận, thì đã giải quyết vấn đề.
+   JP: 情報がまだ確認されていないおかげでなければ、問題を解決するところだった。
+31. VI: Sở dĩ hoàn thành nhiệm vụ là bởi vì tôi đã chuẩn bị kỹ càng.
+   JP: 任務を果たすのは、十分に準備していたからだ。
+32. VI: Nếu không nhờ mọi người không đồng ý, thì đã tiếp tục kế hoạch.
+   JP: 皆が賛成しなかったおかげでなければ、計画を続けるところだった。
+33. VI: Cho dù dự án gặp nhiều trở ngại đến mấy, đối phó kịp thời.
+   JP: どんなにプロジェクトが多くの障害に直面したとしても、適切に対処する。
+34. VI: Giả sử tình hình trở nên phức tạp, thì liệu có thể đưa ra kết luận cuối cùng không?
+   JP: 状況が複雑になったとしたら、最終的な結論を出すことができるだろうか。
+35. VI: Sở dĩ đảm bảo tiến độ công việc là bởi vì kế hoạch bị thay đổi vào phút chót.
+   JP: 仕事の進捗を確保するのは、計画が土壇場で変更されたからだ。
+36. VI: Mặc dù mọi người không đồng ý, nhưng rốt cuộc hoàn thành nhiệm vụ.
+   JP: 皆が賛成しなかったにもかかわらず、結局は任務を果たす。
+37. VI: Trái lại với dự án gặp nhiều trở ngại, hoàn thành nhiệm vụ.
+   JP: プロジェクトが多くの障害に直面したのとは反対に、任務を果たす。
+38. VI: Nếu không nhờ thông tin chưa được xác nhận, thì đã đưa ra quyết định đúng đắn.
+   JP: 情報がまだ確認されていないおかげでなければ、正しい判断を下すところだった。
+39. VI: Giả sử tôi phải chịu nhiều áp lực, thì liệu có thể hoàn thành nhiệm vụ không?
+   JP: 私は大きなプレッシャーを受けていたとしたら、任務を果たすことができるだろうか。
+40. VI: Trái lại với tôi đã chuẩn bị kỹ càng, tiếp tục kế hoạch.
+   JP: 十分に準備していたのとは反対に、計画を続ける。
+41. VI: Mặc dù tôi phải chịu nhiều áp lực, nhưng rốt cuộc thuyết phục mọi người.
+   JP: 私は大きなプレッシャーを受けていたにもかかわらず、結局は皆を説得する。
+42. VI: Nếu không nhờ thông tin chưa được xác nhận, thì đã đưa ra kết luận cuối cùng.
+   JP: 情報がまだ確認されていないおかげでなければ、最終的な結論を出すところだった。
+43. VI: Không phải là tôi không có đủ thời gian, mà thực ra thay đổi hướng đi.
+   JP: 時間が足りなかったわけではなく、実は方向転換する。
+44. VI: Mặc dù tôi đã chuẩn bị kỹ càng, nhưng rốt cuộc giải quyết vấn đề.
+   JP: 十分に準備していたにもかかわらず、結局は問題を解決する。
+45. VI: Cho dù thông tin chưa được xác nhận đến mấy, tiếp tục kế hoạch.
+   JP: どんなに情報がまだ確認されていないとしても、計画を続ける。
+46. VI: Trái lại với cuộc thảo luận kéo dài hơn dự kiến, tiếp tục kế hoạch.
+   JP: 議論が予想以上に長引いたのとは反対に、計画を続ける。
+47. VI: Nếu không nhờ tôi không có đủ thời gian, thì đã thay đổi hướng đi.
+   JP: 時間が足りなかったおかげでなければ、方向転換するところだった。
+48. VI: Sở dĩ hoàn thành nhiệm vụ là bởi vì kế hoạch bị thay đổi vào phút chót.
+   JP: 任務を果たすのは、計画が土壇場で変更されたからだ。
+49. VI: Nếu không nhờ dự án gặp nhiều trở ngại, thì đã đối phó kịp thời.
+   JP: プロジェクトが多くの障害に直面したおかげでなければ、適切に対処するところだった。
+50. VI: Giả sử dự án gặp nhiều trở ngại, thì liệu có thể đối phó kịp thời không?
+   JP: プロジェクトが多くの障害に直面したとしたら、適切に対処することができるだろうか。
+51. VI: Mặc dù dự án gặp nhiều trở ngại, nhưng rốt cuộc giải quyết vấn đề.
+   JP: プロジェクトが多くの障害に直面したにもかかわらず、結局は問題を解決する。
+52. VI: Thay vì mọi người không đồng ý, đáng lẽ nên thay đổi hướng đi.
+   JP: 皆が賛成しなかったより、むしろ方向転換するべきだった。
+53. VI: Mặc dù tình hình trở nên phức tạp, nhưng rốt cuộc hoàn thành nhiệm vụ.
+   JP: 状況が複雑になったにもかかわらず、結局は任務を果たす。
+54. VI: Trái lại với dự án gặp nhiều trở ngại, đảm bảo tiến độ công việc.
+   JP: プロジェクトが多くの障害に直面したのとは反対に、仕事の進捗を確保する。
+55. VI: Trái lại với tôi không có đủ thời gian, đạt được kết quả tốt.
+   JP: 時間が足りなかったのとは反対に、良い結果を出す。
+56. VI: Nếu không nhờ thông tin chưa được xác nhận, thì đã đảm bảo tiến độ công việc.
+   JP: 情報がまだ確認されていないおかげでなければ、仕事の進捗を確保するところだった。
+57. VI: Ngay cả khi tôi đã chuẩn bị kỹ càng, thì cũng khó mà đưa ra kết luận cuối cùng.
+   JP: 十分に準備していたとしても、最終的な結論を出すのは難しい。
+58. VI: Nếu không nhờ kết quả không như mong đợi, thì đã đối phó kịp thời.
+   JP: 結果が期待通りではなかったおかげでなければ、適切に対処するところだった。
+59. VI: Trái lại với tình hình trở nên phức tạp, đưa ra quyết định đúng đắn.
+   JP: 状況が複雑になったのとは反対に、正しい判断を下す。
+60. VI: Không phải là kết quả không như mong đợi, mà thực ra hoàn thành nhiệm vụ.
+   JP: 結果が期待通りではなかったわけではなく、実は任務を果たす。
+61. VI: Cho dù thông tin chưa được xác nhận đến mấy, đối phó kịp thời.
+   JP: どんなに情報がまだ確認されていないとしても、適切に対処する。
+62. VI: Ngay cả khi kế hoạch bị thay đổi vào phút chót, thì cũng khó mà thay đổi hướng đi.
+   JP: 計画が土壇場で変更されたとしても、方向転換するのは難しい。
+63. VI: Thay vì dự án gặp nhiều trở ngại, đáng lẽ nên đảm bảo tiến độ công việc.
+   JP: プロジェクトが多くの障害に直面したより、むしろ仕事の進捗を確保するべきだった。
+64. VI: Không phải là thông tin chưa được xác nhận, mà thực ra hoàn thành nhiệm vụ.
+   JP: 情報がまだ確認されていないわけではなく、実は任務を果たす。
+65. VI: Trái lại với kế hoạch bị thay đổi vào phút chót, giải quyết vấn đề.
+   JP: 計画が土壇場で変更されたのとは反対に、問題を解決する。
+66. VI: Mặc dù tình hình trở nên phức tạp, nhưng rốt cuộc hoàn thành nhiệm vụ.
+   JP: 状況が複雑になったにもかかわらず、結局は任務を果たす。
+67. VI: Ngay cả khi kế hoạch bị thay đổi vào phút chót, thì cũng khó mà đảm bảo tiến độ công việc.
+   JP: 計画が土壇場で変更されたとしても、仕事の進捗を確保するのは難しい。
+68. VI: Ngay cả khi dự án gặp nhiều trở ngại, thì cũng khó mà thuyết phục mọi người.
+   JP: プロジェクトが多くの障害に直面したとしても、皆を説得するのは難しい。
+69. VI: Sở dĩ đưa ra quyết định đúng đắn là bởi vì tình hình trở nên phức tạp.
+   JP: 正しい判断を下すのは、状況が複雑になったからだ。
+70. VI: Nếu không nhờ cuộc thảo luận kéo dài hơn dự kiến, thì đã đảm bảo tiến độ công việc.
+   JP: 議論が予想以上に長引いたおかげでなければ、仕事の進捗を確保するところだった。
+71. VI: Cho dù mọi người không đồng ý đến mấy, tiếp tục kế hoạch.
+   JP: どんなに皆が賛成しなかったとしても、計画を続ける。
+72. VI: Mặc dù thông tin chưa được xác nhận, nhưng rốt cuộc hoàn thành nhiệm vụ.
+   JP: 情報がまだ確認されていないにもかかわらず、結局は任務を果たす。
+73. VI: Sở dĩ hoàn thành nhiệm vụ là bởi vì thông tin chưa được xác nhận.
+   JP: 任務を果たすのは、情報がまだ確認されていないからだ。
+74. VI: Giả sử mọi người không đồng ý, thì liệu có thể đưa ra quyết định đúng đắn không?
+   JP: 皆が賛成しなかったとしたら、正しい判断を下すことができるだろうか。
+75. VI: Giả sử tình hình trở nên phức tạp, thì liệu có thể thuyết phục mọi người không?
+   JP: 状況が複雑になったとしたら、皆を説得することができるだろうか。
+76. VI: Nếu không nhờ mọi người không đồng ý, thì đã hoàn thành nhiệm vụ.
+   JP: 皆が賛成しなかったおかげでなければ、任務を果たすところだった。
+77. VI: Sở dĩ thay đổi hướng đi là bởi vì kết quả không như mong đợi.
+   JP: 方向転換するのは、結果が期待通りではなかったからだ。
+78. VI: Thay vì mọi người không đồng ý, đáng lẽ nên thay đổi hướng đi.
+   JP: 皆が賛成しなかったより、むしろ方向転換するべきだった。
+79. VI: Giả sử tôi không có đủ thời gian, thì liệu có thể đảm bảo tiến độ công việc không?
+   JP: 時間が足りなかったとしたら、仕事の進捗を確保することができるだろうか。
+80. VI: Trái lại với dự án gặp nhiều trở ngại, đưa ra kết luận cuối cùng.
+   JP: プロジェクトが多くの障害に直面したのとは反対に、最終的な結論を出す。
+81. VI: Không phải là kế hoạch bị thay đổi vào phút chót, mà thực ra tiếp tục kế hoạch.
+   JP: 計画が土壇場で変更されたわけではなく、実は計画を続ける。
+82. VI: Sở dĩ đạt được kết quả tốt là bởi vì mọi người không đồng ý.
+   JP: 良い結果を出すのは、皆が賛成しなかったからだ。
+83. VI: Sở dĩ đạt được kết quả tốt là bởi vì tôi đã chuẩn bị kỹ càng.
+   JP: 良い結果を出すのは、十分に準備していたからだ。
+84. VI: Nếu không nhờ cuộc thảo luận kéo dài hơn dự kiến, thì đã đưa ra quyết định đúng đắn.
+   JP: 議論が予想以上に長引いたおかげでなければ、正しい判断を下すところだった。
+85. VI: Nếu không nhờ kế hoạch bị thay đổi vào phút chót, thì đã đạt được kết quả tốt.
+   JP: 計画が土壇場で変更されたおかげでなければ、良い結果を出すところだった。
+86. VI: Trái lại với mọi người không đồng ý, thay đổi hướng đi.
+   JP: 皆が賛成しなかったのとは反対に、方向転換する。
+87. VI: Thay vì tôi không có đủ thời gian, đáng lẽ nên đạt được kết quả tốt.
+   JP: 時間が足りなかったより、むしろ良い結果を出すべきだった。
+88. VI: Không phải là tôi không có đủ thời gian, mà thực ra đối phó kịp thời.
+   JP: 時間が足りなかったわけではなく、実は適切に対処する。
+89. VI: Giả sử dự án gặp nhiều trở ngại, thì liệu có thể tiếp tục kế hoạch không?
+   JP: プロジェクトが多くの障害に直面したとしたら、計画を続けることができるだろうか。
+90. VI: Mặc dù tôi phải chịu nhiều áp lực, nhưng rốt cuộc đưa ra kết luận cuối cùng.
+   JP: 私は大きなプレッシャーを受けていたにもかかわらず、結局は最終的な結論を出す。
+91. VI: Thay vì kế hoạch bị thay đổi vào phút chót, đáng lẽ nên đối phó kịp thời.
+   JP: 計画が土壇場で変更されたより、むしろ適切に対処するべきだった。
+92. VI: Không phải là mọi người không đồng ý, mà thực ra thuyết phục mọi người.
+   JP: 皆が賛成しなかったわけではなく、実は皆を説得する。
+93. VI: Trái lại với kế hoạch bị thay đổi vào phút chót, thay đổi hướng đi.
+   JP: 計画が土壇場で変更されたのとは反対に、方向転換する。
+94. VI: Trái lại với tôi phải chịu nhiều áp lực, đảm bảo tiến độ công việc.
+   JP: 私は大きなプレッシャーを受けていたのとは反対に、仕事の進捗を確保する。
+95. VI: Một khi đã kết quả không như mong đợi, thì phải thay đổi hướng đi.
+   JP: 結果が期待通りではなかった以上、方向転換するなければならない。
+96. VI: Nếu không nhờ dự án gặp nhiều trở ngại, thì đã đưa ra quyết định đúng đắn.
+   JP: プロジェクトが多くの障害に直面したおかげでなければ、正しい判断を下すところだった。
+97. VI: Mặc dù tôi phải chịu nhiều áp lực, nhưng rốt cuộc đảm bảo tiến độ công việc.
+   JP: 私は大きなプレッシャーを受けていたにもかかわらず、結局は仕事の進捗を確保する。
+98. VI: Giả sử kế hoạch bị thay đổi vào phút chót, thì liệu có thể đối phó kịp thời không?
+   JP: 計画が土壇場で変更されたとしたら、適切に対処することができるだろうか。
+99. VI: Mặc dù kết quả không như mong đợi, nhưng rốt cuộc thay đổi hướng đi.
+   JP: 結果が期待通りではなかったにもかかわらず、結局は方向転換する。
+100. VI: Một khi đã dự án gặp nhiều trở ngại, thì phải đối phó kịp thời.
+   JP: プロジェクトが多くの障害に直面した以上、適切に対処するなければならない。
+101. VI: Trái lại với tôi không có đủ thời gian, thay đổi hướng đi.
+   JP: 時間が足りなかったのとは反対に、方向転換する。
+102. VI: Không phải là tôi không có đủ thời gian, mà thực ra hoàn thành nhiệm vụ.
+   JP: 時間が足りなかったわけではなく、実は任務を果たす。
+103. VI: Sở dĩ đảm bảo tiến độ công việc là bởi vì mọi người không đồng ý.
+   JP: 仕事の進捗を確保するのは、皆が賛成しなかったからだ。
+104. VI: Sở dĩ đưa ra quyết định đúng đắn là bởi vì tôi phải chịu nhiều áp lực.
+   JP: 正しい判断を下すのは、私は大きなプレッシャーを受けていたからだ。
+105. VI: Cho dù mọi người không đồng ý đến mấy, đưa ra quyết định đúng đắn.
+   JP: どんなに皆が賛成しなかったとしても、正しい判断を下す。
+106. VI: Nếu không nhờ kết quả không như mong đợi, thì đã giải quyết vấn đề.
+   JP: 結果が期待通りではなかったおかげでなければ、問題を解決するところだった。
+107. VI: Mặc dù cuộc thảo luận kéo dài hơn dự kiến, nhưng rốt cuộc thuyết phục mọi người.
+   JP: 議論が予想以上に長引いたにもかかわらず、結局は皆を説得する。
+108. VI: Giả sử kế hoạch bị thay đổi vào phút chót, thì liệu có thể đối phó kịp thời không?
+   JP: 計画が土壇場で変更されたとしたら、適切に対処することができるだろうか。
+109. VI: Một khi đã thông tin chưa được xác nhận, thì phải hoàn thành nhiệm vụ.
+   JP: 情報がまだ確認されていない以上、任務を果たすなければならない。
+110. VI: Nếu không nhờ tôi đã chuẩn bị kỹ càng, thì đã đưa ra quyết định đúng đắn.
+   JP: 十分に準備していたおかげでなければ、正しい判断を下すところだった。
+111. VI: Mặc dù kế hoạch bị thay đổi vào phút chót, nhưng rốt cuộc đối phó kịp thời.
+   JP: 計画が土壇場で変更されたにもかかわらず、結局は適切に対処する。
+112. VI: Ngay cả khi tôi đã chuẩn bị kỹ càng, thì cũng khó mà đưa ra quyết định đúng đắn.
+   JP: 十分に準備していたとしても、正しい判断を下すのは難しい。
+113. VI: Thay vì dự án gặp nhiều trở ngại, đáng lẽ nên hoàn thành nhiệm vụ.
+   JP: プロジェクトが多くの障害に直面したより、むしろ任務を果たすべきだった。
+114. VI: Không phải là kế hoạch bị thay đổi vào phút chót, mà thực ra thuyết phục mọi người.
+   JP: 計画が土壇場で変更されたわけではなく、実は皆を説得する。
+115. VI: Không phải là dự án gặp nhiều trở ngại, mà thực ra giải quyết vấn đề.
+   JP: プロジェクトが多くの障害に直面したわけではなく、実は問題を解決する。
+116. VI: Mặc dù dự án gặp nhiều trở ngại, nhưng rốt cuộc đạt được kết quả tốt.
+   JP: プロジェクトが多くの障害に直面したにもかかわらず、結局は良い結果を出す。
+117. VI: Trái lại với tôi đã chuẩn bị kỹ càng, đưa ra quyết định đúng đắn.
+   JP: 十分に準備していたのとは反対に、正しい判断を下す。
+118. VI: Thay vì kế hoạch bị thay đổi vào phút chót, đáng lẽ nên đối phó kịp thời.
+   JP: 計画が土壇場で変更されたより、むしろ適切に対処するべきだった。
+119. VI: Trái lại với dự án gặp nhiều trở ngại, tiếp tục kế hoạch.
+   JP: プロジェクトが多くの障害に直面したのとは反対に、計画を続ける。
+120. VI: Trái lại với tôi phải chịu nhiều áp lực, thay đổi hướng đi.
+   JP: 私は大きなプレッシャーを受けていたのとは反対に、方向転換する。
+121. VI: Trái lại với thông tin chưa được xác nhận, hoàn thành nhiệm vụ.
+   JP: 情報がまだ確認されていないのとは反対に、任務を果たす。
+122. VI: Trái lại với thông tin chưa được xác nhận, tiếp tục kế hoạch.
+   JP: 情報がまだ確認されていないのとは反対に、計画を続ける。
+123. VI: Mặc dù tôi không có đủ thời gian, nhưng rốt cuộc thay đổi hướng đi.
+   JP: 時間が足りなかったにもかかわらず、結局は方向転換する。
+124. VI: Thay vì cuộc thảo luận kéo dài hơn dự kiến, đáng lẽ nên giải quyết vấn đề.
+   JP: 議論が予想以上に長引いたより、むしろ問題を解決するべきだった。
+125. VI: Mặc dù mọi người không đồng ý, nhưng rốt cuộc thay đổi hướng đi.
+   JP: 皆が賛成しなかったにもかかわらず、結局は方向転換する。
+126. VI: Nếu không nhờ cuộc thảo luận kéo dài hơn dự kiến, thì đã đưa ra quyết định đúng đắn.
+   JP: 議論が予想以上に長引いたおかげでなければ、正しい判断を下すところだった。
+127. VI: Nếu không nhờ tôi phải chịu nhiều áp lực, thì đã thuyết phục mọi người.
+   JP: 私は大きなプレッシャーを受けていたおかげでなければ、皆を説得するところだった。
+128. VI: Nếu không nhờ tình hình trở nên phức tạp, thì đã tiếp tục kế hoạch.
+   JP: 状況が複雑になったおかげでなければ、計画を続けるところだった。
+129. VI: Nếu không nhờ thông tin chưa được xác nhận, thì đã đưa ra kết luận cuối cùng.
+   JP: 情報がまだ確認されていないおかげでなければ、最終的な結論を出すところだった。
+130. VI: Sở dĩ thuyết phục mọi người là bởi vì tình hình trở nên phức tạp.
+   JP: 皆を説得するのは、状況が複雑になったからだ。
+131. VI: Thay vì kế hoạch bị thay đổi vào phút chót, đáng lẽ nên giải quyết vấn đề.
+   JP: 計画が土壇場で変更されたより、むしろ問題を解決するべきだった。
+132. VI: Nếu không nhờ tôi không có đủ thời gian, thì đã đối phó kịp thời.
+   JP: 時間が足りなかったおかげでなければ、適切に対処するところだった。
+133. VI: Mặc dù cuộc thảo luận kéo dài hơn dự kiến, nhưng rốt cuộc thay đổi hướng đi.
+   JP: 議論が予想以上に長引いたにもかかわらず、結局は方向転換する。
+134. VI: Ngay cả khi thông tin chưa được xác nhận, thì cũng khó mà thuyết phục mọi người.
+   JP: 情報がまだ確認されていないとしても、皆を説得するのは難しい。
+135. VI: Ngay cả khi tôi không có đủ thời gian, thì cũng khó mà đưa ra quyết định đúng đắn.
+   JP: 時間が足りなかったとしても、正しい判断を下すのは難しい。
+136. VI: Cho dù kế hoạch bị thay đổi vào phút chót đến mấy, giải quyết vấn đề.
+   JP: どんなに計画が土壇場で変更されたとしても、問題を解決する。
+137. VI: Không phải là tôi không có đủ thời gian, mà thực ra giải quyết vấn đề.
+   JP: 時間が足りなかったわけではなく、実は問題を解決する。
+138. VI: Sở dĩ thay đổi hướng đi là bởi vì tình hình trở nên phức tạp.
+   JP: 方向転換するのは、状況が複雑になったからだ。
+139. VI: Mặc dù mọi người không đồng ý, nhưng rốt cuộc đưa ra quyết định đúng đắn.
+   JP: 皆が賛成しなかったにもかかわらず、結局は正しい判断を下す。
+140. VI: Không phải là cuộc thảo luận kéo dài hơn dự kiến, mà thực ra đạt được kết quả tốt.
+   JP: 議論が予想以上に長引いたわけではなく、実は良い結果を出す。
+141. VI: Ngay cả khi dự án gặp nhiều trở ngại, thì cũng khó mà thuyết phục mọi người.
+   JP: プロジェクトが多くの障害に直面したとしても、皆を説得するのは難しい。
+142. VI: Ngay cả khi tôi không có đủ thời gian, thì cũng khó mà giải quyết vấn đề.
+   JP: 時間が足りなかったとしても、問題を解決するのは難しい。
+143. VI: Thay vì tôi đã chuẩn bị kỹ càng, đáng lẽ nên tiếp tục kế hoạch.
+   JP: 十分に準備していたより、むしろ計画を続けるべきだった。
+144. VI: Trái lại với kết quả không như mong đợi, hoàn thành nhiệm vụ.
+   JP: 結果が期待通りではなかったのとは反対に、任務を果たす。
+145. VI: Ngay cả khi thông tin chưa được xác nhận, thì cũng khó mà hoàn thành nhiệm vụ.
+   JP: 情報がまだ確認されていないとしても、任務を果たすのは難しい。
+146. VI: Mặc dù cuộc thảo luận kéo dài hơn dự kiến, nhưng rốt cuộc hoàn thành nhiệm vụ.
+   JP: 議論が予想以上に長引いたにもかかわらず、結局は任務を果たす。
+147. VI: Giả sử tình hình trở nên phức tạp, thì liệu có thể đạt được kết quả tốt không?
+   JP: 状況が複雑になったとしたら、良い結果を出すことができるだろうか。
+148. VI: Ngay cả khi mọi người không đồng ý, thì cũng khó mà giải quyết vấn đề.
+   JP: 皆が賛成しなかったとしても、問題を解決するのは難しい。
+149. VI: Mặc dù dự án gặp nhiều trở ngại, nhưng rốt cuộc giải quyết vấn đề.
+   JP: プロジェクトが多くの障害に直面したにもかかわらず、結局は問題を解決する。
+150. VI: Nếu không nhờ tôi đã chuẩn bị kỹ càng, thì đã đưa ra kết luận cuối cùng.
+   JP: 十分に準備していたおかげでなければ、最終的な結論を出すところだった。
+151. VI: Một khi đã tình hình trở nên phức tạp, thì phải tiếp tục kế hoạch.
+   JP: 状況が複雑になった以上、計画を続けるなければならない。
+152. VI: Cho dù tôi phải chịu nhiều áp lực đến mấy, đảm bảo tiến độ công việc.
+   JP: どんなに私は大きなプレッシャーを受けていたとしても、仕事の進捗を確保する。
+153. VI: Một khi đã dự án gặp nhiều trở ngại, thì phải hoàn thành nhiệm vụ.
+   JP: プロジェクトが多くの障害に直面した以上、任務を果たすなければならない。
+154. VI: Mặc dù tôi phải chịu nhiều áp lực, nhưng rốt cuộc đối phó kịp thời.
+   JP: 私は大きなプレッシャーを受けていたにもかかわらず、結局は適切に対処する。
+155. VI: Giả sử dự án gặp nhiều trở ngại, thì liệu có thể giải quyết vấn đề không?
+   JP: プロジェクトが多くの障害に直面したとしたら、問題を解決することができるだろうか。
+156. VI: Ngay cả khi mọi người không đồng ý, thì cũng khó mà tiếp tục kế hoạch.
+   JP: 皆が賛成しなかったとしても、計画を続けるのは難しい。
+157. VI: Một khi đã cuộc thảo luận kéo dài hơn dự kiến, thì phải đối phó kịp thời.
+   JP: 議論が予想以上に長引いた以上、適切に対処するなければならない。
+158. VI: Một khi đã kết quả không như mong đợi, thì phải thuyết phục mọi người.
+   JP: 結果が期待通りではなかった以上、皆を説得するなければならない。
+159. VI: Mặc dù cuộc thảo luận kéo dài hơn dự kiến, nhưng rốt cuộc giải quyết vấn đề.
+   JP: 議論が予想以上に長引いたにもかかわらず、結局は問題を解決する。
+160. VI: Ngay cả khi tôi không có đủ thời gian, thì cũng khó mà đưa ra quyết định đúng đắn.
+   JP: 時間が足りなかったとしても、正しい判断を下すのは難しい。
+161. VI: Mặc dù mọi người không đồng ý, nhưng rốt cuộc đưa ra quyết định đúng đắn.
+   JP: 皆が賛成しなかったにもかかわらず、結局は正しい判断を下す。
+162. VI: Nếu không nhờ kế hoạch bị thay đổi vào phút chót, thì đã đạt được kết quả tốt.
+   JP: 計画が土壇場で変更されたおかげでなければ、良い結果を出すところだった。
+163. VI: Mặc dù thông tin chưa được xác nhận, nhưng rốt cuộc đảm bảo tiến độ công việc.
+   JP: 情報がまだ確認されていないにもかかわらず、結局は仕事の進捗を確保する。
+164. VI: Ngay cả khi tôi không có đủ thời gian, thì cũng khó mà đưa ra kết luận cuối cùng.
+   JP: 時間が足りなかったとしても、最終的な結論を出すのは難しい。
+165. VI: Một khi đã tôi phải chịu nhiều áp lực, thì phải đảm bảo tiến độ công việc.
+   JP: 私は大きなプレッシャーを受けていた以上、仕事の進捗を確保するなければならない。
+166. VI: Một khi đã kế hoạch bị thay đổi vào phút chót, thì phải đảm bảo tiến độ công việc.
+   JP: 計画が土壇場で変更された以上、仕事の進捗を確保するなければならない。
+167. VI: Không phải là tôi không có đủ thời gian, mà thực ra thuyết phục mọi người.
+   JP: 時間が足りなかったわけではなく、実は皆を説得する。
+168. VI: Giả sử dự án gặp nhiều trở ngại, thì liệu có thể đưa ra kết luận cuối cùng không?
+   JP: プロジェクトが多くの障害に直面したとしたら、最終的な結論を出すことができるだろうか。
+169. VI: Cho dù thông tin chưa được xác nhận đến mấy, đưa ra quyết định đúng đắn.
+   JP: どんなに情報がまだ確認されていないとしても、正しい判断を下す。
+170. VI: Nếu không nhờ tôi phải chịu nhiều áp lực, thì đã hoàn thành nhiệm vụ.
+   JP: 私は大きなプレッシャーを受けていたおかげでなければ、任務を果たすところだった。
+171. VI: Trái lại với thông tin chưa được xác nhận, đối phó kịp thời.
+   JP: 情報がまだ確認されていないのとは反対に、適切に対処する。
+172. VI: Thay vì tôi phải chịu nhiều áp lực, đáng lẽ nên thay đổi hướng đi.
+   JP: 私は大きなプレッシャーを受けていたより、むしろ方向転換するべきだった。
+173. VI: Ngay cả khi tôi đã chuẩn bị kỹ càng, thì cũng khó mà đảm bảo tiến độ công việc.
+   JP: 十分に準備していたとしても、仕事の進捗を確保するのは難しい。
+174. VI: Mặc dù tôi không có đủ thời gian, nhưng rốt cuộc đạt được kết quả tốt.
+   JP: 時間が足りなかったにもかかわらず、結局は良い結果を出す。
+175. VI: Giả sử tôi phải chịu nhiều áp lực, thì liệu có thể đưa ra quyết định đúng đắn không?
+   JP: 私は大きなプレッシャーを受けていたとしたら、正しい判断を下すことができるだろうか。
+176. VI: Nếu không nhờ tình hình trở nên phức tạp, thì đã thuyết phục mọi người.
+   JP: 状況が複雑になったおかげでなければ、皆を説得するところだった。
+177. VI: Thay vì mọi người không đồng ý, đáng lẽ nên thuyết phục mọi người.
+   JP: 皆が賛成しなかったより、むしろ皆を説得するべきだった。
+178. VI: Một khi đã tôi không có đủ thời gian, thì phải đưa ra quyết định đúng đắn.
+   JP: 時間が足りなかった以上、正しい判断を下すなければならない。
+179. VI: Mặc dù tôi đã chuẩn bị kỹ càng, nhưng rốt cuộc đưa ra kết luận cuối cùng.
+   JP: 十分に準備していたにもかかわらず、結局は最終的な結論を出す。
+180. VI: Trái lại với kế hoạch bị thay đổi vào phút chót, hoàn thành nhiệm vụ.
+   JP: 計画が土壇場で変更されたのとは反対に、任務を果たす。
+181. VI: Cho dù tôi đã chuẩn bị kỹ càng đến mấy, thay đổi hướng đi.
+   JP: どんなに十分に準備していたとしても、方向転換する。
+182. VI: Ngay cả khi thông tin chưa được xác nhận, thì cũng khó mà giải quyết vấn đề.
+   JP: 情報がまだ確認されていないとしても、問題を解決するのは難しい。
+183. VI: Sở dĩ thay đổi hướng đi là bởi vì thông tin chưa được xác nhận.
+   JP: 方向転換するのは、情報がまだ確認されていないからだ。
+184. VI: Trái lại với kết quả không như mong đợi, đưa ra quyết định đúng đắn.
+   JP: 結果が期待通りではなかったのとは反対に、正しい判断を下す。
+185. VI: Không phải là kết quả không như mong đợi, mà thực ra tiếp tục kế hoạch.
+   JP: 結果が期待通りではなかったわけではなく、実は計画を続ける。
+186. VI: Một khi đã kết quả không như mong đợi, thì phải thuyết phục mọi người.
+   JP: 結果が期待通りではなかった以上、皆を説得するなければならない。
+187. VI: Mặc dù tôi phải chịu nhiều áp lực, nhưng rốt cuộc hoàn thành nhiệm vụ.
+   JP: 私は大きなプレッシャーを受けていたにもかかわらず、結局は任務を果たす。
+188. VI: Thay vì mọi người không đồng ý, đáng lẽ nên thay đổi hướng đi.
+   JP: 皆が賛成しなかったより、むしろ方向転換するべきだった。
+189. VI: Sở dĩ đảm bảo tiến độ công việc là bởi vì tình hình trở nên phức tạp.
+   JP: 仕事の進捗を確保するのは、状況が複雑になったからだ。
+190. VI: Nếu không nhờ tôi không có đủ thời gian, thì đã đưa ra kết luận cuối cùng.
+   JP: 時間が足りなかったおかげでなければ、最終的な結論を出すところだった。
+191. VI: Trái lại với dự án gặp nhiều trở ngại, hoàn thành nhiệm vụ.
+   JP: プロジェクトが多くの障害に直面したのとは反対に、任務を果たす。
+192. VI: Nếu không nhờ thông tin chưa được xác nhận, thì đã tiếp tục kế hoạch.
+   JP: 情報がまだ確認されていないおかげでなければ、計画を続けるところだった。
+193. VI: Nếu không nhờ cuộc thảo luận kéo dài hơn dự kiến, thì đã thay đổi hướng đi.
+   JP: 議論が予想以上に長引いたおかげでなければ、方向転換するところだった。
+194. VI: Một khi đã kết quả không như mong đợi, thì phải đạt được kết quả tốt.
+   JP: 結果が期待通りではなかった以上、良い結果を出すなければならない。
+195. VI: Ngay cả khi cuộc thảo luận kéo dài hơn dự kiến, thì cũng khó mà đưa ra quyết định đúng đắn.
+   JP: 議論が予想以上に長引いたとしても、正しい判断を下すのは難しい。
+196. VI: Giả sử kế hoạch bị thay đổi vào phút chót, thì liệu có thể giải quyết vấn đề không?
+   JP: 計画が土壇場で変更されたとしたら、問題を解決することができるだろうか。
+197. VI: Nếu không nhờ cuộc thảo luận kéo dài hơn dự kiến, thì đã đối phó kịp thời.
+   JP: 議論が予想以上に長引いたおかげでなければ、適切に対処するところだった。
+198. VI: Thay vì tôi đã chuẩn bị kỹ càng, đáng lẽ nên tiếp tục kế hoạch.
+   JP: 十分に準備していたより、むしろ計画を続けるべきだった。
+199. VI: Thay vì tôi phải chịu nhiều áp lực, đáng lẽ nên đối phó kịp thời.
+   JP: 私は大きなプレッシャーを受けていたより、むしろ適切に対処するべきだった。
+200. VI: Giả sử dự án gặp nhiều trở ngại, thì liệu có thể hoàn thành nhiệm vụ không?
+   JP: プロジェクトが多くの障害に直面したとしたら、任務を果たすことができるだろうか。
+201. VI: Một khi đã thông tin chưa được xác nhận, thì phải đối phó kịp thời.
+   JP: 情報がまだ確認されていない以上、適切に対処するなければならない。
+202. VI: Không phải là thông tin chưa được xác nhận, mà thực ra thuyết phục mọi người.
+   JP: 情報がまだ確認されていないわけではなく、実は皆を説得する。
+203. VI: Thay vì mọi người không đồng ý, đáng lẽ nên thuyết phục mọi người.
+   JP: 皆が賛成しなかったより、むしろ皆を説得するべきだった。
+204. VI: Sở dĩ đạt được kết quả tốt là bởi vì kết quả không như mong đợi.
+   JP: 良い結果を出すのは、結果が期待通りではなかったからだ。
+205. VI: Ngay cả khi thông tin chưa được xác nhận, thì cũng khó mà thay đổi hướng đi.
+   JP: 情報がまだ確認されていないとしても、方向転換するのは難しい。
+206. VI: Trái lại với kết quả không như mong đợi, đảm bảo tiến độ công việc.
+   JP: 結果が期待通りではなかったのとは反対に、仕事の進捗を確保する。
+207. VI: Cho dù kế hoạch bị thay đổi vào phút chót đến mấy, hoàn thành nhiệm vụ.
+   JP: どんなに計画が土壇場で変更されたとしても、任務を果たす。
+208. VI: Một khi đã tình hình trở nên phức tạp, thì phải thuyết phục mọi người.
+   JP: 状況が複雑になった以上、皆を説得するなければならない。
+209. VI: Không phải là cuộc thảo luận kéo dài hơn dự kiến, mà thực ra đạt được kết quả tốt.
+   JP: 議論が予想以上に長引いたわけではなく、実は良い結果を出す。
+210. VI: Không phải là cuộc thảo luận kéo dài hơn dự kiến, mà thực ra đưa ra kết luận cuối cùng.
+   JP: 議論が予想以上に長引いたわけではなく、実は最終的な結論を出す。
+211. VI: Giả sử tôi phải chịu nhiều áp lực, thì liệu có thể hoàn thành nhiệm vụ không?
+   JP: 私は大きなプレッシャーを受けていたとしたら、任務を果たすことができるだろうか。
+212. VI: Sở dĩ thuyết phục mọi người là bởi vì kế hoạch bị thay đổi vào phút chót.
+   JP: 皆を説得するのは、計画が土壇場で変更されたからだ。
+213. VI: Trái lại với dự án gặp nhiều trở ngại, thuyết phục mọi người.
+   JP: プロジェクトが多くの障害に直面したのとは反対に、皆を説得する。
+214. VI: Một khi đã kế hoạch bị thay đổi vào phút chót, thì phải tiếp tục kế hoạch.
+   JP: 計画が土壇場で変更された以上、計画を続けるなければならない。
+215. VI: Một khi đã tôi phải chịu nhiều áp lực, thì phải đảm bảo tiến độ công việc.
+   JP: 私は大きなプレッシャーを受けていた以上、仕事の進捗を確保するなければならない。
+216. VI: Nếu không nhờ kết quả không như mong đợi, thì đã giải quyết vấn đề.
+   JP: 結果が期待通りではなかったおかげでなければ、問題を解決するところだった。
+217. VI: Sở dĩ đưa ra kết luận cuối cùng là bởi vì tình hình trở nên phức tạp.
+   JP: 最終的な結論を出すのは、状況が複雑になったからだ。
+218. VI: Không phải là tình hình trở nên phức tạp, mà thực ra đưa ra quyết định đúng đắn.
+   JP: 状況が複雑になったわけではなく、実は正しい判断を下す。
+219. VI: Sở dĩ đạt được kết quả tốt là bởi vì dự án gặp nhiều trở ngại.
+   JP: 良い結果を出すのは、プロジェクトが多くの障害に直面したからだ。
+220. VI: Giả sử kế hoạch bị thay đổi vào phút chót, thì liệu có thể hoàn thành nhiệm vụ không?
+   JP: 計画が土壇場で変更されたとしたら、任務を果たすことができるだろうか。
+221. VI: Cho dù tình hình trở nên phức tạp đến mấy, giải quyết vấn đề.
+   JP: どんなに状況が複雑になったとしても、問題を解決する。
+222. VI: Mặc dù kết quả không như mong đợi, nhưng rốt cuộc tiếp tục kế hoạch.
+   JP: 結果が期待通りではなかったにもかかわらず、結局は計画を続ける。
+223. VI: Một khi đã thông tin chưa được xác nhận, thì phải giải quyết vấn đề.
+   JP: 情報がまだ確認されていない以上、問題を解決するなければならない。
+224. VI: Ngay cả khi dự án gặp nhiều trở ngại, thì cũng khó mà đối phó kịp thời.
+   JP: プロジェクトが多くの障害に直面したとしても、適切に対処するのは難しい。
+225. VI: Trái lại với tôi phải chịu nhiều áp lực, thay đổi hướng đi.
+   JP: 私は大きなプレッシャーを受けていたのとは反対に、方向転換する。
+226. VI: Giả sử tôi phải chịu nhiều áp lực, thì liệu có thể thay đổi hướng đi không?
+   JP: 私は大きなプレッシャーを受けていたとしたら、方向転換することができるだろうか。
+227. VI: Nếu không nhờ tình hình trở nên phức tạp, thì đã thay đổi hướng đi.
+   JP: 状況が複雑になったおかげでなければ、方向転換するところだった。
+228. VI: Không phải là tình hình trở nên phức tạp, mà thực ra đạt được kết quả tốt.
+   JP: 状況が複雑になったわけではなく、実は良い結果を出す。
+229. VI: Thay vì dự án gặp nhiều trở ngại, đáng lẽ nên hoàn thành nhiệm vụ.
+   JP: プロジェクトが多くの障害に直面したより、むしろ任務を果たすべきだった。
+230. VI: Giả sử mọi người không đồng ý, thì liệu có thể tiếp tục kế hoạch không?
+   JP: 皆が賛成しなかったとしたら、計画を続けることができるだろうか。
+231. VI: Một khi đã tôi không có đủ thời gian, thì phải đưa ra quyết định đúng đắn.
+   JP: 時間が足りなかった以上、正しい判断を下すなければならない。
+232. VI: Không phải là kế hoạch bị thay đổi vào phút chót, mà thực ra thay đổi hướng đi.
+   JP: 計画が土壇場で変更されたわけではなく、実は方向転換する。
+233. VI: Trái lại với tôi đã chuẩn bị kỹ càng, đưa ra kết luận cuối cùng.
+   JP: 十分に準備していたのとは反対に、最終的な結論を出す。
+234. VI: Thay vì thông tin chưa được xác nhận, đáng lẽ nên hoàn thành nhiệm vụ.
+   JP: 情報がまだ確認されていないより、むしろ任務を果たすべきだった。
+235. VI: Giả sử kết quả không như mong đợi, thì liệu có thể đưa ra kết luận cuối cùng không?
+   JP: 結果が期待通りではなかったとしたら、最終的な結論を出すことができるだろうか。
+236. VI: Trái lại với cuộc thảo luận kéo dài hơn dự kiến, đảm bảo tiến độ công việc.
+   JP: 議論が予想以上に長引いたのとは反対に、仕事の進捗を確保する。
+237. VI: Mặc dù tôi phải chịu nhiều áp lực, nhưng rốt cuộc thay đổi hướng đi.
+   JP: 私は大きなプレッシャーを受けていたにもかかわらず、結局は方向転換する。
+238. VI: Mặc dù tôi đã chuẩn bị kỹ càng, nhưng rốt cuộc giải quyết vấn đề.
+   JP: 十分に準備していたにもかかわらず、結局は問題を解決する。
+239. VI: Ngay cả khi dự án gặp nhiều trở ngại, thì cũng khó mà thuyết phục mọi người.
+   JP: プロジェクトが多くの障害に直面したとしても、皆を説得するのは難しい。
+240. VI: Trái lại với tình hình trở nên phức tạp, đối phó kịp thời.
+   JP: 状況が複雑になったのとは反対に、適切に対処する。
+241. VI: Ngay cả khi tôi không có đủ thời gian, thì cũng khó mà đạt được kết quả tốt.
+   JP: 時間が足りなかったとしても、良い結果を出すのは難しい。
+242. VI: Trái lại với tôi đã chuẩn bị kỹ càng, hoàn thành nhiệm vụ.
+   JP: 十分に準備していたのとは反対に、任務を果たす。
+243. VI: Không phải là thông tin chưa được xác nhận, mà thực ra tiếp tục kế hoạch.
+   JP: 情報がまだ確認されていないわけではなく、実は計画を続ける。
+244. VI: Trái lại với tôi không có đủ thời gian, thuyết phục mọi người.
+   JP: 時間が足りなかったのとは反対に、皆を説得する。
+245. VI: Cho dù tôi không có đủ thời gian đến mấy, đảm bảo tiến độ công việc.
+   JP: どんなに時間が足りなかったとしても、仕事の進捗を確保する。
+246. VI: Thay vì tôi không có đủ thời gian, đáng lẽ nên đạt được kết quả tốt.
+   JP: 時間が足りなかったより、むしろ良い結果を出すべきだった。
+247. VI: Nếu không nhờ tình hình trở nên phức tạp, thì đã đối phó kịp thời.
+   JP: 状況が複雑になったおかげでなければ、適切に対処するところだった。
+248. VI: Nếu không nhờ dự án gặp nhiều trở ngại, thì đã đối phó kịp thời.
+   JP: プロジェクトが多くの障害に直面したおかげでなければ、適切に対処するところだった。
+249. VI: Trái lại với tôi phải chịu nhiều áp lực, đưa ra quyết định đúng đắn.
+   JP: 私は大きなプレッシャーを受けていたのとは反対に、正しい判断を下す。
+250. VI: Sở dĩ đưa ra quyết định đúng đắn là bởi vì tôi không có đủ thời gian.
+   JP: 正しい判断を下すのは、時間が足りなかったからだ。
+251. VI: Một khi đã cuộc thảo luận kéo dài hơn dự kiến, thì phải giải quyết vấn đề.
+   JP: 議論が予想以上に長引いた以上、問題を解決するなければならない。
+252. VI: Trái lại với thông tin chưa được xác nhận, thuyết phục mọi người.
+   JP: 情報がまだ確認されていないのとは反対に、皆を説得する。
+253. VI: Cho dù tôi phải chịu nhiều áp lực đến mấy, đưa ra kết luận cuối cùng.
+   JP: どんなに私は大きなプレッシャーを受けていたとしても、最終的な結論を出す。
+254. VI: Cho dù dự án gặp nhiều trở ngại đến mấy, hoàn thành nhiệm vụ.
+   JP: どんなにプロジェクトが多くの障害に直面したとしても、任務を果たす。
+255. VI: Ngay cả khi tôi phải chịu nhiều áp lực, thì cũng khó mà đưa ra quyết định đúng đắn.
+   JP: 私は大きなプレッシャーを受けていたとしても、正しい判断を下すのは難しい。
+256. VI: Không phải là kế hoạch bị thay đổi vào phút chót, mà thực ra đưa ra kết luận cuối cùng.
+   JP: 計画が土壇場で変更されたわけではなく、実は最終的な結論を出す。
+257. VI: Cho dù tôi đã chuẩn bị kỹ càng đến mấy, đưa ra quyết định đúng đắn.
+   JP: どんなに十分に準備していたとしても、正しい判断を下す。
+258. VI: Trái lại với tôi đã chuẩn bị kỹ càng, đưa ra kết luận cuối cùng.
+   JP: 十分に準備していたのとは反対に、最終的な結論を出す。
+259. VI: Nếu không nhờ kế hoạch bị thay đổi vào phút chót, thì đã hoàn thành nhiệm vụ.
+   JP: 計画が土壇場で変更されたおかげでなければ、任務を果たすところだった。
+260. VI: Không phải là tình hình trở nên phức tạp, mà thực ra tiếp tục kế hoạch.
+   JP: 状況が複雑になったわけではなく、実は計画を続ける。
+261. VI: Mặc dù tôi đã chuẩn bị kỹ càng, nhưng rốt cuộc đạt được kết quả tốt.
+   JP: 十分に準備していたにもかかわらず、結局は良い結果を出す。
+262. VI: Cho dù dự án gặp nhiều trở ngại đến mấy, thay đổi hướng đi.
+   JP: どんなにプロジェクトが多くの障害に直面したとしても、方向転換する。
+263. VI: Thay vì tôi đã chuẩn bị kỹ càng, đáng lẽ nên thay đổi hướng đi.
+   JP: 十分に準備していたより、むしろ方向転換するべきだった。
+264. VI: Một khi đã dự án gặp nhiều trở ngại, thì phải thay đổi hướng đi.
+   JP: プロジェクトが多くの障害に直面した以上、方向転換するなければならない。
+265. VI: Nếu không nhờ dự án gặp nhiều trở ngại, thì đã đưa ra kết luận cuối cùng.
+   JP: プロジェクトが多くの障害に直面したおかげでなければ、最終的な結論を出すところだった。
+266. VI: Nếu không nhờ kế hoạch bị thay đổi vào phút chót, thì đã giải quyết vấn đề.
+   JP: 計画が土壇場で変更されたおかげでなければ、問題を解決するところだった。
+267. VI: Mặc dù dự án gặp nhiều trở ngại, nhưng rốt cuộc thuyết phục mọi người.
+   JP: プロジェクトが多くの障害に直面したにもかかわらず、結局は皆を説得する。
+268. VI: Giả sử dự án gặp nhiều trở ngại, thì liệu có thể tiếp tục kế hoạch không?
+   JP: プロジェクトが多くの障害に直面したとしたら、計画を続けることができるだろうか。
+269. VI: Một khi đã tôi đã chuẩn bị kỹ càng, thì phải đối phó kịp thời.
+   JP: 十分に準備していた以上、適切に対処するなければならない。
+270. VI: Cho dù thông tin chưa được xác nhận đến mấy, hoàn thành nhiệm vụ.
+   JP: どんなに情報がまだ確認されていないとしても、任務を果たす。
+271. VI: Không phải là tôi đã chuẩn bị kỹ càng, mà thực ra tiếp tục kế hoạch.
+   JP: 十分に準備していたわけではなく、実は計画を続ける。
+272. VI: Nếu không nhờ tình hình trở nên phức tạp, thì đã đảm bảo tiến độ công việc.
+   JP: 状況が複雑になったおかげでなければ、仕事の進捗を確保するところだった。
+273. VI: Cho dù kết quả không như mong đợi đến mấy, đưa ra quyết định đúng đắn.
+   JP: どんなに結果が期待通りではなかったとしても、正しい判断を下す。
+274. VI: Thay vì kết quả không như mong đợi, đáng lẽ nên thay đổi hướng đi.
+   JP: 結果が期待通りではなかったより、むしろ方向転換するべきだった。
+275. VI: Cho dù tình hình trở nên phức tạp đến mấy, giải quyết vấn đề.
+   JP: どんなに状況が複雑になったとしても、問題を解決する。
+276. VI: Không phải là kết quả không như mong đợi, mà thực ra đạt được kết quả tốt.
+   JP: 結果が期待通りではなかったわけではなく、実は良い結果を出す。
+277. VI: Không phải là tình hình trở nên phức tạp, mà thực ra thuyết phục mọi người.
+   JP: 状況が複雑になったわけではなく、実は皆を説得する。
+278. VI: Mặc dù kết quả không như mong đợi, nhưng rốt cuộc tiếp tục kế hoạch.
+   JP: 結果が期待通りではなかったにもかかわらず、結局は計画を続ける。
+279. VI: Thay vì dự án gặp nhiều trở ngại, đáng lẽ nên giải quyết vấn đề.
+   JP: プロジェクトが多くの障害に直面したより、むしろ問題を解決するべきだった。
+280. VI: Một khi đã tình hình trở nên phức tạp, thì phải đạt được kết quả tốt.
+   JP: 状況が複雑になった以上、良い結果を出すなければならない。
+281. VI: Trái lại với thông tin chưa được xác nhận, đưa ra kết luận cuối cùng.
+   JP: 情報がまだ確認されていないのとは反対に、最終的な結論を出す。
+282. VI: Sở dĩ đối phó kịp thời là bởi vì thông tin chưa được xác nhận.
+   JP: 適切に対処するのは、情報がまだ確認されていないからだ。
+283. VI: Mặc dù kết quả không như mong đợi, nhưng rốt cuộc hoàn thành nhiệm vụ.
+   JP: 結果が期待通りではなかったにもかかわらず、結局は任務を果たす。
+284. VI: Cho dù thông tin chưa được xác nhận đến mấy, tiếp tục kế hoạch.
+   JP: どんなに情報がまだ確認されていないとしても、計画を続ける。
+285. VI: Một khi đã cuộc thảo luận kéo dài hơn dự kiến, thì phải đối phó kịp thời.
+   JP: 議論が予想以上に長引いた以上、適切に対処するなければならない。
+286. VI: Cho dù tình hình trở nên phức tạp đến mấy, giải quyết vấn đề.
+   JP: どんなに状況が複雑になったとしても、問題を解決する。
+287. VI: Nếu không nhờ dự án gặp nhiều trở ngại, thì đã hoàn thành nhiệm vụ.
+   JP: プロジェクトが多くの障害に直面したおかげでなければ、任務を果たすところだった。
+288. VI: Sở dĩ thay đổi hướng đi là bởi vì cuộc thảo luận kéo dài hơn dự kiến.
+   JP: 方向転換するのは、議論が予想以上に長引いたからだ。
+289. VI: Sở dĩ giải quyết vấn đề là bởi vì mọi người không đồng ý.
+   JP: 問題を解決するのは、皆が賛成しなかったからだ。
+290. VI: Sở dĩ đối phó kịp thời là bởi vì mọi người không đồng ý.
+   JP: 適切に対処するのは、皆が賛成しなかったからだ。
+291. VI: Giả sử thông tin chưa được xác nhận, thì liệu có thể đạt được kết quả tốt không?
+   JP: 情報がまだ確認されていないとしたら、良い結果を出すことができるだろうか。
+292. VI: Không phải là kết quả không như mong đợi, mà thực ra hoàn thành nhiệm vụ.
+   JP: 結果が期待通りではなかったわけではなく、実は任務を果たす。
+293. VI: Ngay cả khi mọi người không đồng ý, thì cũng khó mà đối phó kịp thời.
+   JP: 皆が賛成しなかったとしても、適切に対処するのは難しい。
+294. VI: Mặc dù kế hoạch bị thay đổi vào phút chót, nhưng rốt cuộc giải quyết vấn đề.
+   JP: 計画が土壇場で変更されたにもかかわらず、結局は問題を解決する。
+295. VI: Trái lại với tôi đã chuẩn bị kỹ càng, thay đổi hướng đi.
+   JP: 十分に準備していたのとは反対に、方向転換する。
+296. VI: Sở dĩ thay đổi hướng đi là bởi vì kết quả không như mong đợi.
+   JP: 方向転換するのは、結果が期待通りではなかったからだ。
+297. VI: Nếu không nhờ tôi phải chịu nhiều áp lực, thì đã thay đổi hướng đi.
+   JP: 私は大きなプレッシャーを受けていたおかげでなければ、方向転換するところだった。
+298. VI: Thay vì tôi phải chịu nhiều áp lực, đáng lẽ nên đưa ra kết luận cuối cùng.
+   JP: 私は大きなプレッシャーを受けていたより、むしろ最終的な結論を出すべきだった。
+299. VI: Không phải là tình hình trở nên phức tạp, mà thực ra đưa ra kết luận cuối cùng.
+   JP: 状況が複雑になったわけではなく、実は最終的な結論を出す。
+300. VI: Nếu không nhờ tôi phải chịu nhiều áp lực, thì đã giải quyết vấn đề.
+   JP: 私は大きなプレッシャーを受けていたおかげでなければ、問題を解決するところだった。
+301. VI: Thay vì cuộc thảo luận kéo dài hơn dự kiến, đáng lẽ nên hoàn thành nhiệm vụ.
+   JP: 議論が予想以上に長引いたより、むしろ任務を果たすべきだった。
+302. VI: Nếu không nhờ mọi người không đồng ý, thì đã thay đổi hướng đi.
+   JP: 皆が賛成しなかったおかげでなければ、方向転換するところだった。
+303. VI: Thay vì cuộc thảo luận kéo dài hơn dự kiến, đáng lẽ nên đưa ra kết luận cuối cùng.
+   JP: 議論が予想以上に長引いたより、むしろ最終的な結論を出すべきだった。
+304. VI: Trái lại với kế hoạch bị thay đổi vào phút chót, thuyết phục mọi người.
+   JP: 計画が土壇場で変更されたのとは反対に、皆を説得する。
+305. VI: Ngay cả khi thông tin chưa được xác nhận, thì cũng khó mà thay đổi hướng đi.
+   JP: 情報がまだ確認されていないとしても、方向転換するのは難しい。
+306. VI: Trái lại với tôi không có đủ thời gian, tiếp tục kế hoạch.
+   JP: 時間が足りなかったのとは反対に、計画を続ける。
+307. VI: Giả sử mọi người không đồng ý, thì liệu có thể đưa ra kết luận cuối cùng không?
+   JP: 皆が賛成しなかったとしたら、最終的な結論を出すことができるだろうか。
+308. VI: Nếu không nhờ kế hoạch bị thay đổi vào phút chót, thì đã thay đổi hướng đi.
+   JP: 計画が土壇場で変更されたおかげでなければ、方向転換するところだった。
+309. VI: Trái lại với thông tin chưa được xác nhận, thuyết phục mọi người.
+   JP: 情報がまだ確認されていないのとは反対に、皆を説得する。
+310. VI: Không phải là tôi phải chịu nhiều áp lực, mà thực ra thuyết phục mọi người.
+   JP: 私は大きなプレッシャーを受けていたわけではなく、実は皆を説得する。
+311. VI: Một khi đã cuộc thảo luận kéo dài hơn dự kiến, thì phải giải quyết vấn đề.
+   JP: 議論が予想以上に長引いた以上、問題を解決するなければならない。
+312. VI: Một khi đã tôi không có đủ thời gian, thì phải thuyết phục mọi người.
+   JP: 時間が足りなかった以上、皆を説得するなければならない。
+313. VI: Giả sử kế hoạch bị thay đổi vào phút chót, thì liệu có thể đối phó kịp thời không?
+   JP: 計画が土壇場で変更されたとしたら、適切に対処することができるだろうか。
+314. VI: Mặc dù tôi đã chuẩn bị kỹ càng, nhưng rốt cuộc giải quyết vấn đề.
+   JP: 十分に準備していたにもかかわらず、結局は問題を解決する。
+315. VI: Mặc dù tôi đã chuẩn bị kỹ càng, nhưng rốt cuộc thuyết phục mọi người.
+   JP: 十分に準備していたにもかかわらず、結局は皆を説得する。
+316. VI: Không phải là dự án gặp nhiều trở ngại, mà thực ra đạt được kết quả tốt.
+   JP: プロジェクトが多くの障害に直面したわけではなく、実は良い結果を出す。
+317. VI: Sở dĩ đảm bảo tiến độ công việc là bởi vì tình hình trở nên phức tạp.
+   JP: 仕事の進捗を確保するのは、状況が複雑になったからだ。
+318. VI: Nếu không nhờ cuộc thảo luận kéo dài hơn dự kiến, thì đã hoàn thành nhiệm vụ.
+   JP: 議論が予想以上に長引いたおかげでなければ、任務を果たすところだった。
+319. VI: Giả sử cuộc thảo luận kéo dài hơn dự kiến, thì liệu có thể đưa ra quyết định đúng đắn không?
+   JP: 議論が予想以上に長引いたとしたら、正しい判断を下すことができるだろうか。
+320. VI: Một khi đã tôi phải chịu nhiều áp lực, thì phải đạt được kết quả tốt.
+   JP: 私は大きなプレッシャーを受けていた以上、良い結果を出すなければならない。
+321. VI: Sở dĩ đưa ra kết luận cuối cùng là bởi vì dự án gặp nhiều trở ngại.
+   JP: 最終的な結論を出すのは、プロジェクトが多くの障害に直面したからだ。
+322. VI: Mặc dù tình hình trở nên phức tạp, nhưng rốt cuộc hoàn thành nhiệm vụ.
+   JP: 状況が複雑になったにもかかわらず、結局は任務を果たす。
+323. VI: Không phải là thông tin chưa được xác nhận, mà thực ra thuyết phục mọi người.
+   JP: 情報がまだ確認されていないわけではなく、実は皆を説得する。
+324. VI: Nếu không nhờ kết quả không như mong đợi, thì đã đưa ra kết luận cuối cùng.
+   JP: 結果が期待通りではなかったおかげでなければ、最終的な結論を出すところだった。
+325. VI: Một khi đã tôi đã chuẩn bị kỹ càng, thì phải đưa ra kết luận cuối cùng.
+   JP: 十分に準備していた以上、最終的な結論を出すなければならない。
+326. VI: Không phải là mọi người không đồng ý, mà thực ra giải quyết vấn đề.
+   JP: 皆が賛成しなかったわけではなく、実は問題を解決する。
+327. VI: Thay vì tôi không có đủ thời gian, đáng lẽ nên hoàn thành nhiệm vụ.
+   JP: 時間が足りなかったより、むしろ任務を果たすべきだった。
+328. VI: Thay vì tôi đã chuẩn bị kỹ càng, đáng lẽ nên thuyết phục mọi người.
+   JP: 十分に準備していたより、むしろ皆を説得するべきだった。
+329. VI: Sở dĩ tiếp tục kế hoạch là bởi vì tôi đã chuẩn bị kỹ càng.
+   JP: 計画を続けるのは、十分に準備していたからだ。
+330. VI: Ngay cả khi tôi phải chịu nhiều áp lực, thì cũng khó mà đảm bảo tiến độ công việc.
+   JP: 私は大きなプレッシャーを受けていたとしても、仕事の進捗を確保するのは難しい。
+331. VI: Cho dù kết quả không như mong đợi đến mấy, tiếp tục kế hoạch.
+   JP: どんなに結果が期待通りではなかったとしても、計画を続ける。
+332. VI: Giả sử kết quả không như mong đợi, thì liệu có thể tiếp tục kế hoạch không?
+   JP: 結果が期待通りではなかったとしたら、計画を続けることができるだろうか。
+333. VI: Thay vì tôi phải chịu nhiều áp lực, đáng lẽ nên đưa ra quyết định đúng đắn.
+   JP: 私は大きなプレッシャーを受けていたより、むしろ正しい判断を下すべきだった。
+334. VI: Nếu không nhờ cuộc thảo luận kéo dài hơn dự kiến, thì đã đưa ra quyết định đúng đắn.
+   JP: 議論が予想以上に長引いたおかげでなければ、正しい判断を下すところだった。
+335. VI: Thay vì cuộc thảo luận kéo dài hơn dự kiến, đáng lẽ nên thay đổi hướng đi.
+   JP: 議論が予想以上に長引いたより、むしろ方向転換するべきだった。
+336. VI: Không phải là dự án gặp nhiều trở ngại, mà thực ra đưa ra kết luận cuối cùng.
+   JP: プロジェクトが多くの障害に直面したわけではなく、実は最終的な結論を出す。
+337. VI: Một khi đã tôi không có đủ thời gian, thì phải đạt được kết quả tốt.
+   JP: 時間が足りなかった以上、良い結果を出すなければならない。
+338. VI: Thay vì kết quả không như mong đợi, đáng lẽ nên đạt được kết quả tốt.
+   JP: 結果が期待通りではなかったより、むしろ良い結果を出すべきだった。
+339. VI: Trái lại với thông tin chưa được xác nhận, đảm bảo tiến độ công việc.
+   JP: 情報がまだ確認されていないのとは反対に、仕事の進捗を確保する。
+340. VI: Cho dù mọi người không đồng ý đến mấy, đạt được kết quả tốt.
+   JP: どんなに皆が賛成しなかったとしても、良い結果を出す。
+341. VI: Không phải là tình hình trở nên phức tạp, mà thực ra đưa ra quyết định đúng đắn.
+   JP: 状況が複雑になったわけではなく、実は正しい判断を下す。
+342. VI: Nếu không nhờ kế hoạch bị thay đổi vào phút chót, thì đã thay đổi hướng đi.
+   JP: 計画が土壇場で変更されたおかげでなければ、方向転換するところだった。
+343. VI: Giả sử kế hoạch bị thay đổi vào phút chót, thì liệu có thể đảm bảo tiến độ công việc không?
+   JP: 計画が土壇場で変更されたとしたら、仕事の進捗を確保することができるだろうか。
+344. VI: Ngay cả khi tôi không có đủ thời gian, thì cũng khó mà thuyết phục mọi người.
+   JP: 時間が足りなかったとしても、皆を説得するのは難しい。
+345. VI: Cho dù kết quả không như mong đợi đến mấy, giải quyết vấn đề.
+   JP: どんなに結果が期待通りではなかったとしても、問題を解決する。
+346. VI: Không phải là mọi người không đồng ý, mà thực ra đưa ra quyết định đúng đắn.
+   JP: 皆が賛成しなかったわけではなく、実は正しい判断を下す。
+347. VI: Nếu không nhờ tôi phải chịu nhiều áp lực, thì đã thay đổi hướng đi.
+   JP: 私は大きなプレッシャーを受けていたおかげでなければ、方向転換するところだった。
+348. VI: Trái lại với tôi phải chịu nhiều áp lực, đưa ra kết luận cuối cùng.
+   JP: 私は大きなプレッシャーを受けていたのとは反対に、最終的な結論を出す。
+349. VI: Không phải là kế hoạch bị thay đổi vào phút chót, mà thực ra đưa ra kết luận cuối cùng.
+   JP: 計画が土壇場で変更されたわけではなく、実は最終的な結論を出す。
+350. VI: Mặc dù cuộc thảo luận kéo dài hơn dự kiến, nhưng rốt cuộc đưa ra quyết định đúng đắn.
+   JP: 議論が予想以上に長引いたにもかかわらず、結局は正しい判断を下す。
+351. VI: Cho dù dự án gặp nhiều trở ngại đến mấy, đưa ra quyết định đúng đắn.
+   JP: どんなにプロジェクトが多くの障害に直面したとしても、正しい判断を下す。
+352. VI: Nếu không nhờ tình hình trở nên phức tạp, thì đã thuyết phục mọi người.
+   JP: 状況が複雑になったおかげでなければ、皆を説得するところだった。
+353. VI: Ngay cả khi mọi người không đồng ý, thì cũng khó mà giải quyết vấn đề.
+   JP: 皆が賛成しなかったとしても、問題を解決するのは難しい。
+354. VI: Cho dù mọi người không đồng ý đến mấy, đưa ra quyết định đúng đắn.
+   JP: どんなに皆が賛成しなかったとしても、正しい判断を下す。
+355. VI: Ngay cả khi kế hoạch bị thay đổi vào phút chót, thì cũng khó mà đối phó kịp thời.
+   JP: 計画が土壇場で変更されたとしても、適切に対処するのは難しい。
+356. VI: Một khi đã tôi không có đủ thời gian, thì phải đạt được kết quả tốt.
+   JP: 時間が足りなかった以上、良い結果を出すなければならない。
+357. VI: Trái lại với tôi phải chịu nhiều áp lực, thuyết phục mọi người.
+   JP: 私は大きなプレッシャーを受けていたのとは反対に、皆を説得する。
+358. VI: Sở dĩ đưa ra kết luận cuối cùng là bởi vì mọi người không đồng ý.
+   JP: 最終的な結論を出すのは、皆が賛成しなかったからだ。
+359. VI: Một khi đã tôi không có đủ thời gian, thì phải đảm bảo tiến độ công việc.
+   JP: 時間が足りなかった以上、仕事の進捗を確保するなければならない。
+360. VI: Mặc dù cuộc thảo luận kéo dài hơn dự kiến, nhưng rốt cuộc tiếp tục kế hoạch.
+   JP: 議論が予想以上に長引いたにもかかわらず、結局は計画を続ける。
+361. VI: Thay vì mọi người không đồng ý, đáng lẽ nên đưa ra quyết định đúng đắn.
+   JP: 皆が賛成しなかったより、むしろ正しい判断を下すべきだった。
+362. VI: Nếu không nhờ dự án gặp nhiều trở ngại, thì đã đưa ra kết luận cuối cùng.
+   JP: プロジェクトが多くの障害に直面したおかげでなければ、最終的な結論を出すところだった。
+363. VI: Không phải là kế hoạch bị thay đổi vào phút chót, mà thực ra đối phó kịp thời.
+   JP: 計画が土壇場で変更されたわけではなく、実は適切に対処する。
+364. VI: Sở dĩ đưa ra quyết định đúng đắn là bởi vì tình hình trở nên phức tạp.
+   JP: 正しい判断を下すのは、状況が複雑になったからだ。
+365. VI: Cho dù kết quả không như mong đợi đến mấy, hoàn thành nhiệm vụ.
+   JP: どんなに結果が期待通りではなかったとしても、任務を果たす。
+366. VI: Nếu không nhờ mọi người không đồng ý, thì đã đưa ra kết luận cuối cùng.
+   JP: 皆が賛成しなかったおかげでなければ、最終的な結論を出すところだった。
+367. VI: Mặc dù tôi đã chuẩn bị kỹ càng, nhưng rốt cuộc thuyết phục mọi người.
+   JP: 十分に準備していたにもかかわらず、結局は皆を説得する。
+368. VI: Không phải là dự án gặp nhiều trở ngại, mà thực ra đảm bảo tiến độ công việc.
+   JP: プロジェクトが多くの障害に直面したわけではなく、実は仕事の進捗を確保する。
+369. VI: Mặc dù mọi người không đồng ý, nhưng rốt cuộc giải quyết vấn đề.
+   JP: 皆が賛成しなかったにもかかわらず、結局は問題を解決する。
+370. VI: Nếu không nhờ kết quả không như mong đợi, thì đã đưa ra kết luận cuối cùng.
+   JP: 結果が期待通りではなかったおかげでなければ、最終的な結論を出すところだった。
+371. VI: Ngay cả khi kết quả không như mong đợi, thì cũng khó mà đạt được kết quả tốt.
+   JP: 結果が期待通りではなかったとしても、良い結果を出すのは難しい。
+372. VI: Giả sử cuộc thảo luận kéo dài hơn dự kiến, thì liệu có thể thuyết phục mọi người không?
+   JP: 議論が予想以上に長引いたとしたら、皆を説得することができるだろうか。
+373. VI: Sở dĩ đảm bảo tiến độ công việc là bởi vì tôi phải chịu nhiều áp lực.
+   JP: 仕事の進捗を確保するのは、私は大きなプレッシャーを受けていたからだ。
+374. VI: Nếu không nhờ kết quả không như mong đợi, thì đã đạt được kết quả tốt.
+   JP: 結果が期待通りではなかったおかげでなければ、良い結果を出すところだった。
+375. VI: Không phải là cuộc thảo luận kéo dài hơn dự kiến, mà thực ra đạt được kết quả tốt.
+   JP: 議論が予想以上に長引いたわけではなく、実は良い結果を出す。
+376. VI: Cho dù cuộc thảo luận kéo dài hơn dự kiến đến mấy, tiếp tục kế hoạch.
+   JP: どんなに議論が予想以上に長引いたとしても、計画を続ける。
+377. VI: Không phải là tôi đã chuẩn bị kỹ càng, mà thực ra đưa ra kết luận cuối cùng.
+   JP: 十分に準備していたわけではなく、実は最終的な結論を出す。
+378. VI: Mặc dù thông tin chưa được xác nhận, nhưng rốt cuộc đạt được kết quả tốt.
+   JP: 情報がまだ確認されていないにもかかわらず、結局は良い結果を出す。
+379. VI: Không phải là dự án gặp nhiều trở ngại, mà thực ra đưa ra quyết định đúng đắn.
+   JP: プロジェクトが多くの障害に直面したわけではなく、実は正しい判断を下す。
+380. VI: Nếu không nhờ cuộc thảo luận kéo dài hơn dự kiến, thì đã đạt được kết quả tốt.
+   JP: 議論が予想以上に長引いたおかげでなければ、良い結果を出すところだった。
+381. VI: Nếu không nhờ mọi người không đồng ý, thì đã đảm bảo tiến độ công việc.
+   JP: 皆が賛成しなかったおかげでなければ、仕事の進捗を確保するところだった。
+382. VI: Một khi đã tôi đã chuẩn bị kỹ càng, thì phải thay đổi hướng đi.
+   JP: 十分に準備していた以上、方向転換するなければならない。
+383. VI: Giả sử tôi phải chịu nhiều áp lực, thì liệu có thể đạt được kết quả tốt không?
+   JP: 私は大きなプレッシャーを受けていたとしたら、良い結果を出すことができるだろうか。
+384. VI: Trái lại với cuộc thảo luận kéo dài hơn dự kiến, hoàn thành nhiệm vụ.
+   JP: 議論が予想以上に長引いたのとは反対に、任務を果たす。
+385. VI: Một khi đã tình hình trở nên phức tạp, thì phải hoàn thành nhiệm vụ.
+   JP: 状況が複雑になった以上、任務を果たすなければならない。
+386. VI: Thay vì dự án gặp nhiều trở ngại, đáng lẽ nên thay đổi hướng đi.
+   JP: プロジェクトが多くの障害に直面したより、むしろ方向転換するべきだった。
+387. VI: Nếu không nhờ mọi người không đồng ý, thì đã đưa ra quyết định đúng đắn.
+   JP: 皆が賛成しなかったおかげでなければ、正しい判断を下すところだった。
+388. VI: Thay vì dự án gặp nhiều trở ngại, đáng lẽ nên thay đổi hướng đi.
+   JP: プロジェクトが多くの障害に直面したより、むしろ方向転換するべきだった。
+389. VI: Cho dù kế hoạch bị thay đổi vào phút chót đến mấy, đảm bảo tiến độ công việc.
+   JP: どんなに計画が土壇場で変更されたとしても、仕事の進捗を確保する。
+390. VI: Thay vì mọi người không đồng ý, đáng lẽ nên đưa ra kết luận cuối cùng.
+   JP: 皆が賛成しなかったより、むしろ最終的な結論を出すべきだった。
+391. VI: Một khi đã tôi phải chịu nhiều áp lực, thì phải đối phó kịp thời.
+   JP: 私は大きなプレッシャーを受けていた以上、適切に対処するなければならない。
+392. VI: Một khi đã mọi người không đồng ý, thì phải đối phó kịp thời.
+   JP: 皆が賛成しなかった以上、適切に対処するなければならない。
+393. VI: Ngay cả khi kế hoạch bị thay đổi vào phút chót, thì cũng khó mà thuyết phục mọi người.
+   JP: 計画が土壇場で変更されたとしても、皆を説得するのは難しい。
+394. VI: Không phải là tôi đã chuẩn bị kỹ càng, mà thực ra đạt được kết quả tốt.
+   JP: 十分に準備していたわけではなく、実は良い結果を出す。
+395. VI: Sở dĩ đảm bảo tiến độ công việc là bởi vì tôi đã chuẩn bị kỹ càng.
+   JP: 仕事の進捗を確保するのは、十分に準備していたからだ。
+396. VI: Cho dù tôi không có đủ thời gian đến mấy, đảm bảo tiến độ công việc.
+   JP: どんなに時間が足りなかったとしても、仕事の進捗を確保する。
+397. VI: Một khi đã dự án gặp nhiều trở ngại, thì phải thuyết phục mọi người.
+   JP: プロジェクトが多くの障害に直面した以上、皆を説得するなければならない。
+398. VI: Ngay cả khi dự án gặp nhiều trở ngại, thì cũng khó mà đưa ra quyết định đúng đắn.
+   JP: プロジェクトが多くの障害に直面したとしても、正しい判断を下すのは難しい。
+399. VI: Một khi đã cuộc thảo luận kéo dài hơn dự kiến, thì phải đảm bảo tiến độ công việc.
+   JP: 議論が予想以上に長引いた以上、仕事の進捗を確保するなければならない。
+400. VI: Một khi đã kế hoạch bị thay đổi vào phút chót, thì phải đưa ra quyết định đúng đắn.
+   JP: 計画が土壇場で変更された以上、正しい判断を下すなければならない。
+401. VI: Mặc dù tôi phải chịu nhiều áp lực, nhưng rốt cuộc thuyết phục mọi người.
+   JP: 私は大きなプレッシャーを受けていたにもかかわらず、結局は皆を説得する。
+402. VI: Sở dĩ hoàn thành nhiệm vụ là bởi vì tôi đã chuẩn bị kỹ càng.
+   JP: 任務を果たすのは、十分に準備していたからだ。
+403. VI: Không phải là cuộc thảo luận kéo dài hơn dự kiến, mà thực ra đưa ra kết luận cuối cùng.
+   JP: 議論が予想以上に長引いたわけではなく、実は最終的な結論を出す。
+404. VI: Ngay cả khi thông tin chưa được xác nhận, thì cũng khó mà thuyết phục mọi người.
+   JP: 情報がまだ確認されていないとしても、皆を説得するのは難しい。
+405. VI: Cho dù dự án gặp nhiều trở ngại đến mấy, đưa ra quyết định đúng đắn.
+   JP: どんなにプロジェクトが多くの障害に直面したとしても、正しい判断を下す。
+406. VI: Ngay cả khi tôi không có đủ thời gian, thì cũng khó mà tiếp tục kế hoạch.
+   JP: 時間が足りなかったとしても、計画を続けるのは難しい。
+407. VI: Mặc dù tôi đã chuẩn bị kỹ càng, nhưng rốt cuộc hoàn thành nhiệm vụ.
+   JP: 十分に準備していたにもかかわらず、結局は任務を果たす。
+408. VI: Nếu không nhờ tình hình trở nên phức tạp, thì đã đạt được kết quả tốt.
+   JP: 状況が複雑になったおかげでなければ、良い結果を出すところだった。
+409. VI: Thay vì dự án gặp nhiều trở ngại, đáng lẽ nên đưa ra kết luận cuối cùng.
+   JP: プロジェクトが多くの障害に直面したより、むしろ最終的な結論を出すべきだった。
+410. VI: Giả sử tôi không có đủ thời gian, thì liệu có thể thuyết phục mọi người không?
+   JP: 時間が足りなかったとしたら、皆を説得することができるだろうか。
+411. VI: Cho dù tôi đã chuẩn bị kỹ càng đến mấy, đưa ra kết luận cuối cùng.
+   JP: どんなに十分に準備していたとしても、最終的な結論を出す。
+412. VI: Không phải là mọi người không đồng ý, mà thực ra đảm bảo tiến độ công việc.
+   JP: 皆が賛成しなかったわけではなく、実は仕事の進捗を確保する。
+413. VI: Giả sử kết quả không như mong đợi, thì liệu có thể hoàn thành nhiệm vụ không?
+   JP: 結果が期待通りではなかったとしたら、任務を果たすことができるだろうか。
+414. VI: Ngay cả khi kết quả không như mong đợi, thì cũng khó mà tiếp tục kế hoạch.
+   JP: 結果が期待通りではなかったとしても、計画を続けるのは難しい。
+415. VI: Sở dĩ đưa ra kết luận cuối cùng là bởi vì kế hoạch bị thay đổi vào phút chót.
+   JP: 最終的な結論を出すのは、計画が土壇場で変更されたからだ。
+416. VI: Một khi đã tôi phải chịu nhiều áp lực, thì phải đảm bảo tiến độ công việc.
+   JP: 私は大きなプレッシャーを受けていた以上、仕事の進捗を確保するなければならない。
+417. VI: Không phải là tôi phải chịu nhiều áp lực, mà thực ra đưa ra quyết định đúng đắn.
+   JP: 私は大きなプレッシャーを受けていたわけではなく、実は正しい判断を下す。
+418. VI: Giả sử dự án gặp nhiều trở ngại, thì liệu có thể thay đổi hướng đi không?
+   JP: プロジェクトが多くの障害に直面したとしたら、方向転換することができるだろうか。
+419. VI: Cho dù kết quả không như mong đợi đến mấy, đảm bảo tiến độ công việc.
+   JP: どんなに結果が期待通りではなかったとしても、仕事の進捗を確保する。
+420. VI: Trái lại với mọi người không đồng ý, tiếp tục kế hoạch.
+   JP: 皆が賛成しなかったのとは反対に、計画を続ける。
+421. VI: Thay vì tôi đã chuẩn bị kỹ càng, đáng lẽ nên đối phó kịp thời.
+   JP: 十分に準備していたより、むしろ適切に対処するべきだった。
+422. VI: Một khi đã tình hình trở nên phức tạp, thì phải hoàn thành nhiệm vụ.
+   JP: 状況が複雑になった以上、任務を果たすなければならない。
+423. VI: Không phải là tôi không có đủ thời gian, mà thực ra đưa ra kết luận cuối cùng.
+   JP: 時間が足りなかったわけではなく、実は最終的な結論を出す。
+424. VI: Một khi đã tình hình trở nên phức tạp, thì phải đưa ra kết luận cuối cùng.
+   JP: 状況が複雑になった以上、最終的な結論を出すなければならない。
+425. VI: Thay vì cuộc thảo luận kéo dài hơn dự kiến, đáng lẽ nên thuyết phục mọi người.
+   JP: 議論が予想以上に長引いたより、むしろ皆を説得するべきだった。
+426. VI: Thay vì tôi không có đủ thời gian, đáng lẽ nên đối phó kịp thời.
+   JP: 時間が足りなかったより、むしろ適切に対処するべきだった。
+427. VI: Mặc dù tôi không có đủ thời gian, nhưng rốt cuộc tiếp tục kế hoạch.
+   JP: 時間が足りなかったにもかかわらず、結局は計画を続ける。
+428. VI: Trái lại với tôi phải chịu nhiều áp lực, đưa ra quyết định đúng đắn.
+   JP: 私は大きなプレッシャーを受けていたのとは反対に、正しい判断を下す。
+429. VI: Không phải là tôi phải chịu nhiều áp lực, mà thực ra đưa ra kết luận cuối cùng.
+   JP: 私は大きなプレッシャーを受けていたわけではなく、実は最終的な結論を出す。
+430. VI: Trái lại với tôi phải chịu nhiều áp lực, thuyết phục mọi người.
+   JP: 私は大きなプレッシャーを受けていたのとは反対に、皆を説得する。
+431. VI: Ngay cả khi thông tin chưa được xác nhận, thì cũng khó mà đưa ra kết luận cuối cùng.
+   JP: 情報がまだ確認されていないとしても、最終的な結論を出すのは難しい。
+432. VI: Ngay cả khi kết quả không như mong đợi, thì cũng khó mà đối phó kịp thời.
+   JP: 結果が期待通りではなかったとしても、適切に対処するのは難しい。
+433. VI: Nếu không nhờ kết quả không như mong đợi, thì đã đưa ra quyết định đúng đắn.
+   JP: 結果が期待通りではなかったおかげでなければ、正しい判断を下すところだった。
+434. VI: Một khi đã tôi đã chuẩn bị kỹ càng, thì phải đưa ra kết luận cuối cùng.
+   JP: 十分に準備していた以上、最終的な結論を出すなければならない。
+435. VI: Giả sử tình hình trở nên phức tạp, thì liệu có thể thuyết phục mọi người không?
+   JP: 状況が複雑になったとしたら、皆を説得することができるだろうか。
+436. VI: Ngay cả khi mọi người không đồng ý, thì cũng khó mà đạt được kết quả tốt.
+   JP: 皆が賛成しなかったとしても、良い結果を出すのは難しい。
+437. VI: Thay vì cuộc thảo luận kéo dài hơn dự kiến, đáng lẽ nên đảm bảo tiến độ công việc.
+   JP: 議論が予想以上に長引いたより、むしろ仕事の進捗を確保するべきだった。
+438. VI: Cho dù tôi không có đủ thời gian đến mấy, hoàn thành nhiệm vụ.
+   JP: どんなに時間が足りなかったとしても、任務を果たす。
+439. VI: Thay vì mọi người không đồng ý, đáng lẽ nên thuyết phục mọi người.
+   JP: 皆が賛成しなかったより、むしろ皆を説得するべきだった。
+440. VI: Thay vì tình hình trở nên phức tạp, đáng lẽ nên hoàn thành nhiệm vụ.
+   JP: 状況が複雑になったより、むしろ任務を果たすべきだった。
+441. VI: Mặc dù tình hình trở nên phức tạp, nhưng rốt cuộc tiếp tục kế hoạch.
+   JP: 状況が複雑になったにもかかわらず、結局は計画を続ける。
+442. VI: Nếu không nhờ tôi không có đủ thời gian, thì đã đảm bảo tiến độ công việc.
+   JP: 時間が足りなかったおかげでなければ、仕事の進捗を確保するところだった。
+443. VI: Cho dù tôi không có đủ thời gian đến mấy, đạt được kết quả tốt.
+   JP: どんなに時間が足りなかったとしても、良い結果を出す。
+444. VI: Trái lại với dự án gặp nhiều trở ngại, đạt được kết quả tốt.
+   JP: プロジェクトが多くの障害に直面したのとは反対に、良い結果を出す。
+445. VI: Trái lại với tình hình trở nên phức tạp, đối phó kịp thời.
+   JP: 状況が複雑になったのとは反対に、適切に対処する。
+446. VI: Thay vì mọi người không đồng ý, đáng lẽ nên thay đổi hướng đi.
+   JP: 皆が賛成しなかったより、むしろ方向転換するべきだった。
+447. VI: Không phải là kết quả không như mong đợi, mà thực ra thay đổi hướng đi.
+   JP: 結果が期待通りではなかったわけではなく、実は方向転換する。
+448. VI: Giả sử kế hoạch bị thay đổi vào phút chót, thì liệu có thể đảm bảo tiến độ công việc không?
+   JP: 計画が土壇場で変更されたとしたら、仕事の進捗を確保することができるだろうか。
+449. VI: Giả sử tình hình trở nên phức tạp, thì liệu có thể hoàn thành nhiệm vụ không?
+   JP: 状況が複雑になったとしたら、任務を果たすことができるだろうか。
+450. VI: Nếu không nhờ tôi đã chuẩn bị kỹ càng, thì đã đạt được kết quả tốt.
+   JP: 十分に準備していたおかげでなければ、良い結果を出すところだった。
+451. VI: Giả sử tôi không có đủ thời gian, thì liệu có thể đảm bảo tiến độ công việc không?
+   JP: 時間が足りなかったとしたら、仕事の進捗を確保することができるだろうか。
+452. VI: Một khi đã thông tin chưa được xác nhận, thì phải hoàn thành nhiệm vụ.
+   JP: 情報がまだ確認されていない以上、任務を果たすなければならない。
+453. VI: Thay vì tôi phải chịu nhiều áp lực, đáng lẽ nên đạt được kết quả tốt.
+   JP: 私は大きなプレッシャーを受けていたより、むしろ良い結果を出すべきだった。
+454. VI: Cho dù tôi phải chịu nhiều áp lực đến mấy, đưa ra kết luận cuối cùng.
+   JP: どんなに私は大きなプレッシャーを受けていたとしても、最終的な結論を出す。
+455. VI: Cho dù mọi người không đồng ý đến mấy, đưa ra kết luận cuối cùng.
+   JP: どんなに皆が賛成しなかったとしても、最終的な結論を出す。
+456. VI: Ngay cả khi kết quả không như mong đợi, thì cũng khó mà thay đổi hướng đi.
+   JP: 結果が期待通りではなかったとしても、方向転換するのは難しい。
+457. VI: Một khi đã mọi người không đồng ý, thì phải thuyết phục mọi người.
+   JP: 皆が賛成しなかった以上、皆を説得するなければならない。
+458. VI: Ngay cả khi thông tin chưa được xác nhận, thì cũng khó mà đưa ra kết luận cuối cùng.
+   JP: 情報がまだ確認されていないとしても、最終的な結論を出すのは難しい。
+459. VI: Thay vì kết quả không như mong đợi, đáng lẽ nên đảm bảo tiến độ công việc.
+   JP: 結果が期待通りではなかったより、むしろ仕事の進捗を確保するべきだった。
+460. VI: Không phải là kế hoạch bị thay đổi vào phút chót, mà thực ra đưa ra kết luận cuối cùng.
+   JP: 計画が土壇場で変更されたわけではなく、実は最終的な結論を出す。
+461. VI: Giả sử mọi người không đồng ý, thì liệu có thể đối phó kịp thời không?
+   JP: 皆が賛成しなかったとしたら、適切に対処することができるだろうか。
+462. VI: Thay vì kết quả không như mong đợi, đáng lẽ nên đối phó kịp thời.
+   JP: 結果が期待通りではなかったより、むしろ適切に対処するべきだった。
+463. VI: Mặc dù tôi không có đủ thời gian, nhưng rốt cuộc thay đổi hướng đi.
+   JP: 時間が足りなかったにもかかわらず、結局は方向転換する。
+464. VI: Một khi đã tôi không có đủ thời gian, thì phải tiếp tục kế hoạch.
+   JP: 時間が足りなかった以上、計画を続けるなければならない。
+465. VI: Không phải là tôi không có đủ thời gian, mà thực ra tiếp tục kế hoạch.
+   JP: 時間が足りなかったわけではなく、実は計画を続ける。
+466. VI: Nếu không nhờ dự án gặp nhiều trở ngại, thì đã hoàn thành nhiệm vụ.
+   JP: プロジェクトが多くの障害に直面したおかげでなければ、任務を果たすところだった。
+467. VI: Trái lại với dự án gặp nhiều trở ngại, thay đổi hướng đi.
+   JP: プロジェクトが多くの障害に直面したのとは反対に、方向転換する。
+468. VI: Cho dù mọi người không đồng ý đến mấy, đưa ra kết luận cuối cùng.
+   JP: どんなに皆が賛成しなかったとしても、最終的な結論を出す。
+469. VI: Ngay cả khi tôi không có đủ thời gian, thì cũng khó mà thay đổi hướng đi.
+   JP: 時間が足りなかったとしても、方向転換するのは難しい。
+470. VI: Cho dù dự án gặp nhiều trở ngại đến mấy, thuyết phục mọi người.
+   JP: どんなにプロジェクトが多くの障害に直面したとしても、皆を説得する。
+471. VI: Một khi đã tôi không có đủ thời gian, thì phải thuyết phục mọi người.
+   JP: 時間が足りなかった以上、皆を説得するなければならない。
+472. VI: Giả sử thông tin chưa được xác nhận, thì liệu có thể đưa ra quyết định đúng đắn không?
+   JP: 情報がまだ確認されていないとしたら、正しい判断を下すことができるだろうか。
+473. VI: Cho dù kết quả không như mong đợi đến mấy, hoàn thành nhiệm vụ.
+   JP: どんなに結果が期待通りではなかったとしても、任務を果たす。
+474. VI: Cho dù tôi không có đủ thời gian đến mấy, thay đổi hướng đi.
+   JP: どんなに時間が足りなかったとしても、方向転換する。
+475. VI: Một khi đã kết quả không như mong đợi, thì phải đối phó kịp thời.
+   JP: 結果が期待通りではなかった以上、適切に対処するなければならない。
+476. VI: Trái lại với kết quả không như mong đợi, giải quyết vấn đề.
+   JP: 結果が期待通りではなかったのとは反対に、問題を解決する。
+477. VI: Cho dù cuộc thảo luận kéo dài hơn dự kiến đến mấy, đưa ra quyết định đúng đắn.
+   JP: どんなに議論が予想以上に長引いたとしても、正しい判断を下す。
+478. VI: Một khi đã kế hoạch bị thay đổi vào phút chót, thì phải đối phó kịp thời.
+   JP: 計画が土壇場で変更された以上、適切に対処するなければならない。
+479. VI: Ngay cả khi kết quả không như mong đợi, thì cũng khó mà đưa ra quyết định đúng đắn.
+   JP: 結果が期待通りではなかったとしても、正しい判断を下すのは難しい。
+480. VI: Thay vì kết quả không như mong đợi, đáng lẽ nên thuyết phục mọi người.
+   JP: 結果が期待通りではなかったより、むしろ皆を説得するべきだった。
+481. VI: Thay vì kết quả không như mong đợi, đáng lẽ nên đảm bảo tiến độ công việc.
+   JP: 結果が期待通りではなかったより、むしろ仕事の進捗を確保するべきだった。
+482. VI: Mặc dù kế hoạch bị thay đổi vào phút chót, nhưng rốt cuộc đảm bảo tiến độ công việc.
+   JP: 計画が土壇場で変更されたにもかかわらず、結局は仕事の進捗を確保する。
+483. VI: Mặc dù kế hoạch bị thay đổi vào phút chót, nhưng rốt cuộc thuyết phục mọi người.
+   JP: 計画が土壇場で変更されたにもかかわらず、結局は皆を説得する。
+484. VI: Mặc dù kết quả không như mong đợi, nhưng rốt cuộc thuyết phục mọi người.
+   JP: 結果が期待通りではなかったにもかかわらず、結局は皆を説得する。
+485. VI: Thay vì thông tin chưa được xác nhận, đáng lẽ nên đạt được kết quả tốt.
+   JP: 情報がまだ確認されていないより、むしろ良い結果を出すべきだった。
+486. VI: Giả sử mọi người không đồng ý, thì liệu có thể đạt được kết quả tốt không?
+   JP: 皆が賛成しなかったとしたら、良い結果を出すことができるだろうか。
+487. VI: Cho dù kết quả không như mong đợi đến mấy, hoàn thành nhiệm vụ.
+   JP: どんなに結果が期待通りではなかったとしても、任務を果たす。
+488. VI: Giả sử dự án gặp nhiều trở ngại, thì liệu có thể đảm bảo tiến độ công việc không?
+   JP: プロジェクトが多くの障害に直面したとしたら、仕事の進捗を確保することができるだろうか。
+489. VI: Trái lại với tôi đã chuẩn bị kỹ càng, đối phó kịp thời.
+   JP: 十分に準備していたのとは反対に、適切に対処する。
+490. VI: Không phải là tình hình trở nên phức tạp, mà thực ra tiếp tục kế hoạch.
+   JP: 状況が複雑になったわけではなく、実は計画を続ける。
+491. VI: Không phải là mọi người không đồng ý, mà thực ra đối phó kịp thời.
+   JP: 皆が賛成しなかったわけではなく、実は適切に対処する。
+492. VI: Mặc dù tôi đã chuẩn bị kỹ càng, nhưng rốt cuộc đảm bảo tiến độ công việc.
+   JP: 十分に準備していたにもかかわらず、結局は仕事の進捗を確保する。
+493. VI: Giả sử thông tin chưa được xác nhận, thì liệu có thể đảm bảo tiến độ công việc không?
+   JP: 情報がまだ確認されていないとしたら、仕事の進捗を確保することができるだろうか。
+494. VI: Thay vì tình hình trở nên phức tạp, đáng lẽ nên đưa ra kết luận cuối cùng.
+   JP: 状況が複雑になったより、むしろ最終的な結論を出すべきだった。
+495. VI: Trái lại với kế hoạch bị thay đổi vào phút chót, đối phó kịp thời.
+   JP: 計画が土壇場で変更されたのとは反対に、適切に対処する。
+496. VI: Thay vì thông tin chưa được xác nhận, đáng lẽ nên thay đổi hướng đi.
+   JP: 情報がまだ確認されていないより、むしろ方向転換するべきだった。
+497. VI: Một khi đã tôi đã chuẩn bị kỹ càng, thì phải tiếp tục kế hoạch.
+   JP: 十分に準備していた以上、計画を続けるなければならない。
+498. VI: Trái lại với dự án gặp nhiều trở ngại, tiếp tục kế hoạch.
+   JP: プロジェクトが多くの障害に直面したのとは反対に、計画を続ける。
+499. VI: Một khi đã tôi không có đủ thời gian, thì phải hoàn thành nhiệm vụ.
+   JP: 時間が足りなかった以上、任務を果たすなければならない。
+500. VI: Một khi đã dự án gặp nhiều trở ngại, thì phải đưa ra quyết định đúng đắn.
+   JP: プロジェクトが多くの障害に直面した以上、正しい判断を下すなければならない。
+501. VI: Sở dĩ thuyết phục mọi người là bởi vì mọi người không đồng ý.
+   JP: 皆を説得するのは、皆が賛成しなかったからだ。
+502. VI: Cho dù thông tin chưa được xác nhận đến mấy, đối phó kịp thời.
+   JP: どんなに情報がまだ確認されていないとしても、適切に対処する。
+503. VI: Trái lại với thông tin chưa được xác nhận, đưa ra quyết định đúng đắn.
+   JP: 情報がまだ確認されていないのとは反対に、正しい判断を下す。
+504. VI: Thay vì dự án gặp nhiều trở ngại, đáng lẽ nên thuyết phục mọi người.
+   JP: プロジェクトが多くの障害に直面したより、むしろ皆を説得するべきだった。
+505. VI: Giả sử tôi không có đủ thời gian, thì liệu có thể thay đổi hướng đi không?
+   JP: 時間が足りなかったとしたら、方向転換することができるだろうか。
+506. VI: Một khi đã thông tin chưa được xác nhận, thì phải đưa ra quyết định đúng đắn.
+   JP: 情報がまだ確認されていない以上、正しい判断を下すなければならない。
+507. VI: Trái lại với tôi đã chuẩn bị kỹ càng, đưa ra quyết định đúng đắn.
+   JP: 十分に準備していたのとは反対に、正しい判断を下す。
+508. VI: Nếu không nhờ thông tin chưa được xác nhận, thì đã đưa ra kết luận cuối cùng.
+   JP: 情報がまだ確認されていないおかげでなければ、最終的な結論を出すところだった。
+509. VI: Không phải là cuộc thảo luận kéo dài hơn dự kiến, mà thực ra thuyết phục mọi người.
+   JP: 議論が予想以上に長引いたわけではなく、実は皆を説得する。
+510. VI: Ngay cả khi kết quả không như mong đợi, thì cũng khó mà đưa ra kết luận cuối cùng.
+   JP: 結果が期待通りではなかったとしても、最終的な結論を出すのは難しい。
+511. VI: Cho dù thông tin chưa được xác nhận đến mấy, đối phó kịp thời.
+   JP: どんなに情報がまだ確認されていないとしても、適切に対処する。
+512. VI: Giả sử kết quả không như mong đợi, thì liệu có thể hoàn thành nhiệm vụ không?
+   JP: 結果が期待通りではなかったとしたら、任務を果たすことができるだろうか。
+513. VI: Thay vì mọi người không đồng ý, đáng lẽ nên thay đổi hướng đi.
+   JP: 皆が賛成しなかったより、むしろ方向転換するべきだった。
+514. VI: Sở dĩ tiếp tục kế hoạch là bởi vì thông tin chưa được xác nhận.
+   JP: 計画を続けるのは、情報がまだ確認されていないからだ。
+515. VI: Giả sử dự án gặp nhiều trở ngại, thì liệu có thể hoàn thành nhiệm vụ không?
+   JP: プロジェクトが多くの障害に直面したとしたら、任務を果たすことができるだろうか。
+516. VI: Một khi đã kết quả không như mong đợi, thì phải tiếp tục kế hoạch.
+   JP: 結果が期待通りではなかった以上、計画を続けるなければならない。
+517. VI: Sở dĩ đảm bảo tiến độ công việc là bởi vì cuộc thảo luận kéo dài hơn dự kiến.
+   JP: 仕事の進捗を確保するのは、議論が予想以上に長引いたからだ。
+518. VI: Sở dĩ đối phó kịp thời là bởi vì kết quả không như mong đợi.
+   JP: 適切に対処するのは、結果が期待通りではなかったからだ。
+519. VI: Ngay cả khi tôi không có đủ thời gian, thì cũng khó mà giải quyết vấn đề.
+   JP: 時間が足りなかったとしても、問題を解決するのは難しい。
+520. VI: Nếu không nhờ thông tin chưa được xác nhận, thì đã đạt được kết quả tốt.
+   JP: 情報がまだ確認されていないおかげでなければ、良い結果を出すところだった。
+521. VI: Thay vì tôi đã chuẩn bị kỹ càng, đáng lẽ nên đạt được kết quả tốt.
+   JP: 十分に準備していたより、むしろ良い結果を出すべきだった。
+522. VI: Sở dĩ thuyết phục mọi người là bởi vì kết quả không như mong đợi.
+   JP: 皆を説得するのは、結果が期待通りではなかったからだ。
+523. VI: Mặc dù tôi đã chuẩn bị kỹ càng, nhưng rốt cuộc giải quyết vấn đề.
+   JP: 十分に準備していたにもかかわらず、結局は問題を解決する。
+524. VI: Một khi đã cuộc thảo luận kéo dài hơn dự kiến, thì phải thuyết phục mọi người.
+   JP: 議論が予想以上に長引いた以上、皆を説得するなければならない。
+525. VI: Mặc dù cuộc thảo luận kéo dài hơn dự kiến, nhưng rốt cuộc hoàn thành nhiệm vụ.
+   JP: 議論が予想以上に長引いたにもかかわらず、結局は任務を果たす。
+526. VI: Nếu không nhờ kế hoạch bị thay đổi vào phút chót, thì đã thay đổi hướng đi.
+   JP: 計画が土壇場で変更されたおかげでなければ、方向転換するところだった。
+527. VI: Mặc dù kết quả không như mong đợi, nhưng rốt cuộc đưa ra kết luận cuối cùng.
+   JP: 結果が期待通りではなかったにもかかわらず、結局は最終的な結論を出す。
+528. VI: Giả sử mọi người không đồng ý, thì liệu có thể tiếp tục kế hoạch không?
+   JP: 皆が賛成しなかったとしたら、計画を続けることができるだろうか。
+529. VI: Cho dù dự án gặp nhiều trở ngại đến mấy, đưa ra quyết định đúng đắn.
+   JP: どんなにプロジェクトが多くの障害に直面したとしても、正しい判断を下す。
+530. VI: Sở dĩ hoàn thành nhiệm vụ là bởi vì thông tin chưa được xác nhận.
+   JP: 任務を果たすのは、情報がまだ確認されていないからだ。
+531. VI: Một khi đã tình hình trở nên phức tạp, thì phải đưa ra kết luận cuối cùng.
+   JP: 状況が複雑になった以上、最終的な結論を出すなければならない。
+532. VI: Mặc dù kế hoạch bị thay đổi vào phút chót, nhưng rốt cuộc đưa ra kết luận cuối cùng.
+   JP: 計画が土壇場で変更されたにもかかわらず、結局は最終的な結論を出す。
+533. VI: Trái lại với kết quả không như mong đợi, tiếp tục kế hoạch.
+   JP: 結果が期待通りではなかったのとは反対に、計画を続ける。
+534. VI: Ngay cả khi mọi người không đồng ý, thì cũng khó mà hoàn thành nhiệm vụ.
+   JP: 皆が賛成しなかったとしても、任務を果たすのは難しい。
+535. VI: Ngay cả khi kết quả không như mong đợi, thì cũng khó mà thuyết phục mọi người.
+   JP: 結果が期待通りではなかったとしても、皆を説得するのは難しい。
+536. VI: Trái lại với kết quả không như mong đợi, đưa ra kết luận cuối cùng.
+   JP: 結果が期待通りではなかったのとは反対に、最終的な結論を出す。
+537. VI: Ngay cả khi cuộc thảo luận kéo dài hơn dự kiến, thì cũng khó mà đối phó kịp thời.
+   JP: 議論が予想以上に長引いたとしても、適切に対処するのは難しい。
+538. VI: Cho dù cuộc thảo luận kéo dài hơn dự kiến đến mấy, đối phó kịp thời.
+   JP: どんなに議論が予想以上に長引いたとしても、適切に対処する。
+539. VI: Một khi đã cuộc thảo luận kéo dài hơn dự kiến, thì phải đưa ra quyết định đúng đắn.
+   JP: 議論が予想以上に長引いた以上、正しい判断を下すなければならない。
+540. VI: Cho dù thông tin chưa được xác nhận đến mấy, đối phó kịp thời.
+   JP: どんなに情報がまだ確認されていないとしても、適切に対処する。
+541. VI: Sở dĩ đảm bảo tiến độ công việc là bởi vì cuộc thảo luận kéo dài hơn dự kiến.
+   JP: 仕事の進捗を確保するのは、議論が予想以上に長引いたからだ。
+542. VI: Không phải là thông tin chưa được xác nhận, mà thực ra đảm bảo tiến độ công việc.
+   JP: 情報がまだ確認されていないわけではなく、実は仕事の進捗を確保する。
+543. VI: Thay vì mọi người không đồng ý, đáng lẽ nên đảm bảo tiến độ công việc.
+   JP: 皆が賛成しなかったより、むしろ仕事の進捗を確保するべきだった。
+544. VI: Nếu không nhờ tôi phải chịu nhiều áp lực, thì đã giải quyết vấn đề.
+   JP: 私は大きなプレッシャーを受けていたおかげでなければ、問題を解決するところだった。
+545. VI: Thay vì tôi đã chuẩn bị kỹ càng, đáng lẽ nên thay đổi hướng đi.
+   JP: 十分に準備していたより、むしろ方向転換するべきだった。
+546. VI: Nếu không nhờ mọi người không đồng ý, thì đã thuyết phục mọi người.
+   JP: 皆が賛成しなかったおかげでなければ、皆を説得するところだった。
+547. VI: Giả sử dự án gặp nhiều trở ngại, thì liệu có thể thuyết phục mọi người không?
+   JP: プロジェクトが多くの障害に直面したとしたら、皆を説得することができるだろうか。
+548. VI: Một khi đã dự án gặp nhiều trở ngại, thì phải giải quyết vấn đề.
+   JP: プロジェクトが多くの障害に直面した以上、問題を解決するなければならない。
+549. VI: Cho dù tôi không có đủ thời gian đến mấy, thuyết phục mọi người.
+   JP: どんなに時間が足りなかったとしても、皆を説得する。
+550. VI: Cho dù dự án gặp nhiều trở ngại đến mấy, đối phó kịp thời.
+   JP: どんなにプロジェクトが多くの障害に直面したとしても、適切に対処する。
+551. VI: Nếu không nhờ tôi không có đủ thời gian, thì đã thuyết phục mọi người.
+   JP: 時間が足りなかったおかげでなければ、皆を説得するところだった。
+552. VI: Trái lại với tôi phải chịu nhiều áp lực, hoàn thành nhiệm vụ.
+   JP: 私は大きなプレッシャーを受けていたのとは反対に、任務を果たす。
+553. VI: Nếu không nhờ tình hình trở nên phức tạp, thì đã đưa ra quyết định đúng đắn.
+   JP: 状況が複雑になったおかげでなければ、正しい判断を下すところだった。
+554. VI: Ngay cả khi mọi người không đồng ý, thì cũng khó mà tiếp tục kế hoạch.
+   JP: 皆が賛成しなかったとしても、計画を続けるのは難しい。
+555. VI: Nếu không nhờ dự án gặp nhiều trở ngại, thì đã thay đổi hướng đi.
+   JP: プロジェクトが多くの障害に直面したおかげでなければ、方向転換するところだった。
+556. VI: Cho dù cuộc thảo luận kéo dài hơn dự kiến đến mấy, giải quyết vấn đề.
+   JP: どんなに議論が予想以上に長引いたとしても、問題を解決する。
+557. VI: Nếu không nhờ dự án gặp nhiều trở ngại, thì đã đưa ra quyết định đúng đắn.
+   JP: プロジェクトが多くの障害に直面したおかげでなければ、正しい判断を下すところだった。
+558. VI: Mặc dù tôi không có đủ thời gian, nhưng rốt cuộc đưa ra quyết định đúng đắn.
+   JP: 時間が足りなかったにもかかわらず、結局は正しい判断を下す。
+559. VI: Mặc dù tình hình trở nên phức tạp, nhưng rốt cuộc hoàn thành nhiệm vụ.
+   JP: 状況が複雑になったにもかかわらず、結局は任務を果たす。
+560. VI: Mặc dù tôi phải chịu nhiều áp lực, nhưng rốt cuộc đạt được kết quả tốt.
+   JP: 私は大きなプレッシャーを受けていたにもかかわらず、結局は良い結果を出す。
+561. VI: Ngay cả khi dự án gặp nhiều trở ngại, thì cũng khó mà hoàn thành nhiệm vụ.
+   JP: プロジェクトが多くの障害に直面したとしても、任務を果たすのは難しい。
+562. VI: Sở dĩ đối phó kịp thời là bởi vì tôi không có đủ thời gian.
+   JP: 適切に対処するのは、時間が足りなかったからだ。
+563. VI: Một khi đã cuộc thảo luận kéo dài hơn dự kiến, thì phải tiếp tục kế hoạch.
+   JP: 議論が予想以上に長引いた以上、計画を続けるなければならない。
+564. VI: Giả sử dự án gặp nhiều trở ngại, thì liệu có thể thay đổi hướng đi không?
+   JP: プロジェクトが多くの障害に直面したとしたら、方向転換することができるだろうか。
+565. VI: Giả sử kế hoạch bị thay đổi vào phút chót, thì liệu có thể đạt được kết quả tốt không?
+   JP: 計画が土壇場で変更されたとしたら、良い結果を出すことができるだろうか。
+566. VI: Không phải là dự án gặp nhiều trở ngại, mà thực ra giải quyết vấn đề.
+   JP: プロジェクトが多くの障害に直面したわけではなく、実は問題を解決する。
+567. VI: Ngay cả khi tôi phải chịu nhiều áp lực, thì cũng khó mà thuyết phục mọi người.
+   JP: 私は大きなプレッシャーを受けていたとしても、皆を説得するのは難しい。
+568. VI: Sở dĩ giải quyết vấn đề là bởi vì cuộc thảo luận kéo dài hơn dự kiến.
+   JP: 問題を解決するのは、議論が予想以上に長引いたからだ。
+569. VI: Giả sử cuộc thảo luận kéo dài hơn dự kiến, thì liệu có thể đạt được kết quả tốt không?
+   JP: 議論が予想以上に長引いたとしたら、良い結果を出すことができるだろうか。
+570. VI: Không phải là kết quả không như mong đợi, mà thực ra tiếp tục kế hoạch.
+   JP: 結果が期待通りではなかったわけではなく、実は計画を続ける。
+571. VI: Trái lại với tình hình trở nên phức tạp, tiếp tục kế hoạch.
+   JP: 状況が複雑になったのとは反対に、計画を続ける。
+572. VI: Cho dù thông tin chưa được xác nhận đến mấy, đạt được kết quả tốt.
+   JP: どんなに情報がまだ確認されていないとしても、良い結果を出す。
+573. VI: Trái lại với cuộc thảo luận kéo dài hơn dự kiến, đạt được kết quả tốt.
+   JP: 議論が予想以上に長引いたのとは反対に、良い結果を出す。
+574. VI: Mặc dù tôi đã chuẩn bị kỹ càng, nhưng rốt cuộc thay đổi hướng đi.
+   JP: 十分に準備していたにもかかわらず、結局は方向転換する。
+575. VI: Cho dù thông tin chưa được xác nhận đến mấy, thuyết phục mọi người.
+   JP: どんなに情報がまだ確認されていないとしても、皆を説得する。
+576. VI: Mặc dù tình hình trở nên phức tạp, nhưng rốt cuộc thuyết phục mọi người.
+   JP: 状況が複雑になったにもかかわらず、結局は皆を説得する。
+577. VI: Thay vì tôi đã chuẩn bị kỹ càng, đáng lẽ nên đưa ra kết luận cuối cùng.
+   JP: 十分に準備していたより、むしろ最終的な結論を出すべきだった。
+578. VI: Cho dù cuộc thảo luận kéo dài hơn dự kiến đến mấy, đạt được kết quả tốt.
+   JP: どんなに議論が予想以上に長引いたとしても、良い結果を出す。
+579. VI: Trái lại với kế hoạch bị thay đổi vào phút chót, đảm bảo tiến độ công việc.
+   JP: 計画が土壇場で変更されたのとは反対に、仕事の進捗を確保する。
+580. VI: Trái lại với mọi người không đồng ý, đạt được kết quả tốt.
+   JP: 皆が賛成しなかったのとは反対に、良い結果を出す。
+581. VI: Ngay cả khi cuộc thảo luận kéo dài hơn dự kiến, thì cũng khó mà đảm bảo tiến độ công việc.
+   JP: 議論が予想以上に長引いたとしても、仕事の進捗を確保するのは難しい。
+582. VI: Cho dù kết quả không như mong đợi đến mấy, đưa ra quyết định đúng đắn.
+   JP: どんなに結果が期待通りではなかったとしても、正しい判断を下す。
+583. VI: Sở dĩ đối phó kịp thời là bởi vì kế hoạch bị thay đổi vào phút chót.
+   JP: 適切に対処するのは、計画が土壇場で変更されたからだ。
+584. VI: Trái lại với thông tin chưa được xác nhận, đưa ra quyết định đúng đắn.
+   JP: 情報がまだ確認されていないのとは反対に、正しい判断を下す。
+585. VI: Cho dù mọi người không đồng ý đến mấy, thuyết phục mọi người.
+   JP: どんなに皆が賛成しなかったとしても、皆を説得する。
+586. VI: Cho dù kết quả không như mong đợi đến mấy, đảm bảo tiến độ công việc.
+   JP: どんなに結果が期待通りではなかったとしても、仕事の進捗を確保する。
+587. VI: Không phải là kết quả không như mong đợi, mà thực ra đối phó kịp thời.
+   JP: 結果が期待通りではなかったわけではなく、実は適切に対処する。
+588. VI: Giả sử kết quả không như mong đợi, thì liệu có thể đưa ra kết luận cuối cùng không?
+   JP: 結果が期待通りではなかったとしたら、最終的な結論を出すことができるだろうか。
+589. VI: Không phải là tình hình trở nên phức tạp, mà thực ra tiếp tục kế hoạch.
+   JP: 状況が複雑になったわけではなく、実は計画を続ける。
+590. VI: Giả sử dự án gặp nhiều trở ngại, thì liệu có thể đưa ra kết luận cuối cùng không?
+   JP: プロジェクトが多くの障害に直面したとしたら、最終的な結論を出すことができるだろうか。
+591. VI: Ngay cả khi kết quả không như mong đợi, thì cũng khó mà hoàn thành nhiệm vụ.
+   JP: 結果が期待通りではなかったとしても、任務を果たすのは難しい。
+592. VI: Sở dĩ đối phó kịp thời là bởi vì kế hoạch bị thay đổi vào phút chót.
+   JP: 適切に対処するのは、計画が土壇場で変更されたからだ。
+593. VI: Giả sử kết quả không như mong đợi, thì liệu có thể thay đổi hướng đi không?
+   JP: 結果が期待通りではなかったとしたら、方向転換することができるだろうか。
+594. VI: Mặc dù tôi không có đủ thời gian, nhưng rốt cuộc đối phó kịp thời.
+   JP: 時間が足りなかったにもかかわらず、結局は適切に対処する。
+595. VI: Sở dĩ thuyết phục mọi người là bởi vì kết quả không như mong đợi.
+   JP: 皆を説得するのは、結果が期待通りではなかったからだ。
+596. VI: Một khi đã thông tin chưa được xác nhận, thì phải đưa ra quyết định đúng đắn.
+   JP: 情報がまだ確認されていない以上、正しい判断を下すなければならない。
+597. VI: Không phải là tôi không có đủ thời gian, mà thực ra thuyết phục mọi người.
+   JP: 時間が足りなかったわけではなく、実は皆を説得する。
+598. VI: Trái lại với tôi không có đủ thời gian, đối phó kịp thời.
+   JP: 時間が足りなかったのとは反対に、適切に対処する。
+599. VI: Thay vì thông tin chưa được xác nhận, đáng lẽ nên đạt được kết quả tốt.
+   JP: 情報がまだ確認されていないより、むしろ良い結果を出すべきだった。
+600. VI: Cho dù tình hình trở nên phức tạp đến mấy, thuyết phục mọi người.
+   JP: どんなに状況が複雑になったとしても、皆を説得する。
+601. VI: Một khi đã kết quả không như mong đợi, thì phải đưa ra quyết định đúng đắn.
+   JP: 結果が期待通りではなかった以上、正しい判断を下すなければならない。
+602. VI: Một khi đã thông tin chưa được xác nhận, thì phải giải quyết vấn đề.
+   JP: 情報がまだ確認されていない以上、問題を解決するなければならない。
+603. VI: Ngay cả khi thông tin chưa được xác nhận, thì cũng khó mà đưa ra kết luận cuối cùng.
+   JP: 情報がまだ確認されていないとしても、最終的な結論を出すのは難しい。
+604. VI: Ngay cả khi tình hình trở nên phức tạp, thì cũng khó mà đưa ra quyết định đúng đắn.
+   JP: 状況が複雑になったとしても、正しい判断を下すのは難しい。
+605. VI: Một khi đã tôi không có đủ thời gian, thì phải hoàn thành nhiệm vụ.
+   JP: 時間が足りなかった以上、任務を果たすなければならない。
+606. VI: Nếu không nhờ kết quả không như mong đợi, thì đã đối phó kịp thời.
+   JP: 結果が期待通りではなかったおかげでなければ、適切に対処するところだった。
+607. VI: Thay vì mọi người không đồng ý, đáng lẽ nên đạt được kết quả tốt.
+   JP: 皆が賛成しなかったより、むしろ良い結果を出すべきだった。
+608. VI: Không phải là kế hoạch bị thay đổi vào phút chót, mà thực ra tiếp tục kế hoạch.
+   JP: 計画が土壇場で変更されたわけではなく、実は計画を続ける。
+609. VI: Giả sử cuộc thảo luận kéo dài hơn dự kiến, thì liệu có thể giải quyết vấn đề không?
+   JP: 議論が予想以上に長引いたとしたら、問題を解決することができるだろうか。
+610. VI: Ngay cả khi tôi phải chịu nhiều áp lực, thì cũng khó mà đưa ra quyết định đúng đắn.
+   JP: 私は大きなプレッシャーを受けていたとしても、正しい判断を下すのは難しい。
+611. VI: Trái lại với dự án gặp nhiều trở ngại, hoàn thành nhiệm vụ.
+   JP: プロジェクトが多くの障害に直面したのとは反対に、任務を果たす。
+612. VI: Trái lại với kết quả không như mong đợi, thay đổi hướng đi.
+   JP: 結果が期待通りではなかったのとは反対に、方向転換する。
+613. VI: Nếu không nhờ kết quả không như mong đợi, thì đã đảm bảo tiến độ công việc.
+   JP: 結果が期待通りではなかったおかげでなければ、仕事の進捗を確保するところだった。
+614. VI: Nếu không nhờ tình hình trở nên phức tạp, thì đã đối phó kịp thời.
+   JP: 状況が複雑になったおかげでなければ、適切に対処するところだった。
+615. VI: Giả sử tôi đã chuẩn bị kỹ càng, thì liệu có thể đảm bảo tiến độ công việc không?
+   JP: 十分に準備していたとしたら、仕事の進捗を確保することができるだろうか。
+616. VI: Thay vì mọi người không đồng ý, đáng lẽ nên tiếp tục kế hoạch.
+   JP: 皆が賛成しなかったより、むしろ計画を続けるべきだった。
+617. VI: Không phải là thông tin chưa được xác nhận, mà thực ra đảm bảo tiến độ công việc.
+   JP: 情報がまだ確認されていないわけではなく、実は仕事の進捗を確保する。
+618. VI: Không phải là cuộc thảo luận kéo dài hơn dự kiến, mà thực ra tiếp tục kế hoạch.
+   JP: 議論が予想以上に長引いたわけではなく、実は計画を続ける。
+619. VI: Thay vì tình hình trở nên phức tạp, đáng lẽ nên thuyết phục mọi người.
+   JP: 状況が複雑になったより、むしろ皆を説得するべきだった。
+620. VI: Nếu không nhờ dự án gặp nhiều trở ngại, thì đã thay đổi hướng đi.
+   JP: プロジェクトが多くの障害に直面したおかげでなければ、方向転換するところだった。
+621. VI: Một khi đã kế hoạch bị thay đổi vào phút chót, thì phải hoàn thành nhiệm vụ.
+   JP: 計画が土壇場で変更された以上、任務を果たすなければならない。
+622. VI: Thay vì kế hoạch bị thay đổi vào phút chót, đáng lẽ nên tiếp tục kế hoạch.
+   JP: 計画が土壇場で変更されたより、むしろ計画を続けるべきだった。
+623. VI: Giả sử mọi người không đồng ý, thì liệu có thể hoàn thành nhiệm vụ không?
+   JP: 皆が賛成しなかったとしたら、任務を果たすことができるだろうか。
+624. VI: Không phải là kết quả không như mong đợi, mà thực ra thay đổi hướng đi.
+   JP: 結果が期待通りではなかったわけではなく、実は方向転換する。
+625. VI: Cho dù thông tin chưa được xác nhận đến mấy, hoàn thành nhiệm vụ.
+   JP: どんなに情報がまだ確認されていないとしても、任務を果たす。
+626. VI: Mặc dù dự án gặp nhiều trở ngại, nhưng rốt cuộc đưa ra kết luận cuối cùng.
+   JP: プロジェクトが多くの障害に直面したにもかかわらず、結局は最終的な結論を出す。
+627. VI: Trái lại với kết quả không như mong đợi, đối phó kịp thời.
+   JP: 結果が期待通りではなかったのとは反対に、適切に対処する。
+628. VI: Nếu không nhờ tôi phải chịu nhiều áp lực, thì đã hoàn thành nhiệm vụ.
+   JP: 私は大きなプレッシャーを受けていたおかげでなければ、任務を果たすところだった。
+629. VI: Cho dù tôi phải chịu nhiều áp lực đến mấy, đưa ra kết luận cuối cùng.
+   JP: どんなに私は大きなプレッシャーを受けていたとしても、最終的な結論を出す。
+630. VI: Nếu không nhờ tình hình trở nên phức tạp, thì đã đảm bảo tiến độ công việc.
+   JP: 状況が複雑になったおかげでなければ、仕事の進捗を確保するところだった。
+631. VI: Ngay cả khi tôi đã chuẩn bị kỹ càng, thì cũng khó mà tiếp tục kế hoạch.
+   JP: 十分に準備していたとしても、計画を続けるのは難しい。
+632. VI: Trái lại với cuộc thảo luận kéo dài hơn dự kiến, đạt được kết quả tốt.
+   JP: 議論が予想以上に長引いたのとは反対に、良い結果を出す。
+633. VI: Nếu không nhờ dự án gặp nhiều trở ngại, thì đã đưa ra quyết định đúng đắn.
+   JP: プロジェクトが多くの障害に直面したおかげでなければ、正しい判断を下すところだった。
+634. VI: Giả sử dự án gặp nhiều trở ngại, thì liệu có thể đưa ra quyết định đúng đắn không?
+   JP: プロジェクトが多くの障害に直面したとしたら、正しい判断を下すことができるだろうか。
+635. VI: Cho dù mọi người không đồng ý đến mấy, thay đổi hướng đi.
+   JP: どんなに皆が賛成しなかったとしても、方向転換する。
+636. VI: Cho dù tôi phải chịu nhiều áp lực đến mấy, tiếp tục kế hoạch.
+   JP: どんなに私は大きなプレッシャーを受けていたとしても、計画を続ける。
+637. VI: Không phải là mọi người không đồng ý, mà thực ra giải quyết vấn đề.
+   JP: 皆が賛成しなかったわけではなく、実は問題を解決する。
+638. VI: Mặc dù dự án gặp nhiều trở ngại, nhưng rốt cuộc tiếp tục kế hoạch.
+   JP: プロジェクトが多くの障害に直面したにもかかわらず、結局は計画を続ける。
+639. VI: Ngay cả khi kết quả không như mong đợi, thì cũng khó mà giải quyết vấn đề.
+   JP: 結果が期待通りではなかったとしても、問題を解決するのは難しい。
+640. VI: Trái lại với dự án gặp nhiều trở ngại, đưa ra quyết định đúng đắn.
+   JP: プロジェクトが多くの障害に直面したのとは反対に、正しい判断を下す。
+641. VI: Cho dù cuộc thảo luận kéo dài hơn dự kiến đến mấy, hoàn thành nhiệm vụ.
+   JP: どんなに議論が予想以上に長引いたとしても、任務を果たす。
+642. VI: Mặc dù dự án gặp nhiều trở ngại, nhưng rốt cuộc tiếp tục kế hoạch.
+   JP: プロジェクトが多くの障害に直面したにもかかわらず、結局は計画を続ける。
+643. VI: Thay vì dự án gặp nhiều trở ngại, đáng lẽ nên đạt được kết quả tốt.
+   JP: プロジェクトが多くの障害に直面したより、むしろ良い結果を出すべきだった。
+644. VI: Mặc dù tôi không có đủ thời gian, nhưng rốt cuộc thay đổi hướng đi.
+   JP: 時間が足りなかったにもかかわらず、結局は方向転換する。
+645. VI: Trái lại với thông tin chưa được xác nhận, đảm bảo tiến độ công việc.
+   JP: 情報がまだ確認されていないのとは反対に、仕事の進捗を確保する。
+646. VI: Trái lại với tôi không có đủ thời gian, tiếp tục kế hoạch.
+   JP: 時間が足りなかったのとは反対に、計画を続ける。
+647. VI: Một khi đã dự án gặp nhiều trở ngại, thì phải đạt được kết quả tốt.
+   JP: プロジェクトが多くの障害に直面した以上、良い結果を出すなければならない。
+648. VI: Thay vì mọi người không đồng ý, đáng lẽ nên đối phó kịp thời.
+   JP: 皆が賛成しなかったより、むしろ適切に対処するべきだった。
+649. VI: Thay vì mọi người không đồng ý, đáng lẽ nên thuyết phục mọi người.
+   JP: 皆が賛成しなかったより、むしろ皆を説得するべきだった。
+650. VI: Không phải là cuộc thảo luận kéo dài hơn dự kiến, mà thực ra đạt được kết quả tốt.
+   JP: 議論が予想以上に長引いたわけではなく、実は良い結果を出す。
+651. VI: Một khi đã mọi người không đồng ý, thì phải hoàn thành nhiệm vụ.
+   JP: 皆が賛成しなかった以上、任務を果たすなければならない。
+652. VI: Giả sử thông tin chưa được xác nhận, thì liệu có thể giải quyết vấn đề không?
+   JP: 情報がまだ確認されていないとしたら、問題を解決することができるだろうか。
+653. VI: Trái lại với tôi không có đủ thời gian, tiếp tục kế hoạch.
+   JP: 時間が足りなかったのとは反対に、計画を続ける。
+654. VI: Nếu không nhờ thông tin chưa được xác nhận, thì đã giải quyết vấn đề.
+   JP: 情報がまだ確認されていないおかげでなければ、問題を解決するところだった。
+655. VI: Một khi đã dự án gặp nhiều trở ngại, thì phải đạt được kết quả tốt.
+   JP: プロジェクトが多くの障害に直面した以上、良い結果を出すなければならない。
+656. VI: Ngay cả khi cuộc thảo luận kéo dài hơn dự kiến, thì cũng khó mà hoàn thành nhiệm vụ.
+   JP: 議論が予想以上に長引いたとしても、任務を果たすのは難しい。
+657. VI: Một khi đã tôi phải chịu nhiều áp lực, thì phải thuyết phục mọi người.
+   JP: 私は大きなプレッシャーを受けていた以上、皆を説得するなければならない。
+658. VI: Nếu không nhờ mọi người không đồng ý, thì đã đảm bảo tiến độ công việc.
+   JP: 皆が賛成しなかったおかげでなければ、仕事の進捗を確保するところだった。
+659. VI: Không phải là dự án gặp nhiều trở ngại, mà thực ra đạt được kết quả tốt.
+   JP: プロジェクトが多くの障害に直面したわけではなく、実は良い結果を出す。
+660. VI: Giả sử tôi đã chuẩn bị kỹ càng, thì liệu có thể hoàn thành nhiệm vụ không?
+   JP: 十分に準備していたとしたら、任務を果たすことができるだろうか。
+661. VI: Không phải là dự án gặp nhiều trở ngại, mà thực ra thuyết phục mọi người.
+   JP: プロジェクトが多くの障害に直面したわけではなく、実は皆を説得する。
+662. VI: Giả sử kế hoạch bị thay đổi vào phút chót, thì liệu có thể đạt được kết quả tốt không?
+   JP: 計画が土壇場で変更されたとしたら、良い結果を出すことができるだろうか。
+663. VI: Trái lại với kết quả không như mong đợi, thay đổi hướng đi.
+   JP: 結果が期待通りではなかったのとは反対に、方向転換する。
+664. VI: Trái lại với tình hình trở nên phức tạp, đưa ra quyết định đúng đắn.
+   JP: 状況が複雑になったのとは反対に、正しい判断を下す。
+665. VI: Cho dù tình hình trở nên phức tạp đến mấy, đảm bảo tiến độ công việc.
+   JP: どんなに状況が複雑になったとしても、仕事の進捗を確保する。
+666. VI: Mặc dù tình hình trở nên phức tạp, nhưng rốt cuộc đạt được kết quả tốt.
+   JP: 状況が複雑になったにもかかわらず、結局は良い結果を出す。
+667. VI: Một khi đã thông tin chưa được xác nhận, thì phải đưa ra kết luận cuối cùng.
+   JP: 情報がまだ確認されていない以上、最終的な結論を出すなければならない。
+668. VI: Một khi đã mọi người không đồng ý, thì phải thuyết phục mọi người.
+   JP: 皆が賛成しなかった以上、皆を説得するなければならない。
+669. VI: Giả sử thông tin chưa được xác nhận, thì liệu có thể đối phó kịp thời không?
+   JP: 情報がまだ確認されていないとしたら、適切に対処することができるだろうか。
+670. VI: Không phải là dự án gặp nhiều trở ngại, mà thực ra đạt được kết quả tốt.
+   JP: プロジェクトが多くの障害に直面したわけではなく、実は良い結果を出す。
+671. VI: Một khi đã kết quả không như mong đợi, thì phải tiếp tục kế hoạch.
+   JP: 結果が期待通りではなかった以上、計画を続けるなければならない。
+672. VI: Trái lại với kết quả không như mong đợi, đạt được kết quả tốt.
+   JP: 結果が期待通りではなかったのとは反対に、良い結果を出す。
+673. VI: Trái lại với cuộc thảo luận kéo dài hơn dự kiến, đạt được kết quả tốt.
+   JP: 議論が予想以上に長引いたのとは反対に、良い結果を出す。
+674. VI: Trái lại với mọi người không đồng ý, đưa ra quyết định đúng đắn.
+   JP: 皆が賛成しなかったのとは反対に、正しい判断を下す。
+675. VI: Giả sử tình hình trở nên phức tạp, thì liệu có thể tiếp tục kế hoạch không?
+   JP: 状況が複雑になったとしたら、計画を続けることができるだろうか。
+676. VI: Sở dĩ đạt được kết quả tốt là bởi vì tôi không có đủ thời gian.
+   JP: 良い結果を出すのは、時間が足りなかったからだ。
+677. VI: Ngay cả khi kết quả không như mong đợi, thì cũng khó mà đưa ra kết luận cuối cùng.
+   JP: 結果が期待通りではなかったとしても、最終的な結論を出すのは難しい。
+678. VI: Thay vì tình hình trở nên phức tạp, đáng lẽ nên hoàn thành nhiệm vụ.
+   JP: 状況が複雑になったより、むしろ任務を果たすべきだった。
+679. VI: Không phải là kế hoạch bị thay đổi vào phút chót, mà thực ra đưa ra quyết định đúng đắn.
+   JP: 計画が土壇場で変更されたわけではなく、実は正しい判断を下す。
+680. VI: Cho dù tôi không có đủ thời gian đến mấy, tiếp tục kế hoạch.
+   JP: どんなに時間が足りなかったとしても、計画を続ける。
+681. VI: Mặc dù kế hoạch bị thay đổi vào phút chót, nhưng rốt cuộc thay đổi hướng đi.
+   JP: 計画が土壇場で変更されたにもかかわらず、結局は方向転換する。
+682. VI: Mặc dù dự án gặp nhiều trở ngại, nhưng rốt cuộc đưa ra kết luận cuối cùng.
+   JP: プロジェクトが多くの障害に直面したにもかかわらず、結局は最終的な結論を出す。
+683. VI: Không phải là thông tin chưa được xác nhận, mà thực ra đạt được kết quả tốt.
+   JP: 情報がまだ確認されていないわけではなく、実は良い結果を出す。
+684. VI: Không phải là thông tin chưa được xác nhận, mà thực ra đưa ra kết luận cuối cùng.
+   JP: 情報がまだ確認されていないわけではなく、実は最終的な結論を出す。
+685. VI: Cho dù mọi người không đồng ý đến mấy, tiếp tục kế hoạch.
+   JP: どんなに皆が賛成しなかったとしても、計画を続ける。
+686. VI: Sở dĩ đạt được kết quả tốt là bởi vì thông tin chưa được xác nhận.
+   JP: 良い結果を出すのは、情報がまだ確認されていないからだ。
+687. VI: Cho dù tôi phải chịu nhiều áp lực đến mấy, đưa ra quyết định đúng đắn.
+   JP: どんなに私は大きなプレッシャーを受けていたとしても、正しい判断を下す。
+688. VI: Ngay cả khi cuộc thảo luận kéo dài hơn dự kiến, thì cũng khó mà hoàn thành nhiệm vụ.
+   JP: 議論が予想以上に長引いたとしても、任務を果たすのは難しい。
+689. VI: Một khi đã thông tin chưa được xác nhận, thì phải hoàn thành nhiệm vụ.
+   JP: 情報がまだ確認されていない以上、任務を果たすなければならない。
+690. VI: Sở dĩ thuyết phục mọi người là bởi vì tôi không có đủ thời gian.
+   JP: 皆を説得するのは、時間が足りなかったからだ。
+691. VI: Trái lại với tôi không có đủ thời gian, đưa ra quyết định đúng đắn.
+   JP: 時間が足りなかったのとは反対に、正しい判断を下す。
+692. VI: Giả sử kết quả không như mong đợi, thì liệu có thể đưa ra quyết định đúng đắn không?
+   JP: 結果が期待通りではなかったとしたら、正しい判断を下すことができるだろうか。
+693. VI: Nếu không nhờ kết quả không như mong đợi, thì đã đưa ra quyết định đúng đắn.
+   JP: 結果が期待通りではなかったおかげでなければ、正しい判断を下すところだった。
+694. VI: Mặc dù tôi phải chịu nhiều áp lực, nhưng rốt cuộc đảm bảo tiến độ công việc.
+   JP: 私は大きなプレッシャーを受けていたにもかかわらず、結局は仕事の進捗を確保する。
+695. VI: Một khi đã kế hoạch bị thay đổi vào phút chót, thì phải đưa ra kết luận cuối cùng.
+   JP: 計画が土壇場で変更された以上、最終的な結論を出すなければならない。
+696. VI: Sở dĩ thay đổi hướng đi là bởi vì tôi đã chuẩn bị kỹ càng.
+   JP: 方向転換するのは、十分に準備していたからだ。
+697. VI: Nếu không nhờ tôi đã chuẩn bị kỹ càng, thì đã thay đổi hướng đi.
+   JP: 十分に準備していたおかげでなければ、方向転換するところだった。
+698. VI: Mặc dù tôi không có đủ thời gian, nhưng rốt cuộc giải quyết vấn đề.
+   JP: 時間が足りなかったにもかかわらず、結局は問題を解決する。
+699. VI: Giả sử tình hình trở nên phức tạp, thì liệu có thể tiếp tục kế hoạch không?
+   JP: 状況が複雑になったとしたら、計画を続けることができるだろうか。
+700. VI: Một khi đã dự án gặp nhiều trở ngại, thì phải thuyết phục mọi người.
+   JP: プロジェクトが多くの障害に直面した以上、皆を説得するなければならない。
+701. VI: Thay vì mọi người không đồng ý, đáng lẽ nên thay đổi hướng đi.
+   JP: 皆が賛成しなかったより、むしろ方向転換するべきだった。
+702. VI: Ngay cả khi thông tin chưa được xác nhận, thì cũng khó mà đảm bảo tiến độ công việc.
+   JP: 情報がまだ確認されていないとしても、仕事の進捗を確保するのは難しい。
+703. VI: Thay vì tôi không có đủ thời gian, đáng lẽ nên đạt được kết quả tốt.
+   JP: 時間が足りなかったより、むしろ良い結果を出すべきだった。
+704. VI: Thay vì tình hình trở nên phức tạp, đáng lẽ nên đưa ra kết luận cuối cùng.
+   JP: 状況が複雑になったより、むしろ最終的な結論を出すべきだった。
+705. VI: Thay vì dự án gặp nhiều trở ngại, đáng lẽ nên đưa ra quyết định đúng đắn.
+   JP: プロジェクトが多くの障害に直面したより、むしろ正しい判断を下すべきだった。
+706. VI: Trái lại với tình hình trở nên phức tạp, đạt được kết quả tốt.
+   JP: 状況が複雑になったのとは反対に、良い結果を出す。
+707. VI: Thay vì kết quả không như mong đợi, đáng lẽ nên đưa ra quyết định đúng đắn.
+   JP: 結果が期待通りではなかったより、むしろ正しい判断を下すべきだった。
+708. VI: Cho dù kết quả không như mong đợi đến mấy, đối phó kịp thời.
+   JP: どんなに結果が期待通りではなかったとしても、適切に対処する。
+709. VI: Mặc dù dự án gặp nhiều trở ngại, nhưng rốt cuộc hoàn thành nhiệm vụ.
+   JP: プロジェクトが多くの障害に直面したにもかかわらず、結局は任務を果たす。
+710. VI: Sở dĩ thay đổi hướng đi là bởi vì tôi phải chịu nhiều áp lực.
+   JP: 方向転換するのは、私は大きなプレッシャーを受けていたからだ。
+711. VI: Một khi đã dự án gặp nhiều trở ngại, thì phải thay đổi hướng đi.
+   JP: プロジェクトが多くの障害に直面した以上、方向転換するなければならない。
+712. VI: Một khi đã cuộc thảo luận kéo dài hơn dự kiến, thì phải đảm bảo tiến độ công việc.
+   JP: 議論が予想以上に長引いた以上、仕事の進捗を確保するなければならない。
+713. VI: Giả sử dự án gặp nhiều trở ngại, thì liệu có thể đảm bảo tiến độ công việc không?
+   JP: プロジェクトが多くの障害に直面したとしたら、仕事の進捗を確保することができるだろうか。
+714. VI: Trái lại với mọi người không đồng ý, thay đổi hướng đi.
+   JP: 皆が賛成しなかったのとは反対に、方向転換する。
+715. VI: Nếu không nhờ mọi người không đồng ý, thì đã hoàn thành nhiệm vụ.
+   JP: 皆が賛成しなかったおかげでなければ、任務を果たすところだった。
+716. VI: Trái lại với mọi người không đồng ý, đạt được kết quả tốt.
+   JP: 皆が賛成しなかったのとは反対に、良い結果を出す。
+717. VI: Không phải là tôi không có đủ thời gian, mà thực ra tiếp tục kế hoạch.
+   JP: 時間が足りなかったわけではなく、実は計画を続ける。
+718. VI: Sở dĩ hoàn thành nhiệm vụ là bởi vì tôi đã chuẩn bị kỹ càng.
+   JP: 任務を果たすのは、十分に準備していたからだ。
+719. VI: Một khi đã kế hoạch bị thay đổi vào phút chót, thì phải hoàn thành nhiệm vụ.
+   JP: 計画が土壇場で変更された以上、任務を果たすなければならない。
+720. VI: Một khi đã tình hình trở nên phức tạp, thì phải đưa ra kết luận cuối cùng.
+   JP: 状況が複雑になった以上、最終的な結論を出すなければならない。
+721. VI: Một khi đã tôi phải chịu nhiều áp lực, thì phải tiếp tục kế hoạch.
+   JP: 私は大きなプレッシャーを受けていた以上、計画を続けるなければならない。
+722. VI: Giả sử tôi đã chuẩn bị kỹ càng, thì liệu có thể hoàn thành nhiệm vụ không?
+   JP: 十分に準備していたとしたら、任務を果たすことができるだろうか。
+723. VI: Thay vì thông tin chưa được xác nhận, đáng lẽ nên đảm bảo tiến độ công việc.
+   JP: 情報がまだ確認されていないより、むしろ仕事の進捗を確保するべきだった。
+724. VI: Ngay cả khi tôi đã chuẩn bị kỹ càng, thì cũng khó mà tiếp tục kế hoạch.
+   JP: 十分に準備していたとしても、計画を続けるのは難しい。
+725. VI: Không phải là tôi không có đủ thời gian, mà thực ra hoàn thành nhiệm vụ.
+   JP: 時間が足りなかったわけではなく、実は任務を果たす。
+726. VI: Giả sử tôi đã chuẩn bị kỹ càng, thì liệu có thể đảm bảo tiến độ công việc không?
+   JP: 十分に準備していたとしたら、仕事の進捗を確保することができるだろうか。
+727. VI: Thay vì tôi phải chịu nhiều áp lực, đáng lẽ nên thuyết phục mọi người.
+   JP: 私は大きなプレッシャーを受けていたより、むしろ皆を説得するべきだった。
+728. VI: Giả sử tôi phải chịu nhiều áp lực, thì liệu có thể thuyết phục mọi người không?
+   JP: 私は大きなプレッシャーを受けていたとしたら、皆を説得することができるだろうか。
+729. VI: Ngay cả khi thông tin chưa được xác nhận, thì cũng khó mà đưa ra quyết định đúng đắn.
+   JP: 情報がまだ確認されていないとしても、正しい判断を下すのは難しい。
+730. VI: Sở dĩ đảm bảo tiến độ công việc là bởi vì cuộc thảo luận kéo dài hơn dự kiến.
+   JP: 仕事の進捗を確保するのは、議論が予想以上に長引いたからだ。
+731. VI: Giả sử cuộc thảo luận kéo dài hơn dự kiến, thì liệu có thể thuyết phục mọi người không?
+   JP: 議論が予想以上に長引いたとしたら、皆を説得することができるだろうか。
+732. VI: Không phải là thông tin chưa được xác nhận, mà thực ra đưa ra quyết định đúng đắn.
+   JP: 情報がまだ確認されていないわけではなく、実は正しい判断を下す。
+733. VI: Nếu không nhờ tôi không có đủ thời gian, thì đã đối phó kịp thời.
+   JP: 時間が足りなかったおかげでなければ、適切に対処するところだった。
+734. VI: Nếu không nhờ mọi người không đồng ý, thì đã đưa ra kết luận cuối cùng.
+   JP: 皆が賛成しなかったおかげでなければ、最終的な結論を出すところだった。
+735. VI: Một khi đã dự án gặp nhiều trở ngại, thì phải đảm bảo tiến độ công việc.
+   JP: プロジェクトが多くの障害に直面した以上、仕事の進捗を確保するなければならない。
+736. VI: Nếu không nhờ tôi không có đủ thời gian, thì đã đưa ra kết luận cuối cùng.
+   JP: 時間が足りなかったおかげでなければ、最終的な結論を出すところだった。
+737. VI: Nếu không nhờ kế hoạch bị thay đổi vào phút chót, thì đã đối phó kịp thời.
+   JP: 計画が土壇場で変更されたおかげでなければ、適切に対処するところだった。
+738. VI: Nếu không nhờ mọi người không đồng ý, thì đã đưa ra kết luận cuối cùng.
+   JP: 皆が賛成しなかったおかげでなければ、最終的な結論を出すところだった。
+739. VI: Cho dù kế hoạch bị thay đổi vào phút chót đến mấy, đảm bảo tiến độ công việc.
+   JP: どんなに計画が土壇場で変更されたとしても、仕事の進捗を確保する。
+740. VI: Không phải là dự án gặp nhiều trở ngại, mà thực ra đảm bảo tiến độ công việc.
+   JP: プロジェクトが多くの障害に直面したわけではなく、実は仕事の進捗を確保する。
+741. VI: Cho dù dự án gặp nhiều trở ngại đến mấy, tiếp tục kế hoạch.
+   JP: どんなにプロジェクトが多くの障害に直面したとしても、計画を続ける。
+742. VI: Không phải là dự án gặp nhiều trở ngại, mà thực ra đưa ra quyết định đúng đắn.
+   JP: プロジェクトが多くの障害に直面したわけではなく、実は正しい判断を下す。
+743. VI: Cho dù tôi đã chuẩn bị kỹ càng đến mấy, hoàn thành nhiệm vụ.
+   JP: どんなに十分に準備していたとしても、任務を果たす。
+744. VI: Giả sử tôi phải chịu nhiều áp lực, thì liệu có thể thuyết phục mọi người không?
+   JP: 私は大きなプレッシャーを受けていたとしたら、皆を説得することができるだろうか。
+745. VI: Không phải là thông tin chưa được xác nhận, mà thực ra đảm bảo tiến độ công việc.
+   JP: 情報がまだ確認されていないわけではなく、実は仕事の進捗を確保する。
+746. VI: Trái lại với mọi người không đồng ý, tiếp tục kế hoạch.
+   JP: 皆が賛成しなかったのとは反対に、計画を続ける。
+747. VI: Ngay cả khi tôi đã chuẩn bị kỹ càng, thì cũng khó mà đưa ra kết luận cuối cùng.
+   JP: 十分に準備していたとしても、最終的な結論を出すのは難しい。
+748. VI: Nếu không nhờ tôi đã chuẩn bị kỹ càng, thì đã thay đổi hướng đi.
+   JP: 十分に準備していたおかげでなければ、方向転換するところだった。
+749. VI: Cho dù tình hình trở nên phức tạp đến mấy, đảm bảo tiến độ công việc.
+   JP: どんなに状況が複雑になったとしても、仕事の進捗を確保する。
+750. VI: Trái lại với tình hình trở nên phức tạp, đạt được kết quả tốt.
+   JP: 状況が複雑になったのとは反対に、良い結果を出す。
+751. VI: Ngay cả khi tình hình trở nên phức tạp, thì cũng khó mà đạt được kết quả tốt.
+   JP: 状況が複雑になったとしても、良い結果を出すのは難しい。
+752. VI: Một khi đã kết quả không như mong đợi, thì phải thay đổi hướng đi.
+   JP: 結果が期待通りではなかった以上、方向転換するなければならない。
+753. VI: Ngay cả khi dự án gặp nhiều trở ngại, thì cũng khó mà thuyết phục mọi người.
+   JP: プロジェクトが多くの障害に直面したとしても、皆を説得するのは難しい。
+754. VI: Một khi đã kết quả không như mong đợi, thì phải hoàn thành nhiệm vụ.
+   JP: 結果が期待通りではなかった以上、任務を果たすなければならない。
+755. VI: Cho dù tôi không có đủ thời gian đến mấy, đạt được kết quả tốt.
+   JP: どんなに時間が足りなかったとしても、良い結果を出す。
+756. VI: Thay vì mọi người không đồng ý, đáng lẽ nên giải quyết vấn đề.
+   JP: 皆が賛成しなかったより、むしろ問題を解決するべきだった。
+757. VI: Nếu không nhờ kế hoạch bị thay đổi vào phút chót, thì đã hoàn thành nhiệm vụ.
+   JP: 計画が土壇場で変更されたおかげでなければ、任務を果たすところだった。
+758. VI: Mặc dù tôi không có đủ thời gian, nhưng rốt cuộc đối phó kịp thời.
+   JP: 時間が足りなかったにもかかわらず、結局は適切に対処する。
+759. VI: Mặc dù thông tin chưa được xác nhận, nhưng rốt cuộc thuyết phục mọi người.
+   JP: 情報がまだ確認されていないにもかかわらず、結局は皆を説得する。
+760. VI: Không phải là tôi đã chuẩn bị kỹ càng, mà thực ra hoàn thành nhiệm vụ.
+   JP: 十分に準備していたわけではなく、実は任務を果たす。
+761. VI: Ngay cả khi dự án gặp nhiều trở ngại, thì cũng khó mà đạt được kết quả tốt.
+   JP: プロジェクトが多くの障害に直面したとしても、良い結果を出すのは難しい。
+762. VI: Mặc dù tôi phải chịu nhiều áp lực, nhưng rốt cuộc đảm bảo tiến độ công việc.
+   JP: 私は大きなプレッシャーを受けていたにもかかわらず、結局は仕事の進捗を確保する。
+763. VI: Thay vì tôi phải chịu nhiều áp lực, đáng lẽ nên giải quyết vấn đề.
+   JP: 私は大きなプレッシャーを受けていたより、むしろ問題を解決するべきだった。
+764. VI: Trái lại với tôi đã chuẩn bị kỹ càng, hoàn thành nhiệm vụ.
+   JP: 十分に準備していたのとは反対に、任務を果たす。
+765. VI: Không phải là cuộc thảo luận kéo dài hơn dự kiến, mà thực ra giải quyết vấn đề.
+   JP: 議論が予想以上に長引いたわけではなく、実は問題を解決する。
+766. VI: Nếu không nhờ cuộc thảo luận kéo dài hơn dự kiến, thì đã đảm bảo tiến độ công việc.
+   JP: 議論が予想以上に長引いたおかげでなければ、仕事の進捗を確保するところだった。
+767. VI: Sở dĩ đối phó kịp thời là bởi vì kết quả không như mong đợi.
+   JP: 適切に対処するのは、結果が期待通りではなかったからだ。
+768. VI: Sở dĩ hoàn thành nhiệm vụ là bởi vì tôi phải chịu nhiều áp lực.
+   JP: 任務を果たすのは、私は大きなプレッシャーを受けていたからだ。
+769. VI: Không phải là tôi đã chuẩn bị kỹ càng, mà thực ra đạt được kết quả tốt.
+   JP: 十分に準備していたわけではなく、実は良い結果を出す。
+770. VI: Mặc dù tôi không có đủ thời gian, nhưng rốt cuộc thuyết phục mọi người.
+   JP: 時間が足りなかったにもかかわらず、結局は皆を説得する。
+771. VI: Ngay cả khi tôi không có đủ thời gian, thì cũng khó mà đảm bảo tiến độ công việc.
+   JP: 時間が足りなかったとしても、仕事の進捗を確保するのは難しい。
+772. VI: Giả sử tôi đã chuẩn bị kỹ càng, thì liệu có thể đối phó kịp thời không?
+   JP: 十分に準備していたとしたら、適切に対処することができるだろうか。
+773. VI: Sở dĩ đưa ra quyết định đúng đắn là bởi vì tôi phải chịu nhiều áp lực.
+   JP: 正しい判断を下すのは、私は大きなプレッシャーを受けていたからだ。
+774. VI: Ngay cả khi tôi đã chuẩn bị kỹ càng, thì cũng khó mà giải quyết vấn đề.
+   JP: 十分に準備していたとしても、問題を解決するのは難しい。
+775. VI: Cho dù tình hình trở nên phức tạp đến mấy, đưa ra quyết định đúng đắn.
+   JP: どんなに状況が複雑になったとしても、正しい判断を下す。
+776. VI: Trái lại với tình hình trở nên phức tạp, đưa ra quyết định đúng đắn.
+   JP: 状況が複雑になったのとは反対に、正しい判断を下す。
+777. VI: Sở dĩ tiếp tục kế hoạch là bởi vì kế hoạch bị thay đổi vào phút chót.
+   JP: 計画を続けるのは、計画が土壇場で変更されたからだ。
+778. VI: Một khi đã tôi không có đủ thời gian, thì phải hoàn thành nhiệm vụ.
+   JP: 時間が足りなかった以上、任務を果たすなければならない。
+779. VI: Một khi đã cuộc thảo luận kéo dài hơn dự kiến, thì phải thay đổi hướng đi.
+   JP: 議論が予想以上に長引いた以上、方向転換するなければならない。
+780. VI: Nếu không nhờ tình hình trở nên phức tạp, thì đã thuyết phục mọi người.
+   JP: 状況が複雑になったおかげでなければ、皆を説得するところだった。
+781. VI: Giả sử tôi đã chuẩn bị kỹ càng, thì liệu có thể tiếp tục kế hoạch không?
+   JP: 十分に準備していたとしたら、計画を続けることができるだろうか。
+782. VI: Giả sử mọi người không đồng ý, thì liệu có thể tiếp tục kế hoạch không?
+   JP: 皆が賛成しなかったとしたら、計画を続けることができるだろうか。
+783. VI: Một khi đã dự án gặp nhiều trở ngại, thì phải thuyết phục mọi người.
+   JP: プロジェクトが多くの障害に直面した以上、皆を説得するなければならない。
+784. VI: Trái lại với tôi đã chuẩn bị kỹ càng, giải quyết vấn đề.
+   JP: 十分に準備していたのとは反対に、問題を解決する。
+785. VI: Thay vì tôi đã chuẩn bị kỹ càng, đáng lẽ nên hoàn thành nhiệm vụ.
+   JP: 十分に準備していたより、むしろ任務を果たすべきだった。
+786. VI: Cho dù kết quả không như mong đợi đến mấy, đối phó kịp thời.
+   JP: どんなに結果が期待通りではなかったとしても、適切に対処する。
+787. VI: Ngay cả khi dự án gặp nhiều trở ngại, thì cũng khó mà đưa ra kết luận cuối cùng.
+   JP: プロジェクトが多くの障害に直面したとしても、最終的な結論を出すのは難しい。
+788. VI: Ngay cả khi tôi không có đủ thời gian, thì cũng khó mà đưa ra kết luận cuối cùng.
+   JP: 時間が足りなかったとしても、最終的な結論を出すのは難しい。
+789. VI: Cho dù tình hình trở nên phức tạp đến mấy, đạt được kết quả tốt.
+   JP: どんなに状況が複雑になったとしても、良い結果を出す。
+790. VI: Một khi đã dự án gặp nhiều trở ngại, thì phải đạt được kết quả tốt.
+   JP: プロジェクトが多くの障害に直面した以上、良い結果を出すなければならない。
+791. VI: Nếu không nhờ kết quả không như mong đợi, thì đã tiếp tục kế hoạch.
+   JP: 結果が期待通りではなかったおかげでなければ、計画を続けるところだった。
+792. VI: Không phải là thông tin chưa được xác nhận, mà thực ra thuyết phục mọi người.
+   JP: 情報がまだ確認されていないわけではなく、実は皆を説得する。
+793. VI: Một khi đã tôi không có đủ thời gian, thì phải tiếp tục kế hoạch.
+   JP: 時間が足りなかった以上、計画を続けるなければならない。
+794. VI: Thay vì cuộc thảo luận kéo dài hơn dự kiến, đáng lẽ nên hoàn thành nhiệm vụ.
+   JP: 議論が予想以上に長引いたより、むしろ任務を果たすべきだった。
+795. VI: Không phải là thông tin chưa được xác nhận, mà thực ra giải quyết vấn đề.
+   JP: 情報がまだ確認されていないわけではなく、実は問題を解決する。
+796. VI: Không phải là cuộc thảo luận kéo dài hơn dự kiến, mà thực ra đối phó kịp thời.
+   JP: 議論が予想以上に長引いたわけではなく、実は適切に対処する。
+797. VI: Sở dĩ thuyết phục mọi người là bởi vì tình hình trở nên phức tạp.
+   JP: 皆を説得するのは、状況が複雑になったからだ。
+798. VI: Giả sử kế hoạch bị thay đổi vào phút chót, thì liệu có thể đối phó kịp thời không?
+   JP: 計画が土壇場で変更されたとしたら、適切に対処することができるだろうか。
+799. VI: Một khi đã kế hoạch bị thay đổi vào phút chót, thì phải hoàn thành nhiệm vụ.
+   JP: 計画が土壇場で変更された以上、任務を果たすなければならない。
+800. VI: Sở dĩ thay đổi hướng đi là bởi vì mọi người không đồng ý.
+   JP: 方向転換するのは、皆が賛成しなかったからだ。
+801. VI: Trái lại với kết quả không như mong đợi, đạt được kết quả tốt.
+   JP: 結果が期待通りではなかったのとは反対に、良い結果を出す。
+802. VI: Không phải là tôi không có đủ thời gian, mà thực ra hoàn thành nhiệm vụ.
+   JP: 時間が足りなかったわけではなく、実は任務を果たす。
+803. VI: Giả sử tình hình trở nên phức tạp, thì liệu có thể tiếp tục kế hoạch không?
+   JP: 状況が複雑になったとしたら、計画を続けることができるだろうか。
+804. VI: Sở dĩ giải quyết vấn đề là bởi vì dự án gặp nhiều trở ngại.
+   JP: 問題を解決するのは、プロジェクトが多くの障害に直面したからだ。
+805. VI: Không phải là mọi người không đồng ý, mà thực ra thuyết phục mọi người.
+   JP: 皆が賛成しなかったわけではなく、実は皆を説得する。
+806. VI: Thay vì cuộc thảo luận kéo dài hơn dự kiến, đáng lẽ nên đưa ra kết luận cuối cùng.
+   JP: 議論が予想以上に長引いたより、むしろ最終的な結論を出すべきだった。
+807. VI: Cho dù tôi không có đủ thời gian đến mấy, đưa ra kết luận cuối cùng.
+   JP: どんなに時間が足りなかったとしても、最終的な結論を出す。
+808. VI: Thay vì tình hình trở nên phức tạp, đáng lẽ nên đảm bảo tiến độ công việc.
+   JP: 状況が複雑になったより、むしろ仕事の進捗を確保するべきだった。
+809. VI: Một khi đã tôi không có đủ thời gian, thì phải thay đổi hướng đi.
+   JP: 時間が足りなかった以上、方向転換するなければならない。
+810. VI: Ngay cả khi tôi phải chịu nhiều áp lực, thì cũng khó mà tiếp tục kế hoạch.
+   JP: 私は大きなプレッシャーを受けていたとしても、計画を続けるのは難しい。
+811. VI: Ngay cả khi dự án gặp nhiều trở ngại, thì cũng khó mà hoàn thành nhiệm vụ.
+   JP: プロジェクトが多くの障害に直面したとしても、任務を果たすのは難しい。
+812. VI: Thay vì tình hình trở nên phức tạp, đáng lẽ nên đưa ra kết luận cuối cùng.
+   JP: 状況が複雑になったより、むしろ最終的な結論を出すべきだった。
+813. VI: Thay vì cuộc thảo luận kéo dài hơn dự kiến, đáng lẽ nên đưa ra kết luận cuối cùng.
+   JP: 議論が予想以上に長引いたより、むしろ最終的な結論を出すべきだった。
+814. VI: Không phải là cuộc thảo luận kéo dài hơn dự kiến, mà thực ra hoàn thành nhiệm vụ.
+   JP: 議論が予想以上に長引いたわけではなく、実は任務を果たす。
+815. VI: Sở dĩ đối phó kịp thời là bởi vì kế hoạch bị thay đổi vào phút chót.
+   JP: 適切に対処するのは、計画が土壇場で変更されたからだ。
+816. VI: Ngay cả khi kế hoạch bị thay đổi vào phút chót, thì cũng khó mà đạt được kết quả tốt.
+   JP: 計画が土壇場で変更されたとしても、良い結果を出すのは難しい。
+817. VI: Trái lại với kết quả không như mong đợi, đạt được kết quả tốt.
+   JP: 結果が期待通りではなかったのとは反対に、良い結果を出す。
+818. VI: Sở dĩ đảm bảo tiến độ công việc là bởi vì dự án gặp nhiều trở ngại.
+   JP: 仕事の進捗を確保するのは、プロジェクトが多くの障害に直面したからだ。
+819. VI: Một khi đã dự án gặp nhiều trở ngại, thì phải thuyết phục mọi người.
+   JP: プロジェクトが多くの障害に直面した以上、皆を説得するなければならない。
+820. VI: Mặc dù dự án gặp nhiều trở ngại, nhưng rốt cuộc thuyết phục mọi người.
+   JP: プロジェクトが多くの障害に直面したにもかかわらず、結局は皆を説得する。
+821. VI: Giả sử tôi phải chịu nhiều áp lực, thì liệu có thể hoàn thành nhiệm vụ không?
+   JP: 私は大きなプレッシャーを受けていたとしたら、任務を果たすことができるだろうか。
+822. VI: Nếu không nhờ kế hoạch bị thay đổi vào phút chót, thì đã tiếp tục kế hoạch.
+   JP: 計画が土壇場で変更されたおかげでなければ、計画を続けるところだった。
+823. VI: Cho dù cuộc thảo luận kéo dài hơn dự kiến đến mấy, đưa ra quyết định đúng đắn.
+   JP: どんなに議論が予想以上に長引いたとしても、正しい判断を下す。
+824. VI: Cho dù thông tin chưa được xác nhận đến mấy, đối phó kịp thời.
+   JP: どんなに情報がまだ確認されていないとしても、適切に対処する。
+825. VI: Thay vì tôi đã chuẩn bị kỹ càng, đáng lẽ nên hoàn thành nhiệm vụ.
+   JP: 十分に準備していたより、むしろ任務を果たすべきだった。
+826. VI: Giả sử kế hoạch bị thay đổi vào phút chót, thì liệu có thể đưa ra kết luận cuối cùng không?
+   JP: 計画が土壇場で変更されたとしたら、最終的な結論を出すことができるだろうか。
+827. VI: Ngay cả khi thông tin chưa được xác nhận, thì cũng khó mà đưa ra quyết định đúng đắn.
+   JP: 情報がまだ確認されていないとしても、正しい判断を下すのは難しい。
+828. VI: Không phải là tôi không có đủ thời gian, mà thực ra hoàn thành nhiệm vụ.
+   JP: 時間が足りなかったわけではなく、実は任務を果たす。
+829. VI: Một khi đã cuộc thảo luận kéo dài hơn dự kiến, thì phải đưa ra kết luận cuối cùng.
+   JP: 議論が予想以上に長引いた以上、最終的な結論を出すなければならない。
+830. VI: Cho dù dự án gặp nhiều trở ngại đến mấy, đưa ra kết luận cuối cùng.
+   JP: どんなにプロジェクトが多くの障害に直面したとしても、最終的な結論を出す。
+831. VI: Cho dù tôi phải chịu nhiều áp lực đến mấy, đảm bảo tiến độ công việc.
+   JP: どんなに私は大きなプレッシャーを受けていたとしても、仕事の進捗を確保する。
+832. VI: Thay vì tình hình trở nên phức tạp, đáng lẽ nên đạt được kết quả tốt.
+   JP: 状況が複雑になったより、むしろ良い結果を出すべきだった。
+833. VI: Mặc dù tình hình trở nên phức tạp, nhưng rốt cuộc đối phó kịp thời.
+   JP: 状況が複雑になったにもかかわらず、結局は適切に対処する。
+834. VI: Ngay cả khi tôi phải chịu nhiều áp lực, thì cũng khó mà đảm bảo tiến độ công việc.
+   JP: 私は大きなプレッシャーを受けていたとしても、仕事の進捗を確保するのは難しい。
+835. VI: Giả sử tôi phải chịu nhiều áp lực, thì liệu có thể thuyết phục mọi người không?
+   JP: 私は大きなプレッシャーを受けていたとしたら、皆を説得することができるだろうか。
+836. VI: Nếu không nhờ mọi người không đồng ý, thì đã đưa ra kết luận cuối cùng.
+   JP: 皆が賛成しなかったおかげでなければ、最終的な結論を出すところだった。
+837. VI: Thay vì cuộc thảo luận kéo dài hơn dự kiến, đáng lẽ nên hoàn thành nhiệm vụ.
+   JP: 議論が予想以上に長引いたより、むしろ任務を果たすべきだった。
+838. VI: Nếu không nhờ mọi người không đồng ý, thì đã giải quyết vấn đề.
+   JP: 皆が賛成しなかったおかげでなければ、問題を解決するところだった。
+839. VI: Trái lại với kế hoạch bị thay đổi vào phút chót, đối phó kịp thời.
+   JP: 計画が土壇場で変更されたのとは反対に、適切に対処する。
+840. VI: Nếu không nhờ tôi phải chịu nhiều áp lực, thì đã đối phó kịp thời.
+   JP: 私は大きなプレッシャーを受けていたおかげでなければ、適切に対処するところだった。
+841. VI: Giả sử cuộc thảo luận kéo dài hơn dự kiến, thì liệu có thể giải quyết vấn đề không?
+   JP: 議論が予想以上に長引いたとしたら、問題を解決することができるだろうか。
+842. VI: Mặc dù thông tin chưa được xác nhận, nhưng rốt cuộc thuyết phục mọi người.
+   JP: 情報がまだ確認されていないにもかかわらず、結局は皆を説得する。
+843. VI: Ngay cả khi tôi phải chịu nhiều áp lực, thì cũng khó mà đối phó kịp thời.
+   JP: 私は大きなプレッシャーを受けていたとしても、適切に対処するのは難しい。
+844. VI: Nếu không nhờ tôi đã chuẩn bị kỹ càng, thì đã đưa ra kết luận cuối cùng.
+   JP: 十分に準備していたおかげでなければ、最終的な結論を出すところだった。
+845. VI: Sở dĩ đảm bảo tiến độ công việc là bởi vì mọi người không đồng ý.
+   JP: 仕事の進捗を確保するのは、皆が賛成しなかったからだ。
+846. VI: Nếu không nhờ kế hoạch bị thay đổi vào phút chót, thì đã đảm bảo tiến độ công việc.
+   JP: 計画が土壇場で変更されたおかげでなければ、仕事の進捗を確保するところだった。
+847. VI: Ngay cả khi cuộc thảo luận kéo dài hơn dự kiến, thì cũng khó mà đối phó kịp thời.
+   JP: 議論が予想以上に長引いたとしても、適切に対処するのは難しい。
+848. VI: Thay vì mọi người không đồng ý, đáng lẽ nên thay đổi hướng đi.
+   JP: 皆が賛成しなかったより、むしろ方向転換するべきだった。
+849. VI: Thay vì thông tin chưa được xác nhận, đáng lẽ nên đưa ra quyết định đúng đắn.
+   JP: 情報がまだ確認されていないより、むしろ正しい判断を下すべきだった。
+850. VI: Một khi đã kế hoạch bị thay đổi vào phút chót, thì phải đối phó kịp thời.
+   JP: 計画が土壇場で変更された以上、適切に対処するなければならない。
+851. VI: Giả sử cuộc thảo luận kéo dài hơn dự kiến, thì liệu có thể thay đổi hướng đi không?
+   JP: 議論が予想以上に長引いたとしたら、方向転換することができるだろうか。
+852. VI: Nếu không nhờ tôi không có đủ thời gian, thì đã đảm bảo tiến độ công việc.
+   JP: 時間が足りなかったおかげでなければ、仕事の進捗を確保するところだった。
+853. VI: Không phải là kết quả không như mong đợi, mà thực ra đưa ra quyết định đúng đắn.
+   JP: 結果が期待通りではなかったわけではなく、実は正しい判断を下す。
+854. VI: Thay vì cuộc thảo luận kéo dài hơn dự kiến, đáng lẽ nên đảm bảo tiến độ công việc.
+   JP: 議論が予想以上に長引いたより、むしろ仕事の進捗を確保するべきだった。
+855. VI: Trái lại với tôi phải chịu nhiều áp lực, thuyết phục mọi người.
+   JP: 私は大きなプレッシャーを受けていたのとは反対に、皆を説得する。
+856. VI: Một khi đã tình hình trở nên phức tạp, thì phải đạt được kết quả tốt.
+   JP: 状況が複雑になった以上、良い結果を出すなければならない。
+857. VI: Nếu không nhờ kết quả không như mong đợi, thì đã hoàn thành nhiệm vụ.
+   JP: 結果が期待通りではなかったおかげでなければ、任務を果たすところだった。
+858. VI: Không phải là tôi phải chịu nhiều áp lực, mà thực ra đạt được kết quả tốt.
+   JP: 私は大きなプレッシャーを受けていたわけではなく、実は良い結果を出す。
+859. VI: Trái lại với tình hình trở nên phức tạp, đạt được kết quả tốt.
+   JP: 状況が複雑になったのとは反対に、良い結果を出す。
+860. VI: Thay vì thông tin chưa được xác nhận, đáng lẽ nên thuyết phục mọi người.
+   JP: 情報がまだ確認されていないより、むしろ皆を説得するべきだった。
+861. VI: Trái lại với tôi không có đủ thời gian, đưa ra quyết định đúng đắn.
+   JP: 時間が足りなかったのとは反対に、正しい判断を下す。
+862. VI: Sở dĩ đưa ra kết luận cuối cùng là bởi vì cuộc thảo luận kéo dài hơn dự kiến.
+   JP: 最終的な結論を出すのは、議論が予想以上に長引いたからだ。
+863. VI: Một khi đã tôi đã chuẩn bị kỹ càng, thì phải đưa ra quyết định đúng đắn.
+   JP: 十分に準備していた以上、正しい判断を下すなければならない。
+864. VI: Trái lại với tôi đã chuẩn bị kỹ càng, hoàn thành nhiệm vụ.
+   JP: 十分に準備していたのとは反対に、任務を果たす。
+865. VI: Trái lại với cuộc thảo luận kéo dài hơn dự kiến, hoàn thành nhiệm vụ.
+   JP: 議論が予想以上に長引いたのとは反対に、任務を果たす。
+866. VI: Ngay cả khi kết quả không như mong đợi, thì cũng khó mà hoàn thành nhiệm vụ.
+   JP: 結果が期待通りではなかったとしても、任務を果たすのは難しい。
+867. VI: Trái lại với kế hoạch bị thay đổi vào phút chót, hoàn thành nhiệm vụ.
+   JP: 計画が土壇場で変更されたのとは反対に、任務を果たす。
+868. VI: Trái lại với tình hình trở nên phức tạp, thuyết phục mọi người.
+   JP: 状況が複雑になったのとは反対に、皆を説得する。
+869. VI: Một khi đã tôi phải chịu nhiều áp lực, thì phải giải quyết vấn đề.
+   JP: 私は大きなプレッシャーを受けていた以上、問題を解決するなければならない。
+870. VI: Mặc dù kết quả không như mong đợi, nhưng rốt cuộc tiếp tục kế hoạch.
+   JP: 結果が期待通りではなかったにもかかわらず、結局は計画を続ける。
+871. VI: Mặc dù kết quả không như mong đợi, nhưng rốt cuộc hoàn thành nhiệm vụ.
+   JP: 結果が期待通りではなかったにもかかわらず、結局は任務を果たす。
+872. VI: Giả sử tôi đã chuẩn bị kỹ càng, thì liệu có thể thay đổi hướng đi không?
+   JP: 十分に準備していたとしたら、方向転換することができるだろうか。
+873. VI: Nếu không nhờ cuộc thảo luận kéo dài hơn dự kiến, thì đã đưa ra kết luận cuối cùng.
+   JP: 議論が予想以上に長引いたおかげでなければ、最終的な結論を出すところだった。
+874. VI: Thay vì kế hoạch bị thay đổi vào phút chót, đáng lẽ nên đưa ra kết luận cuối cùng.
+   JP: 計画が土壇場で変更されたより、むしろ最終的な結論を出すべきだった。
+875. VI: Không phải là tôi đã chuẩn bị kỹ càng, mà thực ra hoàn thành nhiệm vụ.
+   JP: 十分に準備していたわけではなく、実は任務を果たす。
+876. VI: Mặc dù tôi không có đủ thời gian, nhưng rốt cuộc giải quyết vấn đề.
+   JP: 時間が足りなかったにもかかわらず、結局は問題を解決する。
+877. VI: Một khi đã dự án gặp nhiều trở ngại, thì phải giải quyết vấn đề.
+   JP: プロジェクトが多くの障害に直面した以上、問題を解決するなければならない。
+878. VI: Mặc dù dự án gặp nhiều trở ngại, nhưng rốt cuộc thay đổi hướng đi.
+   JP: プロジェクトが多くの障害に直面したにもかかわらず、結局は方向転換する。
+879. VI: Trái lại với cuộc thảo luận kéo dài hơn dự kiến, thuyết phục mọi người.
+   JP: 議論が予想以上に長引いたのとは反対に、皆を説得する。
+880. VI: Trái lại với kết quả không như mong đợi, tiếp tục kế hoạch.
+   JP: 結果が期待通りではなかったのとは反対に、計画を続ける。
+881. VI: Ngay cả khi cuộc thảo luận kéo dài hơn dự kiến, thì cũng khó mà đưa ra quyết định đúng đắn.
+   JP: 議論が予想以上に長引いたとしても、正しい判断を下すのは難しい。
+882. VI: Ngay cả khi kết quả không như mong đợi, thì cũng khó mà đưa ra kết luận cuối cùng.
+   JP: 結果が期待通りではなかったとしても、最終的な結論を出すのは難しい。
+883. VI: Sở dĩ đạt được kết quả tốt là bởi vì tôi phải chịu nhiều áp lực.
+   JP: 良い結果を出すのは、私は大きなプレッシャーを受けていたからだ。
+884. VI: Mặc dù kết quả không như mong đợi, nhưng rốt cuộc thay đổi hướng đi.
+   JP: 結果が期待通りではなかったにもかかわらず、結局は方向転換する。
+885. VI: Mặc dù kế hoạch bị thay đổi vào phút chót, nhưng rốt cuộc đối phó kịp thời.
+   JP: 計画が土壇場で変更されたにもかかわらず、結局は適切に対処する。
+886. VI: Không phải là cuộc thảo luận kéo dài hơn dự kiến, mà thực ra thay đổi hướng đi.
+   JP: 議論が予想以上に長引いたわけではなく、実は方向転換する。
+887. VI: Thay vì mọi người không đồng ý, đáng lẽ nên đưa ra kết luận cuối cùng.
+   JP: 皆が賛成しなかったより、むしろ最終的な結論を出すべきだった。
+888. VI: Không phải là kết quả không như mong đợi, mà thực ra đảm bảo tiến độ công việc.
+   JP: 結果が期待通りではなかったわけではなく、実は仕事の進捗を確保する。
+889. VI: Không phải là kế hoạch bị thay đổi vào phút chót, mà thực ra giải quyết vấn đề.
+   JP: 計画が土壇場で変更されたわけではなく、実は問題を解決する。
+890. VI: Thay vì dự án gặp nhiều trở ngại, đáng lẽ nên đưa ra quyết định đúng đắn.
+   JP: プロジェクトが多くの障害に直面したより、むしろ正しい判断を下すべきだった。
+891. VI: Không phải là tôi đã chuẩn bị kỹ càng, mà thực ra đạt được kết quả tốt.
+   JP: 十分に準備していたわけではなく、実は良い結果を出す。
+892. VI: Thay vì tôi đã chuẩn bị kỹ càng, đáng lẽ nên đưa ra kết luận cuối cùng.
+   JP: 十分に準備していたより、むしろ最終的な結論を出すべきだった。
+893. VI: Nếu không nhờ thông tin chưa được xác nhận, thì đã đảm bảo tiến độ công việc.
+   JP: 情報がまだ確認されていないおかげでなければ、仕事の進捗を確保するところだった。
+894. VI: Một khi đã kết quả không như mong đợi, thì phải đảm bảo tiến độ công việc.
+   JP: 結果が期待通りではなかった以上、仕事の進捗を確保するなければならない。
+895. VI: Một khi đã tôi đã chuẩn bị kỹ càng, thì phải thuyết phục mọi người.
+   JP: 十分に準備していた以上、皆を説得するなければならない。
+896. VI: Mặc dù tôi không có đủ thời gian, nhưng rốt cuộc thay đổi hướng đi.
+   JP: 時間が足りなかったにもかかわらず、結局は方向転換する。
+897. VI: Cho dù tình hình trở nên phức tạp đến mấy, giải quyết vấn đề.
+   JP: どんなに状況が複雑になったとしても、問題を解決する。
+898. VI: Sở dĩ thuyết phục mọi người là bởi vì cuộc thảo luận kéo dài hơn dự kiến.
+   JP: 皆を説得するのは、議論が予想以上に長引いたからだ。
+899. VI: Cho dù kế hoạch bị thay đổi vào phút chót đến mấy, giải quyết vấn đề.
+   JP: どんなに計画が土壇場で変更されたとしても、問題を解決する。
+900. VI: Trái lại với tôi phải chịu nhiều áp lực, thay đổi hướng đi.
+   JP: 私は大きなプレッシャーを受けていたのとは反対に、方向転換する。
+901. VI: Một khi đã tình hình trở nên phức tạp, thì phải giải quyết vấn đề.
+   JP: 状況が複雑になった以上、問題を解決するなければならない。
+902. VI: Nếu không nhờ cuộc thảo luận kéo dài hơn dự kiến, thì đã đưa ra kết luận cuối cùng.
+   JP: 議論が予想以上に長引いたおかげでなければ、最終的な結論を出すところだった。
+903. VI: Không phải là tôi phải chịu nhiều áp lực, mà thực ra đưa ra quyết định đúng đắn.
+   JP: 私は大きなプレッシャーを受けていたわけではなく、実は正しい判断を下す。
+904. VI: Nếu không nhờ thông tin chưa được xác nhận, thì đã đưa ra quyết định đúng đắn.
+   JP: 情報がまだ確認されていないおかげでなければ、正しい判断を下すところだった。
+905. VI: Mặc dù tôi đã chuẩn bị kỹ càng, nhưng rốt cuộc đối phó kịp thời.
+   JP: 十分に準備していたにもかかわらず、結局は適切に対処する。
+906. VI: Một khi đã kết quả không như mong đợi, thì phải đưa ra quyết định đúng đắn.
+   JP: 結果が期待通りではなかった以上、正しい判断を下すなければならない。
+907. VI: Sở dĩ đạt được kết quả tốt là bởi vì tôi phải chịu nhiều áp lực.
+   JP: 良い結果を出すのは、私は大きなプレッシャーを受けていたからだ。
+908. VI: Thay vì dự án gặp nhiều trở ngại, đáng lẽ nên giải quyết vấn đề.
+   JP: プロジェクトが多くの障害に直面したより、むしろ問題を解決するべきだった。
+909. VI: Trái lại với tôi không có đủ thời gian, đạt được kết quả tốt.
+   JP: 時間が足りなかったのとは反対に、良い結果を出す。
+910. VI: Ngay cả khi tôi phải chịu nhiều áp lực, thì cũng khó mà hoàn thành nhiệm vụ.
+   JP: 私は大きなプレッシャーを受けていたとしても、任務を果たすのは難しい。
+911. VI: Sở dĩ đạt được kết quả tốt là bởi vì dự án gặp nhiều trở ngại.
+   JP: 良い結果を出すのは、プロジェクトが多くの障害に直面したからだ。
+912. VI: Nếu không nhờ tôi phải chịu nhiều áp lực, thì đã thuyết phục mọi người.
+   JP: 私は大きなプレッシャーを受けていたおかげでなければ、皆を説得するところだった。
+913. VI: Trái lại với thông tin chưa được xác nhận, hoàn thành nhiệm vụ.
+   JP: 情報がまだ確認されていないのとは反対に、任務を果たす。
+914. VI: Không phải là tình hình trở nên phức tạp, mà thực ra đưa ra kết luận cuối cùng.
+   JP: 状況が複雑になったわけではなく、実は最終的な結論を出す。
+915. VI: Cho dù kế hoạch bị thay đổi vào phút chót đến mấy, giải quyết vấn đề.
+   JP: どんなに計画が土壇場で変更されたとしても、問題を解決する。
+916. VI: Không phải là tình hình trở nên phức tạp, mà thực ra hoàn thành nhiệm vụ.
+   JP: 状況が複雑になったわけではなく、実は任務を果たす。
+917. VI: Cho dù kết quả không như mong đợi đến mấy, đảm bảo tiến độ công việc.
+   JP: どんなに結果が期待通りではなかったとしても、仕事の進捗を確保する。
+918. VI: Nếu không nhờ tôi phải chịu nhiều áp lực, thì đã đối phó kịp thời.
+   JP: 私は大きなプレッシャーを受けていたおかげでなければ、適切に対処するところだった。
+919. VI: Nếu không nhờ tôi phải chịu nhiều áp lực, thì đã thay đổi hướng đi.
+   JP: 私は大きなプレッシャーを受けていたおかげでなければ、方向転換するところだった。
+920. VI: Không phải là dự án gặp nhiều trở ngại, mà thực ra đảm bảo tiến độ công việc.
+   JP: プロジェクトが多くの障害に直面したわけではなく、実は仕事の進捗を確保する。
+921. VI: Thay vì tình hình trở nên phức tạp, đáng lẽ nên đảm bảo tiến độ công việc.
+   JP: 状況が複雑になったより、むしろ仕事の進捗を確保するべきだった。
+922. VI: Trái lại với cuộc thảo luận kéo dài hơn dự kiến, đưa ra kết luận cuối cùng.
+   JP: 議論が予想以上に長引いたのとは反対に、最終的な結論を出す。
+923. VI: Sở dĩ tiếp tục kế hoạch là bởi vì tình hình trở nên phức tạp.
+   JP: 計画を続けるのは、状況が複雑になったからだ。
+924. VI: Sở dĩ thay đổi hướng đi là bởi vì tôi phải chịu nhiều áp lực.
+   JP: 方向転換するのは、私は大きなプレッシャーを受けていたからだ。
+925. VI: Cho dù thông tin chưa được xác nhận đến mấy, tiếp tục kế hoạch.
+   JP: どんなに情報がまだ確認されていないとしても、計画を続ける。
+926. VI: Cho dù tôi đã chuẩn bị kỹ càng đến mấy, thay đổi hướng đi.
+   JP: どんなに十分に準備していたとしても、方向転換する。
+927. VI: Ngay cả khi mọi người không đồng ý, thì cũng khó mà thay đổi hướng đi.
+   JP: 皆が賛成しなかったとしても、方向転換するのは難しい。
+928. VI: Mặc dù tôi đã chuẩn bị kỹ càng, nhưng rốt cuộc hoàn thành nhiệm vụ.
+   JP: 十分に準備していたにもかかわらず、結局は任務を果たす。
+929. VI: Ngay cả khi thông tin chưa được xác nhận, thì cũng khó mà giải quyết vấn đề.
+   JP: 情報がまだ確認されていないとしても、問題を解決するのは難しい。
+930. VI: Giả sử tôi đã chuẩn bị kỹ càng, thì liệu có thể hoàn thành nhiệm vụ không?
+   JP: 十分に準備していたとしたら、任務を果たすことができるだろうか。
+931. VI: Nếu không nhờ thông tin chưa được xác nhận, thì đã tiếp tục kế hoạch.
+   JP: 情報がまだ確認されていないおかげでなければ、計画を続けるところだった。
+932. VI: Ngay cả khi kết quả không như mong đợi, thì cũng khó mà hoàn thành nhiệm vụ.
+   JP: 結果が期待通りではなかったとしても、任務を果たすのは難しい。
+933. VI: Cho dù kết quả không như mong đợi đến mấy, thuyết phục mọi người.
+   JP: どんなに結果が期待通りではなかったとしても、皆を説得する。
+934. VI: Giả sử mọi người không đồng ý, thì liệu có thể tiếp tục kế hoạch không?
+   JP: 皆が賛成しなかったとしたら、計画を続けることができるだろうか。
+935. VI: Ngay cả khi kế hoạch bị thay đổi vào phút chót, thì cũng khó mà đạt được kết quả tốt.
+   JP: 計画が土壇場で変更されたとしても、良い結果を出すのは難しい。
+936. VI: Trái lại với tôi đã chuẩn bị kỹ càng, hoàn thành nhiệm vụ.
+   JP: 十分に準備していたのとは反対に、任務を果たす。
+937. VI: Thay vì tôi không có đủ thời gian, đáng lẽ nên thuyết phục mọi người.
+   JP: 時間が足りなかったより、むしろ皆を説得するべきだった。
+938. VI: Ngay cả khi kế hoạch bị thay đổi vào phút chót, thì cũng khó mà đảm bảo tiến độ công việc.
+   JP: 計画が土壇場で変更されたとしても、仕事の進捗を確保するのは難しい。
+939. VI: Giả sử mọi người không đồng ý, thì liệu có thể đảm bảo tiến độ công việc không?
+   JP: 皆が賛成しなかったとしたら、仕事の進捗を確保することができるだろうか。
+940. VI: Không phải là kế hoạch bị thay đổi vào phút chót, mà thực ra đối phó kịp thời.
+   JP: 計画が土壇場で変更されたわけではなく、実は適切に対処する。
+941. VI: Một khi đã cuộc thảo luận kéo dài hơn dự kiến, thì phải đạt được kết quả tốt.
+   JP: 議論が予想以上に長引いた以上、良い結果を出すなければならない。
+942. VI: Một khi đã dự án gặp nhiều trở ngại, thì phải thay đổi hướng đi.
+   JP: プロジェクトが多くの障害に直面した以上、方向転換するなければならない。
+943. VI: Cho dù kế hoạch bị thay đổi vào phút chót đến mấy, đối phó kịp thời.
+   JP: どんなに計画が土壇場で変更されたとしても、適切に対処する。
+944. VI: Trái lại với mọi người không đồng ý, thuyết phục mọi người.
+   JP: 皆が賛成しなかったのとは反対に、皆を説得する。
+945. VI: Không phải là tình hình trở nên phức tạp, mà thực ra đối phó kịp thời.
+   JP: 状況が複雑になったわけではなく、実は適切に対処する。
+946. VI: Sở dĩ đối phó kịp thời là bởi vì kế hoạch bị thay đổi vào phút chót.
+   JP: 適切に対処するのは、計画が土壇場で変更されたからだ。
+947. VI: Mặc dù tình hình trở nên phức tạp, nhưng rốt cuộc đạt được kết quả tốt.
+   JP: 状況が複雑になったにもかかわらず、結局は良い結果を出す。
+948. VI: Trái lại với cuộc thảo luận kéo dài hơn dự kiến, hoàn thành nhiệm vụ.
+   JP: 議論が予想以上に長引いたのとは反対に、任務を果たす。
+949. VI: Cho dù dự án gặp nhiều trở ngại đến mấy, đối phó kịp thời.
+   JP: どんなにプロジェクトが多くの障害に直面したとしても、適切に対処する。
+950. VI: Thay vì thông tin chưa được xác nhận, đáng lẽ nên hoàn thành nhiệm vụ.
+   JP: 情報がまだ確認されていないより、むしろ任務を果たすべきだった。
+951. VI: Thay vì mọi người không đồng ý, đáng lẽ nên đưa ra quyết định đúng đắn.
+   JP: 皆が賛成しなかったより、むしろ正しい判断を下すべきだった。
+952. VI: Giả sử dự án gặp nhiều trở ngại, thì liệu có thể hoàn thành nhiệm vụ không?
+   JP: プロジェクトが多くの障害に直面したとしたら、任務を果たすことができるだろうか。
+953. VI: Cho dù tôi phải chịu nhiều áp lực đến mấy, đối phó kịp thời.
+   JP: どんなに私は大きなプレッシャーを受けていたとしても、適切に対処する。
+954. VI: Trái lại với kết quả không như mong đợi, đưa ra kết luận cuối cùng.
+   JP: 結果が期待通りではなかったのとは反対に、最終的な結論を出す。
+955. VI: Giả sử kết quả không như mong đợi, thì liệu có thể tiếp tục kế hoạch không?
+   JP: 結果が期待通りではなかったとしたら、計画を続けることができるだろうか。
+956. VI: Giả sử thông tin chưa được xác nhận, thì liệu có thể tiếp tục kế hoạch không?
+   JP: 情報がまだ確認されていないとしたら、計画を続けることができるだろうか。
+957. VI: Sở dĩ tiếp tục kế hoạch là bởi vì tôi không có đủ thời gian.
+   JP: 計画を続けるのは、時間が足りなかったからだ。
+958. VI: Sở dĩ hoàn thành nhiệm vụ là bởi vì cuộc thảo luận kéo dài hơn dự kiến.
+   JP: 任務を果たすのは、議論が予想以上に長引いたからだ。
+959. VI: Giả sử cuộc thảo luận kéo dài hơn dự kiến, thì liệu có thể giải quyết vấn đề không?
+   JP: 議論が予想以上に長引いたとしたら、問題を解決することができるだろうか。
+960. VI: Nếu không nhờ kế hoạch bị thay đổi vào phút chót, thì đã đạt được kết quả tốt.
+   JP: 計画が土壇場で変更されたおかげでなければ、良い結果を出すところだった。
+961. VI: Một khi đã tôi đã chuẩn bị kỹ càng, thì phải đối phó kịp thời.
+   JP: 十分に準備していた以上、適切に対処するなければならない。
+962. VI: Sở dĩ đối phó kịp thời là bởi vì tôi phải chịu nhiều áp lực.
+   JP: 適切に対処するのは、私は大きなプレッシャーを受けていたからだ。
+963. VI: Không phải là tình hình trở nên phức tạp, mà thực ra giải quyết vấn đề.
+   JP: 状況が複雑になったわけではなく、実は問題を解決する。
+964. VI: Cho dù mọi người không đồng ý đến mấy, đối phó kịp thời.
+   JP: どんなに皆が賛成しなかったとしても、適切に対処する。
+965. VI: Thay vì cuộc thảo luận kéo dài hơn dự kiến, đáng lẽ nên đối phó kịp thời.
+   JP: 議論が予想以上に長引いたより、むしろ適切に対処するべきだった。
+966. VI: Giả sử tôi phải chịu nhiều áp lực, thì liệu có thể thay đổi hướng đi không?
+   JP: 私は大きなプレッシャーを受けていたとしたら、方向転換することができるだろうか。
+967. VI: Sở dĩ đưa ra kết luận cuối cùng là bởi vì kế hoạch bị thay đổi vào phút chót.
+   JP: 最終的な結論を出すのは、計画が土壇場で変更されたからだ。
+968. VI: Một khi đã thông tin chưa được xác nhận, thì phải thay đổi hướng đi.
+   JP: 情報がまだ確認されていない以上、方向転換するなければならない。
+969. VI: Trái lại với mọi người không đồng ý, thay đổi hướng đi.
+   JP: 皆が賛成しなかったのとは反対に、方向転換する。
+970. VI: Mặc dù tôi phải chịu nhiều áp lực, nhưng rốt cuộc giải quyết vấn đề.
+   JP: 私は大きなプレッシャーを受けていたにもかかわらず、結局は問題を解決する。
+971. VI: Trái lại với thông tin chưa được xác nhận, đưa ra quyết định đúng đắn.
+   JP: 情報がまだ確認されていないのとは反対に、正しい判断を下す。
+972. VI: Mặc dù tôi phải chịu nhiều áp lực, nhưng rốt cuộc đưa ra kết luận cuối cùng.
+   JP: 私は大きなプレッシャーを受けていたにもかかわらず、結局は最終的な結論を出す。
+973. VI: Thay vì tôi đã chuẩn bị kỹ càng, đáng lẽ nên đưa ra kết luận cuối cùng.
+   JP: 十分に準備していたより、むしろ最終的な結論を出すべきだった。
+974. VI: Ngay cả khi mọi người không đồng ý, thì cũng khó mà tiếp tục kế hoạch.
+   JP: 皆が賛成しなかったとしても、計画を続けるのは難しい。
+975. VI: Giả sử tôi đã chuẩn bị kỹ càng, thì liệu có thể đưa ra quyết định đúng đắn không?
+   JP: 十分に準備していたとしたら、正しい判断を下すことができるだろうか。
+976. VI: Sở dĩ giải quyết vấn đề là bởi vì dự án gặp nhiều trở ngại.
+   JP: 問題を解決するのは、プロジェクトが多くの障害に直面したからだ。
+977. VI: Giả sử tôi đã chuẩn bị kỹ càng, thì liệu có thể giải quyết vấn đề không?
+   JP: 十分に準備していたとしたら、問題を解決することができるだろうか。
+978. VI: Ngay cả khi cuộc thảo luận kéo dài hơn dự kiến, thì cũng khó mà thay đổi hướng đi.
+   JP: 議論が予想以上に長引いたとしても、方向転換するのは難しい。
+979. VI: Trái lại với tình hình trở nên phức tạp, tiếp tục kế hoạch.
+   JP: 状況が複雑になったのとは反対に、計画を続ける。
+980. VI: Sở dĩ hoàn thành nhiệm vụ là bởi vì tôi phải chịu nhiều áp lực.
+   JP: 任務を果たすのは、私は大きなプレッシャーを受けていたからだ。
+981. VI: Giả sử cuộc thảo luận kéo dài hơn dự kiến, thì liệu có thể tiếp tục kế hoạch không?
+   JP: 議論が予想以上に長引いたとしたら、計画を続けることができるだろうか。
+982. VI: Cho dù tôi phải chịu nhiều áp lực đến mấy, đưa ra kết luận cuối cùng.
+   JP: どんなに私は大きなプレッシャーを受けていたとしても、最終的な結論を出す。
+983. VI: Sở dĩ thuyết phục mọi người là bởi vì mọi người không đồng ý.
+   JP: 皆を説得するのは、皆が賛成しなかったからだ。
+984. VI: Nếu không nhờ thông tin chưa được xác nhận, thì đã đối phó kịp thời.
+   JP: 情報がまだ確認されていないおかげでなければ、適切に対処するところだった。
+985. VI: Thay vì cuộc thảo luận kéo dài hơn dự kiến, đáng lẽ nên đưa ra kết luận cuối cùng.
+   JP: 議論が予想以上に長引いたより、むしろ最終的な結論を出すべきだった。
+986. VI: Sở dĩ hoàn thành nhiệm vụ là bởi vì cuộc thảo luận kéo dài hơn dự kiến.
+   JP: 任務を果たすのは、議論が予想以上に長引いたからだ。
+987. VI: Nếu không nhờ tôi không có đủ thời gian, thì đã thay đổi hướng đi.
+   JP: 時間が足りなかったおかげでなければ、方向転換するところだった。
+988. VI: Giả sử tôi phải chịu nhiều áp lực, thì liệu có thể hoàn thành nhiệm vụ không?
+   JP: 私は大きなプレッシャーを受けていたとしたら、任務を果たすことができるだろうか。
+989. VI: Thay vì tình hình trở nên phức tạp, đáng lẽ nên đưa ra quyết định đúng đắn.
+   JP: 状況が複雑になったより、むしろ正しい判断を下すべきだった。
+990. VI: Mặc dù tình hình trở nên phức tạp, nhưng rốt cuộc đảm bảo tiến độ công việc.
+   JP: 状況が複雑になったにもかかわらず、結局は仕事の進捗を確保する。
+991. VI: Trái lại với tình hình trở nên phức tạp, đưa ra quyết định đúng đắn.
+   JP: 状況が複雑になったのとは反対に、正しい判断を下す。
+992. VI: Thay vì cuộc thảo luận kéo dài hơn dự kiến, đáng lẽ nên đối phó kịp thời.
+   JP: 議論が予想以上に長引いたより、むしろ適切に対処するべきだった。
+993. VI: Một khi đã tôi đã chuẩn bị kỹ càng, thì phải đối phó kịp thời.
+   JP: 十分に準備していた以上、適切に対処するなければならない。
+994. VI: Trái lại với thông tin chưa được xác nhận, đảm bảo tiến độ công việc.
+   JP: 情報がまだ確認されていないのとは反対に、仕事の進捗を確保する。
+995. VI: Không phải là cuộc thảo luận kéo dài hơn dự kiến, mà thực ra tiếp tục kế hoạch.
+   JP: 議論が予想以上に長引いたわけではなく、実は計画を続ける。
+996. VI: Sở dĩ đạt được kết quả tốt là bởi vì tôi đã chuẩn bị kỹ càng.
+   JP: 良い結果を出すのは、十分に準備していたからだ。
+997. VI: Giả sử tôi đã chuẩn bị kỹ càng, thì liệu có thể tiếp tục kế hoạch không?
+   JP: 十分に準備していたとしたら、計画を続けることができるだろうか。
+998. VI: Thay vì tôi không có đủ thời gian, đáng lẽ nên hoàn thành nhiệm vụ.
+   JP: 時間が足りなかったより、むしろ任務を果たすべきだった。
+999. VI: Mặc dù dự án gặp nhiều trở ngại, nhưng rốt cuộc hoàn thành nhiệm vụ.
+   JP: プロジェクトが多くの障害に直面したにもかかわらず、結局は任務を果たす。
+1000. VI: Không phải là cuộc thảo luận kéo dài hơn dự kiến, mà thực ra thuyết phục mọi người.
+   JP: 議論が予想以上に長引いたわけではなく、実は皆を説得する。

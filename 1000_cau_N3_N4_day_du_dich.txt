@@ -1,0 +1,2000 @@
+1. VI: Ngay cả khi công việc quá nhiều, tôi cũng sẽ nấu ăn.
+   JP: Ngay cả khi 仕事が多すぎる, tôi cũng sẽ 料理する.
+2. VI: Nếu tôi phải thức khuya, thì tôi sẽ đến trường sớm.
+   JP: Nếu 夜更かししなければならなかった, thì tôi sẽ 早く学校に行く.
+3. VI: Ngay cả khi trời mưa, tôi cũng sẽ hoàn thành bài tập.
+   JP: Ngay cả khi 雨が降っている, tôi cũng sẽ 宿題を終える.
+4. VI: Ngay cả khi tôi phải thức khuya, tôi cũng sẽ nấu ăn.
+   JP: Ngay cả khi 夜更かししなければならなかった, tôi cũng sẽ 料理する.
+5. VI: Do tôi bị đau đầu, gặp bạn trở nên khó hơn.
+   JP: Do 頭が痛い, 友達に会う trở nên khó hơn.
+6. VI: Tôi định dọn dẹp phòng, nhưng tôi cảm thấy mệt.
+   JP: Tôi định 部屋を片付ける, nhưng 疲れている.
+7. VI: Tôi định tập thể dục, nhưng tôi có cuộc hẹn.
+   JP: Tôi định 運動する, nhưng 約束がある.
+8. VI: Tôi nghĩ rằng trời mưa, nhưng cuối cùng lại gọi điện cho mẹ.
+   JP: Tôi nghĩ rằng 雨が降っている, nhưng cuối cùng lại 母に電話する.
+9. VI: Tôi nghe nói rằng bài kiểm tra khó, nên tôi muốn dọn dẹp phòng.
+   JP: Tôi nghe nói rằng テストが難しい, nên tôi muốn 部屋を片付ける.
+10. VI: Tôi nghĩ rằng trời mưa, nhưng cuối cùng lại hoàn thành bài tập.
+   JP: Tôi nghĩ rằng 雨が降っている, nhưng cuối cùng lại 宿題を終える.
+11. VI: Khi tôi cảm thấy mệt, tôi đã hoàn thành bài tập.
+   JP: Khi 疲れている, tôi đã 宿題を終える.
+12. VI: Tôi nghĩ rằng tôi cảm thấy mệt, nhưng cuối cùng lại tập thể dục.
+   JP: Tôi nghĩ rằng 疲れている, nhưng cuối cùng lại 運動する.
+13. VI: Nếu tôi không có nhiều thời gian, thì tôi sẽ nấu ăn.
+   JP: Nếu 時間があまりない, thì tôi sẽ 料理する.
+14. VI: Vì xe buýt đến muộn, tôi không thể nghỉ ngơi ở nhà.
+   JP: Vì バスが遅れた, tôi không thể 家で休む.
+15. VI: Do trời mưa, gọi điện cho mẹ trở nên khó hơn.
+   JP: Do 雨が降っている, 母に電話する trở nên khó hơn.
+16. VI: Hôm nay trời công việc quá nhiều, nên tôi quyết định đi khám.
+   JP: Hôm nay trời 仕事が多すぎる, nên tôi quyết định 病院に行く.
+17. VI: Tôi nghe nói rằng tôi bị đau đầu, nên tôi muốn đi khám.
+   JP: Tôi nghe nói rằng 頭が痛い, nên tôi muốn 病院に行く.
+18. VI: Tôi nghe nói rằng xe buýt đến muộn, nên tôi muốn đi khám.
+   JP: Tôi nghe nói rằng バスが遅れた, nên tôi muốn 病院に行く.
+19. VI: Ngay cả khi tôi phải thức khuya, tôi cũng sẽ gọi điện cho mẹ.
+   JP: Ngay cả khi 夜更かししなければならなかった, tôi cũng sẽ 母に電話する.
+20. VI: Vì tôi quên mang ví, tôi không thể nấu ăn.
+   JP: Vì 財布を忘れた, tôi không thể 料理する.
+21. VI: Nếu bài kiểm tra khó, thì tôi sẽ nghỉ ngơi ở nhà.
+   JP: Nếu テストが難しい, thì tôi sẽ 家で休む.
+22. VI: Hôm nay trời bài kiểm tra khó, nên tôi quyết định gặp bạn.
+   JP: Hôm nay trời テストが難しい, nên tôi quyết định 友達に会う.
+23. VI: Vì công việc quá nhiều, tôi không thể gặp bạn.
+   JP: Vì 仕事が多すぎる, tôi không thể 友達に会う.
+24. VI: Vì tôi quên mang ví, tôi không thể nghỉ ngơi ở nhà.
+   JP: Vì 財布を忘れた, tôi không thể 家で休む.
+25. VI: Khi bài kiểm tra khó, tôi đã đến trường sớm.
+   JP: Khi テストが難しい, tôi đã 早く学校に行く.
+26. VI: Ngay cả khi tôi bị đau đầu, tôi cũng sẽ nấu ăn.
+   JP: Ngay cả khi 頭が痛い, tôi cũng sẽ 料理する.
+27. VI: Hôm nay trời trời mưa, nên tôi quyết định nghỉ ngơi ở nhà.
+   JP: Hôm nay trời 雨が降っている, nên tôi quyết định 家で休む.
+28. VI: Khi tôi phải thức khuya, tôi đã gọi điện cho mẹ.
+   JP: Khi 夜更かししなければならなかった, tôi đã 母に電話する.
+29. VI: Ngay cả khi tôi không có nhiều thời gian, tôi cũng sẽ gặp bạn.
+   JP: Ngay cả khi 時間があまりない, tôi cũng sẽ 友達に会う.
+30. VI: Tôi nghe nói rằng tôi không có nhiều thời gian, nên tôi muốn nấu ăn.
+   JP: Tôi nghe nói rằng 時間があまりない, nên tôi muốn 料理する.
+31. VI: Khi tôi bị đau đầu, tôi đã nấu ăn.
+   JP: Khi 頭が痛い, tôi đã 料理する.
+32. VI: Tôi định đi mua đồ, nhưng tôi bị đau đầu.
+   JP: Tôi định 買い物に行く, nhưng 頭が痛い.
+33. VI: Tôi nghe nói rằng tôi quên mang ví, nên tôi muốn gọi điện cho mẹ.
+   JP: Tôi nghe nói rằng 財布を忘れた, nên tôi muốn 母に電話する.
+34. VI: Mặc dù công việc quá nhiều, tôi vẫn cố gắng nghỉ ngơi ở nhà.
+   JP: Mặc dù 仕事が多すぎる, tôi vẫn cố gắng 家で休む.
+35. VI: Nếu tôi không có nhiều thời gian, thì tôi sẽ đi khám.
+   JP: Nếu 時間があまりない, thì tôi sẽ 病院に行く.
+36. VI: Tôi nghe nói rằng tôi phải thức khuya, nên tôi muốn đi khám.
+   JP: Tôi nghe nói rằng 夜更かししなければならなかった, nên tôi muốn 病院に行く.
+37. VI: Vì công việc quá nhiều, tôi không thể nghỉ ngơi ở nhà.
+   JP: Vì 仕事が多すぎる, tôi không thể 家で休む.
+38. VI: Tôi định nấu ăn, nhưng tôi có cuộc hẹn.
+   JP: Tôi định 料理する, nhưng 約束がある.
+39. VI: Tôi nghĩ rằng công việc quá nhiều, nhưng cuối cùng lại nấu ăn.
+   JP: Tôi nghĩ rằng 仕事が多すぎる, nhưng cuối cùng lại 料理する.
+40. VI: Nếu bài kiểm tra khó, thì tôi sẽ đến trường sớm.
+   JP: Nếu テストが難しい, thì tôi sẽ 早く学校に行く.
+41. VI: Vì tôi không có nhiều thời gian, tôi không thể đi khám.
+   JP: Vì 時間があまりない, tôi không thể 病院に行く.
+42. VI: Ngay cả khi xe buýt đến muộn, tôi cũng sẽ tập thể dục.
+   JP: Ngay cả khi バスが遅れた, tôi cũng sẽ 運動する.
+43. VI: Nếu tôi không có nhiều thời gian, thì tôi sẽ gọi điện cho mẹ.
+   JP: Nếu 時間があまりない, thì tôi sẽ 母に電話する.
+44. VI: Ngay cả khi tôi phải thức khuya, tôi cũng sẽ dọn dẹp phòng.
+   JP: Ngay cả khi 夜更かししなければならなかった, tôi cũng sẽ 部屋を片付ける.
+45. VI: Tôi nghe nói rằng tôi quên mang ví, nên tôi muốn dọn dẹp phòng.
+   JP: Tôi nghe nói rằng 財布を忘れた, nên tôi muốn 部屋を片付ける.
+46. VI: Nếu tôi không có nhiều thời gian, thì tôi sẽ nấu ăn.
+   JP: Nếu 時間があまりない, thì tôi sẽ 料理する.
+47. VI: Ngay cả khi trời mưa, tôi cũng sẽ hoàn thành bài tập.
+   JP: Ngay cả khi 雨が降っている, tôi cũng sẽ 宿題を終える.
+48. VI: Vì tôi cảm thấy mệt, tôi không thể nghỉ ngơi ở nhà.
+   JP: Vì 疲れている, tôi không thể 家で休む.
+49. VI: Vì bài kiểm tra khó, tôi không thể nghỉ ngơi ở nhà.
+   JP: Vì テストが難しい, tôi không thể 家で休む.
+50. VI: Khi tôi phải thức khuya, tôi đã đến trường sớm.
+   JP: Khi 夜更かししなければならなかった, tôi đã 早く学校に行く.
+51. VI: Hôm nay trời bài kiểm tra khó, nên tôi quyết định gọi điện cho mẹ.
+   JP: Hôm nay trời テストが難しい, nên tôi quyết định 母に電話する.
+52. VI: Nếu xe buýt đến muộn, thì tôi sẽ tập thể dục.
+   JP: Nếu バスが遅れた, thì tôi sẽ 運動する.
+53. VI: Do bài kiểm tra khó, dọn dẹp phòng trở nên khó hơn.
+   JP: Do テストが難しい, 部屋を片付ける trở nên khó hơn.
+54. VI: Tôi nghe nói rằng trời mưa, nên tôi muốn đi mua đồ.
+   JP: Tôi nghe nói rằng 雨が降っている, nên tôi muốn 買い物に行く.
+55. VI: Tôi định hoàn thành bài tập, nhưng bài kiểm tra khó.
+   JP: Tôi định 宿題を終える, nhưng テストが難しい.
+56. VI: Khi tôi cảm thấy mệt, tôi đã gặp bạn.
+   JP: Khi 疲れている, tôi đã 友達に会う.
+57. VI: Tôi nghĩ rằng tôi có cuộc hẹn, nhưng cuối cùng lại hoàn thành bài tập.
+   JP: Tôi nghĩ rằng 約束がある, nhưng cuối cùng lại 宿題を終える.
+58. VI: Do bài kiểm tra khó, đến trường sớm trở nên khó hơn.
+   JP: Do テストが難しい, 早く学校に行く trở nên khó hơn.
+59. VI: Vì tôi quên mang ví, tôi không thể gọi điện cho mẹ.
+   JP: Vì 財布を忘れた, tôi không thể 母に電話する.
+60. VI: Mặc dù trời mưa, tôi vẫn cố gắng nấu ăn.
+   JP: Mặc dù 雨が降っている, tôi vẫn cố gắng 料理する.
+61. VI: Ngay cả khi xe buýt đến muộn, tôi cũng sẽ hoàn thành bài tập.
+   JP: Ngay cả khi バスが遅れた, tôi cũng sẽ 宿題を終える.
+62. VI: Khi bài kiểm tra khó, tôi đã nghỉ ngơi ở nhà.
+   JP: Khi テストが難しい, tôi đã 家で休む.
+63. VI: Nếu tôi phải thức khuya, thì tôi sẽ gọi điện cho mẹ.
+   JP: Nếu 夜更かししなければならなかった, thì tôi sẽ 母に電話する.
+64. VI: Tôi định đi mua đồ, nhưng tôi quên mang ví.
+   JP: Tôi định 買い物に行く, nhưng 財布を忘れた.
+65. VI: Tôi nghe nói rằng bài kiểm tra khó, nên tôi muốn đến trường sớm.
+   JP: Tôi nghe nói rằng テストが難しい, nên tôi muốn 早く学校に行く.
+66. VI: Khi xe buýt đến muộn, tôi đã nấu ăn.
+   JP: Khi バスが遅れた, tôi đã 料理する.
+67. VI: Ngay cả khi tôi bị đau đầu, tôi cũng sẽ nghỉ ngơi ở nhà.
+   JP: Ngay cả khi 頭が痛い, tôi cũng sẽ 家で休む.
+68. VI: Tôi nghe nói rằng bài kiểm tra khó, nên tôi muốn gặp bạn.
+   JP: Tôi nghe nói rằng テストが難しい, nên tôi muốn 友達に会う.
+69. VI: Khi tôi bị đau đầu, tôi đã đi khám.
+   JP: Khi 頭が痛い, tôi đã 病院に行く.
+70. VI: Hôm nay trời tôi có cuộc hẹn, nên tôi quyết định hoàn thành bài tập.
+   JP: Hôm nay trời 約束がある, nên tôi quyết định 宿題を終える.
+71. VI: Nếu tôi có cuộc hẹn, thì tôi sẽ đi khám.
+   JP: Nếu 約束がある, thì tôi sẽ 病院に行く.
+72. VI: Ngay cả khi xe buýt đến muộn, tôi cũng sẽ hoàn thành bài tập.
+   JP: Ngay cả khi バスが遅れた, tôi cũng sẽ 宿題を終える.
+73. VI: Tôi nghe nói rằng công việc quá nhiều, nên tôi muốn đến trường sớm.
+   JP: Tôi nghe nói rằng 仕事が多すぎる, nên tôi muốn 早く学校に行く.
+74. VI: Khi công việc quá nhiều, tôi đã đi mua đồ.
+   JP: Khi 仕事が多すぎる, tôi đã 買い物に行く.
+75. VI: Tôi nghe nói rằng công việc quá nhiều, nên tôi muốn đến trường sớm.
+   JP: Tôi nghe nói rằng 仕事が多すぎる, nên tôi muốn 早く学校に行く.
+76. VI: Vì trời mưa, tôi không thể đến trường sớm.
+   JP: Vì 雨が降っている, tôi không thể 早く学校に行く.
+77. VI: Tôi nghĩ rằng xe buýt đến muộn, nhưng cuối cùng lại dọn dẹp phòng.
+   JP: Tôi nghĩ rằng バスが遅れた, nhưng cuối cùng lại 部屋を片付ける.
+78. VI: Hôm nay trời tôi có cuộc hẹn, nên tôi quyết định đi mua đồ.
+   JP: Hôm nay trời 約束がある, nên tôi quyết định 買い物に行く.
+79. VI: Nếu bài kiểm tra khó, thì tôi sẽ hoàn thành bài tập.
+   JP: Nếu テストが難しい, thì tôi sẽ 宿題を終える.
+80. VI: Khi tôi bị đau đầu, tôi đã gọi điện cho mẹ.
+   JP: Khi 頭が痛い, tôi đã 母に電話する.
+81. VI: Vì bài kiểm tra khó, tôi không thể nấu ăn.
+   JP: Vì テストが難しい, tôi không thể 料理する.
+82. VI: Mặc dù công việc quá nhiều, tôi vẫn cố gắng gặp bạn.
+   JP: Mặc dù 仕事が多すぎる, tôi vẫn cố gắng 友達に会う.
+83. VI: Tôi định hoàn thành bài tập, nhưng công việc quá nhiều.
+   JP: Tôi định 宿題を終える, nhưng 仕事が多すぎる.
+84. VI: Hôm nay trời tôi bị đau đầu, nên tôi quyết định dọn dẹp phòng.
+   JP: Hôm nay trời 頭が痛い, nên tôi quyết định 部屋を片付ける.
+85. VI: Vì tôi bị đau đầu, tôi không thể đi khám.
+   JP: Vì 頭が痛い, tôi không thể 病院に行く.
+86. VI: Nếu tôi phải thức khuya, thì tôi sẽ nghỉ ngơi ở nhà.
+   JP: Nếu 夜更かししなければならなかった, thì tôi sẽ 家で休む.
+87. VI: Tôi nghĩ rằng tôi bị đau đầu, nhưng cuối cùng lại nghỉ ngơi ở nhà.
+   JP: Tôi nghĩ rằng 頭が痛い, nhưng cuối cùng lại 家で休む.
+88. VI: Nếu trời mưa, thì tôi sẽ đi khám.
+   JP: Nếu 雨が降っている, thì tôi sẽ 病院に行く.
+89. VI: Vì tôi phải thức khuya, tôi không thể tập thể dục.
+   JP: Vì 夜更かししなければならなかった, tôi không thể 運動する.
+90. VI: Tôi nghĩ rằng tôi quên mang ví, nhưng cuối cùng lại gặp bạn.
+   JP: Tôi nghĩ rằng 財布を忘れた, nhưng cuối cùng lại 友達に会う.
+91. VI: Ngay cả khi tôi bị đau đầu, tôi cũng sẽ dọn dẹp phòng.
+   JP: Ngay cả khi 頭が痛い, tôi cũng sẽ 部屋を片付ける.
+92. VI: Nếu tôi bị đau đầu, thì tôi sẽ gọi điện cho mẹ.
+   JP: Nếu 頭が痛い, thì tôi sẽ 母に電話する.
+93. VI: Nếu bài kiểm tra khó, thì tôi sẽ tập thể dục.
+   JP: Nếu テストが難しい, thì tôi sẽ 運動する.
+94. VI: Vì tôi phải thức khuya, tôi không thể tập thể dục.
+   JP: Vì 夜更かししなければならなかった, tôi không thể 運動する.
+95. VI: Ngay cả khi tôi không có nhiều thời gian, tôi cũng sẽ nghỉ ngơi ở nhà.
+   JP: Ngay cả khi 時間があまりない, tôi cũng sẽ 家で休む.
+96. VI: Do tôi phải thức khuya, đi khám trở nên khó hơn.
+   JP: Do 夜更かししなければならなかった, 病院に行く trở nên khó hơn.
+97. VI: Ngay cả khi tôi có cuộc hẹn, tôi cũng sẽ dọn dẹp phòng.
+   JP: Ngay cả khi 約束がある, tôi cũng sẽ 部屋を片付ける.
+98. VI: Tôi nghe nói rằng tôi có cuộc hẹn, nên tôi muốn đi khám.
+   JP: Tôi nghe nói rằng 約束がある, nên tôi muốn 病院に行く.
+99. VI: Tôi nghe nói rằng bài kiểm tra khó, nên tôi muốn đi mua đồ.
+   JP: Tôi nghe nói rằng テストが難しい, nên tôi muốn 買い物に行く.
+100. VI: Do trời mưa, đến trường sớm trở nên khó hơn.
+   JP: Do 雨が降っている, 早く学校に行く trở nên khó hơn.
+101. VI: Nếu tôi bị đau đầu, thì tôi sẽ đến trường sớm.
+   JP: Nếu 頭が痛い, thì tôi sẽ 早く学校に行く.
+102. VI: Tôi định dọn dẹp phòng, nhưng tôi phải thức khuya.
+   JP: Tôi định 部屋を片付ける, nhưng 夜更かししなければならなかった.
+103. VI: Mặc dù tôi bị đau đầu, tôi vẫn cố gắng hoàn thành bài tập.
+   JP: Mặc dù 頭が痛い, tôi vẫn cố gắng 宿題を終える.
+104. VI: Tôi nghĩ rằng công việc quá nhiều, nhưng cuối cùng lại dọn dẹp phòng.
+   JP: Tôi nghĩ rằng 仕事が多すぎる, nhưng cuối cùng lại 部屋を片付ける.
+105. VI: Tôi nghe nói rằng tôi có cuộc hẹn, nên tôi muốn dọn dẹp phòng.
+   JP: Tôi nghe nói rằng 約束がある, nên tôi muốn 部屋を片付ける.
+106. VI: Tôi nghĩ rằng tôi bị đau đầu, nhưng cuối cùng lại đi khám.
+   JP: Tôi nghĩ rằng 頭が痛い, nhưng cuối cùng lại 病院に行く.
+107. VI: Do bài kiểm tra khó, gặp bạn trở nên khó hơn.
+   JP: Do テストが難しい, 友達に会う trở nên khó hơn.
+108. VI: Mặc dù tôi quên mang ví, tôi vẫn cố gắng nấu ăn.
+   JP: Mặc dù 財布を忘れた, tôi vẫn cố gắng 料理する.
+109. VI: Do tôi có cuộc hẹn, gặp bạn trở nên khó hơn.
+   JP: Do 約束がある, 友達に会う trở nên khó hơn.
+110. VI: Tôi nghe nói rằng tôi không có nhiều thời gian, nên tôi muốn đi mua đồ.
+   JP: Tôi nghe nói rằng 時間があまりない, nên tôi muốn 買い物に行く.
+111. VI: Khi bài kiểm tra khó, tôi đã dọn dẹp phòng.
+   JP: Khi テストが難しい, tôi đã 部屋を片付ける.
+112. VI: Ngay cả khi tôi có cuộc hẹn, tôi cũng sẽ hoàn thành bài tập.
+   JP: Ngay cả khi 約束がある, tôi cũng sẽ 宿題を終える.
+113. VI: Ngay cả khi bài kiểm tra khó, tôi cũng sẽ nấu ăn.
+   JP: Ngay cả khi テストが難しい, tôi cũng sẽ 料理する.
+114. VI: Hôm nay trời xe buýt đến muộn, nên tôi quyết định nấu ăn.
+   JP: Hôm nay trời バスが遅れた, nên tôi quyết định 料理する.
+115. VI: Khi tôi bị đau đầu, tôi đã gọi điện cho mẹ.
+   JP: Khi 頭が痛い, tôi đã 母に電話する.
+116. VI: Khi tôi quên mang ví, tôi đã gặp bạn.
+   JP: Khi 財布を忘れた, tôi đã 友達に会う.
+117. VI: Tôi nghĩ rằng tôi không có nhiều thời gian, nhưng cuối cùng lại gọi điện cho mẹ.
+   JP: Tôi nghĩ rằng 時間があまりない, nhưng cuối cùng lại 母に電話する.
+118. VI: Vì tôi phải thức khuya, tôi không thể đi khám.
+   JP: Vì 夜更かししなければならなかった, tôi không thể 病院に行く.
+119. VI: Hôm nay trời bài kiểm tra khó, nên tôi quyết định nấu ăn.
+   JP: Hôm nay trời テストが難しい, nên tôi quyết định 料理する.
+120. VI: Hôm nay trời bài kiểm tra khó, nên tôi quyết định nấu ăn.
+   JP: Hôm nay trời テストが難しい, nên tôi quyết định 料理する.
+121. VI: Khi trời mưa, tôi đã gặp bạn.
+   JP: Khi 雨が降っている, tôi đã 友達に会う.
+122. VI: Do bài kiểm tra khó, đi khám trở nên khó hơn.
+   JP: Do テストが難しい, 病院に行く trở nên khó hơn.
+123. VI: Tôi nghĩ rằng tôi bị đau đầu, nhưng cuối cùng lại nghỉ ngơi ở nhà.
+   JP: Tôi nghĩ rằng 頭が痛い, nhưng cuối cùng lại 家で休む.
+124. VI: Tôi định hoàn thành bài tập, nhưng bài kiểm tra khó.
+   JP: Tôi định 宿題を終える, nhưng テストが難しい.
+125. VI: Nếu tôi quên mang ví, thì tôi sẽ dọn dẹp phòng.
+   JP: Nếu 財布を忘れた, thì tôi sẽ 部屋を片付ける.
+126. VI: Tôi định nghỉ ngơi ở nhà, nhưng tôi không có nhiều thời gian.
+   JP: Tôi định 家で休む, nhưng 時間があまりない.
+127. VI: Tôi nghĩ rằng tôi quên mang ví, nhưng cuối cùng lại đến trường sớm.
+   JP: Tôi nghĩ rằng 財布を忘れた, nhưng cuối cùng lại 早く学校に行く.
+128. VI: Tôi định đến trường sớm, nhưng tôi có cuộc hẹn.
+   JP: Tôi định 早く学校に行く, nhưng 約束がある.
+129. VI: Mặc dù tôi phải thức khuya, tôi vẫn cố gắng đi khám.
+   JP: Mặc dù 夜更かししなければならなかった, tôi vẫn cố gắng 病院に行く.
+130. VI: Nếu tôi phải thức khuya, thì tôi sẽ đi mua đồ.
+   JP: Nếu 夜更かししなければならなかった, thì tôi sẽ 買い物に行く.
+131. VI: Khi tôi phải thức khuya, tôi đã dọn dẹp phòng.
+   JP: Khi 夜更かししなければならなかった, tôi đã 部屋を片付ける.
+132. VI: Ngay cả khi tôi không có nhiều thời gian, tôi cũng sẽ tập thể dục.
+   JP: Ngay cả khi 時間があまりない, tôi cũng sẽ 運動する.
+133. VI: Tôi định tập thể dục, nhưng tôi bị đau đầu.
+   JP: Tôi định 運動する, nhưng 頭が痛い.
+134. VI: Tôi nghĩ rằng công việc quá nhiều, nhưng cuối cùng lại nấu ăn.
+   JP: Tôi nghĩ rằng 仕事が多すぎる, nhưng cuối cùng lại 料理する.
+135. VI: Tôi nghe nói rằng xe buýt đến muộn, nên tôi muốn tập thể dục.
+   JP: Tôi nghe nói rằng バスが遅れた, nên tôi muốn 運動する.
+136. VI: Hôm nay trời trời mưa, nên tôi quyết định đi mua đồ.
+   JP: Hôm nay trời 雨が降っている, nên tôi quyết định 買い物に行く.
+137. VI: Hôm nay trời tôi có cuộc hẹn, nên tôi quyết định đi khám.
+   JP: Hôm nay trời 約束がある, nên tôi quyết định 病院に行く.
+138. VI: Ngay cả khi bài kiểm tra khó, tôi cũng sẽ nghỉ ngơi ở nhà.
+   JP: Ngay cả khi テストが難しい, tôi cũng sẽ 家で休む.
+139. VI: Hôm nay trời bài kiểm tra khó, nên tôi quyết định đi mua đồ.
+   JP: Hôm nay trời テストが難しい, nên tôi quyết định 買い物に行く.
+140. VI: Do công việc quá nhiều, đi khám trở nên khó hơn.
+   JP: Do 仕事が多すぎる, 病院に行く trở nên khó hơn.
+141. VI: Vì tôi không có nhiều thời gian, tôi không thể hoàn thành bài tập.
+   JP: Vì 時間があまりない, tôi không thể 宿題を終える.
+142. VI: Mặc dù công việc quá nhiều, tôi vẫn cố gắng đi khám.
+   JP: Mặc dù 仕事が多すぎる, tôi vẫn cố gắng 病院に行く.
+143. VI: Khi tôi có cuộc hẹn, tôi đã đi mua đồ.
+   JP: Khi 約束がある, tôi đã 買い物に行く.
+144. VI: Tôi nghe nói rằng xe buýt đến muộn, nên tôi muốn tập thể dục.
+   JP: Tôi nghe nói rằng バスが遅れた, nên tôi muốn 運動する.
+145. VI: Tôi nghe nói rằng tôi bị đau đầu, nên tôi muốn nấu ăn.
+   JP: Tôi nghe nói rằng 頭が痛い, nên tôi muốn 料理する.
+146. VI: Vì tôi cảm thấy mệt, tôi không thể gọi điện cho mẹ.
+   JP: Vì 疲れている, tôi không thể 母に電話する.
+147. VI: Nếu tôi quên mang ví, thì tôi sẽ đi mua đồ.
+   JP: Nếu 財布を忘れた, thì tôi sẽ 買い物に行く.
+148. VI: Tôi nghĩ rằng tôi quên mang ví, nhưng cuối cùng lại hoàn thành bài tập.
+   JP: Tôi nghĩ rằng 財布を忘れた, nhưng cuối cùng lại 宿題を終える.
+149. VI: Hôm nay trời tôi có cuộc hẹn, nên tôi quyết định dọn dẹp phòng.
+   JP: Hôm nay trời 約束がある, nên tôi quyết định 部屋を片付ける.
+150. VI: Hôm nay trời tôi phải thức khuya, nên tôi quyết định tập thể dục.
+   JP: Hôm nay trời 夜更かししなければならなかった, nên tôi quyết định 運動する.
+151. VI: Khi tôi không có nhiều thời gian, tôi đã gọi điện cho mẹ.
+   JP: Khi 時間があまりない, tôi đã 母に電話する.
+152. VI: Vì xe buýt đến muộn, tôi không thể tập thể dục.
+   JP: Vì バスが遅れた, tôi không thể 運動する.
+153. VI: Vì tôi phải thức khuya, tôi không thể hoàn thành bài tập.
+   JP: Vì 夜更かししなければならなかった, tôi không thể 宿題を終える.
+154. VI: Tôi nghe nói rằng tôi không có nhiều thời gian, nên tôi muốn tập thể dục.
+   JP: Tôi nghe nói rằng 時間があまりない, nên tôi muốn 運動する.
+155. VI: Khi xe buýt đến muộn, tôi đã dọn dẹp phòng.
+   JP: Khi バスが遅れた, tôi đã 部屋を片付ける.
+156. VI: Mặc dù tôi bị đau đầu, tôi vẫn cố gắng gặp bạn.
+   JP: Mặc dù 頭が痛い, tôi vẫn cố gắng 友達に会う.
+157. VI: Tôi định đi mua đồ, nhưng tôi cảm thấy mệt.
+   JP: Tôi định 買い物に行く, nhưng 疲れている.
+158. VI: Tôi nghĩ rằng công việc quá nhiều, nhưng cuối cùng lại dọn dẹp phòng.
+   JP: Tôi nghĩ rằng 仕事が多すぎる, nhưng cuối cùng lại 部屋を片付ける.
+159. VI: Nếu trời mưa, thì tôi sẽ dọn dẹp phòng.
+   JP: Nếu 雨が降っている, thì tôi sẽ 部屋を片付ける.
+160. VI: Do tôi cảm thấy mệt, nghỉ ngơi ở nhà trở nên khó hơn.
+   JP: Do 疲れている, 家で休む trở nên khó hơn.
+161. VI: Tôi định tập thể dục, nhưng xe buýt đến muộn.
+   JP: Tôi định 運動する, nhưng バスが遅れた.
+162. VI: Tôi nghe nói rằng trời mưa, nên tôi muốn nghỉ ngơi ở nhà.
+   JP: Tôi nghe nói rằng 雨が降っている, nên tôi muốn 家で休む.
+163. VI: Nếu tôi phải thức khuya, thì tôi sẽ đi khám.
+   JP: Nếu 夜更かししなければならなかった, thì tôi sẽ 病院に行く.
+164. VI: Do tôi bị đau đầu, tập thể dục trở nên khó hơn.
+   JP: Do 頭が痛い, 運動する trở nên khó hơn.
+165. VI: Vì trời mưa, tôi không thể đi mua đồ.
+   JP: Vì 雨が降っている, tôi không thể 買い物に行く.
+166. VI: Khi trời mưa, tôi đã tập thể dục.
+   JP: Khi 雨が降っている, tôi đã 運動する.
+167. VI: Nếu tôi bị đau đầu, thì tôi sẽ hoàn thành bài tập.
+   JP: Nếu 頭が痛い, thì tôi sẽ 宿題を終える.
+168. VI: Hôm nay trời tôi có cuộc hẹn, nên tôi quyết định đến trường sớm.
+   JP: Hôm nay trời 約束がある, nên tôi quyết định 早く学校に行く.
+169. VI: Nếu tôi có cuộc hẹn, thì tôi sẽ hoàn thành bài tập.
+   JP: Nếu 約束がある, thì tôi sẽ 宿題を終える.
+170. VI: Tôi nghe nói rằng tôi cảm thấy mệt, nên tôi muốn nghỉ ngơi ở nhà.
+   JP: Tôi nghe nói rằng 疲れている, nên tôi muốn 家で休む.
+171. VI: Mặc dù bài kiểm tra khó, tôi vẫn cố gắng gặp bạn.
+   JP: Mặc dù テストが難しい, tôi vẫn cố gắng 友達に会う.
+172. VI: Vì công việc quá nhiều, tôi không thể dọn dẹp phòng.
+   JP: Vì 仕事が多すぎる, tôi không thể 部屋を片付ける.
+173. VI: Vì công việc quá nhiều, tôi không thể dọn dẹp phòng.
+   JP: Vì 仕事が多すぎる, tôi không thể 部屋を片付ける.
+174. VI: Tôi nghe nói rằng tôi phải thức khuya, nên tôi muốn nghỉ ngơi ở nhà.
+   JP: Tôi nghe nói rằng 夜更かししなければならなかった, nên tôi muốn 家で休む.
+175. VI: Hôm nay trời tôi cảm thấy mệt, nên tôi quyết định gặp bạn.
+   JP: Hôm nay trời 疲れている, nên tôi quyết định 友達に会う.
+176. VI: Tôi nghe nói rằng tôi không có nhiều thời gian, nên tôi muốn nấu ăn.
+   JP: Tôi nghe nói rằng 時間があまりない, nên tôi muốn 料理する.
+177. VI: Do tôi quên mang ví, dọn dẹp phòng trở nên khó hơn.
+   JP: Do 財布を忘れた, 部屋を片付ける trở nên khó hơn.
+178. VI: Tôi nghe nói rằng tôi quên mang ví, nên tôi muốn hoàn thành bài tập.
+   JP: Tôi nghe nói rằng 財布を忘れた, nên tôi muốn 宿題を終える.
+179. VI: Tôi nghĩ rằng công việc quá nhiều, nhưng cuối cùng lại tập thể dục.
+   JP: Tôi nghĩ rằng 仕事が多すぎる, nhưng cuối cùng lại 運動する.
+180. VI: Do tôi cảm thấy mệt, gặp bạn trở nên khó hơn.
+   JP: Do 疲れている, 友達に会う trở nên khó hơn.
+181. VI: Vì tôi bị đau đầu, tôi không thể đi mua đồ.
+   JP: Vì 頭が痛い, tôi không thể 買い物に行く.
+182. VI: Tôi định nghỉ ngơi ở nhà, nhưng bài kiểm tra khó.
+   JP: Tôi định 家で休む, nhưng テストが難しい.
+183. VI: Hôm nay trời tôi bị đau đầu, nên tôi quyết định đi mua đồ.
+   JP: Hôm nay trời 頭が痛い, nên tôi quyết định 買い物に行く.
+184. VI: Tôi nghĩ rằng tôi bị đau đầu, nhưng cuối cùng lại hoàn thành bài tập.
+   JP: Tôi nghĩ rằng 頭が痛い, nhưng cuối cùng lại 宿題を終える.
+185. VI: Do tôi không có nhiều thời gian, gọi điện cho mẹ trở nên khó hơn.
+   JP: Do 時間があまりない, 母に電話する trở nên khó hơn.
+186. VI: Mặc dù tôi cảm thấy mệt, tôi vẫn cố gắng đến trường sớm.
+   JP: Mặc dù 疲れている, tôi vẫn cố gắng 早く学校に行く.
+187. VI: Tôi nghe nói rằng tôi quên mang ví, nên tôi muốn tập thể dục.
+   JP: Tôi nghe nói rằng 財布を忘れた, nên tôi muốn 運動する.
+188. VI: Khi tôi cảm thấy mệt, tôi đã nghỉ ngơi ở nhà.
+   JP: Khi 疲れている, tôi đã 家で休む.
+189. VI: Khi tôi phải thức khuya, tôi đã hoàn thành bài tập.
+   JP: Khi 夜更かししなければならなかった, tôi đã 宿題を終える.
+190. VI: Hôm nay trời xe buýt đến muộn, nên tôi quyết định đi khám.
+   JP: Hôm nay trời バスが遅れた, nên tôi quyết định 病院に行く.
+191. VI: Ngay cả khi tôi phải thức khuya, tôi cũng sẽ gọi điện cho mẹ.
+   JP: Ngay cả khi 夜更かししなければならなかった, tôi cũng sẽ 母に電話する.
+192. VI: Khi tôi không có nhiều thời gian, tôi đã đi khám.
+   JP: Khi 時間があまりない, tôi đã 病院に行く.
+193. VI: Khi công việc quá nhiều, tôi đã đi mua đồ.
+   JP: Khi 仕事が多すぎる, tôi đã 買い物に行く.
+194. VI: Vì tôi có cuộc hẹn, tôi không thể nghỉ ngơi ở nhà.
+   JP: Vì 約束がある, tôi không thể 家で休む.
+195. VI: Tôi nghĩ rằng công việc quá nhiều, nhưng cuối cùng lại hoàn thành bài tập.
+   JP: Tôi nghĩ rằng 仕事が多すぎる, nhưng cuối cùng lại 宿題を終える.
+196. VI: Do tôi phải thức khuya, dọn dẹp phòng trở nên khó hơn.
+   JP: Do 夜更かししなければならなかった, 部屋を片付ける trở nên khó hơn.
+197. VI: Mặc dù tôi không có nhiều thời gian, tôi vẫn cố gắng nấu ăn.
+   JP: Mặc dù 時間があまりない, tôi vẫn cố gắng 料理する.
+198. VI: Tôi nghĩ rằng tôi cảm thấy mệt, nhưng cuối cùng lại dọn dẹp phòng.
+   JP: Tôi nghĩ rằng 疲れている, nhưng cuối cùng lại 部屋を片付ける.
+199. VI: Nếu xe buýt đến muộn, thì tôi sẽ đến trường sớm.
+   JP: Nếu バスが遅れた, thì tôi sẽ 早く学校に行く.
+200. VI: Hôm nay trời tôi cảm thấy mệt, nên tôi quyết định tập thể dục.
+   JP: Hôm nay trời 疲れている, nên tôi quyết định 運動する.
+201. VI: Mặc dù tôi có cuộc hẹn, tôi vẫn cố gắng đến trường sớm.
+   JP: Mặc dù 約束がある, tôi vẫn cố gắng 早く学校に行く.
+202. VI: Mặc dù xe buýt đến muộn, tôi vẫn cố gắng dọn dẹp phòng.
+   JP: Mặc dù バスが遅れた, tôi vẫn cố gắng 部屋を片付ける.
+203. VI: Tôi nghĩ rằng tôi không có nhiều thời gian, nhưng cuối cùng lại nghỉ ngơi ở nhà.
+   JP: Tôi nghĩ rằng 時間があまりない, nhưng cuối cùng lại 家で休む.
+204. VI: Nếu xe buýt đến muộn, thì tôi sẽ đi mua đồ.
+   JP: Nếu バスが遅れた, thì tôi sẽ 買い物に行く.
+205. VI: Hôm nay trời tôi bị đau đầu, nên tôi quyết định đi khám.
+   JP: Hôm nay trời 頭が痛い, nên tôi quyết định 病院に行く.
+206. VI: Ngay cả khi tôi quên mang ví, tôi cũng sẽ nghỉ ngơi ở nhà.
+   JP: Ngay cả khi 財布を忘れた, tôi cũng sẽ 家で休む.
+207. VI: Hôm nay trời tôi có cuộc hẹn, nên tôi quyết định gọi điện cho mẹ.
+   JP: Hôm nay trời 約束がある, nên tôi quyết định 母に電話する.
+208. VI: Hôm nay trời bài kiểm tra khó, nên tôi quyết định nghỉ ngơi ở nhà.
+   JP: Hôm nay trời テストが難しい, nên tôi quyết định 家で休む.
+209. VI: Ngay cả khi công việc quá nhiều, tôi cũng sẽ đi khám.
+   JP: Ngay cả khi 仕事が多すぎる, tôi cũng sẽ 病院に行く.
+210. VI: Tôi nghĩ rằng xe buýt đến muộn, nhưng cuối cùng lại tập thể dục.
+   JP: Tôi nghĩ rằng バスが遅れた, nhưng cuối cùng lại 運動する.
+211. VI: Tôi nghĩ rằng tôi phải thức khuya, nhưng cuối cùng lại đi khám.
+   JP: Tôi nghĩ rằng 夜更かししなければならなかった, nhưng cuối cùng lại 病院に行く.
+212. VI: Do bài kiểm tra khó, đi mua đồ trở nên khó hơn.
+   JP: Do テストが難しい, 買い物に行く trở nên khó hơn.
+213. VI: Tôi định nấu ăn, nhưng trời mưa.
+   JP: Tôi định 料理する, nhưng 雨が降っている.
+214. VI: Nếu tôi phải thức khuya, thì tôi sẽ nghỉ ngơi ở nhà.
+   JP: Nếu 夜更かししなければならなかった, thì tôi sẽ 家で休む.
+215. VI: Khi tôi bị đau đầu, tôi đã hoàn thành bài tập.
+   JP: Khi 頭が痛い, tôi đã 宿題を終える.
+216. VI: Tôi nghĩ rằng tôi bị đau đầu, nhưng cuối cùng lại nấu ăn.
+   JP: Tôi nghĩ rằng 頭が痛い, nhưng cuối cùng lại 料理する.
+217. VI: Tôi định gặp bạn, nhưng tôi phải thức khuya.
+   JP: Tôi định 友達に会う, nhưng 夜更かししなければならなかった.
+218. VI: Tôi nghe nói rằng tôi không có nhiều thời gian, nên tôi muốn gặp bạn.
+   JP: Tôi nghe nói rằng 時間があまりない, nên tôi muốn 友達に会う.
+219. VI: Vì tôi không có nhiều thời gian, tôi không thể gọi điện cho mẹ.
+   JP: Vì 時間があまりない, tôi không thể 母に電話する.
+220. VI: Tôi định nghỉ ngơi ở nhà, nhưng bài kiểm tra khó.
+   JP: Tôi định 家で休む, nhưng テストが難しい.
+221. VI: Ngay cả khi bài kiểm tra khó, tôi cũng sẽ nấu ăn.
+   JP: Ngay cả khi テストが難しい, tôi cũng sẽ 料理する.
+222. VI: Tôi nghĩ rằng tôi bị đau đầu, nhưng cuối cùng lại gặp bạn.
+   JP: Tôi nghĩ rằng 頭が痛い, nhưng cuối cùng lại 友達に会う.
+223. VI: Tôi nghĩ rằng tôi phải thức khuya, nhưng cuối cùng lại hoàn thành bài tập.
+   JP: Tôi nghĩ rằng 夜更かししなければならなかった, nhưng cuối cùng lại 宿題を終える.
+224. VI: Tôi nghe nói rằng tôi có cuộc hẹn, nên tôi muốn đến trường sớm.
+   JP: Tôi nghe nói rằng 約束がある, nên tôi muốn 早く学校に行く.
+225. VI: Khi tôi có cuộc hẹn, tôi đã đi khám.
+   JP: Khi 約束がある, tôi đã 病院に行く.
+226. VI: Ngay cả khi trời mưa, tôi cũng sẽ đi khám.
+   JP: Ngay cả khi 雨が降っている, tôi cũng sẽ 病院に行く.
+227. VI: Tôi nghĩ rằng tôi phải thức khuya, nhưng cuối cùng lại gặp bạn.
+   JP: Tôi nghĩ rằng 夜更かししなければならなかった, nhưng cuối cùng lại 友達に会う.
+228. VI: Ngay cả khi tôi có cuộc hẹn, tôi cũng sẽ đi mua đồ.
+   JP: Ngay cả khi 約束がある, tôi cũng sẽ 買い物に行く.
+229. VI: Hôm nay trời bài kiểm tra khó, nên tôi quyết định nghỉ ngơi ở nhà.
+   JP: Hôm nay trời テストが難しい, nên tôi quyết định 家で休む.
+230. VI: Ngay cả khi tôi có cuộc hẹn, tôi cũng sẽ gọi điện cho mẹ.
+   JP: Ngay cả khi 約束がある, tôi cũng sẽ 母に電話する.
+231. VI: Vì tôi phải thức khuya, tôi không thể đi khám.
+   JP: Vì 夜更かししなければならなかった, tôi không thể 病院に行く.
+232. VI: Ngay cả khi tôi cảm thấy mệt, tôi cũng sẽ nghỉ ngơi ở nhà.
+   JP: Ngay cả khi 疲れている, tôi cũng sẽ 家で休む.
+233. VI: Do tôi không có nhiều thời gian, đi khám trở nên khó hơn.
+   JP: Do 時間があまりない, 病院に行く trở nên khó hơn.
+234. VI: Khi tôi bị đau đầu, tôi đã tập thể dục.
+   JP: Khi 頭が痛い, tôi đã 運動する.
+235. VI: Tôi định hoàn thành bài tập, nhưng tôi có cuộc hẹn.
+   JP: Tôi định 宿題を終える, nhưng 約束がある.
+236. VI: Tôi nghe nói rằng trời mưa, nên tôi muốn đến trường sớm.
+   JP: Tôi nghe nói rằng 雨が降っている, nên tôi muốn 早く学校に行く.
+237. VI: Tôi định đến trường sớm, nhưng tôi không có nhiều thời gian.
+   JP: Tôi định 早く学校に行く, nhưng 時間があまりない.
+238. VI: Hôm nay trời bài kiểm tra khó, nên tôi quyết định hoàn thành bài tập.
+   JP: Hôm nay trời テストが難しい, nên tôi quyết định 宿題を終える.
+239. VI: Tôi nghĩ rằng công việc quá nhiều, nhưng cuối cùng lại nghỉ ngơi ở nhà.
+   JP: Tôi nghĩ rằng 仕事が多すぎる, nhưng cuối cùng lại 家で休む.
+240. VI: Nếu tôi quên mang ví, thì tôi sẽ đi khám.
+   JP: Nếu 財布を忘れた, thì tôi sẽ 病院に行く.
+241. VI: Mặc dù công việc quá nhiều, tôi vẫn cố gắng đến trường sớm.
+   JP: Mặc dù 仕事が多すぎる, tôi vẫn cố gắng 早く学校に行く.
+242. VI: Mặc dù tôi có cuộc hẹn, tôi vẫn cố gắng đi khám.
+   JP: Mặc dù 約束がある, tôi vẫn cố gắng 病院に行く.
+243. VI: Tôi định hoàn thành bài tập, nhưng tôi bị đau đầu.
+   JP: Tôi định 宿題を終える, nhưng 頭が痛い.
+244. VI: Tôi nghe nói rằng công việc quá nhiều, nên tôi muốn gọi điện cho mẹ.
+   JP: Tôi nghe nói rằng 仕事が多すぎる, nên tôi muốn 母に電話する.
+245. VI: Hôm nay trời bài kiểm tra khó, nên tôi quyết định tập thể dục.
+   JP: Hôm nay trời テストが難しい, nên tôi quyết định 運動する.
+246. VI: Tôi định đến trường sớm, nhưng trời mưa.
+   JP: Tôi định 早く学校に行く, nhưng 雨が降っている.
+247. VI: Mặc dù tôi cảm thấy mệt, tôi vẫn cố gắng nấu ăn.
+   JP: Mặc dù 疲れている, tôi vẫn cố gắng 料理する.
+248. VI: Tôi nghĩ rằng bài kiểm tra khó, nhưng cuối cùng lại đi mua đồ.
+   JP: Tôi nghĩ rằng テストが難しい, nhưng cuối cùng lại 買い物に行く.
+249. VI: Mặc dù tôi quên mang ví, tôi vẫn cố gắng đến trường sớm.
+   JP: Mặc dù 財布を忘れた, tôi vẫn cố gắng 早く学校に行く.
+250. VI: Vì tôi phải thức khuya, tôi không thể hoàn thành bài tập.
+   JP: Vì 夜更かししなければならなかった, tôi không thể 宿題を終える.
+251. VI: Tôi nghe nói rằng tôi cảm thấy mệt, nên tôi muốn dọn dẹp phòng.
+   JP: Tôi nghe nói rằng 疲れている, nên tôi muốn 部屋を片付ける.
+252. VI: Vì bài kiểm tra khó, tôi không thể nấu ăn.
+   JP: Vì テストが難しい, tôi không thể 料理する.
+253. VI: Khi tôi cảm thấy mệt, tôi đã gặp bạn.
+   JP: Khi 疲れている, tôi đã 友達に会う.
+254. VI: Khi bài kiểm tra khó, tôi đã đi mua đồ.
+   JP: Khi テストが難しい, tôi đã 買い物に行く.
+255. VI: Vì bài kiểm tra khó, tôi không thể đi mua đồ.
+   JP: Vì テストが難しい, tôi không thể 買い物に行く.
+256. VI: Tôi nghe nói rằng tôi cảm thấy mệt, nên tôi muốn gặp bạn.
+   JP: Tôi nghe nói rằng 疲れている, nên tôi muốn 友達に会う.
+257. VI: Tôi nghĩ rằng bài kiểm tra khó, nhưng cuối cùng lại nấu ăn.
+   JP: Tôi nghĩ rằng テストが難しい, nhưng cuối cùng lại 料理する.
+258. VI: Tôi nghĩ rằng xe buýt đến muộn, nhưng cuối cùng lại tập thể dục.
+   JP: Tôi nghĩ rằng バスが遅れた, nhưng cuối cùng lại 運動する.
+259. VI: Tôi định đến trường sớm, nhưng tôi bị đau đầu.
+   JP: Tôi định 早く学校に行く, nhưng 頭が痛い.
+260. VI: Tôi định đi mua đồ, nhưng tôi không có nhiều thời gian.
+   JP: Tôi định 買い物に行く, nhưng 時間があまりない.
+261. VI: Vì tôi bị đau đầu, tôi không thể đến trường sớm.
+   JP: Vì 頭が痛い, tôi không thể 早く学校に行く.
+262. VI: Ngay cả khi công việc quá nhiều, tôi cũng sẽ gặp bạn.
+   JP: Ngay cả khi 仕事が多すぎる, tôi cũng sẽ 友達に会う.
+263. VI: Vì bài kiểm tra khó, tôi không thể nấu ăn.
+   JP: Vì テストが難しい, tôi không thể 料理する.
+264. VI: Tôi nghe nói rằng tôi bị đau đầu, nên tôi muốn nghỉ ngơi ở nhà.
+   JP: Tôi nghe nói rằng 頭が痛い, nên tôi muốn 家で休む.
+265. VI: Tôi định nghỉ ngơi ở nhà, nhưng tôi không có nhiều thời gian.
+   JP: Tôi định 家で休む, nhưng 時間があまりない.
+266. VI: Nếu tôi bị đau đầu, thì tôi sẽ nấu ăn.
+   JP: Nếu 頭が痛い, thì tôi sẽ 料理する.
+267. VI: Tôi nghĩ rằng tôi cảm thấy mệt, nhưng cuối cùng lại đi khám.
+   JP: Tôi nghĩ rằng 疲れている, nhưng cuối cùng lại 病院に行く.
+268. VI: Ngay cả khi tôi bị đau đầu, tôi cũng sẽ đi mua đồ.
+   JP: Ngay cả khi 頭が痛い, tôi cũng sẽ 買い物に行く.
+269. VI: Nếu tôi có cuộc hẹn, thì tôi sẽ đến trường sớm.
+   JP: Nếu 約束がある, thì tôi sẽ 早く学校に行く.
+270. VI: Hôm nay trời bài kiểm tra khó, nên tôi quyết định nghỉ ngơi ở nhà.
+   JP: Hôm nay trời テストが難しい, nên tôi quyết định 家で休む.
+271. VI: Hôm nay trời công việc quá nhiều, nên tôi quyết định đến trường sớm.
+   JP: Hôm nay trời 仕事が多すぎる, nên tôi quyết định 早く学校に行く.
+272. VI: Do tôi quên mang ví, tập thể dục trở nên khó hơn.
+   JP: Do 財布を忘れた, 運動する trở nên khó hơn.
+273. VI: Tôi nghe nói rằng tôi không có nhiều thời gian, nên tôi muốn tập thể dục.
+   JP: Tôi nghe nói rằng 時間があまりない, nên tôi muốn 運動する.
+274. VI: Ngay cả khi tôi bị đau đầu, tôi cũng sẽ hoàn thành bài tập.
+   JP: Ngay cả khi 頭が痛い, tôi cũng sẽ 宿題を終える.
+275. VI: Tôi nghe nói rằng tôi quên mang ví, nên tôi muốn đi mua đồ.
+   JP: Tôi nghe nói rằng 財布を忘れた, nên tôi muốn 買い物に行く.
+276. VI: Do tôi có cuộc hẹn, nghỉ ngơi ở nhà trở nên khó hơn.
+   JP: Do 約束がある, 家で休む trở nên khó hơn.
+277. VI: Tôi định dọn dẹp phòng, nhưng bài kiểm tra khó.
+   JP: Tôi định 部屋を片付ける, nhưng テストが難しい.
+278. VI: Tôi nghe nói rằng tôi không có nhiều thời gian, nên tôi muốn nghỉ ngơi ở nhà.
+   JP: Tôi nghe nói rằng 時間があまりない, nên tôi muốn 家で休む.
+279. VI: Hôm nay trời tôi không có nhiều thời gian, nên tôi quyết định nấu ăn.
+   JP: Hôm nay trời 時間があまりない, nên tôi quyết định 料理する.
+280. VI: Nếu tôi quên mang ví, thì tôi sẽ gọi điện cho mẹ.
+   JP: Nếu 財布を忘れた, thì tôi sẽ 母に電話する.
+281. VI: Hôm nay trời bài kiểm tra khó, nên tôi quyết định đi khám.
+   JP: Hôm nay trời テストが難しい, nên tôi quyết định 病院に行く.
+282. VI: Do tôi quên mang ví, nấu ăn trở nên khó hơn.
+   JP: Do 財布を忘れた, 料理する trở nên khó hơn.
+283. VI: Khi tôi bị đau đầu, tôi đã tập thể dục.
+   JP: Khi 頭が痛い, tôi đã 運動する.
+284. VI: Nếu tôi phải thức khuya, thì tôi sẽ đi mua đồ.
+   JP: Nếu 夜更かししなければならなかった, thì tôi sẽ 買い物に行く.
+285. VI: Tôi định đi khám, nhưng xe buýt đến muộn.
+   JP: Tôi định 病院に行く, nhưng バスが遅れた.
+286. VI: Do bài kiểm tra khó, dọn dẹp phòng trở nên khó hơn.
+   JP: Do テストが難しい, 部屋を片付ける trở nên khó hơn.
+287. VI: Tôi nghe nói rằng tôi không có nhiều thời gian, nên tôi muốn nấu ăn.
+   JP: Tôi nghe nói rằng 時間があまりない, nên tôi muốn 料理する.
+288. VI: Tôi nghĩ rằng bài kiểm tra khó, nhưng cuối cùng lại dọn dẹp phòng.
+   JP: Tôi nghĩ rằng テストが難しい, nhưng cuối cùng lại 部屋を片付ける.
+289. VI: Vì công việc quá nhiều, tôi không thể đi mua đồ.
+   JP: Vì 仕事が多すぎる, tôi không thể 買い物に行く.
+290. VI: Mặc dù trời mưa, tôi vẫn cố gắng dọn dẹp phòng.
+   JP: Mặc dù 雨が降っている, tôi vẫn cố gắng 部屋を片付ける.
+291. VI: Do công việc quá nhiều, dọn dẹp phòng trở nên khó hơn.
+   JP: Do 仕事が多すぎる, 部屋を片付ける trở nên khó hơn.
+292. VI: Hôm nay trời trời mưa, nên tôi quyết định dọn dẹp phòng.
+   JP: Hôm nay trời 雨が降っている, nên tôi quyết định 部屋を片付ける.
+293. VI: Nếu tôi có cuộc hẹn, thì tôi sẽ tập thể dục.
+   JP: Nếu 約束がある, thì tôi sẽ 運動する.
+294. VI: Ngay cả khi trời mưa, tôi cũng sẽ đến trường sớm.
+   JP: Ngay cả khi 雨が降っている, tôi cũng sẽ 早く学校に行く.
+295. VI: Vì tôi không có nhiều thời gian, tôi không thể dọn dẹp phòng.
+   JP: Vì 時間があまりない, tôi không thể 部屋を片付ける.
+296. VI: Ngay cả khi tôi có cuộc hẹn, tôi cũng sẽ gặp bạn.
+   JP: Ngay cả khi 約束がある, tôi cũng sẽ 友達に会う.
+297. VI: Vì tôi không có nhiều thời gian, tôi không thể gặp bạn.
+   JP: Vì 時間があまりない, tôi không thể 友達に会う.
+298. VI: Do tôi có cuộc hẹn, đến trường sớm trở nên khó hơn.
+   JP: Do 約束がある, 早く学校に行く trở nên khó hơn.
+299. VI: Khi tôi bị đau đầu, tôi đã hoàn thành bài tập.
+   JP: Khi 頭が痛い, tôi đã 宿題を終える.
+300. VI: Mặc dù tôi không có nhiều thời gian, tôi vẫn cố gắng đi khám.
+   JP: Mặc dù 時間があまりない, tôi vẫn cố gắng 病院に行く.
+301. VI: Tôi nghĩ rằng công việc quá nhiều, nhưng cuối cùng lại tập thể dục.
+   JP: Tôi nghĩ rằng 仕事が多すぎる, nhưng cuối cùng lại 運動する.
+302. VI: Ngay cả khi bài kiểm tra khó, tôi cũng sẽ nghỉ ngơi ở nhà.
+   JP: Ngay cả khi テストが難しい, tôi cũng sẽ 家で休む.
+303. VI: Tôi nghe nói rằng tôi bị đau đầu, nên tôi muốn đi khám.
+   JP: Tôi nghe nói rằng 頭が痛い, nên tôi muốn 病院に行く.
+304. VI: Hôm nay trời trời mưa, nên tôi quyết định đi khám.
+   JP: Hôm nay trời 雨が降っている, nên tôi quyết định 病院に行く.
+305. VI: Ngay cả khi công việc quá nhiều, tôi cũng sẽ đi khám.
+   JP: Ngay cả khi 仕事が多すぎる, tôi cũng sẽ 病院に行く.
+306. VI: Hôm nay trời tôi không có nhiều thời gian, nên tôi quyết định dọn dẹp phòng.
+   JP: Hôm nay trời 時間があまりない, nên tôi quyết định 部屋を片付ける.
+307. VI: Hôm nay trời bài kiểm tra khó, nên tôi quyết định gặp bạn.
+   JP: Hôm nay trời テストが難しい, nên tôi quyết định 友達に会う.
+308. VI: Tôi nghĩ rằng trời mưa, nhưng cuối cùng lại đi khám.
+   JP: Tôi nghĩ rằng 雨が降っている, nhưng cuối cùng lại 病院に行く.
+309. VI: Hôm nay trời trời mưa, nên tôi quyết định nghỉ ngơi ở nhà.
+   JP: Hôm nay trời 雨が降っている, nên tôi quyết định 家で休む.
+310. VI: Nếu tôi có cuộc hẹn, thì tôi sẽ gặp bạn.
+   JP: Nếu 約束がある, thì tôi sẽ 友達に会う.
+311. VI: Vì tôi không có nhiều thời gian, tôi không thể tập thể dục.
+   JP: Vì 時間があまりない, tôi không thể 運動する.
+312. VI: Do tôi quên mang ví, dọn dẹp phòng trở nên khó hơn.
+   JP: Do 財布を忘れた, 部屋を片付ける trở nên khó hơn.
+313. VI: Mặc dù tôi cảm thấy mệt, tôi vẫn cố gắng đi mua đồ.
+   JP: Mặc dù 疲れている, tôi vẫn cố gắng 買い物に行く.
+314. VI: Tôi định hoàn thành bài tập, nhưng trời mưa.
+   JP: Tôi định 宿題を終える, nhưng 雨が降っている.
+315. VI: Ngay cả khi tôi phải thức khuya, tôi cũng sẽ gặp bạn.
+   JP: Ngay cả khi 夜更かししなければならなかった, tôi cũng sẽ 友達に会う.
+316. VI: Nếu xe buýt đến muộn, thì tôi sẽ đi mua đồ.
+   JP: Nếu バスが遅れた, thì tôi sẽ 買い物に行く.
+317. VI: Tôi nghe nói rằng tôi có cuộc hẹn, nên tôi muốn đi khám.
+   JP: Tôi nghe nói rằng 約束がある, nên tôi muốn 病院に行く.
+318. VI: Vì công việc quá nhiều, tôi không thể đi khám.
+   JP: Vì 仕事が多すぎる, tôi không thể 病院に行く.
+319. VI: Tôi định đến trường sớm, nhưng tôi cảm thấy mệt.
+   JP: Tôi định 早く学校に行く, nhưng 疲れている.
+320. VI: Do tôi quên mang ví, gọi điện cho mẹ trở nên khó hơn.
+   JP: Do 財布を忘れた, 母に電話する trở nên khó hơn.
+321. VI: Nếu bài kiểm tra khó, thì tôi sẽ nấu ăn.
+   JP: Nếu テストが難しい, thì tôi sẽ 料理する.
+322. VI: Nếu bài kiểm tra khó, thì tôi sẽ gọi điện cho mẹ.
+   JP: Nếu テストが難しい, thì tôi sẽ 母に電話する.
+323. VI: Nếu xe buýt đến muộn, thì tôi sẽ tập thể dục.
+   JP: Nếu バスが遅れた, thì tôi sẽ 運動する.
+324. VI: Tôi nghe nói rằng tôi không có nhiều thời gian, nên tôi muốn đi mua đồ.
+   JP: Tôi nghe nói rằng 時間があまりない, nên tôi muốn 買い物に行く.
+325. VI: Do tôi phải thức khuya, nghỉ ngơi ở nhà trở nên khó hơn.
+   JP: Do 夜更かししなければならなかった, 家で休む trở nên khó hơn.
+326. VI: Tôi nghĩ rằng tôi quên mang ví, nhưng cuối cùng lại nghỉ ngơi ở nhà.
+   JP: Tôi nghĩ rằng 財布を忘れた, nhưng cuối cùng lại 家で休む.
+327. VI: Vì tôi không có nhiều thời gian, tôi không thể tập thể dục.
+   JP: Vì 時間があまりない, tôi không thể 運動する.
+328. VI: Nếu tôi không có nhiều thời gian, thì tôi sẽ đi khám.
+   JP: Nếu 時間があまりない, thì tôi sẽ 病院に行く.
+329. VI: Hôm nay trời tôi quên mang ví, nên tôi quyết định đi khám.
+   JP: Hôm nay trời 財布を忘れた, nên tôi quyết định 病院に行く.
+330. VI: Tôi nghĩ rằng tôi quên mang ví, nhưng cuối cùng lại đến trường sớm.
+   JP: Tôi nghĩ rằng 財布を忘れた, nhưng cuối cùng lại 早く学校に行く.
+331. VI: Ngay cả khi bài kiểm tra khó, tôi cũng sẽ nấu ăn.
+   JP: Ngay cả khi テストが難しい, tôi cũng sẽ 料理する.
+332. VI: Ngay cả khi tôi không có nhiều thời gian, tôi cũng sẽ gặp bạn.
+   JP: Ngay cả khi 時間があまりない, tôi cũng sẽ 友達に会う.
+333. VI: Tôi nghĩ rằng tôi cảm thấy mệt, nhưng cuối cùng lại đi khám.
+   JP: Tôi nghĩ rằng 疲れている, nhưng cuối cùng lại 病院に行く.
+334. VI: Tôi nghe nói rằng tôi cảm thấy mệt, nên tôi muốn nghỉ ngơi ở nhà.
+   JP: Tôi nghe nói rằng 疲れている, nên tôi muốn 家で休む.
+335. VI: Mặc dù tôi phải thức khuya, tôi vẫn cố gắng đi mua đồ.
+   JP: Mặc dù 夜更かししなければならなかった, tôi vẫn cố gắng 買い物に行く.
+336. VI: Tôi nghĩ rằng tôi quên mang ví, nhưng cuối cùng lại dọn dẹp phòng.
+   JP: Tôi nghĩ rằng 財布を忘れた, nhưng cuối cùng lại 部屋を片付ける.
+337. VI: Do tôi không có nhiều thời gian, hoàn thành bài tập trở nên khó hơn.
+   JP: Do 時間があまりない, 宿題を終える trở nên khó hơn.
+338. VI: Tôi định nghỉ ngơi ở nhà, nhưng tôi phải thức khuya.
+   JP: Tôi định 家で休む, nhưng 夜更かししなければならなかった.
+339. VI: Khi tôi cảm thấy mệt, tôi đã nấu ăn.
+   JP: Khi 疲れている, tôi đã 料理する.
+340. VI: Nếu tôi không có nhiều thời gian, thì tôi sẽ nghỉ ngơi ở nhà.
+   JP: Nếu 時間があまりない, thì tôi sẽ 家で休む.
+341. VI: Mặc dù tôi quên mang ví, tôi vẫn cố gắng gặp bạn.
+   JP: Mặc dù 財布を忘れた, tôi vẫn cố gắng 友達に会う.
+342. VI: Tôi nghe nói rằng tôi có cuộc hẹn, nên tôi muốn đi mua đồ.
+   JP: Tôi nghe nói rằng 約束がある, nên tôi muốn 買い物に行く.
+343. VI: Vì tôi cảm thấy mệt, tôi không thể hoàn thành bài tập.
+   JP: Vì 疲れている, tôi không thể 宿題を終える.
+344. VI: Tôi nghe nói rằng tôi bị đau đầu, nên tôi muốn dọn dẹp phòng.
+   JP: Tôi nghe nói rằng 頭が痛い, nên tôi muốn 部屋を片付ける.
+345. VI: Tôi nghe nói rằng trời mưa, nên tôi muốn gọi điện cho mẹ.
+   JP: Tôi nghe nói rằng 雨が降っている, nên tôi muốn 母に電話する.
+346. VI: Mặc dù công việc quá nhiều, tôi vẫn cố gắng nghỉ ngơi ở nhà.
+   JP: Mặc dù 仕事が多すぎる, tôi vẫn cố gắng 家で休む.
+347. VI: Hôm nay trời tôi phải thức khuya, nên tôi quyết định dọn dẹp phòng.
+   JP: Hôm nay trời 夜更かししなければならなかった, nên tôi quyết định 部屋を片付ける.
+348. VI: Ngay cả khi công việc quá nhiều, tôi cũng sẽ nghỉ ngơi ở nhà.
+   JP: Ngay cả khi 仕事が多すぎる, tôi cũng sẽ 家で休む.
+349. VI: Tôi nghĩ rằng tôi phải thức khuya, nhưng cuối cùng lại đi mua đồ.
+   JP: Tôi nghĩ rằng 夜更かししなければならなかった, nhưng cuối cùng lại 買い物に行く.
+350. VI: Mặc dù xe buýt đến muộn, tôi vẫn cố gắng nghỉ ngơi ở nhà.
+   JP: Mặc dù バスが遅れた, tôi vẫn cố gắng 家で休む.
+351. VI: Vì tôi bị đau đầu, tôi không thể dọn dẹp phòng.
+   JP: Vì 頭が痛い, tôi không thể 部屋を片付ける.
+352. VI: Tôi định đi khám, nhưng tôi quên mang ví.
+   JP: Tôi định 病院に行く, nhưng 財布を忘れた.
+353. VI: Khi xe buýt đến muộn, tôi đã đi mua đồ.
+   JP: Khi バスが遅れた, tôi đã 買い物に行く.
+354. VI: Tôi định gọi điện cho mẹ, nhưng tôi quên mang ví.
+   JP: Tôi định 母に電話する, nhưng 財布を忘れた.
+355. VI: Mặc dù tôi có cuộc hẹn, tôi vẫn cố gắng gặp bạn.
+   JP: Mặc dù 約束がある, tôi vẫn cố gắng 友達に会う.
+356. VI: Mặc dù tôi không có nhiều thời gian, tôi vẫn cố gắng đi khám.
+   JP: Mặc dù 時間があまりない, tôi vẫn cố gắng 病院に行く.
+357. VI: Mặc dù tôi có cuộc hẹn, tôi vẫn cố gắng đi khám.
+   JP: Mặc dù 約束がある, tôi vẫn cố gắng 病院に行く.
+358. VI: Nếu bài kiểm tra khó, thì tôi sẽ nghỉ ngơi ở nhà.
+   JP: Nếu テストが難しい, thì tôi sẽ 家で休む.
+359. VI: Tôi nghe nói rằng tôi cảm thấy mệt, nên tôi muốn tập thể dục.
+   JP: Tôi nghe nói rằng 疲れている, nên tôi muốn 運動する.
+360. VI: Mặc dù tôi quên mang ví, tôi vẫn cố gắng đến trường sớm.
+   JP: Mặc dù 財布を忘れた, tôi vẫn cố gắng 早く学校に行く.
+361. VI: Do tôi có cuộc hẹn, tập thể dục trở nên khó hơn.
+   JP: Do 約束がある, 運動する trở nên khó hơn.
+362. VI: Do xe buýt đến muộn, dọn dẹp phòng trở nên khó hơn.
+   JP: Do バスが遅れた, 部屋を片付ける trở nên khó hơn.
+363. VI: Nếu tôi không có nhiều thời gian, thì tôi sẽ đi mua đồ.
+   JP: Nếu 時間があまりない, thì tôi sẽ 買い物に行く.
+364. VI: Khi tôi cảm thấy mệt, tôi đã gặp bạn.
+   JP: Khi 疲れている, tôi đã 友達に会う.
+365. VI: Mặc dù xe buýt đến muộn, tôi vẫn cố gắng hoàn thành bài tập.
+   JP: Mặc dù バスが遅れた, tôi vẫn cố gắng 宿題を終える.
+366. VI: Tôi định gọi điện cho mẹ, nhưng công việc quá nhiều.
+   JP: Tôi định 母に電話する, nhưng 仕事が多すぎる.
+367. VI: Tôi nghĩ rằng tôi cảm thấy mệt, nhưng cuối cùng lại đi khám.
+   JP: Tôi nghĩ rằng 疲れている, nhưng cuối cùng lại 病院に行く.
+368. VI: Vì tôi bị đau đầu, tôi không thể nghỉ ngơi ở nhà.
+   JP: Vì 頭が痛い, tôi không thể 家で休む.
+369. VI: Tôi nghĩ rằng tôi không có nhiều thời gian, nhưng cuối cùng lại đi mua đồ.
+   JP: Tôi nghĩ rằng 時間があまりない, nhưng cuối cùng lại 買い物に行く.
+370. VI: Hôm nay trời tôi cảm thấy mệt, nên tôi quyết định gọi điện cho mẹ.
+   JP: Hôm nay trời 疲れている, nên tôi quyết định 母に電話する.
+371. VI: Nếu tôi cảm thấy mệt, thì tôi sẽ nấu ăn.
+   JP: Nếu 疲れている, thì tôi sẽ 料理する.
+372. VI: Tôi định đến trường sớm, nhưng tôi phải thức khuya.
+   JP: Tôi định 早く学校に行く, nhưng 夜更かししなければならなかった.
+373. VI: Khi tôi không có nhiều thời gian, tôi đã đi mua đồ.
+   JP: Khi 時間があまりない, tôi đã 買い物に行く.
+374. VI: Hôm nay trời công việc quá nhiều, nên tôi quyết định tập thể dục.
+   JP: Hôm nay trời 仕事が多すぎる, nên tôi quyết định 運動する.
+375. VI: Khi bài kiểm tra khó, tôi đã dọn dẹp phòng.
+   JP: Khi テストが難しい, tôi đã 部屋を片付ける.
+376. VI: Ngay cả khi xe buýt đến muộn, tôi cũng sẽ đi khám.
+   JP: Ngay cả khi バスが遅れた, tôi cũng sẽ 病院に行く.
+377. VI: Do tôi không có nhiều thời gian, nghỉ ngơi ở nhà trở nên khó hơn.
+   JP: Do 時間があまりない, 家で休む trở nên khó hơn.
+378. VI: Tôi định đến trường sớm, nhưng tôi có cuộc hẹn.
+   JP: Tôi định 早く学校に行く, nhưng 約束がある.
+379. VI: Mặc dù tôi bị đau đầu, tôi vẫn cố gắng nghỉ ngơi ở nhà.
+   JP: Mặc dù 頭が痛い, tôi vẫn cố gắng 家で休む.
+380. VI: Khi công việc quá nhiều, tôi đã dọn dẹp phòng.
+   JP: Khi 仕事が多すぎる, tôi đã 部屋を片付ける.
+381. VI: Do tôi phải thức khuya, đi mua đồ trở nên khó hơn.
+   JP: Do 夜更かししなければならなかった, 買い物に行く trở nên khó hơn.
+382. VI: Tôi định gọi điện cho mẹ, nhưng bài kiểm tra khó.
+   JP: Tôi định 母に電話する, nhưng テストが難しい.
+383. VI: Tôi định dọn dẹp phòng, nhưng tôi quên mang ví.
+   JP: Tôi định 部屋を片付ける, nhưng 財布を忘れた.
+384. VI: Tôi nghe nói rằng tôi quên mang ví, nên tôi muốn nấu ăn.
+   JP: Tôi nghe nói rằng 財布を忘れた, nên tôi muốn 料理する.
+385. VI: Do tôi quên mang ví, gặp bạn trở nên khó hơn.
+   JP: Do 財布を忘れた, 友達に会う trở nên khó hơn.
+386. VI: Khi tôi không có nhiều thời gian, tôi đã tập thể dục.
+   JP: Khi 時間があまりない, tôi đã 運動する.
+387. VI: Nếu tôi bị đau đầu, thì tôi sẽ nghỉ ngơi ở nhà.
+   JP: Nếu 頭が痛い, thì tôi sẽ 家で休む.
+388. VI: Nếu tôi phải thức khuya, thì tôi sẽ đi khám.
+   JP: Nếu 夜更かししなければならなかった, thì tôi sẽ 病院に行く.
+389. VI: Nếu trời mưa, thì tôi sẽ gọi điện cho mẹ.
+   JP: Nếu 雨が降っている, thì tôi sẽ 母に電話する.
+390. VI: Tôi định tập thể dục, nhưng tôi bị đau đầu.
+   JP: Tôi định 運動する, nhưng 頭が痛い.
+391. VI: Do tôi quên mang ví, đi mua đồ trở nên khó hơn.
+   JP: Do 財布を忘れた, 買い物に行く trở nên khó hơn.
+392. VI: Tôi định nấu ăn, nhưng trời mưa.
+   JP: Tôi định 料理する, nhưng 雨が降っている.
+393. VI: Vì công việc quá nhiều, tôi không thể đi khám.
+   JP: Vì 仕事が多すぎる, tôi không thể 病院に行く.
+394. VI: Hôm nay trời tôi cảm thấy mệt, nên tôi quyết định dọn dẹp phòng.
+   JP: Hôm nay trời 疲れている, nên tôi quyết định 部屋を片付ける.
+395. VI: Tôi nghĩ rằng xe buýt đến muộn, nhưng cuối cùng lại đến trường sớm.
+   JP: Tôi nghĩ rằng バスが遅れた, nhưng cuối cùng lại 早く学校に行く.
+396. VI: Do tôi bị đau đầu, đi khám trở nên khó hơn.
+   JP: Do 頭が痛い, 病院に行く trở nên khó hơn.
+397. VI: Vì bài kiểm tra khó, tôi không thể gặp bạn.
+   JP: Vì テストが難しい, tôi không thể 友達に会う.
+398. VI: Do tôi có cuộc hẹn, tập thể dục trở nên khó hơn.
+   JP: Do 約束がある, 運動する trở nên khó hơn.
+399. VI: Ngay cả khi tôi có cuộc hẹn, tôi cũng sẽ hoàn thành bài tập.
+   JP: Ngay cả khi 約束がある, tôi cũng sẽ 宿題を終える.
+400. VI: Tôi định hoàn thành bài tập, nhưng công việc quá nhiều.
+   JP: Tôi định 宿題を終える, nhưng 仕事が多すぎる.
+401. VI: Vì tôi cảm thấy mệt, tôi không thể nấu ăn.
+   JP: Vì 疲れている, tôi không thể 料理する.
+402. VI: Do công việc quá nhiều, hoàn thành bài tập trở nên khó hơn.
+   JP: Do 仕事が多すぎる, 宿題を終える trở nên khó hơn.
+403. VI: Tôi nghĩ rằng trời mưa, nhưng cuối cùng lại đi mua đồ.
+   JP: Tôi nghĩ rằng 雨が降っている, nhưng cuối cùng lại 買い物に行く.
+404. VI: Tôi nghe nói rằng tôi bị đau đầu, nên tôi muốn hoàn thành bài tập.
+   JP: Tôi nghe nói rằng 頭が痛い, nên tôi muốn 宿題を終える.
+405. VI: Ngay cả khi tôi có cuộc hẹn, tôi cũng sẽ dọn dẹp phòng.
+   JP: Ngay cả khi 約束がある, tôi cũng sẽ 部屋を片付ける.
+406. VI: Nếu tôi phải thức khuya, thì tôi sẽ hoàn thành bài tập.
+   JP: Nếu 夜更かししなければならなかった, thì tôi sẽ 宿題を終える.
+407. VI: Vì bài kiểm tra khó, tôi không thể gặp bạn.
+   JP: Vì テストが難しい, tôi không thể 友達に会う.
+408. VI: Vì xe buýt đến muộn, tôi không thể đi khám.
+   JP: Vì バスが遅れた, tôi không thể 病院に行く.
+409. VI: Nếu trời mưa, thì tôi sẽ nghỉ ngơi ở nhà.
+   JP: Nếu 雨が降っている, thì tôi sẽ 家で休む.
+410. VI: Tôi nghĩ rằng công việc quá nhiều, nhưng cuối cùng lại tập thể dục.
+   JP: Tôi nghĩ rằng 仕事が多すぎる, nhưng cuối cùng lại 運動する.
+411. VI: Hôm nay trời tôi phải thức khuya, nên tôi quyết định đi mua đồ.
+   JP: Hôm nay trời 夜更かししなければならなかった, nên tôi quyết định 買い物に行く.
+412. VI: Khi xe buýt đến muộn, tôi đã đi khám.
+   JP: Khi バスが遅れた, tôi đã 病院に行く.
+413. VI: Vì tôi có cuộc hẹn, tôi không thể đi khám.
+   JP: Vì 約束がある, tôi không thể 病院に行く.
+414. VI: Nếu công việc quá nhiều, thì tôi sẽ tập thể dục.
+   JP: Nếu 仕事が多すぎる, thì tôi sẽ 運動する.
+415. VI: Nếu xe buýt đến muộn, thì tôi sẽ tập thể dục.
+   JP: Nếu バスが遅れた, thì tôi sẽ 運動する.
+416. VI: Nếu bài kiểm tra khó, thì tôi sẽ đến trường sớm.
+   JP: Nếu テストが難しい, thì tôi sẽ 早く学校に行く.
+417. VI: Tôi nghe nói rằng bài kiểm tra khó, nên tôi muốn đi mua đồ.
+   JP: Tôi nghe nói rằng テストが難しい, nên tôi muốn 買い物に行く.
+418. VI: Khi bài kiểm tra khó, tôi đã hoàn thành bài tập.
+   JP: Khi テストが難しい, tôi đã 宿題を終える.
+419. VI: Hôm nay trời tôi bị đau đầu, nên tôi quyết định gọi điện cho mẹ.
+   JP: Hôm nay trời 頭が痛い, nên tôi quyết định 母に電話する.
+420. VI: Tôi nghĩ rằng tôi cảm thấy mệt, nhưng cuối cùng lại tập thể dục.
+   JP: Tôi nghĩ rằng 疲れている, nhưng cuối cùng lại 運動する.
+421. VI: Tôi nghe nói rằng công việc quá nhiều, nên tôi muốn dọn dẹp phòng.
+   JP: Tôi nghe nói rằng 仕事が多すぎる, nên tôi muốn 部屋を片付ける.
+422. VI: Tôi nghe nói rằng trời mưa, nên tôi muốn dọn dẹp phòng.
+   JP: Tôi nghe nói rằng 雨が降っている, nên tôi muốn 部屋を片付ける.
+423. VI: Hôm nay trời xe buýt đến muộn, nên tôi quyết định nấu ăn.
+   JP: Hôm nay trời バスが遅れた, nên tôi quyết định 料理する.
+424. VI: Ngay cả khi tôi quên mang ví, tôi cũng sẽ đến trường sớm.
+   JP: Ngay cả khi 財布を忘れた, tôi cũng sẽ 早く学校に行く.
+425. VI: Nếu bài kiểm tra khó, thì tôi sẽ gặp bạn.
+   JP: Nếu テストが難しい, thì tôi sẽ 友達に会う.
+426. VI: Khi công việc quá nhiều, tôi đã đi khám.
+   JP: Khi 仕事が多すぎる, tôi đã 病院に行く.
+427. VI: Khi trời mưa, tôi đã hoàn thành bài tập.
+   JP: Khi 雨が降っている, tôi đã 宿題を終える.
+428. VI: Tôi nghe nói rằng tôi quên mang ví, nên tôi muốn tập thể dục.
+   JP: Tôi nghe nói rằng 財布を忘れた, nên tôi muốn 運動する.
+429. VI: Mặc dù xe buýt đến muộn, tôi vẫn cố gắng nghỉ ngơi ở nhà.
+   JP: Mặc dù バスが遅れた, tôi vẫn cố gắng 家で休む.
+430. VI: Hôm nay trời trời mưa, nên tôi quyết định tập thể dục.
+   JP: Hôm nay trời 雨が降っている, nên tôi quyết định 運動する.
+431. VI: Tôi định đến trường sớm, nhưng tôi quên mang ví.
+   JP: Tôi định 早く学校に行く, nhưng 財布を忘れた.
+432. VI: Tôi nghe nói rằng bài kiểm tra khó, nên tôi muốn dọn dẹp phòng.
+   JP: Tôi nghe nói rằng テストが難しい, nên tôi muốn 部屋を片付ける.
+433. VI: Tôi nghĩ rằng tôi bị đau đầu, nhưng cuối cùng lại nghỉ ngơi ở nhà.
+   JP: Tôi nghĩ rằng 頭が痛い, nhưng cuối cùng lại 家で休む.
+434. VI: Hôm nay trời tôi phải thức khuya, nên tôi quyết định nghỉ ngơi ở nhà.
+   JP: Hôm nay trời 夜更かししなければならなかった, nên tôi quyết định 家で休む.
+435. VI: Tôi nghe nói rằng bài kiểm tra khó, nên tôi muốn gọi điện cho mẹ.
+   JP: Tôi nghe nói rằng テストが難しい, nên tôi muốn 母に電話する.
+436. VI: Do xe buýt đến muộn, đi khám trở nên khó hơn.
+   JP: Do バスが遅れた, 病院に行く trở nên khó hơn.
+437. VI: Ngay cả khi tôi bị đau đầu, tôi cũng sẽ đến trường sớm.
+   JP: Ngay cả khi 頭が痛い, tôi cũng sẽ 早く学校に行く.
+438. VI: Tôi định đi khám, nhưng trời mưa.
+   JP: Tôi định 病院に行く, nhưng 雨が降っている.
+439. VI: Tôi nghĩ rằng tôi phải thức khuya, nhưng cuối cùng lại nấu ăn.
+   JP: Tôi nghĩ rằng 夜更かししなければならなかった, nhưng cuối cùng lại 料理する.
+440. VI: Tôi nghe nói rằng xe buýt đến muộn, nên tôi muốn đi khám.
+   JP: Tôi nghe nói rằng バスが遅れた, nên tôi muốn 病院に行く.
+441. VI: Vì xe buýt đến muộn, tôi không thể dọn dẹp phòng.
+   JP: Vì バスが遅れた, tôi không thể 部屋を片付ける.
+442. VI: Tôi nghĩ rằng xe buýt đến muộn, nhưng cuối cùng lại gọi điện cho mẹ.
+   JP: Tôi nghĩ rằng バスが遅れた, nhưng cuối cùng lại 母に電話する.
+443. VI: Vì công việc quá nhiều, tôi không thể nghỉ ngơi ở nhà.
+   JP: Vì 仕事が多すぎる, tôi không thể 家で休む.
+444. VI: Vì xe buýt đến muộn, tôi không thể dọn dẹp phòng.
+   JP: Vì バスが遅れた, tôi không thể 部屋を片付ける.
+445. VI: Vì công việc quá nhiều, tôi không thể gọi điện cho mẹ.
+   JP: Vì 仕事が多すぎる, tôi không thể 母に電話する.
+446. VI: Tôi nghe nói rằng tôi cảm thấy mệt, nên tôi muốn gặp bạn.
+   JP: Tôi nghe nói rằng 疲れている, nên tôi muốn 友達に会う.
+447. VI: Khi tôi bị đau đầu, tôi đã dọn dẹp phòng.
+   JP: Khi 頭が痛い, tôi đã 部屋を片付ける.
+448. VI: Tôi định đến trường sớm, nhưng bài kiểm tra khó.
+   JP: Tôi định 早く学校に行く, nhưng テストが難しい.
+449. VI: Khi tôi không có nhiều thời gian, tôi đã dọn dẹp phòng.
+   JP: Khi 時間があまりない, tôi đã 部屋を片付ける.
+450. VI: Ngay cả khi tôi bị đau đầu, tôi cũng sẽ hoàn thành bài tập.
+   JP: Ngay cả khi 頭が痛い, tôi cũng sẽ 宿題を終える.
+451. VI: Tôi định hoàn thành bài tập, nhưng bài kiểm tra khó.
+   JP: Tôi định 宿題を終える, nhưng テストが難しい.
+452. VI: Hôm nay trời bài kiểm tra khó, nên tôi quyết định tập thể dục.
+   JP: Hôm nay trời テストが難しい, nên tôi quyết định 運動する.
+453. VI: Ngay cả khi tôi cảm thấy mệt, tôi cũng sẽ gọi điện cho mẹ.
+   JP: Ngay cả khi 疲れている, tôi cũng sẽ 母に電話する.
+454. VI: Nếu công việc quá nhiều, thì tôi sẽ nghỉ ngơi ở nhà.
+   JP: Nếu 仕事が多すぎる, thì tôi sẽ 家で休む.
+455. VI: Nếu trời mưa, thì tôi sẽ gọi điện cho mẹ.
+   JP: Nếu 雨が降っている, thì tôi sẽ 母に電話する.
+456. VI: Ngay cả khi tôi bị đau đầu, tôi cũng sẽ đi khám.
+   JP: Ngay cả khi 頭が痛い, tôi cũng sẽ 病院に行く.
+457. VI: Tôi định nghỉ ngơi ở nhà, nhưng trời mưa.
+   JP: Tôi định 家で休む, nhưng 雨が降っている.
+458. VI: Hôm nay trời tôi quên mang ví, nên tôi quyết định nghỉ ngơi ở nhà.
+   JP: Hôm nay trời 財布を忘れた, nên tôi quyết định 家で休む.
+459. VI: Do tôi không có nhiều thời gian, dọn dẹp phòng trở nên khó hơn.
+   JP: Do 時間があまりない, 部屋を片付ける trở nên khó hơn.
+460. VI: Nếu tôi bị đau đầu, thì tôi sẽ nghỉ ngơi ở nhà.
+   JP: Nếu 頭が痛い, thì tôi sẽ 家で休む.
+461. VI: Do công việc quá nhiều, hoàn thành bài tập trở nên khó hơn.
+   JP: Do 仕事が多すぎる, 宿題を終える trở nên khó hơn.
+462. VI: Ngay cả khi tôi có cuộc hẹn, tôi cũng sẽ gặp bạn.
+   JP: Ngay cả khi 約束がある, tôi cũng sẽ 友達に会う.
+463. VI: Ngay cả khi trời mưa, tôi cũng sẽ gặp bạn.
+   JP: Ngay cả khi 雨が降っている, tôi cũng sẽ 友達に会う.
+464. VI: Mặc dù công việc quá nhiều, tôi vẫn cố gắng đi khám.
+   JP: Mặc dù 仕事が多すぎる, tôi vẫn cố gắng 病院に行く.
+465. VI: Tôi nghĩ rằng tôi phải thức khuya, nhưng cuối cùng lại tập thể dục.
+   JP: Tôi nghĩ rằng 夜更かししなければならなかった, nhưng cuối cùng lại 運動する.
+466. VI: Tôi định dọn dẹp phòng, nhưng tôi cảm thấy mệt.
+   JP: Tôi định 部屋を片付ける, nhưng 疲れている.
+467. VI: Ngay cả khi tôi quên mang ví, tôi cũng sẽ gặp bạn.
+   JP: Ngay cả khi 財布を忘れた, tôi cũng sẽ 友達に会う.
+468. VI: Tôi định dọn dẹp phòng, nhưng công việc quá nhiều.
+   JP: Tôi định 部屋を片付ける, nhưng 仕事が多すぎる.
+469. VI: Khi xe buýt đến muộn, tôi đã hoàn thành bài tập.
+   JP: Khi バスが遅れた, tôi đã 宿題を終える.
+470. VI: Hôm nay trời xe buýt đến muộn, nên tôi quyết định dọn dẹp phòng.
+   JP: Hôm nay trời バスが遅れた, nên tôi quyết định 部屋を片付ける.
+471. VI: Hôm nay trời tôi có cuộc hẹn, nên tôi quyết định gọi điện cho mẹ.
+   JP: Hôm nay trời 約束がある, nên tôi quyết định 母に電話する.
+472. VI: Vì bài kiểm tra khó, tôi không thể nghỉ ngơi ở nhà.
+   JP: Vì テストが難しい, tôi không thể 家で休む.
+473. VI: Tôi nghĩ rằng tôi cảm thấy mệt, nhưng cuối cùng lại tập thể dục.
+   JP: Tôi nghĩ rằng 疲れている, nhưng cuối cùng lại 運動する.
+474. VI: Tôi nghĩ rằng tôi bị đau đầu, nhưng cuối cùng lại tập thể dục.
+   JP: Tôi nghĩ rằng 頭が痛い, nhưng cuối cùng lại 運動する.
+475. VI: Ngay cả khi công việc quá nhiều, tôi cũng sẽ gặp bạn.
+   JP: Ngay cả khi 仕事が多すぎる, tôi cũng sẽ 友達に会う.
+476. VI: Do tôi không có nhiều thời gian, dọn dẹp phòng trở nên khó hơn.
+   JP: Do 時間があまりない, 部屋を片付ける trở nên khó hơn.
+477. VI: Tôi nghe nói rằng tôi cảm thấy mệt, nên tôi muốn đi mua đồ.
+   JP: Tôi nghe nói rằng 疲れている, nên tôi muốn 買い物に行く.
+478. VI: Nếu trời mưa, thì tôi sẽ đi mua đồ.
+   JP: Nếu 雨が降っている, thì tôi sẽ 買い物に行く.
+479. VI: Hôm nay trời bài kiểm tra khó, nên tôi quyết định hoàn thành bài tập.
+   JP: Hôm nay trời テストが難しい, nên tôi quyết định 宿題を終える.
+480. VI: Tôi nghe nói rằng tôi có cuộc hẹn, nên tôi muốn gọi điện cho mẹ.
+   JP: Tôi nghe nói rằng 約束がある, nên tôi muốn 母に電話する.
+481. VI: Vì tôi quên mang ví, tôi không thể gặp bạn.
+   JP: Vì 財布を忘れた, tôi không thể 友達に会う.
+482. VI: Do xe buýt đến muộn, hoàn thành bài tập trở nên khó hơn.
+   JP: Do バスが遅れた, 宿題を終える trở nên khó hơn.
+483. VI: Hôm nay trời trời mưa, nên tôi quyết định đi mua đồ.
+   JP: Hôm nay trời 雨が降っている, nên tôi quyết định 買い物に行く.
+484. VI: Mặc dù tôi quên mang ví, tôi vẫn cố gắng đến trường sớm.
+   JP: Mặc dù 財布を忘れた, tôi vẫn cố gắng 早く学校に行く.
+485. VI: Tôi định nghỉ ngơi ở nhà, nhưng tôi quên mang ví.
+   JP: Tôi định 家で休む, nhưng 財布を忘れた.
+486. VI: Tôi nghĩ rằng trời mưa, nhưng cuối cùng lại đi khám.
+   JP: Tôi nghĩ rằng 雨が降っている, nhưng cuối cùng lại 病院に行く.
+487. VI: Nếu tôi quên mang ví, thì tôi sẽ hoàn thành bài tập.
+   JP: Nếu 財布を忘れた, thì tôi sẽ 宿題を終える.
+488. VI: Tôi định gọi điện cho mẹ, nhưng tôi không có nhiều thời gian.
+   JP: Tôi định 母に電話する, nhưng 時間があまりない.
+489. VI: Hôm nay trời tôi phải thức khuya, nên tôi quyết định hoàn thành bài tập.
+   JP: Hôm nay trời 夜更かししなければならなかった, nên tôi quyết định 宿題を終える.
+490. VI: Tôi định dọn dẹp phòng, nhưng bài kiểm tra khó.
+   JP: Tôi định 部屋を片付ける, nhưng テストが難しい.
+491. VI: Tôi nghĩ rằng xe buýt đến muộn, nhưng cuối cùng lại gọi điện cho mẹ.
+   JP: Tôi nghĩ rằng バスが遅れた, nhưng cuối cùng lại 母に電話する.
+492. VI: Tôi nghĩ rằng xe buýt đến muộn, nhưng cuối cùng lại đi mua đồ.
+   JP: Tôi nghĩ rằng バスが遅れた, nhưng cuối cùng lại 買い物に行く.
+493. VI: Khi tôi bị đau đầu, tôi đã nghỉ ngơi ở nhà.
+   JP: Khi 頭が痛い, tôi đã 家で休む.
+494. VI: Vì công việc quá nhiều, tôi không thể tập thể dục.
+   JP: Vì 仕事が多すぎる, tôi không thể 運動する.
+495. VI: Tôi định đi khám, nhưng tôi bị đau đầu.
+   JP: Tôi định 病院に行く, nhưng 頭が痛い.
+496. VI: Vì tôi có cuộc hẹn, tôi không thể nghỉ ngơi ở nhà.
+   JP: Vì 約束がある, tôi không thể 家で休む.
+497. VI: Tôi định dọn dẹp phòng, nhưng công việc quá nhiều.
+   JP: Tôi định 部屋を片付ける, nhưng 仕事が多すぎる.
+498. VI: Mặc dù tôi quên mang ví, tôi vẫn cố gắng đi khám.
+   JP: Mặc dù 財布を忘れた, tôi vẫn cố gắng 病院に行く.
+499. VI: Nếu tôi phải thức khuya, thì tôi sẽ gọi điện cho mẹ.
+   JP: Nếu 夜更かししなければならなかった, thì tôi sẽ 母に電話する.
+500. VI: Hôm nay trời xe buýt đến muộn, nên tôi quyết định gặp bạn.
+   JP: Hôm nay trời バスが遅れた, nên tôi quyết định 友達に会う.
+501. VI: Tôi định hoàn thành bài tập, nhưng xe buýt đến muộn.
+   JP: Tôi định 宿題を終える, nhưng バスが遅れた.
+502. VI: Hôm nay trời tôi không có nhiều thời gian, nên tôi quyết định hoàn thành bài tập.
+   JP: Hôm nay trời 時間があまりない, nên tôi quyết định 宿題を終える.
+503. VI: Do tôi quên mang ví, gặp bạn trở nên khó hơn.
+   JP: Do 財布を忘れた, 友達に会う trở nên khó hơn.
+504. VI: Tôi định đi khám, nhưng tôi có cuộc hẹn.
+   JP: Tôi định 病院に行く, nhưng 約束がある.
+505. VI: Tôi nghe nói rằng tôi không có nhiều thời gian, nên tôi muốn dọn dẹp phòng.
+   JP: Tôi nghe nói rằng 時間があまりない, nên tôi muốn 部屋を片付ける.
+506. VI: Tôi nghĩ rằng tôi quên mang ví, nhưng cuối cùng lại đi khám.
+   JP: Tôi nghĩ rằng 財布を忘れた, nhưng cuối cùng lại 病院に行く.
+507. VI: Tôi định nấu ăn, nhưng tôi có cuộc hẹn.
+   JP: Tôi định 料理する, nhưng 約束がある.
+508. VI: Ngay cả khi công việc quá nhiều, tôi cũng sẽ nghỉ ngơi ở nhà.
+   JP: Ngay cả khi 仕事が多すぎる, tôi cũng sẽ 家で休む.
+509. VI: Tôi định tập thể dục, nhưng công việc quá nhiều.
+   JP: Tôi định 運動する, nhưng 仕事が多すぎる.
+510. VI: Tôi nghe nói rằng trời mưa, nên tôi muốn gọi điện cho mẹ.
+   JP: Tôi nghe nói rằng 雨が降っている, nên tôi muốn 母に電話する.
+511. VI: Khi công việc quá nhiều, tôi đã đến trường sớm.
+   JP: Khi 仕事が多すぎる, tôi đã 早く学校に行く.
+512. VI: Vì tôi không có nhiều thời gian, tôi không thể đi mua đồ.
+   JP: Vì 時間があまりない, tôi không thể 買い物に行く.
+513. VI: Tôi nghĩ rằng tôi không có nhiều thời gian, nhưng cuối cùng lại đi mua đồ.
+   JP: Tôi nghĩ rằng 時間があまりない, nhưng cuối cùng lại 買い物に行く.
+514. VI: Mặc dù tôi bị đau đầu, tôi vẫn cố gắng đi khám.
+   JP: Mặc dù 頭が痛い, tôi vẫn cố gắng 病院に行く.
+515. VI: Tôi định đi khám, nhưng tôi phải thức khuya.
+   JP: Tôi định 病院に行く, nhưng 夜更かししなければならなかった.
+516. VI: Khi bài kiểm tra khó, tôi đã hoàn thành bài tập.
+   JP: Khi テストが難しい, tôi đã 宿題を終える.
+517. VI: Nếu tôi cảm thấy mệt, thì tôi sẽ tập thể dục.
+   JP: Nếu 疲れている, thì tôi sẽ 運動する.
+518. VI: Nếu tôi quên mang ví, thì tôi sẽ gọi điện cho mẹ.
+   JP: Nếu 財布を忘れた, thì tôi sẽ 母に電話する.
+519. VI: Tôi nghĩ rằng xe buýt đến muộn, nhưng cuối cùng lại hoàn thành bài tập.
+   JP: Tôi nghĩ rằng バスが遅れた, nhưng cuối cùng lại 宿題を終える.
+520. VI: Nếu tôi quên mang ví, thì tôi sẽ gặp bạn.
+   JP: Nếu 財布を忘れた, thì tôi sẽ 友達に会う.
+521. VI: Ngay cả khi trời mưa, tôi cũng sẽ gọi điện cho mẹ.
+   JP: Ngay cả khi 雨が降っている, tôi cũng sẽ 母に電話する.
+522. VI: Ngay cả khi tôi quên mang ví, tôi cũng sẽ gặp bạn.
+   JP: Ngay cả khi 財布を忘れた, tôi cũng sẽ 友達に会う.
+523. VI: Tôi nghe nói rằng tôi không có nhiều thời gian, nên tôi muốn đến trường sớm.
+   JP: Tôi nghe nói rằng 時間があまりない, nên tôi muốn 早く学校に行く.
+524. VI: Hôm nay trời tôi bị đau đầu, nên tôi quyết định nấu ăn.
+   JP: Hôm nay trời 頭が痛い, nên tôi quyết định 料理する.
+525. VI: Hôm nay trời tôi có cuộc hẹn, nên tôi quyết định đi mua đồ.
+   JP: Hôm nay trời 約束がある, nên tôi quyết định 買い物に行く.
+526. VI: Mặc dù tôi phải thức khuya, tôi vẫn cố gắng đi khám.
+   JP: Mặc dù 夜更かししなければならなかった, tôi vẫn cố gắng 病院に行く.
+527. VI: Ngay cả khi tôi có cuộc hẹn, tôi cũng sẽ nghỉ ngơi ở nhà.
+   JP: Ngay cả khi 約束がある, tôi cũng sẽ 家で休む.
+528. VI: Khi tôi không có nhiều thời gian, tôi đã nghỉ ngơi ở nhà.
+   JP: Khi 時間があまりない, tôi đã 家で休む.
+529. VI: Ngay cả khi tôi quên mang ví, tôi cũng sẽ đi mua đồ.
+   JP: Ngay cả khi 財布を忘れた, tôi cũng sẽ 買い物に行く.
+530. VI: Khi trời mưa, tôi đã đến trường sớm.
+   JP: Khi 雨が降っている, tôi đã 早く学校に行く.
+531. VI: Tôi định tập thể dục, nhưng tôi có cuộc hẹn.
+   JP: Tôi định 運動する, nhưng 約束がある.
+532. VI: Nếu tôi cảm thấy mệt, thì tôi sẽ nấu ăn.
+   JP: Nếu 疲れている, thì tôi sẽ 料理する.
+533. VI: Mặc dù bài kiểm tra khó, tôi vẫn cố gắng gặp bạn.
+   JP: Mặc dù テストが難しい, tôi vẫn cố gắng 友達に会う.
+534. VI: Nếu bài kiểm tra khó, thì tôi sẽ đi mua đồ.
+   JP: Nếu テストが難しい, thì tôi sẽ 買い物に行く.
+535. VI: Mặc dù bài kiểm tra khó, tôi vẫn cố gắng gặp bạn.
+   JP: Mặc dù テストが難しい, tôi vẫn cố gắng 友達に会う.
+536. VI: Khi tôi cảm thấy mệt, tôi đã đến trường sớm.
+   JP: Khi 疲れている, tôi đã 早く学校に行く.
+537. VI: Khi tôi bị đau đầu, tôi đã gặp bạn.
+   JP: Khi 頭が痛い, tôi đã 友達に会う.
+538. VI: Ngay cả khi tôi cảm thấy mệt, tôi cũng sẽ đi mua đồ.
+   JP: Ngay cả khi 疲れている, tôi cũng sẽ 買い物に行く.
+539. VI: Nếu xe buýt đến muộn, thì tôi sẽ đi khám.
+   JP: Nếu バスが遅れた, thì tôi sẽ 病院に行く.
+540. VI: Do trời mưa, đi mua đồ trở nên khó hơn.
+   JP: Do 雨が降っている, 買い物に行く trở nên khó hơn.
+541. VI: Khi tôi bị đau đầu, tôi đã nấu ăn.
+   JP: Khi 頭が痛い, tôi đã 料理する.
+542. VI: Ngay cả khi tôi cảm thấy mệt, tôi cũng sẽ đi khám.
+   JP: Ngay cả khi 疲れている, tôi cũng sẽ 病院に行く.
+543. VI: Ngay cả khi tôi cảm thấy mệt, tôi cũng sẽ hoàn thành bài tập.
+   JP: Ngay cả khi 疲れている, tôi cũng sẽ 宿題を終える.
+544. VI: Khi xe buýt đến muộn, tôi đã nghỉ ngơi ở nhà.
+   JP: Khi バスが遅れた, tôi đã 家で休む.
+545. VI: Tôi nghĩ rằng công việc quá nhiều, nhưng cuối cùng lại nghỉ ngơi ở nhà.
+   JP: Tôi nghĩ rằng 仕事が多すぎる, nhưng cuối cùng lại 家で休む.
+546. VI: Nếu công việc quá nhiều, thì tôi sẽ đi mua đồ.
+   JP: Nếu 仕事が多すぎる, thì tôi sẽ 買い物に行く.
+547. VI: Khi xe buýt đến muộn, tôi đã đi khám.
+   JP: Khi バスが遅れた, tôi đã 病院に行く.
+548. VI: Tôi nghĩ rằng tôi bị đau đầu, nhưng cuối cùng lại đi mua đồ.
+   JP: Tôi nghĩ rằng 頭が痛い, nhưng cuối cùng lại 買い物に行く.
+549. VI: Khi tôi quên mang ví, tôi đã gọi điện cho mẹ.
+   JP: Khi 財布を忘れた, tôi đã 母に電話する.
+550. VI: Ngay cả khi bài kiểm tra khó, tôi cũng sẽ đi mua đồ.
+   JP: Ngay cả khi テストが難しい, tôi cũng sẽ 買い物に行く.
+551. VI: Khi tôi quên mang ví, tôi đã gặp bạn.
+   JP: Khi 財布を忘れた, tôi đã 友達に会う.
+552. VI: Mặc dù tôi có cuộc hẹn, tôi vẫn cố gắng gọi điện cho mẹ.
+   JP: Mặc dù 約束がある, tôi vẫn cố gắng 母に電話する.
+553. VI: Hôm nay trời tôi phải thức khuya, nên tôi quyết định hoàn thành bài tập.
+   JP: Hôm nay trời 夜更かししなければならなかった, nên tôi quyết định 宿題を終える.
+554. VI: Mặc dù tôi có cuộc hẹn, tôi vẫn cố gắng nghỉ ngơi ở nhà.
+   JP: Mặc dù 約束がある, tôi vẫn cố gắng 家で休む.
+555. VI: Tôi nghe nói rằng bài kiểm tra khó, nên tôi muốn đi khám.
+   JP: Tôi nghe nói rằng テストが難しい, nên tôi muốn 病院に行く.
+556. VI: Vì trời mưa, tôi không thể nấu ăn.
+   JP: Vì 雨が降っている, tôi không thể 料理する.
+557. VI: Do tôi không có nhiều thời gian, nghỉ ngơi ở nhà trở nên khó hơn.
+   JP: Do 時間があまりない, 家で休む trở nên khó hơn.
+558. VI: Mặc dù xe buýt đến muộn, tôi vẫn cố gắng đi khám.
+   JP: Mặc dù バスが遅れた, tôi vẫn cố gắng 病院に行く.
+559. VI: Do tôi có cuộc hẹn, tập thể dục trở nên khó hơn.
+   JP: Do 約束がある, 運動する trở nên khó hơn.
+560. VI: Nếu xe buýt đến muộn, thì tôi sẽ gọi điện cho mẹ.
+   JP: Nếu バスが遅れた, thì tôi sẽ 母に電話する.
+561. VI: Vì công việc quá nhiều, tôi không thể gặp bạn.
+   JP: Vì 仕事が多すぎる, tôi không thể 友達に会う.
+562. VI: Khi tôi cảm thấy mệt, tôi đã gọi điện cho mẹ.
+   JP: Khi 疲れている, tôi đã 母に電話する.
+563. VI: Khi bài kiểm tra khó, tôi đã đi mua đồ.
+   JP: Khi テストが難しい, tôi đã 買い物に行く.
+564. VI: Tôi định gặp bạn, nhưng tôi phải thức khuya.
+   JP: Tôi định 友達に会う, nhưng 夜更かししなければならなかった.
+565. VI: Tôi định gặp bạn, nhưng trời mưa.
+   JP: Tôi định 友達に会う, nhưng 雨が降っている.
+566. VI: Mặc dù tôi không có nhiều thời gian, tôi vẫn cố gắng hoàn thành bài tập.
+   JP: Mặc dù 時間があまりない, tôi vẫn cố gắng 宿題を終える.
+567. VI: Tôi định dọn dẹp phòng, nhưng tôi có cuộc hẹn.
+   JP: Tôi định 部屋を片付ける, nhưng 約束がある.
+568. VI: Tôi nghe nói rằng tôi bị đau đầu, nên tôi muốn đi mua đồ.
+   JP: Tôi nghe nói rằng 頭が痛い, nên tôi muốn 買い物に行く.
+569. VI: Ngay cả khi tôi không có nhiều thời gian, tôi cũng sẽ tập thể dục.
+   JP: Ngay cả khi 時間があまりない, tôi cũng sẽ 運動する.
+570. VI: Ngay cả khi bài kiểm tra khó, tôi cũng sẽ nghỉ ngơi ở nhà.
+   JP: Ngay cả khi テストが難しい, tôi cũng sẽ 家で休む.
+571. VI: Mặc dù trời mưa, tôi vẫn cố gắng nghỉ ngơi ở nhà.
+   JP: Mặc dù 雨が降っている, tôi vẫn cố gắng 家で休む.
+572. VI: Mặc dù xe buýt đến muộn, tôi vẫn cố gắng hoàn thành bài tập.
+   JP: Mặc dù バスが遅れた, tôi vẫn cố gắng 宿題を終える.
+573. VI: Vì trời mưa, tôi không thể nấu ăn.
+   JP: Vì 雨が降っている, tôi không thể 料理する.
+574. VI: Tôi nghe nói rằng trời mưa, nên tôi muốn nghỉ ngơi ở nhà.
+   JP: Tôi nghe nói rằng 雨が降っている, nên tôi muốn 家で休む.
+575. VI: Tôi định đi mua đồ, nhưng tôi không có nhiều thời gian.
+   JP: Tôi định 買い物に行く, nhưng 時間があまりない.
+576. VI: Hôm nay trời trời mưa, nên tôi quyết định dọn dẹp phòng.
+   JP: Hôm nay trời 雨が降っている, nên tôi quyết định 部屋を片付ける.
+577. VI: Tôi định gọi điện cho mẹ, nhưng tôi bị đau đầu.
+   JP: Tôi định 母に電話する, nhưng 頭が痛い.
+578. VI: Do tôi quên mang ví, gặp bạn trở nên khó hơn.
+   JP: Do 財布を忘れた, 友達に会う trở nên khó hơn.
+579. VI: Vì trời mưa, tôi không thể nghỉ ngơi ở nhà.
+   JP: Vì 雨が降っている, tôi không thể 家で休む.
+580. VI: Tôi nghĩ rằng trời mưa, nhưng cuối cùng lại gặp bạn.
+   JP: Tôi nghĩ rằng 雨が降っている, nhưng cuối cùng lại 友達に会う.
+581. VI: Tôi nghe nói rằng công việc quá nhiều, nên tôi muốn gọi điện cho mẹ.
+   JP: Tôi nghe nói rằng 仕事が多すぎる, nên tôi muốn 母に電話する.
+582. VI: Tôi nghĩ rằng tôi không có nhiều thời gian, nhưng cuối cùng lại đi mua đồ.
+   JP: Tôi nghĩ rằng 時間があまりない, nhưng cuối cùng lại 買い物に行く.
+583. VI: Do công việc quá nhiều, dọn dẹp phòng trở nên khó hơn.
+   JP: Do 仕事が多すぎる, 部屋を片付ける trở nên khó hơn.
+584. VI: Hôm nay trời trời mưa, nên tôi quyết định nghỉ ngơi ở nhà.
+   JP: Hôm nay trời 雨が降っている, nên tôi quyết định 家で休む.
+585. VI: Vì bài kiểm tra khó, tôi không thể nấu ăn.
+   JP: Vì テストが難しい, tôi không thể 料理する.
+586. VI: Ngay cả khi bài kiểm tra khó, tôi cũng sẽ hoàn thành bài tập.
+   JP: Ngay cả khi テストが難しい, tôi cũng sẽ 宿題を終える.
+587. VI: Do bài kiểm tra khó, gọi điện cho mẹ trở nên khó hơn.
+   JP: Do テストが難しい, 母に電話する trở nên khó hơn.
+588. VI: Vì tôi cảm thấy mệt, tôi không thể dọn dẹp phòng.
+   JP: Vì 疲れている, tôi không thể 部屋を片付ける.
+589. VI: Vì bài kiểm tra khó, tôi không thể nghỉ ngơi ở nhà.
+   JP: Vì テストが難しい, tôi không thể 家で休む.
+590. VI: Do bài kiểm tra khó, nấu ăn trở nên khó hơn.
+   JP: Do テストが難しい, 料理する trở nên khó hơn.
+591. VI: Do tôi không có nhiều thời gian, tập thể dục trở nên khó hơn.
+   JP: Do 時間があまりない, 運動する trở nên khó hơn.
+592. VI: Do công việc quá nhiều, gặp bạn trở nên khó hơn.
+   JP: Do 仕事が多すぎる, 友達に会う trở nên khó hơn.
+593. VI: Tôi nghe nói rằng tôi phải thức khuya, nên tôi muốn nấu ăn.
+   JP: Tôi nghe nói rằng 夜更かししなければならなかった, nên tôi muốn 料理する.
+594. VI: Ngay cả khi bài kiểm tra khó, tôi cũng sẽ tập thể dục.
+   JP: Ngay cả khi テストが難しい, tôi cũng sẽ 運動する.
+595. VI: Khi trời mưa, tôi đã nghỉ ngơi ở nhà.
+   JP: Khi 雨が降っている, tôi đã 家で休む.
+596. VI: Hôm nay trời tôi phải thức khuya, nên tôi quyết định nghỉ ngơi ở nhà.
+   JP: Hôm nay trời 夜更かししなければならなかった, nên tôi quyết định 家で休む.
+597. VI: Tôi định nghỉ ngơi ở nhà, nhưng tôi bị đau đầu.
+   JP: Tôi định 家で休む, nhưng 頭が痛い.
+598. VI: Hôm nay trời tôi bị đau đầu, nên tôi quyết định nấu ăn.
+   JP: Hôm nay trời 頭が痛い, nên tôi quyết định 料理する.
+599. VI: Vì tôi cảm thấy mệt, tôi không thể nấu ăn.
+   JP: Vì 疲れている, tôi không thể 料理する.
+600. VI: Vì xe buýt đến muộn, tôi không thể đến trường sớm.
+   JP: Vì バスが遅れた, tôi không thể 早く学校に行く.
+601. VI: Tôi nghĩ rằng tôi bị đau đầu, nhưng cuối cùng lại đi mua đồ.
+   JP: Tôi nghĩ rằng 頭が痛い, nhưng cuối cùng lại 買い物に行く.
+602. VI: Tôi nghe nói rằng tôi phải thức khuya, nên tôi muốn gọi điện cho mẹ.
+   JP: Tôi nghe nói rằng 夜更かししなければならなかった, nên tôi muốn 母に電話する.
+603. VI: Tôi nghe nói rằng tôi phải thức khuya, nên tôi muốn dọn dẹp phòng.
+   JP: Tôi nghe nói rằng 夜更かししなければならなかった, nên tôi muốn 部屋を片付ける.
+604. VI: Nếu tôi phải thức khuya, thì tôi sẽ gặp bạn.
+   JP: Nếu 夜更かししなければならなかった, thì tôi sẽ 友達に会う.
+605. VI: Tôi nghe nói rằng xe buýt đến muộn, nên tôi muốn hoàn thành bài tập.
+   JP: Tôi nghe nói rằng バスが遅れた, nên tôi muốn 宿題を終える.
+606. VI: Do tôi cảm thấy mệt, tập thể dục trở nên khó hơn.
+   JP: Do 疲れている, 運動する trở nên khó hơn.
+607. VI: Ngay cả khi xe buýt đến muộn, tôi cũng sẽ hoàn thành bài tập.
+   JP: Ngay cả khi バスが遅れた, tôi cũng sẽ 宿題を終える.
+608. VI: Tôi nghe nói rằng tôi bị đau đầu, nên tôi muốn gặp bạn.
+   JP: Tôi nghe nói rằng 頭が痛い, nên tôi muốn 友達に会う.
+609. VI: Tôi định gọi điện cho mẹ, nhưng tôi bị đau đầu.
+   JP: Tôi định 母に電話する, nhưng 頭が痛い.
+610. VI: Tôi định đi mua đồ, nhưng bài kiểm tra khó.
+   JP: Tôi định 買い物に行く, nhưng テストが難しい.
+611. VI: Hôm nay trời bài kiểm tra khó, nên tôi quyết định gặp bạn.
+   JP: Hôm nay trời テストが難しい, nên tôi quyết định 友達に会う.
+612. VI: Do công việc quá nhiều, đi khám trở nên khó hơn.
+   JP: Do 仕事が多すぎる, 病院に行く trở nên khó hơn.
+613. VI: Do xe buýt đến muộn, nghỉ ngơi ở nhà trở nên khó hơn.
+   JP: Do バスが遅れた, 家で休む trở nên khó hơn.
+614. VI: Vì tôi phải thức khuya, tôi không thể tập thể dục.
+   JP: Vì 夜更かししなければならなかった, tôi không thể 運動する.
+615. VI: Tôi nghe nói rằng tôi không có nhiều thời gian, nên tôi muốn đi khám.
+   JP: Tôi nghe nói rằng 時間があまりない, nên tôi muốn 病院に行く.
+616. VI: Khi tôi quên mang ví, tôi đã đi mua đồ.
+   JP: Khi 財布を忘れた, tôi đã 買い物に行く.
+617. VI: Tôi nghe nói rằng bài kiểm tra khó, nên tôi muốn tập thể dục.
+   JP: Tôi nghe nói rằng テストが難しい, nên tôi muốn 運動する.
+618. VI: Mặc dù bài kiểm tra khó, tôi vẫn cố gắng dọn dẹp phòng.
+   JP: Mặc dù テストが難しい, tôi vẫn cố gắng 部屋を片付ける.
+619. VI: Mặc dù xe buýt đến muộn, tôi vẫn cố gắng nghỉ ngơi ở nhà.
+   JP: Mặc dù バスが遅れた, tôi vẫn cố gắng 家で休む.
+620. VI: Vì xe buýt đến muộn, tôi không thể hoàn thành bài tập.
+   JP: Vì バスが遅れた, tôi không thể 宿題を終える.
+621. VI: Mặc dù bài kiểm tra khó, tôi vẫn cố gắng đi khám.
+   JP: Mặc dù テストが難しい, tôi vẫn cố gắng 病院に行く.
+622. VI: Hôm nay trời bài kiểm tra khó, nên tôi quyết định dọn dẹp phòng.
+   JP: Hôm nay trời テストが難しい, nên tôi quyết định 部屋を片付ける.
+623. VI: Vì công việc quá nhiều, tôi không thể nấu ăn.
+   JP: Vì 仕事が多すぎる, tôi không thể 料理する.
+624. VI: Do tôi không có nhiều thời gian, đi mua đồ trở nên khó hơn.
+   JP: Do 時間があまりない, 買い物に行く trở nên khó hơn.
+625. VI: Do tôi không có nhiều thời gian, hoàn thành bài tập trở nên khó hơn.
+   JP: Do 時間があまりない, 宿題を終える trở nên khó hơn.
+626. VI: Nếu tôi quên mang ví, thì tôi sẽ đi mua đồ.
+   JP: Nếu 財布を忘れた, thì tôi sẽ 買い物に行く.
+627. VI: Khi tôi quên mang ví, tôi đã dọn dẹp phòng.
+   JP: Khi 財布を忘れた, tôi đã 部屋を片付ける.
+628. VI: Mặc dù công việc quá nhiều, tôi vẫn cố gắng dọn dẹp phòng.
+   JP: Mặc dù 仕事が多すぎる, tôi vẫn cố gắng 部屋を片付ける.
+629. VI: Tôi nghĩ rằng công việc quá nhiều, nhưng cuối cùng lại đi khám.
+   JP: Tôi nghĩ rằng 仕事が多すぎる, nhưng cuối cùng lại 病院に行く.
+630. VI: Tôi nghe nói rằng trời mưa, nên tôi muốn gặp bạn.
+   JP: Tôi nghe nói rằng 雨が降っている, nên tôi muốn 友達に会う.
+631. VI: Vì trời mưa, tôi không thể hoàn thành bài tập.
+   JP: Vì 雨が降っている, tôi không thể 宿題を終える.
+632. VI: Vì công việc quá nhiều, tôi không thể tập thể dục.
+   JP: Vì 仕事が多すぎる, tôi không thể 運動する.
+633. VI: Vì trời mưa, tôi không thể nấu ăn.
+   JP: Vì 雨が降っている, tôi không thể 料理する.
+634. VI: Tôi định nghỉ ngơi ở nhà, nhưng tôi cảm thấy mệt.
+   JP: Tôi định 家で休む, nhưng 疲れている.
+635. VI: Hôm nay trời tôi cảm thấy mệt, nên tôi quyết định gặp bạn.
+   JP: Hôm nay trời 疲れている, nên tôi quyết định 友達に会う.
+636. VI: Vì trời mưa, tôi không thể đi mua đồ.
+   JP: Vì 雨が降っている, tôi không thể 買い物に行く.
+637. VI: Do tôi bị đau đầu, dọn dẹp phòng trở nên khó hơn.
+   JP: Do 頭が痛い, 部屋を片付ける trở nên khó hơn.
+638. VI: Mặc dù bài kiểm tra khó, tôi vẫn cố gắng hoàn thành bài tập.
+   JP: Mặc dù テストが難しい, tôi vẫn cố gắng 宿題を終える.
+639. VI: Tôi nghĩ rằng tôi cảm thấy mệt, nhưng cuối cùng lại đi khám.
+   JP: Tôi nghĩ rằng 疲れている, nhưng cuối cùng lại 病院に行く.
+640. VI: Ngay cả khi bài kiểm tra khó, tôi cũng sẽ đi mua đồ.
+   JP: Ngay cả khi テストが難しい, tôi cũng sẽ 買い物に行く.
+641. VI: Tôi nghĩ rằng tôi phải thức khuya, nhưng cuối cùng lại nấu ăn.
+   JP: Tôi nghĩ rằng 夜更かししなければならなかった, nhưng cuối cùng lại 料理する.
+642. VI: Hôm nay trời trời mưa, nên tôi quyết định tập thể dục.
+   JP: Hôm nay trời 雨が降っている, nên tôi quyết định 運動する.
+643. VI: Do trời mưa, gặp bạn trở nên khó hơn.
+   JP: Do 雨が降っている, 友達に会う trở nên khó hơn.
+644. VI: Mặc dù trời mưa, tôi vẫn cố gắng đi khám.
+   JP: Mặc dù 雨が降っている, tôi vẫn cố gắng 病院に行く.
+645. VI: Tôi định đến trường sớm, nhưng tôi bị đau đầu.
+   JP: Tôi định 早く学校に行く, nhưng 頭が痛い.
+646. VI: Mặc dù công việc quá nhiều, tôi vẫn cố gắng nghỉ ngơi ở nhà.
+   JP: Mặc dù 仕事が多すぎる, tôi vẫn cố gắng 家で休む.
+647. VI: Tôi nghe nói rằng tôi bị đau đầu, nên tôi muốn nấu ăn.
+   JP: Tôi nghe nói rằng 頭が痛い, nên tôi muốn 料理する.
+648. VI: Tôi định tập thể dục, nhưng tôi không có nhiều thời gian.
+   JP: Tôi định 運動する, nhưng 時間があまりない.
+649. VI: Tôi nghe nói rằng trời mưa, nên tôi muốn đi mua đồ.
+   JP: Tôi nghe nói rằng 雨が降っている, nên tôi muốn 買い物に行く.
+650. VI: Tôi nghe nói rằng trời mưa, nên tôi muốn hoàn thành bài tập.
+   JP: Tôi nghe nói rằng 雨が降っている, nên tôi muốn 宿題を終える.
+651. VI: Tôi nghĩ rằng bài kiểm tra khó, nhưng cuối cùng lại gặp bạn.
+   JP: Tôi nghĩ rằng テストが難しい, nhưng cuối cùng lại 友達に会う.
+652. VI: Tôi định tập thể dục, nhưng tôi bị đau đầu.
+   JP: Tôi định 運動する, nhưng 頭が痛い.
+653. VI: Nếu trời mưa, thì tôi sẽ gọi điện cho mẹ.
+   JP: Nếu 雨が降っている, thì tôi sẽ 母に電話する.
+654. VI: Vì bài kiểm tra khó, tôi không thể nghỉ ngơi ở nhà.
+   JP: Vì テストが難しい, tôi không thể 家で休む.
+655. VI: Tôi định đi mua đồ, nhưng tôi không có nhiều thời gian.
+   JP: Tôi định 買い物に行く, nhưng 時間があまりない.
+656. VI: Mặc dù trời mưa, tôi vẫn cố gắng dọn dẹp phòng.
+   JP: Mặc dù 雨が降っている, tôi vẫn cố gắng 部屋を片付ける.
+657. VI: Tôi định tập thể dục, nhưng tôi cảm thấy mệt.
+   JP: Tôi định 運動する, nhưng 疲れている.
+658. VI: Ngay cả khi tôi không có nhiều thời gian, tôi cũng sẽ đi mua đồ.
+   JP: Ngay cả khi 時間があまりない, tôi cũng sẽ 買い物に行く.
+659. VI: Tôi nghe nói rằng tôi có cuộc hẹn, nên tôi muốn gọi điện cho mẹ.
+   JP: Tôi nghe nói rằng 約束がある, nên tôi muốn 母に電話する.
+660. VI: Khi tôi không có nhiều thời gian, tôi đã đến trường sớm.
+   JP: Khi 時間があまりない, tôi đã 早く学校に行く.
+661. VI: Hôm nay trời tôi không có nhiều thời gian, nên tôi quyết định gọi điện cho mẹ.
+   JP: Hôm nay trời 時間があまりない, nên tôi quyết định 母に電話する.
+662. VI: Hôm nay trời tôi quên mang ví, nên tôi quyết định hoàn thành bài tập.
+   JP: Hôm nay trời 財布を忘れた, nên tôi quyết định 宿題を終える.
+663. VI: Vì tôi có cuộc hẹn, tôi không thể gọi điện cho mẹ.
+   JP: Vì 約束がある, tôi không thể 母に電話する.
+664. VI: Khi tôi có cuộc hẹn, tôi đã tập thể dục.
+   JP: Khi 約束がある, tôi đã 運動する.
+665. VI: Do trời mưa, gọi điện cho mẹ trở nên khó hơn.
+   JP: Do 雨が降っている, 母に電話する trở nên khó hơn.
+666. VI: Nếu tôi quên mang ví, thì tôi sẽ nghỉ ngơi ở nhà.
+   JP: Nếu 財布を忘れた, thì tôi sẽ 家で休む.
+667. VI: Nếu xe buýt đến muộn, thì tôi sẽ dọn dẹp phòng.
+   JP: Nếu バスが遅れた, thì tôi sẽ 部屋を片付ける.
+668. VI: Mặc dù tôi có cuộc hẹn, tôi vẫn cố gắng nghỉ ngơi ở nhà.
+   JP: Mặc dù 約束がある, tôi vẫn cố gắng 家で休む.
+669. VI: Ngay cả khi tôi quên mang ví, tôi cũng sẽ đến trường sớm.
+   JP: Ngay cả khi 財布を忘れた, tôi cũng sẽ 早く学校に行く.
+670. VI: Ngay cả khi trời mưa, tôi cũng sẽ gặp bạn.
+   JP: Ngay cả khi 雨が降っている, tôi cũng sẽ 友達に会う.
+671. VI: Mặc dù công việc quá nhiều, tôi vẫn cố gắng nghỉ ngơi ở nhà.
+   JP: Mặc dù 仕事が多すぎる, tôi vẫn cố gắng 家で休む.
+672. VI: Vì tôi cảm thấy mệt, tôi không thể hoàn thành bài tập.
+   JP: Vì 疲れている, tôi không thể 宿題を終える.
+673. VI: Tôi nghĩ rằng tôi bị đau đầu, nhưng cuối cùng lại đi khám.
+   JP: Tôi nghĩ rằng 頭が痛い, nhưng cuối cùng lại 病院に行く.
+674. VI: Ngay cả khi xe buýt đến muộn, tôi cũng sẽ đến trường sớm.
+   JP: Ngay cả khi バスが遅れた, tôi cũng sẽ 早く学校に行く.
+675. VI: Ngay cả khi xe buýt đến muộn, tôi cũng sẽ hoàn thành bài tập.
+   JP: Ngay cả khi バスが遅れた, tôi cũng sẽ 宿題を終える.
+676. VI: Khi tôi có cuộc hẹn, tôi đã tập thể dục.
+   JP: Khi 約束がある, tôi đã 運動する.
+677. VI: Nếu tôi có cuộc hẹn, thì tôi sẽ hoàn thành bài tập.
+   JP: Nếu 約束がある, thì tôi sẽ 宿題を終える.
+678. VI: Hôm nay trời tôi có cuộc hẹn, nên tôi quyết định nghỉ ngơi ở nhà.
+   JP: Hôm nay trời 約束がある, nên tôi quyết định 家で休む.
+679. VI: Tôi nghĩ rằng tôi quên mang ví, nhưng cuối cùng lại gọi điện cho mẹ.
+   JP: Tôi nghĩ rằng 財布を忘れた, nhưng cuối cùng lại 母に電話する.
+680. VI: Khi bài kiểm tra khó, tôi đã hoàn thành bài tập.
+   JP: Khi テストが難しい, tôi đã 宿題を終える.
+681. VI: Tôi định đi mua đồ, nhưng trời mưa.
+   JP: Tôi định 買い物に行く, nhưng 雨が降っている.
+682. VI: Nếu tôi có cuộc hẹn, thì tôi sẽ nghỉ ngơi ở nhà.
+   JP: Nếu 約束がある, thì tôi sẽ 家で休む.
+683. VI: Nếu tôi có cuộc hẹn, thì tôi sẽ nấu ăn.
+   JP: Nếu 約束がある, thì tôi sẽ 料理する.
+684. VI: Do tôi phải thức khuya, nấu ăn trở nên khó hơn.
+   JP: Do 夜更かししなければならなかった, 料理する trở nên khó hơn.
+685. VI: Tôi nghĩ rằng tôi bị đau đầu, nhưng cuối cùng lại đến trường sớm.
+   JP: Tôi nghĩ rằng 頭が痛い, nhưng cuối cùng lại 早く学校に行く.
+686. VI: Tôi nghe nói rằng xe buýt đến muộn, nên tôi muốn tập thể dục.
+   JP: Tôi nghe nói rằng バスが遅れた, nên tôi muốn 運動する.
+687. VI: Do tôi bị đau đầu, tập thể dục trở nên khó hơn.
+   JP: Do 頭が痛い, 運動する trở nên khó hơn.
+688. VI: Mặc dù tôi có cuộc hẹn, tôi vẫn cố gắng đi khám.
+   JP: Mặc dù 約束がある, tôi vẫn cố gắng 病院に行く.
+689. VI: Nếu tôi quên mang ví, thì tôi sẽ gặp bạn.
+   JP: Nếu 財布を忘れた, thì tôi sẽ 友達に会う.
+690. VI: Mặc dù tôi không có nhiều thời gian, tôi vẫn cố gắng nghỉ ngơi ở nhà.
+   JP: Mặc dù 時間があまりない, tôi vẫn cố gắng 家で休む.
+691. VI: Ngay cả khi tôi không có nhiều thời gian, tôi cũng sẽ hoàn thành bài tập.
+   JP: Ngay cả khi 時間があまりない, tôi cũng sẽ 宿題を終える.
+692. VI: Khi công việc quá nhiều, tôi đã gặp bạn.
+   JP: Khi 仕事が多すぎる, tôi đã 友達に会う.
+693. VI: Do tôi có cuộc hẹn, đến trường sớm trở nên khó hơn.
+   JP: Do 約束がある, 早く学校に行く trở nên khó hơn.
+694. VI: Tôi nghĩ rằng công việc quá nhiều, nhưng cuối cùng lại tập thể dục.
+   JP: Tôi nghĩ rằng 仕事が多すぎる, nhưng cuối cùng lại 運動する.
+695. VI: Nếu tôi có cuộc hẹn, thì tôi sẽ nấu ăn.
+   JP: Nếu 約束がある, thì tôi sẽ 料理する.
+696. VI: Tôi định hoàn thành bài tập, nhưng trời mưa.
+   JP: Tôi định 宿題を終える, nhưng 雨が降っている.
+697. VI: Tôi định nghỉ ngơi ở nhà, nhưng trời mưa.
+   JP: Tôi định 家で休む, nhưng 雨が降っている.
+698. VI: Vì xe buýt đến muộn, tôi không thể tập thể dục.
+   JP: Vì バスが遅れた, tôi không thể 運動する.
+699. VI: Nếu trời mưa, thì tôi sẽ dọn dẹp phòng.
+   JP: Nếu 雨が降っている, thì tôi sẽ 部屋を片付ける.
+700. VI: Tôi định gặp bạn, nhưng tôi phải thức khuya.
+   JP: Tôi định 友達に会う, nhưng 夜更かししなければならなかった.
+701. VI: Do tôi có cuộc hẹn, tập thể dục trở nên khó hơn.
+   JP: Do 約束がある, 運動する trở nên khó hơn.
+702. VI: Khi tôi cảm thấy mệt, tôi đã gặp bạn.
+   JP: Khi 疲れている, tôi đã 友達に会う.
+703. VI: Mặc dù bài kiểm tra khó, tôi vẫn cố gắng đến trường sớm.
+   JP: Mặc dù テストが難しい, tôi vẫn cố gắng 早く学校に行く.
+704. VI: Hôm nay trời tôi không có nhiều thời gian, nên tôi quyết định nghỉ ngơi ở nhà.
+   JP: Hôm nay trời 時間があまりない, nên tôi quyết định 家で休む.
+705. VI: Tôi định nấu ăn, nhưng tôi quên mang ví.
+   JP: Tôi định 料理する, nhưng 財布を忘れた.
+706. VI: Tôi định gọi điện cho mẹ, nhưng tôi cảm thấy mệt.
+   JP: Tôi định 母に電話する, nhưng 疲れている.
+707. VI: Tôi định hoàn thành bài tập, nhưng tôi không có nhiều thời gian.
+   JP: Tôi định 宿題を終える, nhưng 時間があまりない.
+708. VI: Nếu tôi phải thức khuya, thì tôi sẽ dọn dẹp phòng.
+   JP: Nếu 夜更かししなければならなかった, thì tôi sẽ 部屋を片付ける.
+709. VI: Do tôi quên mang ví, nghỉ ngơi ở nhà trở nên khó hơn.
+   JP: Do 財布を忘れた, 家で休む trở nên khó hơn.
+710. VI: Tôi nghĩ rằng tôi quên mang ví, nhưng cuối cùng lại dọn dẹp phòng.
+   JP: Tôi nghĩ rằng 財布を忘れた, nhưng cuối cùng lại 部屋を片付ける.
+711. VI: Vì tôi không có nhiều thời gian, tôi không thể nấu ăn.
+   JP: Vì 時間があまりない, tôi không thể 料理する.
+712. VI: Ngay cả khi xe buýt đến muộn, tôi cũng sẽ dọn dẹp phòng.
+   JP: Ngay cả khi バスが遅れた, tôi cũng sẽ 部屋を片付ける.
+713. VI: Khi xe buýt đến muộn, tôi đã gọi điện cho mẹ.
+   JP: Khi バスが遅れた, tôi đã 母に電話する.
+714. VI: Vì tôi bị đau đầu, tôi không thể dọn dẹp phòng.
+   JP: Vì 頭が痛い, tôi không thể 部屋を片付ける.
+715. VI: Khi tôi cảm thấy mệt, tôi đã gặp bạn.
+   JP: Khi 疲れている, tôi đã 友達に会う.
+716. VI: Vì công việc quá nhiều, tôi không thể đến trường sớm.
+   JP: Vì 仕事が多すぎる, tôi không thể 早く学校に行く.
+717. VI: Tôi định hoàn thành bài tập, nhưng tôi quên mang ví.
+   JP: Tôi định 宿題を終える, nhưng 財布を忘れた.
+718. VI: Tôi định nghỉ ngơi ở nhà, nhưng bài kiểm tra khó.
+   JP: Tôi định 家で休む, nhưng テストが難しい.
+719. VI: Nếu tôi quên mang ví, thì tôi sẽ gọi điện cho mẹ.
+   JP: Nếu 財布を忘れた, thì tôi sẽ 母に電話する.
+720. VI: Ngay cả khi tôi phải thức khuya, tôi cũng sẽ đi mua đồ.
+   JP: Ngay cả khi 夜更かししなければならなかった, tôi cũng sẽ 買い物に行く.
+721. VI: Vì xe buýt đến muộn, tôi không thể hoàn thành bài tập.
+   JP: Vì バスが遅れた, tôi không thể 宿題を終える.
+722. VI: Tôi định gặp bạn, nhưng tôi có cuộc hẹn.
+   JP: Tôi định 友達に会う, nhưng 約束がある.
+723. VI: Hôm nay trời tôi quên mang ví, nên tôi quyết định gặp bạn.
+   JP: Hôm nay trời 財布を忘れた, nên tôi quyết định 友達に会う.
+724. VI: Vì công việc quá nhiều, tôi không thể dọn dẹp phòng.
+   JP: Vì 仕事が多すぎる, tôi không thể 部屋を片付ける.
+725. VI: Do công việc quá nhiều, gọi điện cho mẹ trở nên khó hơn.
+   JP: Do 仕事が多すぎる, 母に電話する trở nên khó hơn.
+726. VI: Mặc dù tôi có cuộc hẹn, tôi vẫn cố gắng gọi điện cho mẹ.
+   JP: Mặc dù 約束がある, tôi vẫn cố gắng 母に電話する.
+727. VI: Tôi định nấu ăn, nhưng tôi không có nhiều thời gian.
+   JP: Tôi định 料理する, nhưng 時間があまりない.
+728. VI: Hôm nay trời tôi phải thức khuya, nên tôi quyết định nghỉ ngơi ở nhà.
+   JP: Hôm nay trời 夜更かししなければならなかった, nên tôi quyết định 家で休む.
+729. VI: Tôi nghĩ rằng tôi phải thức khuya, nhưng cuối cùng lại nghỉ ngơi ở nhà.
+   JP: Tôi nghĩ rằng 夜更かししなければならなかった, nhưng cuối cùng lại 家で休む.
+730. VI: Mặc dù tôi không có nhiều thời gian, tôi vẫn cố gắng hoàn thành bài tập.
+   JP: Mặc dù 時間があまりない, tôi vẫn cố gắng 宿題を終える.
+731. VI: Nếu công việc quá nhiều, thì tôi sẽ đi khám.
+   JP: Nếu 仕事が多すぎる, thì tôi sẽ 病院に行く.
+732. VI: Tôi định nghỉ ngơi ở nhà, nhưng tôi có cuộc hẹn.
+   JP: Tôi định 家で休む, nhưng 約束がある.
+733. VI: Khi tôi bị đau đầu, tôi đã hoàn thành bài tập.
+   JP: Khi 頭が痛い, tôi đã 宿題を終える.
+734. VI: Tôi nghĩ rằng tôi quên mang ví, nhưng cuối cùng lại gặp bạn.
+   JP: Tôi nghĩ rằng 財布を忘れた, nhưng cuối cùng lại 友達に会う.
+735. VI: Ngay cả khi tôi quên mang ví, tôi cũng sẽ hoàn thành bài tập.
+   JP: Ngay cả khi 財布を忘れた, tôi cũng sẽ 宿題を終える.
+736. VI: Tôi định gặp bạn, nhưng bài kiểm tra khó.
+   JP: Tôi định 友達に会う, nhưng テストが難しい.
+737. VI: Mặc dù tôi có cuộc hẹn, tôi vẫn cố gắng tập thể dục.
+   JP: Mặc dù 約束がある, tôi vẫn cố gắng 運動する.
+738. VI: Hôm nay trời xe buýt đến muộn, nên tôi quyết định đến trường sớm.
+   JP: Hôm nay trời バスが遅れた, nên tôi quyết định 早く学校に行く.
+739. VI: Nếu công việc quá nhiều, thì tôi sẽ dọn dẹp phòng.
+   JP: Nếu 仕事が多すぎる, thì tôi sẽ 部屋を片付ける.
+740. VI: Tôi nghĩ rằng tôi quên mang ví, nhưng cuối cùng lại nấu ăn.
+   JP: Tôi nghĩ rằng 財布を忘れた, nhưng cuối cùng lại 料理する.
+741. VI: Do tôi bị đau đầu, đi mua đồ trở nên khó hơn.
+   JP: Do 頭が痛い, 買い物に行く trở nên khó hơn.
+742. VI: Mặc dù trời mưa, tôi vẫn cố gắng hoàn thành bài tập.
+   JP: Mặc dù 雨が降っている, tôi vẫn cố gắng 宿題を終える.
+743. VI: Khi tôi phải thức khuya, tôi đã tập thể dục.
+   JP: Khi 夜更かししなければならなかった, tôi đã 運動する.
+744. VI: Vì tôi cảm thấy mệt, tôi không thể hoàn thành bài tập.
+   JP: Vì 疲れている, tôi không thể 宿題を終える.
+745. VI: Tôi nghe nói rằng công việc quá nhiều, nên tôi muốn gọi điện cho mẹ.
+   JP: Tôi nghe nói rằng 仕事が多すぎる, nên tôi muốn 母に電話する.
+746. VI: Tôi nghĩ rằng bài kiểm tra khó, nhưng cuối cùng lại dọn dẹp phòng.
+   JP: Tôi nghĩ rằng テストが難しい, nhưng cuối cùng lại 部屋を片付ける.
+747. VI: Tôi nghĩ rằng tôi có cuộc hẹn, nhưng cuối cùng lại tập thể dục.
+   JP: Tôi nghĩ rằng 約束がある, nhưng cuối cùng lại 運動する.
+748. VI: Tôi nghĩ rằng bài kiểm tra khó, nhưng cuối cùng lại nghỉ ngơi ở nhà.
+   JP: Tôi nghĩ rằng テストが難しい, nhưng cuối cùng lại 家で休む.
+749. VI: Vì công việc quá nhiều, tôi không thể nghỉ ngơi ở nhà.
+   JP: Vì 仕事が多すぎる, tôi không thể 家で休む.
+750. VI: Hôm nay trời tôi quên mang ví, nên tôi quyết định gọi điện cho mẹ.
+   JP: Hôm nay trời 財布を忘れた, nên tôi quyết định 母に電話する.
+751. VI: Tôi nghe nói rằng trời mưa, nên tôi muốn đi khám.
+   JP: Tôi nghe nói rằng 雨が降っている, nên tôi muốn 病院に行く.
+752. VI: Tôi nghe nói rằng tôi có cuộc hẹn, nên tôi muốn nấu ăn.
+   JP: Tôi nghe nói rằng 約束がある, nên tôi muốn 料理する.
+753. VI: Tôi định hoàn thành bài tập, nhưng tôi không có nhiều thời gian.
+   JP: Tôi định 宿題を終える, nhưng 時間があまりない.
+754. VI: Vì trời mưa, tôi không thể nghỉ ngơi ở nhà.
+   JP: Vì 雨が降っている, tôi không thể 家で休む.
+755. VI: Tôi định dọn dẹp phòng, nhưng tôi bị đau đầu.
+   JP: Tôi định 部屋を片付ける, nhưng 頭が痛い.
+756. VI: Mặc dù tôi bị đau đầu, tôi vẫn cố gắng gặp bạn.
+   JP: Mặc dù 頭が痛い, tôi vẫn cố gắng 友達に会う.
+757. VI: Tôi nghe nói rằng trời mưa, nên tôi muốn hoàn thành bài tập.
+   JP: Tôi nghe nói rằng 雨が降っている, nên tôi muốn 宿題を終える.
+758. VI: Tôi định nghỉ ngơi ở nhà, nhưng xe buýt đến muộn.
+   JP: Tôi định 家で休む, nhưng バスが遅れた.
+759. VI: Ngay cả khi tôi bị đau đầu, tôi cũng sẽ gặp bạn.
+   JP: Ngay cả khi 頭が痛い, tôi cũng sẽ 友達に会う.
+760. VI: Hôm nay trời tôi bị đau đầu, nên tôi quyết định đi khám.
+   JP: Hôm nay trời 頭が痛い, nên tôi quyết định 病院に行く.
+761. VI: Mặc dù tôi cảm thấy mệt, tôi vẫn cố gắng dọn dẹp phòng.
+   JP: Mặc dù 疲れている, tôi vẫn cố gắng 部屋を片付ける.
+762. VI: Tôi định gặp bạn, nhưng tôi bị đau đầu.
+   JP: Tôi định 友達に会う, nhưng 頭が痛い.
+763. VI: Hôm nay trời tôi phải thức khuya, nên tôi quyết định gọi điện cho mẹ.
+   JP: Hôm nay trời 夜更かししなければならなかった, nên tôi quyết định 母に電話する.
+764. VI: Tôi định gặp bạn, nhưng tôi phải thức khuya.
+   JP: Tôi định 友達に会う, nhưng 夜更かししなければならなかった.
+765. VI: Nếu công việc quá nhiều, thì tôi sẽ gọi điện cho mẹ.
+   JP: Nếu 仕事が多すぎる, thì tôi sẽ 母に電話する.
+766. VI: Nếu tôi quên mang ví, thì tôi sẽ đi mua đồ.
+   JP: Nếu 財布を忘れた, thì tôi sẽ 買い物に行く.
+767. VI: Nếu tôi quên mang ví, thì tôi sẽ hoàn thành bài tập.
+   JP: Nếu 財布を忘れた, thì tôi sẽ 宿題を終える.
+768. VI: Do xe buýt đến muộn, gặp bạn trở nên khó hơn.
+   JP: Do バスが遅れた, 友達に会う trở nên khó hơn.
+769. VI: Khi trời mưa, tôi đã gọi điện cho mẹ.
+   JP: Khi 雨が降っている, tôi đã 母に電話する.
+770. VI: Hôm nay trời tôi có cuộc hẹn, nên tôi quyết định gọi điện cho mẹ.
+   JP: Hôm nay trời 約束がある, nên tôi quyết định 母に電話する.
+771. VI: Nếu tôi phải thức khuya, thì tôi sẽ hoàn thành bài tập.
+   JP: Nếu 夜更かししなければならなかった, thì tôi sẽ 宿題を終える.
+772. VI: Do tôi cảm thấy mệt, đi khám trở nên khó hơn.
+   JP: Do 疲れている, 病院に行く trở nên khó hơn.
+773. VI: Ngay cả khi tôi bị đau đầu, tôi cũng sẽ nghỉ ngơi ở nhà.
+   JP: Ngay cả khi 頭が痛い, tôi cũng sẽ 家で休む.
+774. VI: Nếu tôi không có nhiều thời gian, thì tôi sẽ gọi điện cho mẹ.
+   JP: Nếu 時間があまりない, thì tôi sẽ 母に電話する.
+775. VI: Vì tôi phải thức khuya, tôi không thể gặp bạn.
+   JP: Vì 夜更かししなければならなかった, tôi không thể 友達に会う.
+776. VI: Ngay cả khi bài kiểm tra khó, tôi cũng sẽ nghỉ ngơi ở nhà.
+   JP: Ngay cả khi テストが難しい, tôi cũng sẽ 家で休む.
+777. VI: Mặc dù tôi cảm thấy mệt, tôi vẫn cố gắng nghỉ ngơi ở nhà.
+   JP: Mặc dù 疲れている, tôi vẫn cố gắng 家で休む.
+778. VI: Tôi định đi mua đồ, nhưng tôi có cuộc hẹn.
+   JP: Tôi định 買い物に行く, nhưng 約束がある.
+779. VI: Tôi định gọi điện cho mẹ, nhưng tôi không có nhiều thời gian.
+   JP: Tôi định 母に電話する, nhưng 時間があまりない.
+780. VI: Tôi nghĩ rằng tôi bị đau đầu, nhưng cuối cùng lại đi khám.
+   JP: Tôi nghĩ rằng 頭が痛い, nhưng cuối cùng lại 病院に行く.
+781. VI: Tôi định hoàn thành bài tập, nhưng tôi không có nhiều thời gian.
+   JP: Tôi định 宿題を終える, nhưng 時間があまりない.
+782. VI: Vì tôi quên mang ví, tôi không thể nghỉ ngơi ở nhà.
+   JP: Vì 財布を忘れた, tôi không thể 家で休む.
+783. VI: Mặc dù tôi không có nhiều thời gian, tôi vẫn cố gắng đến trường sớm.
+   JP: Mặc dù 時間があまりない, tôi vẫn cố gắng 早く学校に行く.
+784. VI: Tôi nghĩ rằng tôi có cuộc hẹn, nhưng cuối cùng lại tập thể dục.
+   JP: Tôi nghĩ rằng 約束がある, nhưng cuối cùng lại 運動する.
+785. VI: Nếu tôi bị đau đầu, thì tôi sẽ nấu ăn.
+   JP: Nếu 頭が痛い, thì tôi sẽ 料理する.
+786. VI: Tôi định gặp bạn, nhưng công việc quá nhiều.
+   JP: Tôi định 友達に会う, nhưng 仕事が多すぎる.
+787. VI: Hôm nay trời tôi bị đau đầu, nên tôi quyết định gọi điện cho mẹ.
+   JP: Hôm nay trời 頭が痛い, nên tôi quyết định 母に電話する.
+788. VI: Do trời mưa, gọi điện cho mẹ trở nên khó hơn.
+   JP: Do 雨が降っている, 母に電話する trở nên khó hơn.
+789. VI: Tôi nghĩ rằng trời mưa, nhưng cuối cùng lại gặp bạn.
+   JP: Tôi nghĩ rằng 雨が降っている, nhưng cuối cùng lại 友達に会う.
+790. VI: Vì tôi bị đau đầu, tôi không thể nấu ăn.
+   JP: Vì 頭が痛い, tôi không thể 料理する.
+791. VI: Khi bài kiểm tra khó, tôi đã nghỉ ngơi ở nhà.
+   JP: Khi テストが難しい, tôi đã 家で休む.
+792. VI: Nếu xe buýt đến muộn, thì tôi sẽ đi mua đồ.
+   JP: Nếu バスが遅れた, thì tôi sẽ 買い物に行く.
+793. VI: Vì công việc quá nhiều, tôi không thể nấu ăn.
+   JP: Vì 仕事が多すぎる, tôi không thể 料理する.
+794. VI: Hôm nay trời xe buýt đến muộn, nên tôi quyết định nghỉ ngơi ở nhà.
+   JP: Hôm nay trời バスが遅れた, nên tôi quyết định 家で休む.
+795. VI: Vì tôi không có nhiều thời gian, tôi không thể đi mua đồ.
+   JP: Vì 時間があまりない, tôi không thể 買い物に行く.
+796. VI: Nếu tôi cảm thấy mệt, thì tôi sẽ đi mua đồ.
+   JP: Nếu 疲れている, thì tôi sẽ 買い物に行く.
+797. VI: Tôi định nghỉ ngơi ở nhà, nhưng tôi phải thức khuya.
+   JP: Tôi định 家で休む, nhưng 夜更かししなければならなかった.
+798. VI: Nếu bài kiểm tra khó, thì tôi sẽ dọn dẹp phòng.
+   JP: Nếu テストが難しい, thì tôi sẽ 部屋を片付ける.
+799. VI: Do tôi cảm thấy mệt, đi mua đồ trở nên khó hơn.
+   JP: Do 疲れている, 買い物に行く trở nên khó hơn.
+800. VI: Khi tôi cảm thấy mệt, tôi đã gặp bạn.
+   JP: Khi 疲れている, tôi đã 友達に会う.
+801. VI: Do tôi phải thức khuya, nấu ăn trở nên khó hơn.
+   JP: Do 夜更かししなければならなかった, 料理する trở nên khó hơn.
+802. VI: Tôi định gọi điện cho mẹ, nhưng tôi có cuộc hẹn.
+   JP: Tôi định 母に電話する, nhưng 約束がある.
+803. VI: Tôi nghe nói rằng bài kiểm tra khó, nên tôi muốn đi mua đồ.
+   JP: Tôi nghe nói rằng テストが難しい, nên tôi muốn 買い物に行く.
+804. VI: Tôi định nghỉ ngơi ở nhà, nhưng tôi bị đau đầu.
+   JP: Tôi định 家で休む, nhưng 頭が痛い.
+805. VI: Hôm nay trời công việc quá nhiều, nên tôi quyết định gặp bạn.
+   JP: Hôm nay trời 仕事が多すぎる, nên tôi quyết định 友達に会う.
+806. VI: Tôi nghĩ rằng xe buýt đến muộn, nhưng cuối cùng lại gọi điện cho mẹ.
+   JP: Tôi nghĩ rằng バスが遅れた, nhưng cuối cùng lại 母に電話する.
+807. VI: Tôi định đến trường sớm, nhưng tôi quên mang ví.
+   JP: Tôi định 早く学校に行く, nhưng 財布を忘れた.
+808. VI: Tôi nghe nói rằng tôi phải thức khuya, nên tôi muốn tập thể dục.
+   JP: Tôi nghe nói rằng 夜更かししなければならなかった, nên tôi muốn 運動する.
+809. VI: Khi công việc quá nhiều, tôi đã nghỉ ngơi ở nhà.
+   JP: Khi 仕事が多すぎる, tôi đã 家で休む.
+810. VI: Hôm nay trời trời mưa, nên tôi quyết định nghỉ ngơi ở nhà.
+   JP: Hôm nay trời 雨が降っている, nên tôi quyết định 家で休む.
+811. VI: Khi tôi quên mang ví, tôi đã đi mua đồ.
+   JP: Khi 財布を忘れた, tôi đã 買い物に行く.
+812. VI: Khi trời mưa, tôi đã gặp bạn.
+   JP: Khi 雨が降っている, tôi đã 友達に会う.
+813. VI: Vì công việc quá nhiều, tôi không thể đến trường sớm.
+   JP: Vì 仕事が多すぎる, tôi không thể 早く学校に行く.
+814. VI: Tôi nghĩ rằng tôi phải thức khuya, nhưng cuối cùng lại gọi điện cho mẹ.
+   JP: Tôi nghĩ rằng 夜更かししなければならなかった, nhưng cuối cùng lại 母に電話する.
+815. VI: Tôi nghe nói rằng công việc quá nhiều, nên tôi muốn gọi điện cho mẹ.
+   JP: Tôi nghe nói rằng 仕事が多すぎる, nên tôi muốn 母に電話する.
+816. VI: Do tôi quên mang ví, tập thể dục trở nên khó hơn.
+   JP: Do 財布を忘れた, 運動する trở nên khó hơn.
+817. VI: Do tôi cảm thấy mệt, đi khám trở nên khó hơn.
+   JP: Do 疲れている, 病院に行く trở nên khó hơn.
+818. VI: Ngay cả khi trời mưa, tôi cũng sẽ hoàn thành bài tập.
+   JP: Ngay cả khi 雨が降っている, tôi cũng sẽ 宿題を終える.
+819. VI: Tôi nghĩ rằng tôi quên mang ví, nhưng cuối cùng lại hoàn thành bài tập.
+   JP: Tôi nghĩ rằng 財布を忘れた, nhưng cuối cùng lại 宿題を終える.
+820. VI: Khi xe buýt đến muộn, tôi đã gặp bạn.
+   JP: Khi バスが遅れた, tôi đã 友達に会う.
+821. VI: Tôi nghĩ rằng tôi không có nhiều thời gian, nhưng cuối cùng lại gặp bạn.
+   JP: Tôi nghĩ rằng 時間があまりない, nhưng cuối cùng lại 友達に会う.
+822. VI: Khi tôi phải thức khuya, tôi đã nghỉ ngơi ở nhà.
+   JP: Khi 夜更かししなければならなかった, tôi đã 家で休む.
+823. VI: Nếu tôi có cuộc hẹn, thì tôi sẽ đến trường sớm.
+   JP: Nếu 約束がある, thì tôi sẽ 早く学校に行く.
+824. VI: Hôm nay trời tôi có cuộc hẹn, nên tôi quyết định gọi điện cho mẹ.
+   JP: Hôm nay trời 約束がある, nên tôi quyết định 母に電話する.
+825. VI: Nếu tôi không có nhiều thời gian, thì tôi sẽ hoàn thành bài tập.
+   JP: Nếu 時間があまりない, thì tôi sẽ 宿題を終える.
+826. VI: Mặc dù tôi quên mang ví, tôi vẫn cố gắng đến trường sớm.
+   JP: Mặc dù 財布を忘れた, tôi vẫn cố gắng 早く学校に行く.
+827. VI: Vì xe buýt đến muộn, tôi không thể đến trường sớm.
+   JP: Vì バスが遅れた, tôi không thể 早く学校に行く.
+828. VI: Vì tôi phải thức khuya, tôi không thể dọn dẹp phòng.
+   JP: Vì 夜更かししなければならなかった, tôi không thể 部屋を片付ける.
+829. VI: Do xe buýt đến muộn, nghỉ ngơi ở nhà trở nên khó hơn.
+   JP: Do バスが遅れた, 家で休む trở nên khó hơn.
+830. VI: Do xe buýt đến muộn, đi khám trở nên khó hơn.
+   JP: Do バスが遅れた, 病院に行く trở nên khó hơn.
+831. VI: Khi tôi quên mang ví, tôi đã đi mua đồ.
+   JP: Khi 財布を忘れた, tôi đã 買い物に行く.
+832. VI: Tôi nghĩ rằng tôi không có nhiều thời gian, nhưng cuối cùng lại tập thể dục.
+   JP: Tôi nghĩ rằng 時間があまりない, nhưng cuối cùng lại 運動する.
+833. VI: Tôi nghe nói rằng tôi cảm thấy mệt, nên tôi muốn dọn dẹp phòng.
+   JP: Tôi nghe nói rằng 疲れている, nên tôi muốn 部屋を片付ける.
+834. VI: Hôm nay trời công việc quá nhiều, nên tôi quyết định đi khám.
+   JP: Hôm nay trời 仕事が多すぎる, nên tôi quyết định 病院に行く.
+835. VI: Nếu tôi cảm thấy mệt, thì tôi sẽ đến trường sớm.
+   JP: Nếu 疲れている, thì tôi sẽ 早く学校に行く.
+836. VI: Tôi nghe nói rằng bài kiểm tra khó, nên tôi muốn gọi điện cho mẹ.
+   JP: Tôi nghe nói rằng テストが難しい, nên tôi muốn 母に電話する.
+837. VI: Do tôi quên mang ví, đến trường sớm trở nên khó hơn.
+   JP: Do 財布を忘れた, 早く学校に行く trở nên khó hơn.
+838. VI: Tôi nghĩ rằng tôi cảm thấy mệt, nhưng cuối cùng lại nghỉ ngơi ở nhà.
+   JP: Tôi nghĩ rằng 疲れている, nhưng cuối cùng lại 家で休む.
+839. VI: Do xe buýt đến muộn, đi mua đồ trở nên khó hơn.
+   JP: Do バスが遅れた, 買い物に行く trở nên khó hơn.
+840. VI: Hôm nay trời trời mưa, nên tôi quyết định tập thể dục.
+   JP: Hôm nay trời 雨が降っている, nên tôi quyết định 運動する.
+841. VI: Nếu xe buýt đến muộn, thì tôi sẽ đi khám.
+   JP: Nếu バスが遅れた, thì tôi sẽ 病院に行く.
+842. VI: Ngay cả khi tôi cảm thấy mệt, tôi cũng sẽ đến trường sớm.
+   JP: Ngay cả khi 疲れている, tôi cũng sẽ 早く学校に行く.
+843. VI: Ngay cả khi tôi bị đau đầu, tôi cũng sẽ dọn dẹp phòng.
+   JP: Ngay cả khi 頭が痛い, tôi cũng sẽ 部屋を片付ける.
+844. VI: Tôi nghĩ rằng công việc quá nhiều, nhưng cuối cùng lại đến trường sớm.
+   JP: Tôi nghĩ rằng 仕事が多すぎる, nhưng cuối cùng lại 早く学校に行く.
+845. VI: Vì tôi có cuộc hẹn, tôi không thể hoàn thành bài tập.
+   JP: Vì 約束がある, tôi không thể 宿題を終える.
+846. VI: Do công việc quá nhiều, đi mua đồ trở nên khó hơn.
+   JP: Do 仕事が多すぎる, 買い物に行く trở nên khó hơn.
+847. VI: Tôi nghĩ rằng tôi có cuộc hẹn, nhưng cuối cùng lại gặp bạn.
+   JP: Tôi nghĩ rằng 約束がある, nhưng cuối cùng lại 友達に会う.
+848. VI: Tôi nghĩ rằng tôi bị đau đầu, nhưng cuối cùng lại nấu ăn.
+   JP: Tôi nghĩ rằng 頭が痛い, nhưng cuối cùng lại 料理する.
+849. VI: Khi tôi quên mang ví, tôi đã nấu ăn.
+   JP: Khi 財布を忘れた, tôi đã 料理する.
+850. VI: Hôm nay trời xe buýt đến muộn, nên tôi quyết định nấu ăn.
+   JP: Hôm nay trời バスが遅れた, nên tôi quyết định 料理する.
+851. VI: Ngay cả khi tôi không có nhiều thời gian, tôi cũng sẽ đi mua đồ.
+   JP: Ngay cả khi 時間があまりない, tôi cũng sẽ 買い物に行く.
+852. VI: Tôi định gặp bạn, nhưng tôi cảm thấy mệt.
+   JP: Tôi định 友達に会う, nhưng 疲れている.
+853. VI: Ngay cả khi trời mưa, tôi cũng sẽ nghỉ ngơi ở nhà.
+   JP: Ngay cả khi 雨が降っている, tôi cũng sẽ 家で休む.
+854. VI: Khi tôi không có nhiều thời gian, tôi đã đi mua đồ.
+   JP: Khi 時間があまりない, tôi đã 買い物に行く.
+855. VI: Tôi nghĩ rằng tôi quên mang ví, nhưng cuối cùng lại dọn dẹp phòng.
+   JP: Tôi nghĩ rằng 財布を忘れた, nhưng cuối cùng lại 部屋を片付ける.
+856. VI: Mặc dù tôi cảm thấy mệt, tôi vẫn cố gắng dọn dẹp phòng.
+   JP: Mặc dù 疲れている, tôi vẫn cố gắng 部屋を片付ける.
+857. VI: Tôi nghĩ rằng tôi phải thức khuya, nhưng cuối cùng lại đến trường sớm.
+   JP: Tôi nghĩ rằng 夜更かししなければならなかった, nhưng cuối cùng lại 早く学校に行く.
+858. VI: Tôi nghĩ rằng xe buýt đến muộn, nhưng cuối cùng lại gọi điện cho mẹ.
+   JP: Tôi nghĩ rằng バスが遅れた, nhưng cuối cùng lại 母に電話する.
+859. VI: Mặc dù công việc quá nhiều, tôi vẫn cố gắng nấu ăn.
+   JP: Mặc dù 仕事が多すぎる, tôi vẫn cố gắng 料理する.
+860. VI: Khi tôi có cuộc hẹn, tôi đã dọn dẹp phòng.
+   JP: Khi 約束がある, tôi đã 部屋を片付ける.
+861. VI: Nếu tôi phải thức khuya, thì tôi sẽ đi khám.
+   JP: Nếu 夜更かししなければならなかった, thì tôi sẽ 病院に行く.
+862. VI: Mặc dù công việc quá nhiều, tôi vẫn cố gắng đi khám.
+   JP: Mặc dù 仕事が多すぎる, tôi vẫn cố gắng 病院に行く.
+863. VI: Vì trời mưa, tôi không thể gặp bạn.
+   JP: Vì 雨が降っている, tôi không thể 友達に会う.
+864. VI: Hôm nay trời xe buýt đến muộn, nên tôi quyết định nghỉ ngơi ở nhà.
+   JP: Hôm nay trời バスが遅れた, nên tôi quyết định 家で休む.
+865. VI: Mặc dù tôi có cuộc hẹn, tôi vẫn cố gắng gặp bạn.
+   JP: Mặc dù 約束がある, tôi vẫn cố gắng 友達に会う.
+866. VI: Tôi nghĩ rằng xe buýt đến muộn, nhưng cuối cùng lại gặp bạn.
+   JP: Tôi nghĩ rằng バスが遅れた, nhưng cuối cùng lại 友達に会う.
+867. VI: Tôi định đến trường sớm, nhưng tôi quên mang ví.
+   JP: Tôi định 早く学校に行く, nhưng 財布を忘れた.
+868. VI: Hôm nay trời tôi quên mang ví, nên tôi quyết định đến trường sớm.
+   JP: Hôm nay trời 財布を忘れた, nên tôi quyết định 早く学校に行く.
+869. VI: Nếu công việc quá nhiều, thì tôi sẽ nấu ăn.
+   JP: Nếu 仕事が多すぎる, thì tôi sẽ 料理する.
+870. VI: Tôi nghĩ rằng tôi có cuộc hẹn, nhưng cuối cùng lại đi khám.
+   JP: Tôi nghĩ rằng 約束がある, nhưng cuối cùng lại 病院に行く.
+871. VI: Mặc dù tôi phải thức khuya, tôi vẫn cố gắng đi mua đồ.
+   JP: Mặc dù 夜更かししなければならなかった, tôi vẫn cố gắng 買い物に行く.
+872. VI: Nếu tôi không có nhiều thời gian, thì tôi sẽ đi mua đồ.
+   JP: Nếu 時間があまりない, thì tôi sẽ 買い物に行く.
+873. VI: Tôi định đến trường sớm, nhưng trời mưa.
+   JP: Tôi định 早く学校に行く, nhưng 雨が降っている.
+874. VI: Khi tôi bị đau đầu, tôi đã hoàn thành bài tập.
+   JP: Khi 頭が痛い, tôi đã 宿題を終える.
+875. VI: Tôi định nấu ăn, nhưng tôi bị đau đầu.
+   JP: Tôi định 料理する, nhưng 頭が痛い.
+876. VI: Hôm nay trời tôi bị đau đầu, nên tôi quyết định gọi điện cho mẹ.
+   JP: Hôm nay trời 頭が痛い, nên tôi quyết định 母に電話する.
+877. VI: Mặc dù tôi cảm thấy mệt, tôi vẫn cố gắng nghỉ ngơi ở nhà.
+   JP: Mặc dù 疲れている, tôi vẫn cố gắng 家で休む.
+878. VI: Tôi định nấu ăn, nhưng trời mưa.
+   JP: Tôi định 料理する, nhưng 雨が降っている.
+879. VI: Vì công việc quá nhiều, tôi không thể dọn dẹp phòng.
+   JP: Vì 仕事が多すぎる, tôi không thể 部屋を片付ける.
+880. VI: Tôi định nấu ăn, nhưng tôi không có nhiều thời gian.
+   JP: Tôi định 料理する, nhưng 時間があまりない.
+881. VI: Tôi định nấu ăn, nhưng công việc quá nhiều.
+   JP: Tôi định 料理する, nhưng 仕事が多すぎる.
+882. VI: Khi bài kiểm tra khó, tôi đã nấu ăn.
+   JP: Khi テストが難しい, tôi đã 料理する.
+883. VI: Mặc dù tôi quên mang ví, tôi vẫn cố gắng hoàn thành bài tập.
+   JP: Mặc dù 財布を忘れた, tôi vẫn cố gắng 宿題を終える.
+884. VI: Mặc dù tôi bị đau đầu, tôi vẫn cố gắng nấu ăn.
+   JP: Mặc dù 頭が痛い, tôi vẫn cố gắng 料理する.
+885. VI: Do bài kiểm tra khó, dọn dẹp phòng trở nên khó hơn.
+   JP: Do テストが難しい, 部屋を片付ける trở nên khó hơn.
+886. VI: Tôi định hoàn thành bài tập, nhưng trời mưa.
+   JP: Tôi định 宿題を終える, nhưng 雨が降っている.
+887. VI: Vì trời mưa, tôi không thể dọn dẹp phòng.
+   JP: Vì 雨が降っている, tôi không thể 部屋を片付ける.
+888. VI: Tôi nghe nói rằng tôi phải thức khuya, nên tôi muốn hoàn thành bài tập.
+   JP: Tôi nghe nói rằng 夜更かししなければならなかった, nên tôi muốn 宿題を終える.
+889. VI: Vì tôi có cuộc hẹn, tôi không thể đến trường sớm.
+   JP: Vì 約束がある, tôi không thể 早く学校に行く.
+890. VI: Khi tôi quên mang ví, tôi đã đi mua đồ.
+   JP: Khi 財布を忘れた, tôi đã 買い物に行く.
+891. VI: Do xe buýt đến muộn, gặp bạn trở nên khó hơn.
+   JP: Do バスが遅れた, 友達に会う trở nên khó hơn.
+892. VI: Ngay cả khi công việc quá nhiều, tôi cũng sẽ gặp bạn.
+   JP: Ngay cả khi 仕事が多すぎる, tôi cũng sẽ 友達に会う.
+893. VI: Hôm nay trời công việc quá nhiều, nên tôi quyết định đi mua đồ.
+   JP: Hôm nay trời 仕事が多すぎる, nên tôi quyết định 買い物に行く.
+894. VI: Tôi định hoàn thành bài tập, nhưng tôi cảm thấy mệt.
+   JP: Tôi định 宿題を終える, nhưng 疲れている.
+895. VI: Ngay cả khi tôi cảm thấy mệt, tôi cũng sẽ tập thể dục.
+   JP: Ngay cả khi 疲れている, tôi cũng sẽ 運動する.
+896. VI: Mặc dù tôi không có nhiều thời gian, tôi vẫn cố gắng gặp bạn.
+   JP: Mặc dù 時間があまりない, tôi vẫn cố gắng 友達に会う.
+897. VI: Vì trời mưa, tôi không thể gọi điện cho mẹ.
+   JP: Vì 雨が降っている, tôi không thể 母に電話する.
+898. VI: Tôi nghĩ rằng công việc quá nhiều, nhưng cuối cùng lại hoàn thành bài tập.
+   JP: Tôi nghĩ rằng 仕事が多すぎる, nhưng cuối cùng lại 宿題を終える.
+899. VI: Ngay cả khi xe buýt đến muộn, tôi cũng sẽ gặp bạn.
+   JP: Ngay cả khi バスが遅れた, tôi cũng sẽ 友達に会う.
+900. VI: Tôi nghe nói rằng công việc quá nhiều, nên tôi muốn gọi điện cho mẹ.
+   JP: Tôi nghe nói rằng 仕事が多すぎる, nên tôi muốn 母に電話する.
+901. VI: Tôi định gặp bạn, nhưng tôi phải thức khuya.
+   JP: Tôi định 友達に会う, nhưng 夜更かししなければならなかった.
+902. VI: Tôi nghe nói rằng tôi cảm thấy mệt, nên tôi muốn đi khám.
+   JP: Tôi nghe nói rằng 疲れている, nên tôi muốn 病院に行く.
+903. VI: Vì tôi có cuộc hẹn, tôi không thể tập thể dục.
+   JP: Vì 約束がある, tôi không thể 運動する.
+904. VI: Tôi định nấu ăn, nhưng tôi bị đau đầu.
+   JP: Tôi định 料理する, nhưng 頭が痛い.
+905. VI: Nếu xe buýt đến muộn, thì tôi sẽ hoàn thành bài tập.
+   JP: Nếu バスが遅れた, thì tôi sẽ 宿題を終える.
+906. VI: Mặc dù tôi phải thức khuya, tôi vẫn cố gắng gặp bạn.
+   JP: Mặc dù 夜更かししなければならなかった, tôi vẫn cố gắng 友達に会う.
+907. VI: Ngay cả khi tôi quên mang ví, tôi cũng sẽ nghỉ ngơi ở nhà.
+   JP: Ngay cả khi 財布を忘れた, tôi cũng sẽ 家で休む.
+908. VI: Ngay cả khi tôi bị đau đầu, tôi cũng sẽ tập thể dục.
+   JP: Ngay cả khi 頭が痛い, tôi cũng sẽ 運動する.
+909. VI: Nếu xe buýt đến muộn, thì tôi sẽ đến trường sớm.
+   JP: Nếu バスが遅れた, thì tôi sẽ 早く学校に行く.
+910. VI: Vì xe buýt đến muộn, tôi không thể gặp bạn.
+   JP: Vì バスが遅れた, tôi không thể 友達に会う.
+911. VI: Tôi nghe nói rằng tôi bị đau đầu, nên tôi muốn đến trường sớm.
+   JP: Tôi nghe nói rằng 頭が痛い, nên tôi muốn 早く学校に行く.
+912. VI: Tôi nghĩ rằng công việc quá nhiều, nhưng cuối cùng lại dọn dẹp phòng.
+   JP: Tôi nghĩ rằng 仕事が多すぎる, nhưng cuối cùng lại 部屋を片付ける.
+913. VI: Nếu tôi quên mang ví, thì tôi sẽ đến trường sớm.
+   JP: Nếu 財布を忘れた, thì tôi sẽ 早く学校に行く.
+914. VI: Hôm nay trời công việc quá nhiều, nên tôi quyết định nghỉ ngơi ở nhà.
+   JP: Hôm nay trời 仕事が多すぎる, nên tôi quyết định 家で休む.
+915. VI: Tôi định đi mua đồ, nhưng công việc quá nhiều.
+   JP: Tôi định 買い物に行く, nhưng 仕事が多すぎる.
+916. VI: Tôi định gọi điện cho mẹ, nhưng bài kiểm tra khó.
+   JP: Tôi định 母に電話する, nhưng テストが難しい.
+917. VI: Khi tôi phải thức khuya, tôi đã nghỉ ngơi ở nhà.
+   JP: Khi 夜更かししなければならなかった, tôi đã 家で休む.
+918. VI: Nếu tôi quên mang ví, thì tôi sẽ đi mua đồ.
+   JP: Nếu 財布を忘れた, thì tôi sẽ 買い物に行く.
+919. VI: Hôm nay trời bài kiểm tra khó, nên tôi quyết định đi mua đồ.
+   JP: Hôm nay trời テストが難しい, nên tôi quyết định 買い物に行く.
+920. VI: Tôi định hoàn thành bài tập, nhưng tôi quên mang ví.
+   JP: Tôi định 宿題を終える, nhưng 財布を忘れた.
+921. VI: Tôi nghe nói rằng tôi cảm thấy mệt, nên tôi muốn đi khám.
+   JP: Tôi nghe nói rằng 疲れている, nên tôi muốn 病院に行く.
+922. VI: Tôi nghe nói rằng tôi có cuộc hẹn, nên tôi muốn dọn dẹp phòng.
+   JP: Tôi nghe nói rằng 約束がある, nên tôi muốn 部屋を片付ける.
+923. VI: Ngay cả khi tôi quên mang ví, tôi cũng sẽ đến trường sớm.
+   JP: Ngay cả khi 財布を忘れた, tôi cũng sẽ 早く学校に行く.
+924. VI: Tôi định đi khám, nhưng tôi cảm thấy mệt.
+   JP: Tôi định 病院に行く, nhưng 疲れている.
+925. VI: Hôm nay trời tôi cảm thấy mệt, nên tôi quyết định đến trường sớm.
+   JP: Hôm nay trời 疲れている, nên tôi quyết định 早く学校に行く.
+926. VI: Tôi nghĩ rằng bài kiểm tra khó, nhưng cuối cùng lại nghỉ ngơi ở nhà.
+   JP: Tôi nghĩ rằng テストが難しい, nhưng cuối cùng lại 家で休む.
+927. VI: Tôi nghe nói rằng tôi quên mang ví, nên tôi muốn đi khám.
+   JP: Tôi nghe nói rằng 財布を忘れた, nên tôi muốn 病院に行く.
+928. VI: Nếu công việc quá nhiều, thì tôi sẽ nấu ăn.
+   JP: Nếu 仕事が多すぎる, thì tôi sẽ 料理する.
+929. VI: Nếu tôi không có nhiều thời gian, thì tôi sẽ hoàn thành bài tập.
+   JP: Nếu 時間があまりない, thì tôi sẽ 宿題を終える.
+930. VI: Nếu công việc quá nhiều, thì tôi sẽ đi mua đồ.
+   JP: Nếu 仕事が多すぎる, thì tôi sẽ 買い物に行く.
+931. VI: Tôi nghĩ rằng xe buýt đến muộn, nhưng cuối cùng lại đến trường sớm.
+   JP: Tôi nghĩ rằng バスが遅れた, nhưng cuối cùng lại 早く学校に行く.
+932. VI: Ngay cả khi tôi bị đau đầu, tôi cũng sẽ tập thể dục.
+   JP: Ngay cả khi 頭が痛い, tôi cũng sẽ 運動する.
+933. VI: Tôi định tập thể dục, nhưng tôi có cuộc hẹn.
+   JP: Tôi định 運動する, nhưng 約束がある.
+934. VI: Ngay cả khi tôi bị đau đầu, tôi cũng sẽ dọn dẹp phòng.
+   JP: Ngay cả khi 頭が痛い, tôi cũng sẽ 部屋を片付ける.
+935. VI: Nếu tôi phải thức khuya, thì tôi sẽ nấu ăn.
+   JP: Nếu 夜更かししなければならなかった, thì tôi sẽ 料理する.
+936. VI: Khi tôi bị đau đầu, tôi đã dọn dẹp phòng.
+   JP: Khi 頭が痛い, tôi đã 部屋を片付ける.
+937. VI: Tôi nghĩ rằng tôi không có nhiều thời gian, nhưng cuối cùng lại gặp bạn.
+   JP: Tôi nghĩ rằng 時間があまりない, nhưng cuối cùng lại 友達に会う.
+938. VI: Tôi nghe nói rằng trời mưa, nên tôi muốn gặp bạn.
+   JP: Tôi nghe nói rằng 雨が降っている, nên tôi muốn 友達に会う.
+939. VI: Vì công việc quá nhiều, tôi không thể dọn dẹp phòng.
+   JP: Vì 仕事が多すぎる, tôi không thể 部屋を片付ける.
+940. VI: Ngay cả khi trời mưa, tôi cũng sẽ đi mua đồ.
+   JP: Ngay cả khi 雨が降っている, tôi cũng sẽ 買い物に行く.
+941. VI: Tôi nghĩ rằng tôi cảm thấy mệt, nhưng cuối cùng lại đến trường sớm.
+   JP: Tôi nghĩ rằng 疲れている, nhưng cuối cùng lại 早く学校に行く.
+942. VI: Vì tôi phải thức khuya, tôi không thể đến trường sớm.
+   JP: Vì 夜更かししなければならなかった, tôi không thể 早く学校に行く.
+943. VI: Vì xe buýt đến muộn, tôi không thể đến trường sớm.
+   JP: Vì バスが遅れた, tôi không thể 早く学校に行く.
+944. VI: Do tôi phải thức khuya, nghỉ ngơi ở nhà trở nên khó hơn.
+   JP: Do 夜更かししなければならなかった, 家で休む trở nên khó hơn.
+945. VI: Vì trời mưa, tôi không thể nghỉ ngơi ở nhà.
+   JP: Vì 雨が降っている, tôi không thể 家で休む.
+946. VI: Tôi nghe nói rằng tôi phải thức khuya, nên tôi muốn đi mua đồ.
+   JP: Tôi nghe nói rằng 夜更かししなければならなかった, nên tôi muốn 買い物に行く.
+947. VI: Nếu tôi phải thức khuya, thì tôi sẽ nghỉ ngơi ở nhà.
+   JP: Nếu 夜更かししなければならなかった, thì tôi sẽ 家で休む.
+948. VI: Tôi nghe nói rằng tôi quên mang ví, nên tôi muốn tập thể dục.
+   JP: Tôi nghe nói rằng 財布を忘れた, nên tôi muốn 運動する.
+949. VI: Mặc dù tôi phải thức khuya, tôi vẫn cố gắng dọn dẹp phòng.
+   JP: Mặc dù 夜更かししなければならなかった, tôi vẫn cố gắng 部屋を片付ける.
+950. VI: Khi tôi có cuộc hẹn, tôi đã đi mua đồ.
+   JP: Khi 約束がある, tôi đã 買い物に行く.
+951. VI: Mặc dù bài kiểm tra khó, tôi vẫn cố gắng đến trường sớm.
+   JP: Mặc dù テストが難しい, tôi vẫn cố gắng 早く学校に行く.
+952. VI: Tôi nghe nói rằng tôi phải thức khuya, nên tôi muốn tập thể dục.
+   JP: Tôi nghe nói rằng 夜更かししなければならなかった, nên tôi muốn 運動する.
+953. VI: Khi công việc quá nhiều, tôi đã gặp bạn.
+   JP: Khi 仕事が多すぎる, tôi đã 友達に会う.
+954. VI: Tôi nghĩ rằng trời mưa, nhưng cuối cùng lại đi khám.
+   JP: Tôi nghĩ rằng 雨が降っている, nhưng cuối cùng lại 病院に行く.
+955. VI: Hôm nay trời xe buýt đến muộn, nên tôi quyết định đi khám.
+   JP: Hôm nay trời バスが遅れた, nên tôi quyết định 病院に行く.
+956. VI: Mặc dù tôi bị đau đầu, tôi vẫn cố gắng gặp bạn.
+   JP: Mặc dù 頭が痛い, tôi vẫn cố gắng 友達に会う.
+957. VI: Ngay cả khi tôi phải thức khuya, tôi cũng sẽ gọi điện cho mẹ.
+   JP: Ngay cả khi 夜更かししなければならなかった, tôi cũng sẽ 母に電話する.
+958. VI: Tôi định đi khám, nhưng tôi phải thức khuya.
+   JP: Tôi định 病院に行く, nhưng 夜更かししなければならなかった.
+959. VI: Ngay cả khi công việc quá nhiều, tôi cũng sẽ đi khám.
+   JP: Ngay cả khi 仕事が多すぎる, tôi cũng sẽ 病院に行く.
+960. VI: Ngay cả khi công việc quá nhiều, tôi cũng sẽ tập thể dục.
+   JP: Ngay cả khi 仕事が多すぎる, tôi cũng sẽ 運動する.
+961. VI: Vì tôi có cuộc hẹn, tôi không thể tập thể dục.
+   JP: Vì 約束がある, tôi không thể 運動する.
+962. VI: Ngay cả khi tôi phải thức khuya, tôi cũng sẽ hoàn thành bài tập.
+   JP: Ngay cả khi 夜更かししなければならなかった, tôi cũng sẽ 宿題を終える.
+963. VI: Tôi nghĩ rằng công việc quá nhiều, nhưng cuối cùng lại đi khám.
+   JP: Tôi nghĩ rằng 仕事が多すぎる, nhưng cuối cùng lại 病院に行く.
+964. VI: Tôi nghe nói rằng xe buýt đến muộn, nên tôi muốn đến trường sớm.
+   JP: Tôi nghe nói rằng バスが遅れた, nên tôi muốn 早く学校に行く.
+965. VI: Nếu tôi quên mang ví, thì tôi sẽ tập thể dục.
+   JP: Nếu 財布を忘れた, thì tôi sẽ 運動する.
+966. VI: Tôi định gặp bạn, nhưng trời mưa.
+   JP: Tôi định 友達に会う, nhưng 雨が降っている.
+967. VI: Ngay cả khi tôi không có nhiều thời gian, tôi cũng sẽ dọn dẹp phòng.
+   JP: Ngay cả khi 時間があまりない, tôi cũng sẽ 部屋を片付ける.
+968. VI: Vì tôi không có nhiều thời gian, tôi không thể hoàn thành bài tập.
+   JP: Vì 時間があまりない, tôi không thể 宿題を終える.
+969. VI: Nếu tôi không có nhiều thời gian, thì tôi sẽ gặp bạn.
+   JP: Nếu 時間があまりない, thì tôi sẽ 友達に会う.
+970. VI: Nếu xe buýt đến muộn, thì tôi sẽ nghỉ ngơi ở nhà.
+   JP: Nếu バスが遅れた, thì tôi sẽ 家で休む.
+971. VI: Tôi định đến trường sớm, nhưng tôi có cuộc hẹn.
+   JP: Tôi định 早く学校に行く, nhưng 約束がある.
+972. VI: Do tôi bị đau đầu, hoàn thành bài tập trở nên khó hơn.
+   JP: Do 頭が痛い, 宿題を終える trở nên khó hơn.
+973. VI: Ngay cả khi tôi phải thức khuya, tôi cũng sẽ đi mua đồ.
+   JP: Ngay cả khi 夜更かししなければならなかった, tôi cũng sẽ 買い物に行く.
+974. VI: Tôi định gặp bạn, nhưng tôi quên mang ví.
+   JP: Tôi định 友達に会う, nhưng 財布を忘れた.
+975. VI: Tôi định đi mua đồ, nhưng tôi quên mang ví.
+   JP: Tôi định 買い物に行く, nhưng 財布を忘れた.
+976. VI: Vì tôi có cuộc hẹn, tôi không thể đi khám.
+   JP: Vì 約束がある, tôi không thể 病院に行く.
+977. VI: Tôi nghĩ rằng tôi bị đau đầu, nhưng cuối cùng lại gặp bạn.
+   JP: Tôi nghĩ rằng 頭が痛い, nhưng cuối cùng lại 友達に会う.
+978. VI: Khi xe buýt đến muộn, tôi đã nghỉ ngơi ở nhà.
+   JP: Khi バスが遅れた, tôi đã 家で休む.
+979. VI: Tôi nghe nói rằng công việc quá nhiều, nên tôi muốn nấu ăn.
+   JP: Tôi nghe nói rằng 仕事が多すぎる, nên tôi muốn 料理する.
+980. VI: Khi tôi quên mang ví, tôi đã đi mua đồ.
+   JP: Khi 財布を忘れた, tôi đã 買い物に行く.
+981. VI: Do bài kiểm tra khó, đi mua đồ trở nên khó hơn.
+   JP: Do テストが難しい, 買い物に行く trở nên khó hơn.
+982. VI: Vì xe buýt đến muộn, tôi không thể đi mua đồ.
+   JP: Vì バスが遅れた, tôi không thể 買い物に行く.
+983. VI: Khi trời mưa, tôi đã gặp bạn.
+   JP: Khi 雨が降っている, tôi đã 友達に会う.
+984. VI: Hôm nay trời xe buýt đến muộn, nên tôi quyết định nấu ăn.
+   JP: Hôm nay trời バスが遅れた, nên tôi quyết định 料理する.
+985. VI: Nếu tôi không có nhiều thời gian, thì tôi sẽ đến trường sớm.
+   JP: Nếu 時間があまりない, thì tôi sẽ 早く学校に行く.
+986. VI: Vì tôi quên mang ví, tôi không thể nấu ăn.
+   JP: Vì 財布を忘れた, tôi không thể 料理する.
+987. VI: Tôi nghĩ rằng tôi cảm thấy mệt, nhưng cuối cùng lại đi mua đồ.
+   JP: Tôi nghĩ rằng 疲れている, nhưng cuối cùng lại 買い物に行く.
+988. VI: Tôi nghe nói rằng tôi quên mang ví, nên tôi muốn đi khám.
+   JP: Tôi nghe nói rằng 財布を忘れた, nên tôi muốn 病院に行く.
+989. VI: Vì tôi phải thức khuya, tôi không thể gặp bạn.
+   JP: Vì 夜更かししなければならなかった, tôi không thể 友達に会う.
+990. VI: Ngay cả khi trời mưa, tôi cũng sẽ gọi điện cho mẹ.
+   JP: Ngay cả khi 雨が降っている, tôi cũng sẽ 母に電話する.
+991. VI: Tôi định đi khám, nhưng tôi không có nhiều thời gian.
+   JP: Tôi định 病院に行く, nhưng 時間があまりない.
+992. VI: Tôi nghĩ rằng tôi cảm thấy mệt, nhưng cuối cùng lại nấu ăn.
+   JP: Tôi nghĩ rằng 疲れている, nhưng cuối cùng lại 料理する.
+993. VI: Ngay cả khi tôi không có nhiều thời gian, tôi cũng sẽ gặp bạn.
+   JP: Ngay cả khi 時間があまりない, tôi cũng sẽ 友達に会う.
+994. VI: Tôi nghe nói rằng tôi không có nhiều thời gian, nên tôi muốn đi khám.
+   JP: Tôi nghe nói rằng 時間があまりない, nên tôi muốn 病院に行く.
+995. VI: Tôi định hoàn thành bài tập, nhưng trời mưa.
+   JP: Tôi định 宿題を終える, nhưng 雨が降っている.
+996. VI: Hôm nay trời xe buýt đến muộn, nên tôi quyết định gặp bạn.
+   JP: Hôm nay trời バスが遅れた, nên tôi quyết định 友達に会う.
+997. VI: Khi tôi phải thức khuya, tôi đã nghỉ ngơi ở nhà.
+   JP: Khi 夜更かししなければならなかった, tôi đã 家で休む.
+998. VI: Khi bài kiểm tra khó, tôi đã tập thể dục.
+   JP: Khi テストが難しい, tôi đã 運動する.
+999. VI: Nếu bài kiểm tra khó, thì tôi sẽ đến trường sớm.
+   JP: Nếu テストが難しい, thì tôi sẽ 早く学校に行く.
+1000. VI: Vì bài kiểm tra khó, tôi không thể nấu ăn.
+   JP: Vì テストが難しい, tôi không thể 料理する.

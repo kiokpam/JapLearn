@@ -1,0 +1,1000 @@
+1. Tôi đang gặp chút rắc rối vì tôi phải di chuyển rất nhiều. Bạn có thể giúp tôi trò chuyện với bạn bè được không?
+2. Ban đầu tôi định dành thời gian cho bản thân, nhưng do tâm trạng không ổn định nên có thể phải dời lại.
+3. Thực ra tôi đã quyết định trò chuyện với bạn bè, nhưng vì thời tiết thay đổi thất thường nên tôi vẫn hơi lo lắng.
+4. Gần đây tôi cảm thấy gia đình có việc đột xuất, nên tôi nghĩ mình nên nghỉ ngơi một ngày để cải thiện tình hình.
+5. Nếu bạn thấy khó khăn khi tôi phải di chuyển rất nhiều, cứ nói nhé, tôi sẵn sàng nghỉ ngơi một ngày bất cứ lúc nào.
+6. Lâu rồi không gặp, Lan! Nghe nói gần đây bạn thời tiết thay đổi thất thường, có ổn không? Nếu cần thì tôi có thể gặp bác sĩ kiểm tra.
+7. Theo bạn thì nếu tâm trạng không ổn định, tôi nên gặp bác sĩ kiểm tra hay làm cách khác?
+8. Tôi đang gặp chút rắc rối vì đường phố kẹt xe nghiêm trọng. Bạn có thể giúp tôi đi dạo cho thư giãn được không?
+9. Ban đầu tôi định gặp bác sĩ kiểm tra, nhưng do kế hoạch bị thay đổi phút chót nên có thể phải dời lại.
+10. Ban đầu tôi định sắp xếp lại lịch trình, nhưng do thời tiết thay đổi thất thường nên có thể phải dời lại.
+11. Lâu rồi không gặp, Khôi! Nghe nói gần đây bạn tôi phải di chuyển rất nhiều, có ổn không? Nếu cần thì tôi có thể đi uống cà phê.
+12. Ngay khi tôi chuẩn bị đi dạo cho thư giãn, thì tôi phải di chuyển rất nhiều xảy ra khiến tôi không kịp trở tay.
+13. Lâu rồi không gặp, Vy! Nghe nói gần đây bạn đường phố kẹt xe nghiêm trọng, có ổn không? Nếu cần thì tôi có thể gặp bác sĩ kiểm tra.
+14. Theo bạn thì nếu kế hoạch bị thay đổi phút chót, tôi nên tập trung giải quyết từng việc một hay làm cách khác?
+15. Ngay khi tôi chuẩn bị tập trung giải quyết từng việc một, thì thời tiết thay đổi thất thường xảy ra khiến tôi không kịp trở tay.
+16. Lâu rồi không gặp, Vy! Nghe nói gần đây bạn lịch trình bị xáo trộn, có ổn không? Nếu cần thì tôi có thể dành thời gian cho bản thân.
+17. Chào Hưng, dạo này gia đình có việc đột xuất không? Tôi định sắp xếp lại lịch trình sau giờ làm, bạn có muốn đi cùng không?
+18. Tôi đang tính sắp xếp lại lịch trình vào cuối tuần, nhưng nếu thời tiết thay đổi thất thường xảy ra thì có lẽ phải thay đổi kế hoạch.
+19. Lâu rồi không gặp, Tú! Nghe nói gần đây bạn gia đình có việc đột xuất, có ổn không? Nếu cần thì tôi có thể trò chuyện với bạn bè.
+20. Ngay khi tôi chuẩn bị tập trung giải quyết từng việc một, thì kế hoạch bị thay đổi phút chót xảy ra khiến tôi không kịp trở tay.
+21. Chào Lan, dạo này kế hoạch bị thay đổi phút chót không? Tôi định tập trung giải quyết từng việc một sau giờ làm, bạn có muốn đi cùng không?
+22. Ngay khi tôi chuẩn bị đi dạo cho thư giãn, thì tài chính có chút vấn đề xảy ra khiến tôi không kịp trở tay.
+23. Sở dĩ tôi đi dạo cho thư giãn là vì gần đây tài chính có chút vấn đề, nên tôi muốn thay đổi một chút.
+24. Thực ra tôi đã quyết định tập thể dục nhiều hơn, nhưng vì sức khỏe không được tốt nên tôi vẫn hơi lo lắng.
+25. Nếu bạn thấy khó khăn khi gia đình có việc đột xuất, cứ nói nhé, tôi sẵn sàng học thêm một kỹ năng mới bất cứ lúc nào.
+26. Tôi muốn nghe ý kiến của bạn: với tình huống tâm trạng không ổn định, liệu học thêm một kỹ năng mới có hợp lý không?
+27. Đáng lẽ tôi đã trò chuyện với bạn bè, nhưng đột nhiên lịch trình bị xáo trộn khiến mọi thứ bị đảo lộn.
+28. Thực ra tôi đã quyết định tập trung giải quyết từng việc một, nhưng vì công việc quá bận rộn nên tôi vẫn hơi lo lắng.
+29. Tôi đang phân vân không biết có nên đi uống cà phê hay không, nhất là khi công việc quá bận rộn.
+30. Ngay khi tôi chuẩn bị đi dạo cho thư giãn, thì sức khỏe không được tốt xảy ra khiến tôi không kịp trở tay.
+31. Nếu bạn thấy khó khăn khi thời tiết thay đổi thất thường, cứ nói nhé, tôi sẵn sàng học thêm một kỹ năng mới bất cứ lúc nào.
+32. Gần đây tôi cảm thấy tâm trạng không ổn định, nên tôi nghĩ mình nên tập thể dục nhiều hơn để cải thiện tình hình.
+33. Ngay khi tôi chuẩn bị tập thể dục nhiều hơn, thì tài chính có chút vấn đề xảy ra khiến tôi không kịp trở tay.
+34. Tôi đang gặp chút rắc rối vì tôi phải di chuyển rất nhiều. Bạn có thể giúp tôi học thêm một kỹ năng mới được không?
+35. Tôi đang phân vân không biết có nên dành thời gian cho bản thân hay không, nhất là khi kế hoạch bị thay đổi phút chót.
+36. Mặc dù tôi phải di chuyển rất nhiều, tôi vẫn cố gắng đi dạo cho thư giãn mỗi ngày.
+37. Mặc dù tâm trạng không ổn định, tôi vẫn cố gắng học thêm một kỹ năng mới mỗi ngày.
+38. Chào Hương, dạo này sức khỏe không được tốt không? Tôi định đi uống cà phê sau giờ làm, bạn có muốn đi cùng không?
+39. Mặc dù gia đình có việc đột xuất, tôi vẫn cố gắng tập trung giải quyết từng việc một mỗi ngày.
+40. Ban đầu tôi định tập trung giải quyết từng việc một, nhưng do kế hoạch bị thay đổi phút chót nên có thể phải dời lại.
+41. Tôi muốn nghe ý kiến của bạn: với tình huống tôi phải di chuyển rất nhiều, liệu dành thời gian cho bản thân có hợp lý không?
+42. Tôi đang gặp chút rắc rối vì công việc quá bận rộn. Bạn có thể giúp tôi tập thể dục nhiều hơn được không?
+43. Chào Lan, dạo này công việc quá bận rộn không? Tôi định tập thể dục nhiều hơn sau giờ làm, bạn có muốn đi cùng không?
+44. Theo bạn thì nếu đường phố kẹt xe nghiêm trọng, tôi nên tập thể dục nhiều hơn hay làm cách khác?
+45. Sở dĩ tôi tập trung giải quyết từng việc một là vì gần đây công việc quá bận rộn, nên tôi muốn thay đổi một chút.
+46. Ban đầu tôi định gặp bác sĩ kiểm tra, nhưng do thời tiết thay đổi thất thường nên có thể phải dời lại.
+47. Gần đây tôi cảm thấy công việc quá bận rộn, nên tôi nghĩ mình nên trò chuyện với bạn bè để cải thiện tình hình.
+48. Lâu rồi không gặp, Khôi! Nghe nói gần đây bạn tôi phải di chuyển rất nhiều, có ổn không? Nếu cần thì tôi có thể đi uống cà phê.
+49. Tôi đang phân vân không biết có nên học thêm một kỹ năng mới hay không, nhất là khi tài chính có chút vấn đề.
+50. Tôi đang phân vân không biết có nên đi dạo cho thư giãn hay không, nhất là khi tài chính có chút vấn đề.
+51. Tôi đang tính đi dạo cho thư giãn vào cuối tuần, nhưng nếu thời tiết thay đổi thất thường xảy ra thì có lẽ phải thay đổi kế hoạch.
+52. Tôi đang tính tập thể dục nhiều hơn vào cuối tuần, nhưng nếu thời tiết thay đổi thất thường xảy ra thì có lẽ phải thay đổi kế hoạch.
+53. Đáng lẽ tôi đã tập trung giải quyết từng việc một, nhưng đột nhiên thời tiết thay đổi thất thường khiến mọi thứ bị đảo lộn.
+54. Theo bạn thì nếu gia đình có việc đột xuất, tôi nên học thêm một kỹ năng mới hay làm cách khác?
+55. Ngay khi tôi chuẩn bị nghỉ ngơi một ngày, thì kế hoạch bị thay đổi phút chót xảy ra khiến tôi không kịp trở tay.
+56. Ban đầu tôi định đi dạo cho thư giãn, nhưng do lịch trình bị xáo trộn nên có thể phải dời lại.
+57. Tôi đang tính học thêm một kỹ năng mới vào cuối tuần, nhưng nếu đường phố kẹt xe nghiêm trọng xảy ra thì có lẽ phải thay đổi kế hoạch.
+58. Lâu rồi không gặp, Minh! Nghe nói gần đây bạn tôi phải di chuyển rất nhiều, có ổn không? Nếu cần thì tôi có thể tập trung giải quyết từng việc một.
+59. Tôi muốn nghe ý kiến của bạn: với tình huống sức khỏe không được tốt, liệu gặp bác sĩ kiểm tra có hợp lý không?
+60. Đáng lẽ tôi đã trò chuyện với bạn bè, nhưng đột nhiên thời tiết thay đổi thất thường khiến mọi thứ bị đảo lộn.
+61. Ngay khi tôi chuẩn bị tập trung giải quyết từng việc một, thì tôi phải di chuyển rất nhiều xảy ra khiến tôi không kịp trở tay.
+62. Gần đây tôi cảm thấy đường phố kẹt xe nghiêm trọng, nên tôi nghĩ mình nên sắp xếp lại lịch trình để cải thiện tình hình.
+63. Ngay khi tôi chuẩn bị đi uống cà phê, thì tâm trạng không ổn định xảy ra khiến tôi không kịp trở tay.
+64. Theo bạn thì nếu gia đình có việc đột xuất, tôi nên tập thể dục nhiều hơn hay làm cách khác?
+65. Mặc dù công việc quá bận rộn, tôi vẫn cố gắng đi dạo cho thư giãn mỗi ngày.
+66. Tôi đang gặp chút rắc rối vì gia đình có việc đột xuất. Bạn có thể giúp tôi tập thể dục nhiều hơn được không?
+67. Đáng lẽ tôi đã trò chuyện với bạn bè, nhưng đột nhiên kế hoạch bị thay đổi phút chót khiến mọi thứ bị đảo lộn.
+68. Ngay khi tôi chuẩn bị học thêm một kỹ năng mới, thì tôi phải di chuyển rất nhiều xảy ra khiến tôi không kịp trở tay.
+69. Tôi đang phân vân không biết có nên đi dạo cho thư giãn hay không, nhất là khi gia đình có việc đột xuất.
+70. Gần đây tôi cảm thấy tâm trạng không ổn định, nên tôi nghĩ mình nên học thêm một kỹ năng mới để cải thiện tình hình.
+71. Sở dĩ tôi học thêm một kỹ năng mới là vì gần đây tài chính có chút vấn đề, nên tôi muốn thay đổi một chút.
+72. Mặc dù lịch trình bị xáo trộn, tôi vẫn cố gắng đi uống cà phê mỗi ngày.
+73. Mặc dù tôi phải di chuyển rất nhiều, tôi vẫn cố gắng đi uống cà phê mỗi ngày.
+74. Thực ra tôi đã quyết định trò chuyện với bạn bè, nhưng vì công việc quá bận rộn nên tôi vẫn hơi lo lắng.
+75. Chào Nam, dạo này tâm trạng không ổn định không? Tôi định nghỉ ngơi một ngày sau giờ làm, bạn có muốn đi cùng không?
+76. Đáng lẽ tôi đã nghỉ ngơi một ngày, nhưng đột nhiên tôi phải di chuyển rất nhiều khiến mọi thứ bị đảo lộn.
+77. Theo bạn thì nếu công việc quá bận rộn, tôi nên dành thời gian cho bản thân hay làm cách khác?
+78. Ban đầu tôi định tập thể dục nhiều hơn, nhưng do công việc quá bận rộn nên có thể phải dời lại.
+79. Tôi đang tính đi uống cà phê vào cuối tuần, nhưng nếu sức khỏe không được tốt xảy ra thì có lẽ phải thay đổi kế hoạch.
+80. Ban đầu tôi định đi dạo cho thư giãn, nhưng do công việc quá bận rộn nên có thể phải dời lại.
+81. Ngay khi tôi chuẩn bị dành thời gian cho bản thân, thì kế hoạch bị thay đổi phút chót xảy ra khiến tôi không kịp trở tay.
+82. Tôi đang gặp chút rắc rối vì gia đình có việc đột xuất. Bạn có thể giúp tôi sắp xếp lại lịch trình được không?
+83. Ban đầu tôi định học thêm một kỹ năng mới, nhưng do kế hoạch bị thay đổi phút chót nên có thể phải dời lại.
+84. Nếu bạn thấy khó khăn khi tâm trạng không ổn định, cứ nói nhé, tôi sẵn sàng đi uống cà phê bất cứ lúc nào.
+85. Ngay khi tôi chuẩn bị tập trung giải quyết từng việc một, thì sức khỏe không được tốt xảy ra khiến tôi không kịp trở tay.
+86. Không phải tôi không muốn tập thể dục nhiều hơn, chỉ là sức khỏe không được tốt khiến tôi khó thực hiện.
+87. Chào Nam, dạo này đường phố kẹt xe nghiêm trọng không? Tôi định gặp bác sĩ kiểm tra sau giờ làm, bạn có muốn đi cùng không?
+88. Ngay khi tôi chuẩn bị tập thể dục nhiều hơn, thì công việc quá bận rộn xảy ra khiến tôi không kịp trở tay.
+89. Thực ra tôi đã quyết định nghỉ ngơi một ngày, nhưng vì lịch trình bị xáo trộn nên tôi vẫn hơi lo lắng.
+90. Tôi đang tính dành thời gian cho bản thân vào cuối tuần, nhưng nếu tôi phải di chuyển rất nhiều xảy ra thì có lẽ phải thay đổi kế hoạch.
+91. Tôi đang gặp chút rắc rối vì công việc quá bận rộn. Bạn có thể giúp tôi dành thời gian cho bản thân được không?
+92. Thực ra tôi đã quyết định học thêm một kỹ năng mới, nhưng vì tôi phải di chuyển rất nhiều nên tôi vẫn hơi lo lắng.
+93. Gần đây tôi cảm thấy kế hoạch bị thay đổi phút chót, nên tôi nghĩ mình nên nghỉ ngơi một ngày để cải thiện tình hình.
+94. Lâu rồi không gặp, Vy! Nghe nói gần đây bạn công việc quá bận rộn, có ổn không? Nếu cần thì tôi có thể đi dạo cho thư giãn.
+95. Gần đây tôi cảm thấy kế hoạch bị thay đổi phút chót, nên tôi nghĩ mình nên gặp bác sĩ kiểm tra để cải thiện tình hình.
+96. Lâu rồi không gặp, Hương! Nghe nói gần đây bạn lịch trình bị xáo trộn, có ổn không? Nếu cần thì tôi có thể đi uống cà phê.
+97. Ngay khi tôi chuẩn bị tập thể dục nhiều hơn, thì lịch trình bị xáo trộn xảy ra khiến tôi không kịp trở tay.
+98. Đáng lẽ tôi đã tập thể dục nhiều hơn, nhưng đột nhiên tâm trạng không ổn định khiến mọi thứ bị đảo lộn.
+99. Theo bạn thì nếu thời tiết thay đổi thất thường, tôi nên tập thể dục nhiều hơn hay làm cách khác?
+100. Gần đây tôi cảm thấy tôi phải di chuyển rất nhiều, nên tôi nghĩ mình nên gặp bác sĩ kiểm tra để cải thiện tình hình.
+101. Thực ra tôi đã quyết định sắp xếp lại lịch trình, nhưng vì tài chính có chút vấn đề nên tôi vẫn hơi lo lắng.
+102. Không phải tôi không muốn gặp bác sĩ kiểm tra, chỉ là tài chính có chút vấn đề khiến tôi khó thực hiện.
+103. Ban đầu tôi định tập trung giải quyết từng việc một, nhưng do thời tiết thay đổi thất thường nên có thể phải dời lại.
+104. Tôi đang gặp chút rắc rối vì tôi phải di chuyển rất nhiều. Bạn có thể giúp tôi đi uống cà phê được không?
+105. Chào Nam, dạo này tâm trạng không ổn định không? Tôi định tập trung giải quyết từng việc một sau giờ làm, bạn có muốn đi cùng không?
+106. Ban đầu tôi định dành thời gian cho bản thân, nhưng do kế hoạch bị thay đổi phút chót nên có thể phải dời lại.
+107. Tôi đang tính đi dạo cho thư giãn vào cuối tuần, nhưng nếu gia đình có việc đột xuất xảy ra thì có lẽ phải thay đổi kế hoạch.
+108. Không phải tôi không muốn trò chuyện với bạn bè, chỉ là tâm trạng không ổn định khiến tôi khó thực hiện.
+109. Đáng lẽ tôi đã tập thể dục nhiều hơn, nhưng đột nhiên tâm trạng không ổn định khiến mọi thứ bị đảo lộn.
+110. Tôi đang phân vân không biết có nên đi uống cà phê hay không, nhất là khi gia đình có việc đột xuất.
+111. Lâu rồi không gặp, Lan! Nghe nói gần đây bạn tôi phải di chuyển rất nhiều, có ổn không? Nếu cần thì tôi có thể dành thời gian cho bản thân.
+112. Không phải tôi không muốn sắp xếp lại lịch trình, chỉ là tài chính có chút vấn đề khiến tôi khó thực hiện.
+113. Tôi đang tính đi dạo cho thư giãn vào cuối tuần, nhưng nếu thời tiết thay đổi thất thường xảy ra thì có lẽ phải thay đổi kế hoạch.
+114. Ban đầu tôi định nghỉ ngơi một ngày, nhưng do sức khỏe không được tốt nên có thể phải dời lại.
+115. Thực ra tôi đã quyết định gặp bác sĩ kiểm tra, nhưng vì tâm trạng không ổn định nên tôi vẫn hơi lo lắng.
+116. Chào Lan, dạo này đường phố kẹt xe nghiêm trọng không? Tôi định sắp xếp lại lịch trình sau giờ làm, bạn có muốn đi cùng không?
+117. Lâu rồi không gặp, Khôi! Nghe nói gần đây bạn gia đình có việc đột xuất, có ổn không? Nếu cần thì tôi có thể tập thể dục nhiều hơn.
+118. Nếu bạn thấy khó khăn khi kế hoạch bị thay đổi phút chót, cứ nói nhé, tôi sẵn sàng học thêm một kỹ năng mới bất cứ lúc nào.
+119. Tôi đang phân vân không biết có nên tập thể dục nhiều hơn hay không, nhất là khi lịch trình bị xáo trộn.
+120. Tôi đang gặp chút rắc rối vì tài chính có chút vấn đề. Bạn có thể giúp tôi nghỉ ngơi một ngày được không?
+121. Tôi đang gặp chút rắc rối vì tôi phải di chuyển rất nhiều. Bạn có thể giúp tôi gặp bác sĩ kiểm tra được không?
+122. Đáng lẽ tôi đã tập thể dục nhiều hơn, nhưng đột nhiên đường phố kẹt xe nghiêm trọng khiến mọi thứ bị đảo lộn.
+123. Nếu bạn thấy khó khăn khi tâm trạng không ổn định, cứ nói nhé, tôi sẵn sàng gặp bác sĩ kiểm tra bất cứ lúc nào.
+124. Mặc dù tâm trạng không ổn định, tôi vẫn cố gắng sắp xếp lại lịch trình mỗi ngày.
+125. Sở dĩ tôi trò chuyện với bạn bè là vì gần đây đường phố kẹt xe nghiêm trọng, nên tôi muốn thay đổi một chút.
+126. Tôi muốn nghe ý kiến của bạn: với tình huống tài chính có chút vấn đề, liệu trò chuyện với bạn bè có hợp lý không?
+127. Tôi muốn nghe ý kiến của bạn: với tình huống tài chính có chút vấn đề, liệu sắp xếp lại lịch trình có hợp lý không?
+128. Không phải tôi không muốn trò chuyện với bạn bè, chỉ là tôi phải di chuyển rất nhiều khiến tôi khó thực hiện.
+129. Nếu bạn thấy khó khăn khi tâm trạng không ổn định, cứ nói nhé, tôi sẵn sàng đi uống cà phê bất cứ lúc nào.
+130. Tôi đang gặp chút rắc rối vì tâm trạng không ổn định. Bạn có thể giúp tôi đi uống cà phê được không?
+131. Gần đây tôi cảm thấy tài chính có chút vấn đề, nên tôi nghĩ mình nên tập thể dục nhiều hơn để cải thiện tình hình.
+132. Gần đây tôi cảm thấy gia đình có việc đột xuất, nên tôi nghĩ mình nên nghỉ ngơi một ngày để cải thiện tình hình.
+133. Thực ra tôi đã quyết định tập trung giải quyết từng việc một, nhưng vì gia đình có việc đột xuất nên tôi vẫn hơi lo lắng.
+134. Tôi đang phân vân không biết có nên tập trung giải quyết từng việc một hay không, nhất là khi gia đình có việc đột xuất.
+135. Tôi muốn nghe ý kiến của bạn: với tình huống công việc quá bận rộn, liệu tập trung giải quyết từng việc một có hợp lý không?
+136. Tôi đang tính sắp xếp lại lịch trình vào cuối tuần, nhưng nếu thời tiết thay đổi thất thường xảy ra thì có lẽ phải thay đổi kế hoạch.
+137. Tôi muốn nghe ý kiến của bạn: với tình huống thời tiết thay đổi thất thường, liệu đi uống cà phê có hợp lý không?
+138. Chào Lan, dạo này tâm trạng không ổn định không? Tôi định sắp xếp lại lịch trình sau giờ làm, bạn có muốn đi cùng không?
+139. Tôi đang phân vân không biết có nên nghỉ ngơi một ngày hay không, nhất là khi tôi phải di chuyển rất nhiều.
+140. Lâu rồi không gặp, Tú! Nghe nói gần đây bạn công việc quá bận rộn, có ổn không? Nếu cần thì tôi có thể sắp xếp lại lịch trình.
+141. Lâu rồi không gặp, Minh! Nghe nói gần đây bạn tâm trạng không ổn định, có ổn không? Nếu cần thì tôi có thể học thêm một kỹ năng mới.
+142. Đáng lẽ tôi đã học thêm một kỹ năng mới, nhưng đột nhiên tâm trạng không ổn định khiến mọi thứ bị đảo lộn.
+143. Tôi đang gặp chút rắc rối vì công việc quá bận rộn. Bạn có thể giúp tôi dành thời gian cho bản thân được không?
+144. Tôi muốn nghe ý kiến của bạn: với tình huống lịch trình bị xáo trộn, liệu nghỉ ngơi một ngày có hợp lý không?
+145. Nếu bạn thấy khó khăn khi gia đình có việc đột xuất, cứ nói nhé, tôi sẵn sàng sắp xếp lại lịch trình bất cứ lúc nào.
+146. Thực ra tôi đã quyết định dành thời gian cho bản thân, nhưng vì đường phố kẹt xe nghiêm trọng nên tôi vẫn hơi lo lắng.
+147. Tôi đang phân vân không biết có nên gặp bác sĩ kiểm tra hay không, nhất là khi tôi phải di chuyển rất nhiều.
+148. Mặc dù tài chính có chút vấn đề, tôi vẫn cố gắng tập trung giải quyết từng việc một mỗi ngày.
+149. Chào Nam, dạo này tâm trạng không ổn định không? Tôi định đi uống cà phê sau giờ làm, bạn có muốn đi cùng không?
+150. Đáng lẽ tôi đã trò chuyện với bạn bè, nhưng đột nhiên lịch trình bị xáo trộn khiến mọi thứ bị đảo lộn.
+151. Ban đầu tôi định tập trung giải quyết từng việc một, nhưng do kế hoạch bị thay đổi phút chót nên có thể phải dời lại.
+152. Nếu bạn thấy khó khăn khi lịch trình bị xáo trộn, cứ nói nhé, tôi sẵn sàng đi dạo cho thư giãn bất cứ lúc nào.
+153. Tôi đang phân vân không biết có nên gặp bác sĩ kiểm tra hay không, nhất là khi lịch trình bị xáo trộn.
+154. Thực ra tôi đã quyết định sắp xếp lại lịch trình, nhưng vì thời tiết thay đổi thất thường nên tôi vẫn hơi lo lắng.
+155. Đáng lẽ tôi đã tập trung giải quyết từng việc một, nhưng đột nhiên sức khỏe không được tốt khiến mọi thứ bị đảo lộn.
+156. Tôi đang gặp chút rắc rối vì đường phố kẹt xe nghiêm trọng. Bạn có thể giúp tôi gặp bác sĩ kiểm tra được không?
+157. Ngay khi tôi chuẩn bị tập trung giải quyết từng việc một, thì thời tiết thay đổi thất thường xảy ra khiến tôi không kịp trở tay.
+158. Thực ra tôi đã quyết định trò chuyện với bạn bè, nhưng vì công việc quá bận rộn nên tôi vẫn hơi lo lắng.
+159. Ngay khi tôi chuẩn bị đi uống cà phê, thì công việc quá bận rộn xảy ra khiến tôi không kịp trở tay.
+160. Gần đây tôi cảm thấy gia đình có việc đột xuất, nên tôi nghĩ mình nên gặp bác sĩ kiểm tra để cải thiện tình hình.
+161. Ban đầu tôi định tập thể dục nhiều hơn, nhưng do sức khỏe không được tốt nên có thể phải dời lại.
+162. Tôi đang phân vân không biết có nên đi uống cà phê hay không, nhất là khi kế hoạch bị thay đổi phút chót.
+163. Nếu bạn thấy khó khăn khi thời tiết thay đổi thất thường, cứ nói nhé, tôi sẵn sàng học thêm một kỹ năng mới bất cứ lúc nào.
+164. Ban đầu tôi định tập thể dục nhiều hơn, nhưng do lịch trình bị xáo trộn nên có thể phải dời lại.
+165. Sở dĩ tôi nghỉ ngơi một ngày là vì gần đây lịch trình bị xáo trộn, nên tôi muốn thay đổi một chút.
+166. Tôi đang gặp chút rắc rối vì đường phố kẹt xe nghiêm trọng. Bạn có thể giúp tôi nghỉ ngơi một ngày được không?
+167. Theo bạn thì nếu kế hoạch bị thay đổi phút chót, tôi nên học thêm một kỹ năng mới hay làm cách khác?
+168. Nếu bạn thấy khó khăn khi tài chính có chút vấn đề, cứ nói nhé, tôi sẵn sàng sắp xếp lại lịch trình bất cứ lúc nào.
+169. Sở dĩ tôi nghỉ ngơi một ngày là vì gần đây tôi phải di chuyển rất nhiều, nên tôi muốn thay đổi một chút.
+170. Không phải tôi không muốn dành thời gian cho bản thân, chỉ là kế hoạch bị thay đổi phút chót khiến tôi khó thực hiện.
+171. Tôi đang phân vân không biết có nên tập trung giải quyết từng việc một hay không, nhất là khi kế hoạch bị thay đổi phút chót.
+172. Tôi đang tính nghỉ ngơi một ngày vào cuối tuần, nhưng nếu gia đình có việc đột xuất xảy ra thì có lẽ phải thay đổi kế hoạch.
+173. Lâu rồi không gặp, Nam! Nghe nói gần đây bạn công việc quá bận rộn, có ổn không? Nếu cần thì tôi có thể dành thời gian cho bản thân.
+174. Tôi đang gặp chút rắc rối vì công việc quá bận rộn. Bạn có thể giúp tôi nghỉ ngơi một ngày được không?
+175. Tôi đang phân vân không biết có nên học thêm một kỹ năng mới hay không, nhất là khi tâm trạng không ổn định.
+176. Không phải tôi không muốn tập trung giải quyết từng việc một, chỉ là tài chính có chút vấn đề khiến tôi khó thực hiện.
+177. Chào Vy, dạo này thời tiết thay đổi thất thường không? Tôi định nghỉ ngơi một ngày sau giờ làm, bạn có muốn đi cùng không?
+178. Tôi đang tính đi uống cà phê vào cuối tuần, nhưng nếu kế hoạch bị thay đổi phút chót xảy ra thì có lẽ phải thay đổi kế hoạch.
+179. Không phải tôi không muốn đi dạo cho thư giãn, chỉ là công việc quá bận rộn khiến tôi khó thực hiện.
+180. Tôi đang phân vân không biết có nên gặp bác sĩ kiểm tra hay không, nhất là khi tâm trạng không ổn định.
+181. Ban đầu tôi định sắp xếp lại lịch trình, nhưng do sức khỏe không được tốt nên có thể phải dời lại.
+182. Tôi đang tính đi uống cà phê vào cuối tuần, nhưng nếu tâm trạng không ổn định xảy ra thì có lẽ phải thay đổi kế hoạch.
+183. Sở dĩ tôi tập thể dục nhiều hơn là vì gần đây tâm trạng không ổn định, nên tôi muốn thay đổi một chút.
+184. Lâu rồi không gặp, Hương! Nghe nói gần đây bạn gia đình có việc đột xuất, có ổn không? Nếu cần thì tôi có thể học thêm một kỹ năng mới.
+185. Không phải tôi không muốn tập trung giải quyết từng việc một, chỉ là gia đình có việc đột xuất khiến tôi khó thực hiện.
+186. Chào Hương, dạo này kế hoạch bị thay đổi phút chót không? Tôi định sắp xếp lại lịch trình sau giờ làm, bạn có muốn đi cùng không?
+187. Chào Minh, dạo này đường phố kẹt xe nghiêm trọng không? Tôi định học thêm một kỹ năng mới sau giờ làm, bạn có muốn đi cùng không?
+188. Tôi đang tính trò chuyện với bạn bè vào cuối tuần, nhưng nếu đường phố kẹt xe nghiêm trọng xảy ra thì có lẽ phải thay đổi kế hoạch.
+189. Theo bạn thì nếu tâm trạng không ổn định, tôi nên nghỉ ngơi một ngày hay làm cách khác?
+190. Thực ra tôi đã quyết định trò chuyện với bạn bè, nhưng vì gia đình có việc đột xuất nên tôi vẫn hơi lo lắng.
+191. Mặc dù tài chính có chút vấn đề, tôi vẫn cố gắng gặp bác sĩ kiểm tra mỗi ngày.
+192. Tôi đang gặp chút rắc rối vì tâm trạng không ổn định. Bạn có thể giúp tôi tập thể dục nhiều hơn được không?
+193. Ban đầu tôi định dành thời gian cho bản thân, nhưng do sức khỏe không được tốt nên có thể phải dời lại.
+194. Mặc dù sức khỏe không được tốt, tôi vẫn cố gắng dành thời gian cho bản thân mỗi ngày.
+195. Không phải tôi không muốn nghỉ ngơi một ngày, chỉ là tâm trạng không ổn định khiến tôi khó thực hiện.
+196. Tôi muốn nghe ý kiến của bạn: với tình huống tài chính có chút vấn đề, liệu đi dạo cho thư giãn có hợp lý không?
+197. Gần đây tôi cảm thấy tôi phải di chuyển rất nhiều, nên tôi nghĩ mình nên nghỉ ngơi một ngày để cải thiện tình hình.
+198. Ban đầu tôi định học thêm một kỹ năng mới, nhưng do sức khỏe không được tốt nên có thể phải dời lại.
+199. Lâu rồi không gặp, Hương! Nghe nói gần đây bạn công việc quá bận rộn, có ổn không? Nếu cần thì tôi có thể nghỉ ngơi một ngày.
+200. Ban đầu tôi định tập trung giải quyết từng việc một, nhưng do tôi phải di chuyển rất nhiều nên có thể phải dời lại.
+201. Ngay khi tôi chuẩn bị nghỉ ngơi một ngày, thì sức khỏe không được tốt xảy ra khiến tôi không kịp trở tay.
+202. Tôi muốn nghe ý kiến của bạn: với tình huống sức khỏe không được tốt, liệu trò chuyện với bạn bè có hợp lý không?
+203. Gần đây tôi cảm thấy gia đình có việc đột xuất, nên tôi nghĩ mình nên sắp xếp lại lịch trình để cải thiện tình hình.
+204. Tôi đang tính học thêm một kỹ năng mới vào cuối tuần, nhưng nếu sức khỏe không được tốt xảy ra thì có lẽ phải thay đổi kế hoạch.
+205. Ngay khi tôi chuẩn bị tập trung giải quyết từng việc một, thì lịch trình bị xáo trộn xảy ra khiến tôi không kịp trở tay.
+206. Thực ra tôi đã quyết định học thêm một kỹ năng mới, nhưng vì lịch trình bị xáo trộn nên tôi vẫn hơi lo lắng.
+207. Tôi đang tính dành thời gian cho bản thân vào cuối tuần, nhưng nếu tài chính có chút vấn đề xảy ra thì có lẽ phải thay đổi kế hoạch.
+208. Tôi đang phân vân không biết có nên đi uống cà phê hay không, nhất là khi lịch trình bị xáo trộn.
+209. Gần đây tôi cảm thấy tôi phải di chuyển rất nhiều, nên tôi nghĩ mình nên nghỉ ngơi một ngày để cải thiện tình hình.
+210. Nếu bạn thấy khó khăn khi thời tiết thay đổi thất thường, cứ nói nhé, tôi sẵn sàng học thêm một kỹ năng mới bất cứ lúc nào.
+211. Nếu bạn thấy khó khăn khi gia đình có việc đột xuất, cứ nói nhé, tôi sẵn sàng dành thời gian cho bản thân bất cứ lúc nào.
+212. Gần đây tôi cảm thấy thời tiết thay đổi thất thường, nên tôi nghĩ mình nên nghỉ ngơi một ngày để cải thiện tình hình.
+213. Gần đây tôi cảm thấy công việc quá bận rộn, nên tôi nghĩ mình nên gặp bác sĩ kiểm tra để cải thiện tình hình.
+214. Tôi đang phân vân không biết có nên gặp bác sĩ kiểm tra hay không, nhất là khi sức khỏe không được tốt.
+215. Sở dĩ tôi gặp bác sĩ kiểm tra là vì gần đây tài chính có chút vấn đề, nên tôi muốn thay đổi một chút.
+216. Không phải tôi không muốn học thêm một kỹ năng mới, chỉ là công việc quá bận rộn khiến tôi khó thực hiện.
+217. Ngay khi tôi chuẩn bị học thêm một kỹ năng mới, thì tài chính có chút vấn đề xảy ra khiến tôi không kịp trở tay.
+218. Chào Vy, dạo này tôi phải di chuyển rất nhiều không? Tôi định học thêm một kỹ năng mới sau giờ làm, bạn có muốn đi cùng không?
+219. Chào Tú, dạo này sức khỏe không được tốt không? Tôi định đi uống cà phê sau giờ làm, bạn có muốn đi cùng không?
+220. Mặc dù tâm trạng không ổn định, tôi vẫn cố gắng trò chuyện với bạn bè mỗi ngày.
+221. Nếu bạn thấy khó khăn khi sức khỏe không được tốt, cứ nói nhé, tôi sẵn sàng sắp xếp lại lịch trình bất cứ lúc nào.
+222. Ngay khi tôi chuẩn bị học thêm một kỹ năng mới, thì lịch trình bị xáo trộn xảy ra khiến tôi không kịp trở tay.
+223. Không phải tôi không muốn học thêm một kỹ năng mới, chỉ là kế hoạch bị thay đổi phút chót khiến tôi khó thực hiện.
+224. Gần đây tôi cảm thấy công việc quá bận rộn, nên tôi nghĩ mình nên đi dạo cho thư giãn để cải thiện tình hình.
+225. Thực ra tôi đã quyết định dành thời gian cho bản thân, nhưng vì gia đình có việc đột xuất nên tôi vẫn hơi lo lắng.
+226. Thực ra tôi đã quyết định gặp bác sĩ kiểm tra, nhưng vì thời tiết thay đổi thất thường nên tôi vẫn hơi lo lắng.
+227. Tôi đang gặp chút rắc rối vì tôi phải di chuyển rất nhiều. Bạn có thể giúp tôi trò chuyện với bạn bè được không?
+228. Tôi đang gặp chút rắc rối vì công việc quá bận rộn. Bạn có thể giúp tôi gặp bác sĩ kiểm tra được không?
+229. Thực ra tôi đã quyết định tập thể dục nhiều hơn, nhưng vì công việc quá bận rộn nên tôi vẫn hơi lo lắng.
+230. Tôi đang tính trò chuyện với bạn bè vào cuối tuần, nhưng nếu tài chính có chút vấn đề xảy ra thì có lẽ phải thay đổi kế hoạch.
+231. Chào Vy, dạo này lịch trình bị xáo trộn không? Tôi định đi uống cà phê sau giờ làm, bạn có muốn đi cùng không?
+232. Mặc dù sức khỏe không được tốt, tôi vẫn cố gắng đi uống cà phê mỗi ngày.
+233. Gần đây tôi cảm thấy tôi phải di chuyển rất nhiều, nên tôi nghĩ mình nên đi uống cà phê để cải thiện tình hình.
+234. Theo bạn thì nếu kế hoạch bị thay đổi phút chót, tôi nên dành thời gian cho bản thân hay làm cách khác?
+235. Tôi muốn nghe ý kiến của bạn: với tình huống lịch trình bị xáo trộn, liệu nghỉ ngơi một ngày có hợp lý không?
+236. Ban đầu tôi định dành thời gian cho bản thân, nhưng do sức khỏe không được tốt nên có thể phải dời lại.
+237. Tôi muốn nghe ý kiến của bạn: với tình huống đường phố kẹt xe nghiêm trọng, liệu tập trung giải quyết từng việc một có hợp lý không?
+238. Đáng lẽ tôi đã đi dạo cho thư giãn, nhưng đột nhiên sức khỏe không được tốt khiến mọi thứ bị đảo lộn.
+239. Ban đầu tôi định dành thời gian cho bản thân, nhưng do tâm trạng không ổn định nên có thể phải dời lại.
+240. Đáng lẽ tôi đã đi uống cà phê, nhưng đột nhiên gia đình có việc đột xuất khiến mọi thứ bị đảo lộn.
+241. Không phải tôi không muốn sắp xếp lại lịch trình, chỉ là đường phố kẹt xe nghiêm trọng khiến tôi khó thực hiện.
+242. Gần đây tôi cảm thấy tài chính có chút vấn đề, nên tôi nghĩ mình nên đi uống cà phê để cải thiện tình hình.
+243. Nếu bạn thấy khó khăn khi tôi phải di chuyển rất nhiều, cứ nói nhé, tôi sẵn sàng tập thể dục nhiều hơn bất cứ lúc nào.
+244. Ban đầu tôi định tập thể dục nhiều hơn, nhưng do tài chính có chút vấn đề nên có thể phải dời lại.
+245. Mặc dù đường phố kẹt xe nghiêm trọng, tôi vẫn cố gắng học thêm một kỹ năng mới mỗi ngày.
+246. Tôi đang phân vân không biết có nên đi dạo cho thư giãn hay không, nhất là khi tài chính có chút vấn đề.
+247. Thực ra tôi đã quyết định dành thời gian cho bản thân, nhưng vì đường phố kẹt xe nghiêm trọng nên tôi vẫn hơi lo lắng.
+248. Gần đây tôi cảm thấy tài chính có chút vấn đề, nên tôi nghĩ mình nên trò chuyện với bạn bè để cải thiện tình hình.
+249. Thực ra tôi đã quyết định dành thời gian cho bản thân, nhưng vì công việc quá bận rộn nên tôi vẫn hơi lo lắng.
+250. Tôi đang phân vân không biết có nên gặp bác sĩ kiểm tra hay không, nhất là khi kế hoạch bị thay đổi phút chót.
+251. Ban đầu tôi định học thêm một kỹ năng mới, nhưng do đường phố kẹt xe nghiêm trọng nên có thể phải dời lại.
+252. Ban đầu tôi định sắp xếp lại lịch trình, nhưng do công việc quá bận rộn nên có thể phải dời lại.
+253. Theo bạn thì nếu tôi phải di chuyển rất nhiều, tôi nên gặp bác sĩ kiểm tra hay làm cách khác?
+254. Thực ra tôi đã quyết định đi dạo cho thư giãn, nhưng vì tôi phải di chuyển rất nhiều nên tôi vẫn hơi lo lắng.
+255. Chào Khôi, dạo này lịch trình bị xáo trộn không? Tôi định tập thể dục nhiều hơn sau giờ làm, bạn có muốn đi cùng không?
+256. Lâu rồi không gặp, Vy! Nghe nói gần đây bạn tài chính có chút vấn đề, có ổn không? Nếu cần thì tôi có thể trò chuyện với bạn bè.
+257. Lâu rồi không gặp, Vy! Nghe nói gần đây bạn tài chính có chút vấn đề, có ổn không? Nếu cần thì tôi có thể nghỉ ngơi một ngày.
+258. Lâu rồi không gặp, Hương! Nghe nói gần đây bạn công việc quá bận rộn, có ổn không? Nếu cần thì tôi có thể tập thể dục nhiều hơn.
+259. Theo bạn thì nếu tôi phải di chuyển rất nhiều, tôi nên học thêm một kỹ năng mới hay làm cách khác?
+260. Mặc dù lịch trình bị xáo trộn, tôi vẫn cố gắng dành thời gian cho bản thân mỗi ngày.
+261. Nếu bạn thấy khó khăn khi thời tiết thay đổi thất thường, cứ nói nhé, tôi sẵn sàng trò chuyện với bạn bè bất cứ lúc nào.
+262. Tôi đang gặp chút rắc rối vì kế hoạch bị thay đổi phút chót. Bạn có thể giúp tôi học thêm một kỹ năng mới được không?
+263. Tôi đang phân vân không biết có nên sắp xếp lại lịch trình hay không, nhất là khi sức khỏe không được tốt.
+264. Theo bạn thì nếu tài chính có chút vấn đề, tôi nên nghỉ ngơi một ngày hay làm cách khác?
+265. Theo bạn thì nếu sức khỏe không được tốt, tôi nên nghỉ ngơi một ngày hay làm cách khác?
+266. Chào Khôi, dạo này gia đình có việc đột xuất không? Tôi định tập trung giải quyết từng việc một sau giờ làm, bạn có muốn đi cùng không?
+267. Chào Hưng, dạo này tài chính có chút vấn đề không? Tôi định đi uống cà phê sau giờ làm, bạn có muốn đi cùng không?
+268. Chào Lan, dạo này đường phố kẹt xe nghiêm trọng không? Tôi định dành thời gian cho bản thân sau giờ làm, bạn có muốn đi cùng không?
+269. Sở dĩ tôi gặp bác sĩ kiểm tra là vì gần đây công việc quá bận rộn, nên tôi muốn thay đổi một chút.
+270. Đáng lẽ tôi đã trò chuyện với bạn bè, nhưng đột nhiên sức khỏe không được tốt khiến mọi thứ bị đảo lộn.
+271. Thực ra tôi đã quyết định tập trung giải quyết từng việc một, nhưng vì lịch trình bị xáo trộn nên tôi vẫn hơi lo lắng.
+272. Nếu bạn thấy khó khăn khi công việc quá bận rộn, cứ nói nhé, tôi sẵn sàng nghỉ ngơi một ngày bất cứ lúc nào.
+273. Thực ra tôi đã quyết định nghỉ ngơi một ngày, nhưng vì tài chính có chút vấn đề nên tôi vẫn hơi lo lắng.
+274. Theo bạn thì nếu công việc quá bận rộn, tôi nên gặp bác sĩ kiểm tra hay làm cách khác?
+275. Nếu bạn thấy khó khăn khi sức khỏe không được tốt, cứ nói nhé, tôi sẵn sàng nghỉ ngơi một ngày bất cứ lúc nào.
+276. Tôi muốn nghe ý kiến của bạn: với tình huống lịch trình bị xáo trộn, liệu tập trung giải quyết từng việc một có hợp lý không?
+277. Theo bạn thì nếu thời tiết thay đổi thất thường, tôi nên tập trung giải quyết từng việc một hay làm cách khác?
+278. Gần đây tôi cảm thấy đường phố kẹt xe nghiêm trọng, nên tôi nghĩ mình nên đi uống cà phê để cải thiện tình hình.
+279. Gần đây tôi cảm thấy lịch trình bị xáo trộn, nên tôi nghĩ mình nên tập thể dục nhiều hơn để cải thiện tình hình.
+280. Tôi muốn nghe ý kiến của bạn: với tình huống tôi phải di chuyển rất nhiều, liệu tập thể dục nhiều hơn có hợp lý không?
+281. Sở dĩ tôi trò chuyện với bạn bè là vì gần đây đường phố kẹt xe nghiêm trọng, nên tôi muốn thay đổi một chút.
+282. Ngay khi tôi chuẩn bị nghỉ ngơi một ngày, thì tâm trạng không ổn định xảy ra khiến tôi không kịp trở tay.
+283. Nếu bạn thấy khó khăn khi tôi phải di chuyển rất nhiều, cứ nói nhé, tôi sẵn sàng tập trung giải quyết từng việc một bất cứ lúc nào.
+284. Mặc dù gia đình có việc đột xuất, tôi vẫn cố gắng tập thể dục nhiều hơn mỗi ngày.
+285. Ngay khi tôi chuẩn bị dành thời gian cho bản thân, thì gia đình có việc đột xuất xảy ra khiến tôi không kịp trở tay.
+286. Tôi đang gặp chút rắc rối vì sức khỏe không được tốt. Bạn có thể giúp tôi đi uống cà phê được không?
+287. Tôi đang gặp chút rắc rối vì sức khỏe không được tốt. Bạn có thể giúp tôi gặp bác sĩ kiểm tra được không?
+288. Lâu rồi không gặp, Nam! Nghe nói gần đây bạn tâm trạng không ổn định, có ổn không? Nếu cần thì tôi có thể dành thời gian cho bản thân.
+289. Thực ra tôi đã quyết định đi uống cà phê, nhưng vì sức khỏe không được tốt nên tôi vẫn hơi lo lắng.
+290. Tôi đang gặp chút rắc rối vì đường phố kẹt xe nghiêm trọng. Bạn có thể giúp tôi đi dạo cho thư giãn được không?
+291. Sở dĩ tôi dành thời gian cho bản thân là vì gần đây sức khỏe không được tốt, nên tôi muốn thay đổi một chút.
+292. Không phải tôi không muốn tập thể dục nhiều hơn, chỉ là sức khỏe không được tốt khiến tôi khó thực hiện.
+293. Tôi đang gặp chút rắc rối vì tôi phải di chuyển rất nhiều. Bạn có thể giúp tôi đi dạo cho thư giãn được không?
+294. Sở dĩ tôi sắp xếp lại lịch trình là vì gần đây kế hoạch bị thay đổi phút chót, nên tôi muốn thay đổi một chút.
+295. Tôi đang gặp chút rắc rối vì công việc quá bận rộn. Bạn có thể giúp tôi nghỉ ngơi một ngày được không?
+296. Mặc dù tài chính có chút vấn đề, tôi vẫn cố gắng sắp xếp lại lịch trình mỗi ngày.
+297. Tôi muốn nghe ý kiến của bạn: với tình huống sức khỏe không được tốt, liệu trò chuyện với bạn bè có hợp lý không?
+298. Đáng lẽ tôi đã tập trung giải quyết từng việc một, nhưng đột nhiên sức khỏe không được tốt khiến mọi thứ bị đảo lộn.
+299. Không phải tôi không muốn học thêm một kỹ năng mới, chỉ là thời tiết thay đổi thất thường khiến tôi khó thực hiện.
+300. Nếu bạn thấy khó khăn khi công việc quá bận rộn, cứ nói nhé, tôi sẵn sàng học thêm một kỹ năng mới bất cứ lúc nào.
+301. Thực ra tôi đã quyết định tập thể dục nhiều hơn, nhưng vì tôi phải di chuyển rất nhiều nên tôi vẫn hơi lo lắng.
+302. Ngay khi tôi chuẩn bị tập thể dục nhiều hơn, thì tâm trạng không ổn định xảy ra khiến tôi không kịp trở tay.
+303. Sở dĩ tôi đi dạo cho thư giãn là vì gần đây đường phố kẹt xe nghiêm trọng, nên tôi muốn thay đổi một chút.
+304. Theo bạn thì nếu tài chính có chút vấn đề, tôi nên gặp bác sĩ kiểm tra hay làm cách khác?
+305. Không phải tôi không muốn dành thời gian cho bản thân, chỉ là sức khỏe không được tốt khiến tôi khó thực hiện.
+306. Tôi đang tính tập thể dục nhiều hơn vào cuối tuần, nhưng nếu đường phố kẹt xe nghiêm trọng xảy ra thì có lẽ phải thay đổi kế hoạch.
+307. Theo bạn thì nếu tôi phải di chuyển rất nhiều, tôi nên nghỉ ngơi một ngày hay làm cách khác?
+308. Theo bạn thì nếu gia đình có việc đột xuất, tôi nên gặp bác sĩ kiểm tra hay làm cách khác?
+309. Không phải tôi không muốn trò chuyện với bạn bè, chỉ là lịch trình bị xáo trộn khiến tôi khó thực hiện.
+310. Nếu bạn thấy khó khăn khi gia đình có việc đột xuất, cứ nói nhé, tôi sẵn sàng học thêm một kỹ năng mới bất cứ lúc nào.
+311. Tôi đang tính tập trung giải quyết từng việc một vào cuối tuần, nhưng nếu gia đình có việc đột xuất xảy ra thì có lẽ phải thay đổi kế hoạch.
+312. Ban đầu tôi định nghỉ ngơi một ngày, nhưng do gia đình có việc đột xuất nên có thể phải dời lại.
+313. Sở dĩ tôi sắp xếp lại lịch trình là vì gần đây lịch trình bị xáo trộn, nên tôi muốn thay đổi một chút.
+314. Sở dĩ tôi học thêm một kỹ năng mới là vì gần đây tài chính có chút vấn đề, nên tôi muốn thay đổi một chút.
+315. Chào Tú, dạo này công việc quá bận rộn không? Tôi định đi uống cà phê sau giờ làm, bạn có muốn đi cùng không?
+316. Lâu rồi không gặp, Khôi! Nghe nói gần đây bạn công việc quá bận rộn, có ổn không? Nếu cần thì tôi có thể tập thể dục nhiều hơn.
+317. Chào Khôi, dạo này tôi phải di chuyển rất nhiều không? Tôi định tập trung giải quyết từng việc một sau giờ làm, bạn có muốn đi cùng không?
+318. Gần đây tôi cảm thấy lịch trình bị xáo trộn, nên tôi nghĩ mình nên đi dạo cho thư giãn để cải thiện tình hình.
+319. Đáng lẽ tôi đã đi dạo cho thư giãn, nhưng đột nhiên thời tiết thay đổi thất thường khiến mọi thứ bị đảo lộn.
+320. Gần đây tôi cảm thấy tôi phải di chuyển rất nhiều, nên tôi nghĩ mình nên dành thời gian cho bản thân để cải thiện tình hình.
+321. Chào Lan, dạo này tài chính có chút vấn đề không? Tôi định gặp bác sĩ kiểm tra sau giờ làm, bạn có muốn đi cùng không?
+322. Tôi đang phân vân không biết có nên đi uống cà phê hay không, nhất là khi sức khỏe không được tốt.
+323. Đáng lẽ tôi đã đi uống cà phê, nhưng đột nhiên kế hoạch bị thay đổi phút chót khiến mọi thứ bị đảo lộn.
+324. Tôi đang gặp chút rắc rối vì lịch trình bị xáo trộn. Bạn có thể giúp tôi tập thể dục nhiều hơn được không?
+325. Tôi muốn nghe ý kiến của bạn: với tình huống tâm trạng không ổn định, liệu sắp xếp lại lịch trình có hợp lý không?
+326. Theo bạn thì nếu tâm trạng không ổn định, tôi nên tập trung giải quyết từng việc một hay làm cách khác?
+327. Tôi muốn nghe ý kiến của bạn: với tình huống lịch trình bị xáo trộn, liệu nghỉ ngơi một ngày có hợp lý không?
+328. Không phải tôi không muốn trò chuyện với bạn bè, chỉ là công việc quá bận rộn khiến tôi khó thực hiện.
+329. Đáng lẽ tôi đã tập trung giải quyết từng việc một, nhưng đột nhiên gia đình có việc đột xuất khiến mọi thứ bị đảo lộn.
+330. Tôi đang phân vân không biết có nên trò chuyện với bạn bè hay không, nhất là khi tâm trạng không ổn định.
+331. Tôi đang gặp chút rắc rối vì gia đình có việc đột xuất. Bạn có thể giúp tôi đi uống cà phê được không?
+332. Tôi đang phân vân không biết có nên đi dạo cho thư giãn hay không, nhất là khi đường phố kẹt xe nghiêm trọng.
+333. Theo bạn thì nếu lịch trình bị xáo trộn, tôi nên gặp bác sĩ kiểm tra hay làm cách khác?
+334. Nếu bạn thấy khó khăn khi tâm trạng không ổn định, cứ nói nhé, tôi sẵn sàng đi dạo cho thư giãn bất cứ lúc nào.
+335. Tôi đang tính nghỉ ngơi một ngày vào cuối tuần, nhưng nếu gia đình có việc đột xuất xảy ra thì có lẽ phải thay đổi kế hoạch.
+336. Sở dĩ tôi sắp xếp lại lịch trình là vì gần đây tôi phải di chuyển rất nhiều, nên tôi muốn thay đổi một chút.
+337. Chào Nam, dạo này sức khỏe không được tốt không? Tôi định trò chuyện với bạn bè sau giờ làm, bạn có muốn đi cùng không?
+338. Mặc dù lịch trình bị xáo trộn, tôi vẫn cố gắng đi dạo cho thư giãn mỗi ngày.
+339. Mặc dù kế hoạch bị thay đổi phút chót, tôi vẫn cố gắng đi uống cà phê mỗi ngày.
+340. Không phải tôi không muốn đi uống cà phê, chỉ là tôi phải di chuyển rất nhiều khiến tôi khó thực hiện.
+341. Đáng lẽ tôi đã tập trung giải quyết từng việc một, nhưng đột nhiên tài chính có chút vấn đề khiến mọi thứ bị đảo lộn.
+342. Mặc dù gia đình có việc đột xuất, tôi vẫn cố gắng trò chuyện với bạn bè mỗi ngày.
+343. Gần đây tôi cảm thấy tâm trạng không ổn định, nên tôi nghĩ mình nên sắp xếp lại lịch trình để cải thiện tình hình.
+344. Không phải tôi không muốn tập thể dục nhiều hơn, chỉ là kế hoạch bị thay đổi phút chót khiến tôi khó thực hiện.
+345. Thực ra tôi đã quyết định sắp xếp lại lịch trình, nhưng vì đường phố kẹt xe nghiêm trọng nên tôi vẫn hơi lo lắng.
+346. Nếu bạn thấy khó khăn khi tài chính có chút vấn đề, cứ nói nhé, tôi sẵn sàng dành thời gian cho bản thân bất cứ lúc nào.
+347. Đáng lẽ tôi đã trò chuyện với bạn bè, nhưng đột nhiên công việc quá bận rộn khiến mọi thứ bị đảo lộn.
+348. Chào Hưng, dạo này thời tiết thay đổi thất thường không? Tôi định tập trung giải quyết từng việc một sau giờ làm, bạn có muốn đi cùng không?
+349. Tôi muốn nghe ý kiến của bạn: với tình huống tâm trạng không ổn định, liệu học thêm một kỹ năng mới có hợp lý không?
+350. Không phải tôi không muốn gặp bác sĩ kiểm tra, chỉ là tâm trạng không ổn định khiến tôi khó thực hiện.
+351. Đáng lẽ tôi đã đi dạo cho thư giãn, nhưng đột nhiên sức khỏe không được tốt khiến mọi thứ bị đảo lộn.
+352. Sở dĩ tôi học thêm một kỹ năng mới là vì gần đây tài chính có chút vấn đề, nên tôi muốn thay đổi một chút.
+353. Tôi đang tính trò chuyện với bạn bè vào cuối tuần, nhưng nếu đường phố kẹt xe nghiêm trọng xảy ra thì có lẽ phải thay đổi kế hoạch.
+354. Theo bạn thì nếu thời tiết thay đổi thất thường, tôi nên tập trung giải quyết từng việc một hay làm cách khác?
+355. Nếu bạn thấy khó khăn khi gia đình có việc đột xuất, cứ nói nhé, tôi sẵn sàng trò chuyện với bạn bè bất cứ lúc nào.
+356. Đáng lẽ tôi đã tập trung giải quyết từng việc một, nhưng đột nhiên tài chính có chút vấn đề khiến mọi thứ bị đảo lộn.
+357. Đáng lẽ tôi đã nghỉ ngơi một ngày, nhưng đột nhiên kế hoạch bị thay đổi phút chót khiến mọi thứ bị đảo lộn.
+358. Nếu bạn thấy khó khăn khi công việc quá bận rộn, cứ nói nhé, tôi sẵn sàng học thêm một kỹ năng mới bất cứ lúc nào.
+359. Nếu bạn thấy khó khăn khi đường phố kẹt xe nghiêm trọng, cứ nói nhé, tôi sẵn sàng tập trung giải quyết từng việc một bất cứ lúc nào.
+360. Sở dĩ tôi học thêm một kỹ năng mới là vì gần đây gia đình có việc đột xuất, nên tôi muốn thay đổi một chút.
+361. Chào Khôi, dạo này lịch trình bị xáo trộn không? Tôi định trò chuyện với bạn bè sau giờ làm, bạn có muốn đi cùng không?
+362. Tôi đang tính dành thời gian cho bản thân vào cuối tuần, nhưng nếu kế hoạch bị thay đổi phút chót xảy ra thì có lẽ phải thay đổi kế hoạch.
+363. Tôi đang gặp chút rắc rối vì kế hoạch bị thay đổi phút chót. Bạn có thể giúp tôi học thêm một kỹ năng mới được không?
+364. Tôi đang gặp chút rắc rối vì tài chính có chút vấn đề. Bạn có thể giúp tôi gặp bác sĩ kiểm tra được không?
+365. Gần đây tôi cảm thấy sức khỏe không được tốt, nên tôi nghĩ mình nên đi uống cà phê để cải thiện tình hình.
+366. Lâu rồi không gặp, Hưng! Nghe nói gần đây bạn sức khỏe không được tốt, có ổn không? Nếu cần thì tôi có thể trò chuyện với bạn bè.
+367. Tôi muốn nghe ý kiến của bạn: với tình huống sức khỏe không được tốt, liệu đi dạo cho thư giãn có hợp lý không?
+368. Nếu bạn thấy khó khăn khi thời tiết thay đổi thất thường, cứ nói nhé, tôi sẵn sàng tập trung giải quyết từng việc một bất cứ lúc nào.
+369. Theo bạn thì nếu lịch trình bị xáo trộn, tôi nên nghỉ ngơi một ngày hay làm cách khác?
+370. Tôi đang gặp chút rắc rối vì kế hoạch bị thay đổi phút chót. Bạn có thể giúp tôi nghỉ ngơi một ngày được không?
+371. Tôi muốn nghe ý kiến của bạn: với tình huống công việc quá bận rộn, liệu tập trung giải quyết từng việc một có hợp lý không?
+372. Thực ra tôi đã quyết định gặp bác sĩ kiểm tra, nhưng vì tài chính có chút vấn đề nên tôi vẫn hơi lo lắng.
+373. Tôi đang phân vân không biết có nên tập thể dục nhiều hơn hay không, nhất là khi sức khỏe không được tốt.
+374. Tôi đang tính tập thể dục nhiều hơn vào cuối tuần, nhưng nếu sức khỏe không được tốt xảy ra thì có lẽ phải thay đổi kế hoạch.
+375. Tôi muốn nghe ý kiến của bạn: với tình huống công việc quá bận rộn, liệu gặp bác sĩ kiểm tra có hợp lý không?
+376. Thực ra tôi đã quyết định đi uống cà phê, nhưng vì gia đình có việc đột xuất nên tôi vẫn hơi lo lắng.
+377. Tôi muốn nghe ý kiến của bạn: với tình huống tâm trạng không ổn định, liệu dành thời gian cho bản thân có hợp lý không?
+378. Tôi đang gặp chút rắc rối vì lịch trình bị xáo trộn. Bạn có thể giúp tôi đi dạo cho thư giãn được không?
+379. Thực ra tôi đã quyết định sắp xếp lại lịch trình, nhưng vì công việc quá bận rộn nên tôi vẫn hơi lo lắng.
+380. Tôi đang gặp chút rắc rối vì đường phố kẹt xe nghiêm trọng. Bạn có thể giúp tôi đi uống cà phê được không?
+381. Không phải tôi không muốn tập trung giải quyết từng việc một, chỉ là đường phố kẹt xe nghiêm trọng khiến tôi khó thực hiện.
+382. Tôi đang phân vân không biết có nên đi uống cà phê hay không, nhất là khi sức khỏe không được tốt.
+383. Chào Lan, dạo này thời tiết thay đổi thất thường không? Tôi định sắp xếp lại lịch trình sau giờ làm, bạn có muốn đi cùng không?
+384. Tôi đang phân vân không biết có nên học thêm một kỹ năng mới hay không, nhất là khi tâm trạng không ổn định.
+385. Lâu rồi không gặp, Tú! Nghe nói gần đây bạn công việc quá bận rộn, có ổn không? Nếu cần thì tôi có thể tập thể dục nhiều hơn.
+386. Đáng lẽ tôi đã đi uống cà phê, nhưng đột nhiên kế hoạch bị thay đổi phút chót khiến mọi thứ bị đảo lộn.
+387. Chào Nam, dạo này tôi phải di chuyển rất nhiều không? Tôi định học thêm một kỹ năng mới sau giờ làm, bạn có muốn đi cùng không?
+388. Không phải tôi không muốn dành thời gian cho bản thân, chỉ là gia đình có việc đột xuất khiến tôi khó thực hiện.
+389. Chào Nam, dạo này sức khỏe không được tốt không? Tôi định gặp bác sĩ kiểm tra sau giờ làm, bạn có muốn đi cùng không?
+390. Chào Hưng, dạo này tôi phải di chuyển rất nhiều không? Tôi định dành thời gian cho bản thân sau giờ làm, bạn có muốn đi cùng không?
+391. Sở dĩ tôi gặp bác sĩ kiểm tra là vì gần đây sức khỏe không được tốt, nên tôi muốn thay đổi một chút.
+392. Sở dĩ tôi tập trung giải quyết từng việc một là vì gần đây tài chính có chút vấn đề, nên tôi muốn thay đổi một chút.
+393. Theo bạn thì nếu lịch trình bị xáo trộn, tôi nên nghỉ ngơi một ngày hay làm cách khác?
+394. Mặc dù gia đình có việc đột xuất, tôi vẫn cố gắng học thêm một kỹ năng mới mỗi ngày.
+395. Sở dĩ tôi đi dạo cho thư giãn là vì gần đây gia đình có việc đột xuất, nên tôi muốn thay đổi một chút.
+396. Đáng lẽ tôi đã đi dạo cho thư giãn, nhưng đột nhiên tâm trạng không ổn định khiến mọi thứ bị đảo lộn.
+397. Theo bạn thì nếu lịch trình bị xáo trộn, tôi nên tập trung giải quyết từng việc một hay làm cách khác?
+398. Lâu rồi không gặp, Lan! Nghe nói gần đây bạn tài chính có chút vấn đề, có ổn không? Nếu cần thì tôi có thể nghỉ ngơi một ngày.
+399. Tôi muốn nghe ý kiến của bạn: với tình huống thời tiết thay đổi thất thường, liệu đi uống cà phê có hợp lý không?
+400. Lâu rồi không gặp, Vy! Nghe nói gần đây bạn tài chính có chút vấn đề, có ổn không? Nếu cần thì tôi có thể học thêm một kỹ năng mới.
+401. Tôi muốn nghe ý kiến của bạn: với tình huống công việc quá bận rộn, liệu nghỉ ngơi một ngày có hợp lý không?
+402. Thực ra tôi đã quyết định tập thể dục nhiều hơn, nhưng vì đường phố kẹt xe nghiêm trọng nên tôi vẫn hơi lo lắng.
+403. Chào Minh, dạo này lịch trình bị xáo trộn không? Tôi định tập thể dục nhiều hơn sau giờ làm, bạn có muốn đi cùng không?
+404. Thực ra tôi đã quyết định dành thời gian cho bản thân, nhưng vì lịch trình bị xáo trộn nên tôi vẫn hơi lo lắng.
+405. Tôi đang tính trò chuyện với bạn bè vào cuối tuần, nhưng nếu kế hoạch bị thay đổi phút chót xảy ra thì có lẽ phải thay đổi kế hoạch.
+406. Nếu bạn thấy khó khăn khi tâm trạng không ổn định, cứ nói nhé, tôi sẵn sàng tập thể dục nhiều hơn bất cứ lúc nào.
+407. Tôi đang phân vân không biết có nên sắp xếp lại lịch trình hay không, nhất là khi tôi phải di chuyển rất nhiều.
+408. Nếu bạn thấy khó khăn khi lịch trình bị xáo trộn, cứ nói nhé, tôi sẵn sàng tập trung giải quyết từng việc một bất cứ lúc nào.
+409. Thực ra tôi đã quyết định gặp bác sĩ kiểm tra, nhưng vì gia đình có việc đột xuất nên tôi vẫn hơi lo lắng.
+410. Thực ra tôi đã quyết định học thêm một kỹ năng mới, nhưng vì kế hoạch bị thay đổi phút chót nên tôi vẫn hơi lo lắng.
+411. Tôi muốn nghe ý kiến của bạn: với tình huống gia đình có việc đột xuất, liệu nghỉ ngơi một ngày có hợp lý không?
+412. Chào Minh, dạo này đường phố kẹt xe nghiêm trọng không? Tôi định học thêm một kỹ năng mới sau giờ làm, bạn có muốn đi cùng không?
+413. Theo bạn thì nếu lịch trình bị xáo trộn, tôi nên gặp bác sĩ kiểm tra hay làm cách khác?
+414. Ngay khi tôi chuẩn bị đi dạo cho thư giãn, thì công việc quá bận rộn xảy ra khiến tôi không kịp trở tay.
+415. Ngay khi tôi chuẩn bị dành thời gian cho bản thân, thì tài chính có chút vấn đề xảy ra khiến tôi không kịp trở tay.
+416. Nếu bạn thấy khó khăn khi thời tiết thay đổi thất thường, cứ nói nhé, tôi sẵn sàng đi uống cà phê bất cứ lúc nào.
+417. Ngay khi tôi chuẩn bị dành thời gian cho bản thân, thì đường phố kẹt xe nghiêm trọng xảy ra khiến tôi không kịp trở tay.
+418. Gần đây tôi cảm thấy tôi phải di chuyển rất nhiều, nên tôi nghĩ mình nên tập trung giải quyết từng việc một để cải thiện tình hình.
+419. Tôi đang tính sắp xếp lại lịch trình vào cuối tuần, nhưng nếu đường phố kẹt xe nghiêm trọng xảy ra thì có lẽ phải thay đổi kế hoạch.
+420. Theo bạn thì nếu tài chính có chút vấn đề, tôi nên dành thời gian cho bản thân hay làm cách khác?
+421. Theo bạn thì nếu tôi phải di chuyển rất nhiều, tôi nên tập thể dục nhiều hơn hay làm cách khác?
+422. Sở dĩ tôi học thêm một kỹ năng mới là vì gần đây đường phố kẹt xe nghiêm trọng, nên tôi muốn thay đổi một chút.
+423. Gần đây tôi cảm thấy thời tiết thay đổi thất thường, nên tôi nghĩ mình nên tập trung giải quyết từng việc một để cải thiện tình hình.
+424. Chào Hưng, dạo này thời tiết thay đổi thất thường không? Tôi định nghỉ ngơi một ngày sau giờ làm, bạn có muốn đi cùng không?
+425. Lâu rồi không gặp, Tú! Nghe nói gần đây bạn tài chính có chút vấn đề, có ổn không? Nếu cần thì tôi có thể học thêm một kỹ năng mới.
+426. Không phải tôi không muốn đi uống cà phê, chỉ là tôi phải di chuyển rất nhiều khiến tôi khó thực hiện.
+427. Ngay khi tôi chuẩn bị tập thể dục nhiều hơn, thì sức khỏe không được tốt xảy ra khiến tôi không kịp trở tay.
+428. Gần đây tôi cảm thấy kế hoạch bị thay đổi phút chót, nên tôi nghĩ mình nên tập thể dục nhiều hơn để cải thiện tình hình.
+429. Không phải tôi không muốn tập thể dục nhiều hơn, chỉ là sức khỏe không được tốt khiến tôi khó thực hiện.
+430. Tôi đang tính trò chuyện với bạn bè vào cuối tuần, nhưng nếu thời tiết thay đổi thất thường xảy ra thì có lẽ phải thay đổi kế hoạch.
+431. Thực ra tôi đã quyết định đi dạo cho thư giãn, nhưng vì công việc quá bận rộn nên tôi vẫn hơi lo lắng.
+432. Lâu rồi không gặp, Nam! Nghe nói gần đây bạn tôi phải di chuyển rất nhiều, có ổn không? Nếu cần thì tôi có thể sắp xếp lại lịch trình.
+433. Sở dĩ tôi tập trung giải quyết từng việc một là vì gần đây tâm trạng không ổn định, nên tôi muốn thay đổi một chút.
+434. Thực ra tôi đã quyết định tập trung giải quyết từng việc một, nhưng vì sức khỏe không được tốt nên tôi vẫn hơi lo lắng.
+435. Tôi đang phân vân không biết có nên nghỉ ngơi một ngày hay không, nhất là khi tài chính có chút vấn đề.
+436. Theo bạn thì nếu sức khỏe không được tốt, tôi nên sắp xếp lại lịch trình hay làm cách khác?
+437. Lâu rồi không gặp, Minh! Nghe nói gần đây bạn công việc quá bận rộn, có ổn không? Nếu cần thì tôi có thể tập trung giải quyết từng việc một.
+438. Nếu bạn thấy khó khăn khi tâm trạng không ổn định, cứ nói nhé, tôi sẵn sàng học thêm một kỹ năng mới bất cứ lúc nào.
+439. Theo bạn thì nếu gia đình có việc đột xuất, tôi nên sắp xếp lại lịch trình hay làm cách khác?
+440. Không phải tôi không muốn gặp bác sĩ kiểm tra, chỉ là công việc quá bận rộn khiến tôi khó thực hiện.
+441. Tôi đang phân vân không biết có nên đi dạo cho thư giãn hay không, nhất là khi tôi phải di chuyển rất nhiều.
+442. Sở dĩ tôi dành thời gian cho bản thân là vì gần đây sức khỏe không được tốt, nên tôi muốn thay đổi một chút.
+443. Mặc dù sức khỏe không được tốt, tôi vẫn cố gắng dành thời gian cho bản thân mỗi ngày.
+444. Nếu bạn thấy khó khăn khi tôi phải di chuyển rất nhiều, cứ nói nhé, tôi sẵn sàng tập thể dục nhiều hơn bất cứ lúc nào.
+445. Ngay khi tôi chuẩn bị học thêm một kỹ năng mới, thì gia đình có việc đột xuất xảy ra khiến tôi không kịp trở tay.
+446. Tôi đang phân vân không biết có nên trò chuyện với bạn bè hay không, nhất là khi gia đình có việc đột xuất.
+447. Nếu bạn thấy khó khăn khi lịch trình bị xáo trộn, cứ nói nhé, tôi sẵn sàng gặp bác sĩ kiểm tra bất cứ lúc nào.
+448. Mặc dù lịch trình bị xáo trộn, tôi vẫn cố gắng đi dạo cho thư giãn mỗi ngày.
+449. Mặc dù tôi phải di chuyển rất nhiều, tôi vẫn cố gắng học thêm một kỹ năng mới mỗi ngày.
+450. Chào Lan, dạo này gia đình có việc đột xuất không? Tôi định nghỉ ngơi một ngày sau giờ làm, bạn có muốn đi cùng không?
+451. Nếu bạn thấy khó khăn khi công việc quá bận rộn, cứ nói nhé, tôi sẵn sàng đi dạo cho thư giãn bất cứ lúc nào.
+452. Gần đây tôi cảm thấy công việc quá bận rộn, nên tôi nghĩ mình nên đi dạo cho thư giãn để cải thiện tình hình.
+453. Theo bạn thì nếu tài chính có chút vấn đề, tôi nên học thêm một kỹ năng mới hay làm cách khác?
+454. Lâu rồi không gặp, Hưng! Nghe nói gần đây bạn kế hoạch bị thay đổi phút chót, có ổn không? Nếu cần thì tôi có thể nghỉ ngơi một ngày.
+455. Tôi muốn nghe ý kiến của bạn: với tình huống tài chính có chút vấn đề, liệu tập thể dục nhiều hơn có hợp lý không?
+456. Tôi đang tính trò chuyện với bạn bè vào cuối tuần, nhưng nếu lịch trình bị xáo trộn xảy ra thì có lẽ phải thay đổi kế hoạch.
+457. Ngay khi tôi chuẩn bị sắp xếp lại lịch trình, thì sức khỏe không được tốt xảy ra khiến tôi không kịp trở tay.
+458. Tôi đang tính tập thể dục nhiều hơn vào cuối tuần, nhưng nếu công việc quá bận rộn xảy ra thì có lẽ phải thay đổi kế hoạch.
+459. Thực ra tôi đã quyết định tập thể dục nhiều hơn, nhưng vì lịch trình bị xáo trộn nên tôi vẫn hơi lo lắng.
+460. Tôi đang phân vân không biết có nên học thêm một kỹ năng mới hay không, nhất là khi lịch trình bị xáo trộn.
+461. Tôi đang tính học thêm một kỹ năng mới vào cuối tuần, nhưng nếu đường phố kẹt xe nghiêm trọng xảy ra thì có lẽ phải thay đổi kế hoạch.
+462. Ban đầu tôi định trò chuyện với bạn bè, nhưng do tài chính có chút vấn đề nên có thể phải dời lại.
+463. Gần đây tôi cảm thấy tôi phải di chuyển rất nhiều, nên tôi nghĩ mình nên gặp bác sĩ kiểm tra để cải thiện tình hình.
+464. Thực ra tôi đã quyết định tập thể dục nhiều hơn, nhưng vì kế hoạch bị thay đổi phút chót nên tôi vẫn hơi lo lắng.
+465. Lâu rồi không gặp, Hưng! Nghe nói gần đây bạn tài chính có chút vấn đề, có ổn không? Nếu cần thì tôi có thể nghỉ ngơi một ngày.
+466. Nếu bạn thấy khó khăn khi thời tiết thay đổi thất thường, cứ nói nhé, tôi sẵn sàng sắp xếp lại lịch trình bất cứ lúc nào.
+467. Mặc dù đường phố kẹt xe nghiêm trọng, tôi vẫn cố gắng sắp xếp lại lịch trình mỗi ngày.
+468. Tôi muốn nghe ý kiến của bạn: với tình huống kế hoạch bị thay đổi phút chót, liệu nghỉ ngơi một ngày có hợp lý không?
+469. Tôi muốn nghe ý kiến của bạn: với tình huống đường phố kẹt xe nghiêm trọng, liệu học thêm một kỹ năng mới có hợp lý không?
+470. Tôi đang tính trò chuyện với bạn bè vào cuối tuần, nhưng nếu công việc quá bận rộn xảy ra thì có lẽ phải thay đổi kế hoạch.
+471. Tôi đang gặp chút rắc rối vì lịch trình bị xáo trộn. Bạn có thể giúp tôi gặp bác sĩ kiểm tra được không?
+472. Sở dĩ tôi trò chuyện với bạn bè là vì gần đây gia đình có việc đột xuất, nên tôi muốn thay đổi một chút.
+473. Không phải tôi không muốn trò chuyện với bạn bè, chỉ là đường phố kẹt xe nghiêm trọng khiến tôi khó thực hiện.
+474. Ban đầu tôi định gặp bác sĩ kiểm tra, nhưng do lịch trình bị xáo trộn nên có thể phải dời lại.
+475. Tôi đang gặp chút rắc rối vì sức khỏe không được tốt. Bạn có thể giúp tôi đi uống cà phê được không?
+476. Sở dĩ tôi nghỉ ngơi một ngày là vì gần đây gia đình có việc đột xuất, nên tôi muốn thay đổi một chút.
+477. Chào Hương, dạo này tài chính có chút vấn đề không? Tôi định gặp bác sĩ kiểm tra sau giờ làm, bạn có muốn đi cùng không?
+478. Lâu rồi không gặp, Tú! Nghe nói gần đây bạn lịch trình bị xáo trộn, có ổn không? Nếu cần thì tôi có thể tập thể dục nhiều hơn.
+479. Chào Nam, dạo này tôi phải di chuyển rất nhiều không? Tôi định nghỉ ngơi một ngày sau giờ làm, bạn có muốn đi cùng không?
+480. Không phải tôi không muốn gặp bác sĩ kiểm tra, chỉ là đường phố kẹt xe nghiêm trọng khiến tôi khó thực hiện.
+481. Nếu bạn thấy khó khăn khi lịch trình bị xáo trộn, cứ nói nhé, tôi sẵn sàng đi uống cà phê bất cứ lúc nào.
+482. Không phải tôi không muốn dành thời gian cho bản thân, chỉ là sức khỏe không được tốt khiến tôi khó thực hiện.
+483. Tôi đang tính học thêm một kỹ năng mới vào cuối tuần, nhưng nếu tài chính có chút vấn đề xảy ra thì có lẽ phải thay đổi kế hoạch.
+484. Tôi đang phân vân không biết có nên gặp bác sĩ kiểm tra hay không, nhất là khi sức khỏe không được tốt.
+485. Tôi đang gặp chút rắc rối vì tôi phải di chuyển rất nhiều. Bạn có thể giúp tôi đi dạo cho thư giãn được không?
+486. Gần đây tôi cảm thấy đường phố kẹt xe nghiêm trọng, nên tôi nghĩ mình nên tập trung giải quyết từng việc một để cải thiện tình hình.
+487. Thực ra tôi đã quyết định tập thể dục nhiều hơn, nhưng vì lịch trình bị xáo trộn nên tôi vẫn hơi lo lắng.
+488. Lâu rồi không gặp, Nam! Nghe nói gần đây bạn lịch trình bị xáo trộn, có ổn không? Nếu cần thì tôi có thể tập thể dục nhiều hơn.
+489. Sở dĩ tôi trò chuyện với bạn bè là vì gần đây lịch trình bị xáo trộn, nên tôi muốn thay đổi một chút.
+490. Đáng lẽ tôi đã học thêm một kỹ năng mới, nhưng đột nhiên sức khỏe không được tốt khiến mọi thứ bị đảo lộn.
+491. Thực ra tôi đã quyết định đi dạo cho thư giãn, nhưng vì công việc quá bận rộn nên tôi vẫn hơi lo lắng.
+492. Gần đây tôi cảm thấy công việc quá bận rộn, nên tôi nghĩ mình nên dành thời gian cho bản thân để cải thiện tình hình.
+493. Lâu rồi không gặp, Nam! Nghe nói gần đây bạn công việc quá bận rộn, có ổn không? Nếu cần thì tôi có thể dành thời gian cho bản thân.
+494. Tôi đang gặp chút rắc rối vì sức khỏe không được tốt. Bạn có thể giúp tôi sắp xếp lại lịch trình được không?
+495. Tôi đang gặp chút rắc rối vì tâm trạng không ổn định. Bạn có thể giúp tôi dành thời gian cho bản thân được không?
+496. Tôi muốn nghe ý kiến của bạn: với tình huống sức khỏe không được tốt, liệu tập thể dục nhiều hơn có hợp lý không?
+497. Tôi muốn nghe ý kiến của bạn: với tình huống tâm trạng không ổn định, liệu đi uống cà phê có hợp lý không?
+498. Tôi muốn nghe ý kiến của bạn: với tình huống thời tiết thay đổi thất thường, liệu dành thời gian cho bản thân có hợp lý không?
+499. Tôi muốn nghe ý kiến của bạn: với tình huống tâm trạng không ổn định, liệu tập trung giải quyết từng việc một có hợp lý không?
+500. Tôi đang tính đi dạo cho thư giãn vào cuối tuần, nhưng nếu công việc quá bận rộn xảy ra thì có lẽ phải thay đổi kế hoạch.
+501. Sở dĩ tôi gặp bác sĩ kiểm tra là vì gần đây tâm trạng không ổn định, nên tôi muốn thay đổi một chút.
+502. Thực ra tôi đã quyết định sắp xếp lại lịch trình, nhưng vì lịch trình bị xáo trộn nên tôi vẫn hơi lo lắng.
+503. Lâu rồi không gặp, Tú! Nghe nói gần đây bạn kế hoạch bị thay đổi phút chót, có ổn không? Nếu cần thì tôi có thể học thêm một kỹ năng mới.
+504. Tôi đang tính tập trung giải quyết từng việc một vào cuối tuần, nhưng nếu thời tiết thay đổi thất thường xảy ra thì có lẽ phải thay đổi kế hoạch.
+505. Sở dĩ tôi sắp xếp lại lịch trình là vì gần đây thời tiết thay đổi thất thường, nên tôi muốn thay đổi một chút.
+506. Chào Hưng, dạo này lịch trình bị xáo trộn không? Tôi định đi uống cà phê sau giờ làm, bạn có muốn đi cùng không?
+507. Tôi đang gặp chút rắc rối vì thời tiết thay đổi thất thường. Bạn có thể giúp tôi tập trung giải quyết từng việc một được không?
+508. Tôi muốn nghe ý kiến của bạn: với tình huống thời tiết thay đổi thất thường, liệu trò chuyện với bạn bè có hợp lý không?
+509. Ngay khi tôi chuẩn bị học thêm một kỹ năng mới, thì gia đình có việc đột xuất xảy ra khiến tôi không kịp trở tay.
+510. Tôi đang tính đi dạo cho thư giãn vào cuối tuần, nhưng nếu công việc quá bận rộn xảy ra thì có lẽ phải thay đổi kế hoạch.
+511. Đáng lẽ tôi đã sắp xếp lại lịch trình, nhưng đột nhiên đường phố kẹt xe nghiêm trọng khiến mọi thứ bị đảo lộn.
+512. Nếu bạn thấy khó khăn khi tôi phải di chuyển rất nhiều, cứ nói nhé, tôi sẵn sàng sắp xếp lại lịch trình bất cứ lúc nào.
+513. Theo bạn thì nếu đường phố kẹt xe nghiêm trọng, tôi nên dành thời gian cho bản thân hay làm cách khác?
+514. Đáng lẽ tôi đã gặp bác sĩ kiểm tra, nhưng đột nhiên tôi phải di chuyển rất nhiều khiến mọi thứ bị đảo lộn.
+515. Mặc dù gia đình có việc đột xuất, tôi vẫn cố gắng gặp bác sĩ kiểm tra mỗi ngày.
+516. Sở dĩ tôi đi dạo cho thư giãn là vì gần đây thời tiết thay đổi thất thường, nên tôi muốn thay đổi một chút.
+517. Tôi đang tính tập thể dục nhiều hơn vào cuối tuần, nhưng nếu gia đình có việc đột xuất xảy ra thì có lẽ phải thay đổi kế hoạch.
+518. Nếu bạn thấy khó khăn khi thời tiết thay đổi thất thường, cứ nói nhé, tôi sẵn sàng trò chuyện với bạn bè bất cứ lúc nào.
+519. Lâu rồi không gặp, Hưng! Nghe nói gần đây bạn thời tiết thay đổi thất thường, có ổn không? Nếu cần thì tôi có thể học thêm một kỹ năng mới.
+520. Thực ra tôi đã quyết định nghỉ ngơi một ngày, nhưng vì kế hoạch bị thay đổi phút chót nên tôi vẫn hơi lo lắng.
+521. Tôi đang tính dành thời gian cho bản thân vào cuối tuần, nhưng nếu thời tiết thay đổi thất thường xảy ra thì có lẽ phải thay đổi kế hoạch.
+522. Chào Nam, dạo này gia đình có việc đột xuất không? Tôi định tập thể dục nhiều hơn sau giờ làm, bạn có muốn đi cùng không?
+523. Chào Hương, dạo này lịch trình bị xáo trộn không? Tôi định đi dạo cho thư giãn sau giờ làm, bạn có muốn đi cùng không?
+524. Gần đây tôi cảm thấy sức khỏe không được tốt, nên tôi nghĩ mình nên đi dạo cho thư giãn để cải thiện tình hình.
+525. Đáng lẽ tôi đã tập thể dục nhiều hơn, nhưng đột nhiên tâm trạng không ổn định khiến mọi thứ bị đảo lộn.
+526. Tôi muốn nghe ý kiến của bạn: với tình huống tâm trạng không ổn định, liệu tập thể dục nhiều hơn có hợp lý không?
+527. Theo bạn thì nếu tôi phải di chuyển rất nhiều, tôi nên học thêm một kỹ năng mới hay làm cách khác?
+528. Đáng lẽ tôi đã đi dạo cho thư giãn, nhưng đột nhiên tài chính có chút vấn đề khiến mọi thứ bị đảo lộn.
+529. Gần đây tôi cảm thấy tài chính có chút vấn đề, nên tôi nghĩ mình nên dành thời gian cho bản thân để cải thiện tình hình.
+530. Thực ra tôi đã quyết định học thêm một kỹ năng mới, nhưng vì sức khỏe không được tốt nên tôi vẫn hơi lo lắng.
+531. Chào Lan, dạo này tâm trạng không ổn định không? Tôi định gặp bác sĩ kiểm tra sau giờ làm, bạn có muốn đi cùng không?
+532. Ngay khi tôi chuẩn bị sắp xếp lại lịch trình, thì lịch trình bị xáo trộn xảy ra khiến tôi không kịp trở tay.
+533. Sở dĩ tôi trò chuyện với bạn bè là vì gần đây công việc quá bận rộn, nên tôi muốn thay đổi một chút.
+534. Chào Lan, dạo này sức khỏe không được tốt không? Tôi định tập trung giải quyết từng việc một sau giờ làm, bạn có muốn đi cùng không?
+535. Tôi đang gặp chút rắc rối vì kế hoạch bị thay đổi phút chót. Bạn có thể giúp tôi đi dạo cho thư giãn được không?
+536. Theo bạn thì nếu tài chính có chút vấn đề, tôi nên học thêm một kỹ năng mới hay làm cách khác?
+537. Đáng lẽ tôi đã tập thể dục nhiều hơn, nhưng đột nhiên sức khỏe không được tốt khiến mọi thứ bị đảo lộn.
+538. Tôi đang phân vân không biết có nên trò chuyện với bạn bè hay không, nhất là khi tâm trạng không ổn định.
+539. Chào Tú, dạo này công việc quá bận rộn không? Tôi định tập trung giải quyết từng việc một sau giờ làm, bạn có muốn đi cùng không?
+540. Lâu rồi không gặp, Vy! Nghe nói gần đây bạn tôi phải di chuyển rất nhiều, có ổn không? Nếu cần thì tôi có thể tập thể dục nhiều hơn.
+541. Tôi muốn nghe ý kiến của bạn: với tình huống công việc quá bận rộn, liệu nghỉ ngơi một ngày có hợp lý không?
+542. Tôi đang phân vân không biết có nên học thêm một kỹ năng mới hay không, nhất là khi lịch trình bị xáo trộn.
+543. Thực ra tôi đã quyết định tập thể dục nhiều hơn, nhưng vì tài chính có chút vấn đề nên tôi vẫn hơi lo lắng.
+544. Sở dĩ tôi đi uống cà phê là vì gần đây gia đình có việc đột xuất, nên tôi muốn thay đổi một chút.
+545. Đáng lẽ tôi đã gặp bác sĩ kiểm tra, nhưng đột nhiên tâm trạng không ổn định khiến mọi thứ bị đảo lộn.
+546. Đáng lẽ tôi đã đi dạo cho thư giãn, nhưng đột nhiên sức khỏe không được tốt khiến mọi thứ bị đảo lộn.
+547. Nếu bạn thấy khó khăn khi công việc quá bận rộn, cứ nói nhé, tôi sẵn sàng tập trung giải quyết từng việc một bất cứ lúc nào.
+548. Tôi đang phân vân không biết có nên đi uống cà phê hay không, nhất là khi kế hoạch bị thay đổi phút chót.
+549. Tôi muốn nghe ý kiến của bạn: với tình huống thời tiết thay đổi thất thường, liệu đi dạo cho thư giãn có hợp lý không?
+550. Sở dĩ tôi tập trung giải quyết từng việc một là vì gần đây lịch trình bị xáo trộn, nên tôi muốn thay đổi một chút.
+551. Thực ra tôi đã quyết định dành thời gian cho bản thân, nhưng vì đường phố kẹt xe nghiêm trọng nên tôi vẫn hơi lo lắng.
+552. Chào Vy, dạo này lịch trình bị xáo trộn không? Tôi định sắp xếp lại lịch trình sau giờ làm, bạn có muốn đi cùng không?
+553. Tôi muốn nghe ý kiến của bạn: với tình huống lịch trình bị xáo trộn, liệu nghỉ ngơi một ngày có hợp lý không?
+554. Tôi đang gặp chút rắc rối vì kế hoạch bị thay đổi phút chót. Bạn có thể giúp tôi gặp bác sĩ kiểm tra được không?
+555. Đáng lẽ tôi đã tập thể dục nhiều hơn, nhưng đột nhiên thời tiết thay đổi thất thường khiến mọi thứ bị đảo lộn.
+556. Tôi đang tính gặp bác sĩ kiểm tra vào cuối tuần, nhưng nếu gia đình có việc đột xuất xảy ra thì có lẽ phải thay đổi kế hoạch.
+557. Tôi đang gặp chút rắc rối vì thời tiết thay đổi thất thường. Bạn có thể giúp tôi tập thể dục nhiều hơn được không?
+558. Tôi muốn nghe ý kiến của bạn: với tình huống lịch trình bị xáo trộn, liệu đi uống cà phê có hợp lý không?
+559. Sở dĩ tôi nghỉ ngơi một ngày là vì gần đây công việc quá bận rộn, nên tôi muốn thay đổi một chút.
+560. Ban đầu tôi định gặp bác sĩ kiểm tra, nhưng do tài chính có chút vấn đề nên có thể phải dời lại.
+561. Ngay khi tôi chuẩn bị tập thể dục nhiều hơn, thì kế hoạch bị thay đổi phút chót xảy ra khiến tôi không kịp trở tay.
+562. Tôi đang gặp chút rắc rối vì tâm trạng không ổn định. Bạn có thể giúp tôi tập trung giải quyết từng việc một được không?
+563. Đáng lẽ tôi đã học thêm một kỹ năng mới, nhưng đột nhiên tâm trạng không ổn định khiến mọi thứ bị đảo lộn.
+564. Mặc dù gia đình có việc đột xuất, tôi vẫn cố gắng nghỉ ngơi một ngày mỗi ngày.
+565. Ban đầu tôi định đi uống cà phê, nhưng do tài chính có chút vấn đề nên có thể phải dời lại.
+566. Tôi đang phân vân không biết có nên học thêm một kỹ năng mới hay không, nhất là khi công việc quá bận rộn.
+567. Tôi đang phân vân không biết có nên sắp xếp lại lịch trình hay không, nhất là khi kế hoạch bị thay đổi phút chót.
+568. Theo bạn thì nếu đường phố kẹt xe nghiêm trọng, tôi nên nghỉ ngơi một ngày hay làm cách khác?
+569. Chào Hưng, dạo này sức khỏe không được tốt không? Tôi định tập trung giải quyết từng việc một sau giờ làm, bạn có muốn đi cùng không?
+570. Lâu rồi không gặp, Hưng! Nghe nói gần đây bạn kế hoạch bị thay đổi phút chót, có ổn không? Nếu cần thì tôi có thể đi uống cà phê.
+571. Mặc dù thời tiết thay đổi thất thường, tôi vẫn cố gắng học thêm một kỹ năng mới mỗi ngày.
+572. Sở dĩ tôi sắp xếp lại lịch trình là vì gần đây tôi phải di chuyển rất nhiều, nên tôi muốn thay đổi một chút.
+573. Chào Vy, dạo này công việc quá bận rộn không? Tôi định gặp bác sĩ kiểm tra sau giờ làm, bạn có muốn đi cùng không?
+574. Thực ra tôi đã quyết định đi uống cà phê, nhưng vì lịch trình bị xáo trộn nên tôi vẫn hơi lo lắng.
+575. Lâu rồi không gặp, Nam! Nghe nói gần đây bạn đường phố kẹt xe nghiêm trọng, có ổn không? Nếu cần thì tôi có thể sắp xếp lại lịch trình.
+576. Sở dĩ tôi tập thể dục nhiều hơn là vì gần đây tôi phải di chuyển rất nhiều, nên tôi muốn thay đổi một chút.
+577. Đáng lẽ tôi đã nghỉ ngơi một ngày, nhưng đột nhiên gia đình có việc đột xuất khiến mọi thứ bị đảo lộn.
+578. Không phải tôi không muốn học thêm một kỹ năng mới, chỉ là công việc quá bận rộn khiến tôi khó thực hiện.
+579. Thực ra tôi đã quyết định gặp bác sĩ kiểm tra, nhưng vì tâm trạng không ổn định nên tôi vẫn hơi lo lắng.
+580. Lâu rồi không gặp, Vy! Nghe nói gần đây bạn tôi phải di chuyển rất nhiều, có ổn không? Nếu cần thì tôi có thể học thêm một kỹ năng mới.
+581. Theo bạn thì nếu tôi phải di chuyển rất nhiều, tôi nên đi dạo cho thư giãn hay làm cách khác?
+582. Không phải tôi không muốn gặp bác sĩ kiểm tra, chỉ là thời tiết thay đổi thất thường khiến tôi khó thực hiện.
+583. Tôi đang tính nghỉ ngơi một ngày vào cuối tuần, nhưng nếu công việc quá bận rộn xảy ra thì có lẽ phải thay đổi kế hoạch.
+584. Tôi đang phân vân không biết có nên sắp xếp lại lịch trình hay không, nhất là khi tài chính có chút vấn đề.
+585. Nếu bạn thấy khó khăn khi công việc quá bận rộn, cứ nói nhé, tôi sẵn sàng gặp bác sĩ kiểm tra bất cứ lúc nào.
+586. Đáng lẽ tôi đã dành thời gian cho bản thân, nhưng đột nhiên đường phố kẹt xe nghiêm trọng khiến mọi thứ bị đảo lộn.
+587. Theo bạn thì nếu đường phố kẹt xe nghiêm trọng, tôi nên học thêm một kỹ năng mới hay làm cách khác?
+588. Ngay khi tôi chuẩn bị trò chuyện với bạn bè, thì tôi phải di chuyển rất nhiều xảy ra khiến tôi không kịp trở tay.
+589. Nếu bạn thấy khó khăn khi lịch trình bị xáo trộn, cứ nói nhé, tôi sẵn sàng nghỉ ngơi một ngày bất cứ lúc nào.
+590. Ngay khi tôi chuẩn bị sắp xếp lại lịch trình, thì tôi phải di chuyển rất nhiều xảy ra khiến tôi không kịp trở tay.
+591. Mặc dù tài chính có chút vấn đề, tôi vẫn cố gắng tập trung giải quyết từng việc một mỗi ngày.
+592. Không phải tôi không muốn học thêm một kỹ năng mới, chỉ là kế hoạch bị thay đổi phút chót khiến tôi khó thực hiện.
+593. Tôi muốn nghe ý kiến của bạn: với tình huống tôi phải di chuyển rất nhiều, liệu nghỉ ngơi một ngày có hợp lý không?
+594. Đáng lẽ tôi đã đi uống cà phê, nhưng đột nhiên tôi phải di chuyển rất nhiều khiến mọi thứ bị đảo lộn.
+595. Ngay khi tôi chuẩn bị tập trung giải quyết từng việc một, thì đường phố kẹt xe nghiêm trọng xảy ra khiến tôi không kịp trở tay.
+596. Sở dĩ tôi tập trung giải quyết từng việc một là vì gần đây lịch trình bị xáo trộn, nên tôi muốn thay đổi một chút.
+597. Lâu rồi không gặp, Minh! Nghe nói gần đây bạn tôi phải di chuyển rất nhiều, có ổn không? Nếu cần thì tôi có thể tập trung giải quyết từng việc một.
+598. Tôi muốn nghe ý kiến của bạn: với tình huống lịch trình bị xáo trộn, liệu gặp bác sĩ kiểm tra có hợp lý không?
+599. Nếu bạn thấy khó khăn khi gia đình có việc đột xuất, cứ nói nhé, tôi sẵn sàng dành thời gian cho bản thân bất cứ lúc nào.
+600. Chào Lan, dạo này gia đình có việc đột xuất không? Tôi định sắp xếp lại lịch trình sau giờ làm, bạn có muốn đi cùng không?
+601. Gần đây tôi cảm thấy gia đình có việc đột xuất, nên tôi nghĩ mình nên tập trung giải quyết từng việc một để cải thiện tình hình.
+602. Đáng lẽ tôi đã học thêm một kỹ năng mới, nhưng đột nhiên kế hoạch bị thay đổi phút chót khiến mọi thứ bị đảo lộn.
+603. Ban đầu tôi định học thêm một kỹ năng mới, nhưng do đường phố kẹt xe nghiêm trọng nên có thể phải dời lại.
+604. Chào Hương, dạo này tôi phải di chuyển rất nhiều không? Tôi định nghỉ ngơi một ngày sau giờ làm, bạn có muốn đi cùng không?
+605. Sở dĩ tôi sắp xếp lại lịch trình là vì gần đây gia đình có việc đột xuất, nên tôi muốn thay đổi một chút.
+606. Gần đây tôi cảm thấy thời tiết thay đổi thất thường, nên tôi nghĩ mình nên dành thời gian cho bản thân để cải thiện tình hình.
+607. Tôi muốn nghe ý kiến của bạn: với tình huống gia đình có việc đột xuất, liệu trò chuyện với bạn bè có hợp lý không?
+608. Tôi đang tính dành thời gian cho bản thân vào cuối tuần, nhưng nếu tâm trạng không ổn định xảy ra thì có lẽ phải thay đổi kế hoạch.
+609. Gần đây tôi cảm thấy công việc quá bận rộn, nên tôi nghĩ mình nên học thêm một kỹ năng mới để cải thiện tình hình.
+610. Mặc dù lịch trình bị xáo trộn, tôi vẫn cố gắng gặp bác sĩ kiểm tra mỗi ngày.
+611. Lâu rồi không gặp, Tú! Nghe nói gần đây bạn gia đình có việc đột xuất, có ổn không? Nếu cần thì tôi có thể gặp bác sĩ kiểm tra.
+612. Đáng lẽ tôi đã tập thể dục nhiều hơn, nhưng đột nhiên tôi phải di chuyển rất nhiều khiến mọi thứ bị đảo lộn.
+613. Thực ra tôi đã quyết định tập trung giải quyết từng việc một, nhưng vì tâm trạng không ổn định nên tôi vẫn hơi lo lắng.
+614. Ngay khi tôi chuẩn bị nghỉ ngơi một ngày, thì tâm trạng không ổn định xảy ra khiến tôi không kịp trở tay.
+615. Tôi đang tính đi dạo cho thư giãn vào cuối tuần, nhưng nếu tài chính có chút vấn đề xảy ra thì có lẽ phải thay đổi kế hoạch.
+616. Sở dĩ tôi nghỉ ngơi một ngày là vì gần đây tài chính có chút vấn đề, nên tôi muốn thay đổi một chút.
+617. Đáng lẽ tôi đã đi uống cà phê, nhưng đột nhiên đường phố kẹt xe nghiêm trọng khiến mọi thứ bị đảo lộn.
+618. Theo bạn thì nếu kế hoạch bị thay đổi phút chót, tôi nên sắp xếp lại lịch trình hay làm cách khác?
+619. Nếu bạn thấy khó khăn khi kế hoạch bị thay đổi phút chót, cứ nói nhé, tôi sẵn sàng tập thể dục nhiều hơn bất cứ lúc nào.
+620. Đáng lẽ tôi đã sắp xếp lại lịch trình, nhưng đột nhiên kế hoạch bị thay đổi phút chót khiến mọi thứ bị đảo lộn.
+621. Không phải tôi không muốn đi uống cà phê, chỉ là lịch trình bị xáo trộn khiến tôi khó thực hiện.
+622. Thực ra tôi đã quyết định tập thể dục nhiều hơn, nhưng vì gia đình có việc đột xuất nên tôi vẫn hơi lo lắng.
+623. Lâu rồi không gặp, Minh! Nghe nói gần đây bạn công việc quá bận rộn, có ổn không? Nếu cần thì tôi có thể đi dạo cho thư giãn.
+624. Theo bạn thì nếu công việc quá bận rộn, tôi nên học thêm một kỹ năng mới hay làm cách khác?
+625. Ban đầu tôi định đi uống cà phê, nhưng do tâm trạng không ổn định nên có thể phải dời lại.
+626. Không phải tôi không muốn tập thể dục nhiều hơn, chỉ là sức khỏe không được tốt khiến tôi khó thực hiện.
+627. Sở dĩ tôi học thêm một kỹ năng mới là vì gần đây kế hoạch bị thay đổi phút chót, nên tôi muốn thay đổi một chút.
+628. Nếu bạn thấy khó khăn khi tôi phải di chuyển rất nhiều, cứ nói nhé, tôi sẵn sàng tập thể dục nhiều hơn bất cứ lúc nào.
+629. Đáng lẽ tôi đã đi uống cà phê, nhưng đột nhiên tôi phải di chuyển rất nhiều khiến mọi thứ bị đảo lộn.
+630. Tôi đang tính gặp bác sĩ kiểm tra vào cuối tuần, nhưng nếu tôi phải di chuyển rất nhiều xảy ra thì có lẽ phải thay đổi kế hoạch.
+631. Tôi đang gặp chút rắc rối vì tài chính có chút vấn đề. Bạn có thể giúp tôi đi dạo cho thư giãn được không?
+632. Không phải tôi không muốn đi dạo cho thư giãn, chỉ là kế hoạch bị thay đổi phút chót khiến tôi khó thực hiện.
+633. Chào Vy, dạo này gia đình có việc đột xuất không? Tôi định nghỉ ngơi một ngày sau giờ làm, bạn có muốn đi cùng không?
+634. Mặc dù sức khỏe không được tốt, tôi vẫn cố gắng tập trung giải quyết từng việc một mỗi ngày.
+635. Tôi đang gặp chút rắc rối vì thời tiết thay đổi thất thường. Bạn có thể giúp tôi nghỉ ngơi một ngày được không?
+636. Tôi đang gặp chút rắc rối vì tài chính có chút vấn đề. Bạn có thể giúp tôi nghỉ ngơi một ngày được không?
+637. Thực ra tôi đã quyết định dành thời gian cho bản thân, nhưng vì gia đình có việc đột xuất nên tôi vẫn hơi lo lắng.
+638. Sở dĩ tôi đi dạo cho thư giãn là vì gần đây kế hoạch bị thay đổi phút chót, nên tôi muốn thay đổi một chút.
+639. Thực ra tôi đã quyết định đi uống cà phê, nhưng vì tâm trạng không ổn định nên tôi vẫn hơi lo lắng.
+640. Chào Lan, dạo này sức khỏe không được tốt không? Tôi định tập trung giải quyết từng việc một sau giờ làm, bạn có muốn đi cùng không?
+641. Theo bạn thì nếu gia đình có việc đột xuất, tôi nên nghỉ ngơi một ngày hay làm cách khác?
+642. Theo bạn thì nếu tài chính có chút vấn đề, tôi nên dành thời gian cho bản thân hay làm cách khác?
+643. Tôi muốn nghe ý kiến của bạn: với tình huống sức khỏe không được tốt, liệu tập thể dục nhiều hơn có hợp lý không?
+644. Ngay khi tôi chuẩn bị gặp bác sĩ kiểm tra, thì kế hoạch bị thay đổi phút chót xảy ra khiến tôi không kịp trở tay.
+645. Tôi đang phân vân không biết có nên nghỉ ngơi một ngày hay không, nhất là khi thời tiết thay đổi thất thường.
+646. Gần đây tôi cảm thấy tài chính có chút vấn đề, nên tôi nghĩ mình nên đi uống cà phê để cải thiện tình hình.
+647. Tôi đang tính tập trung giải quyết từng việc một vào cuối tuần, nhưng nếu gia đình có việc đột xuất xảy ra thì có lẽ phải thay đổi kế hoạch.
+648. Thực ra tôi đã quyết định học thêm một kỹ năng mới, nhưng vì tâm trạng không ổn định nên tôi vẫn hơi lo lắng.
+649. Đáng lẽ tôi đã sắp xếp lại lịch trình, nhưng đột nhiên tôi phải di chuyển rất nhiều khiến mọi thứ bị đảo lộn.
+650. Ban đầu tôi định trò chuyện với bạn bè, nhưng do sức khỏe không được tốt nên có thể phải dời lại.
+651. Đáng lẽ tôi đã gặp bác sĩ kiểm tra, nhưng đột nhiên tôi phải di chuyển rất nhiều khiến mọi thứ bị đảo lộn.
+652. Tôi đang tính đi uống cà phê vào cuối tuần, nhưng nếu thời tiết thay đổi thất thường xảy ra thì có lẽ phải thay đổi kế hoạch.
+653. Tôi đang gặp chút rắc rối vì tôi phải di chuyển rất nhiều. Bạn có thể giúp tôi tập thể dục nhiều hơn được không?
+654. Tôi đang gặp chút rắc rối vì gia đình có việc đột xuất. Bạn có thể giúp tôi tập trung giải quyết từng việc một được không?
+655. Tôi đang tính học thêm một kỹ năng mới vào cuối tuần, nhưng nếu công việc quá bận rộn xảy ra thì có lẽ phải thay đổi kế hoạch.
+656. Không phải tôi không muốn dành thời gian cho bản thân, chỉ là gia đình có việc đột xuất khiến tôi khó thực hiện.
+657. Gần đây tôi cảm thấy sức khỏe không được tốt, nên tôi nghĩ mình nên tập thể dục nhiều hơn để cải thiện tình hình.
+658. Lâu rồi không gặp, Lan! Nghe nói gần đây bạn thời tiết thay đổi thất thường, có ổn không? Nếu cần thì tôi có thể nghỉ ngơi một ngày.
+659. Theo bạn thì nếu lịch trình bị xáo trộn, tôi nên đi uống cà phê hay làm cách khác?
+660. Tôi đang phân vân không biết có nên tập thể dục nhiều hơn hay không, nhất là khi đường phố kẹt xe nghiêm trọng.
+661. Tôi đang phân vân không biết có nên sắp xếp lại lịch trình hay không, nhất là khi công việc quá bận rộn.
+662. Mặc dù gia đình có việc đột xuất, tôi vẫn cố gắng học thêm một kỹ năng mới mỗi ngày.
+663. Tôi đang gặp chút rắc rối vì lịch trình bị xáo trộn. Bạn có thể giúp tôi gặp bác sĩ kiểm tra được không?
+664. Tôi đang tính sắp xếp lại lịch trình vào cuối tuần, nhưng nếu kế hoạch bị thay đổi phút chót xảy ra thì có lẽ phải thay đổi kế hoạch.
+665. Thực ra tôi đã quyết định học thêm một kỹ năng mới, nhưng vì kế hoạch bị thay đổi phút chót nên tôi vẫn hơi lo lắng.
+666. Không phải tôi không muốn dành thời gian cho bản thân, chỉ là công việc quá bận rộn khiến tôi khó thực hiện.
+667. Ngay khi tôi chuẩn bị gặp bác sĩ kiểm tra, thì đường phố kẹt xe nghiêm trọng xảy ra khiến tôi không kịp trở tay.
+668. Lâu rồi không gặp, Tú! Nghe nói gần đây bạn gia đình có việc đột xuất, có ổn không? Nếu cần thì tôi có thể đi dạo cho thư giãn.
+669. Tôi đang tính gặp bác sĩ kiểm tra vào cuối tuần, nhưng nếu lịch trình bị xáo trộn xảy ra thì có lẽ phải thay đổi kế hoạch.
+670. Không phải tôi không muốn nghỉ ngơi một ngày, chỉ là công việc quá bận rộn khiến tôi khó thực hiện.
+671. Gần đây tôi cảm thấy sức khỏe không được tốt, nên tôi nghĩ mình nên đi uống cà phê để cải thiện tình hình.
+672. Ngay khi tôi chuẩn bị gặp bác sĩ kiểm tra, thì tâm trạng không ổn định xảy ra khiến tôi không kịp trở tay.
+673. Tôi đang phân vân không biết có nên đi uống cà phê hay không, nhất là khi gia đình có việc đột xuất.
+674. Tôi muốn nghe ý kiến của bạn: với tình huống tâm trạng không ổn định, liệu học thêm một kỹ năng mới có hợp lý không?
+675. Tôi đang gặp chút rắc rối vì tôi phải di chuyển rất nhiều. Bạn có thể giúp tôi đi uống cà phê được không?
+676. Lâu rồi không gặp, Nam! Nghe nói gần đây bạn gia đình có việc đột xuất, có ổn không? Nếu cần thì tôi có thể đi dạo cho thư giãn.
+677. Mặc dù gia đình có việc đột xuất, tôi vẫn cố gắng dành thời gian cho bản thân mỗi ngày.
+678. Nếu bạn thấy khó khăn khi công việc quá bận rộn, cứ nói nhé, tôi sẵn sàng đi uống cà phê bất cứ lúc nào.
+679. Nếu bạn thấy khó khăn khi tâm trạng không ổn định, cứ nói nhé, tôi sẵn sàng đi uống cà phê bất cứ lúc nào.
+680. Tôi đang phân vân không biết có nên gặp bác sĩ kiểm tra hay không, nhất là khi gia đình có việc đột xuất.
+681. Tôi đang gặp chút rắc rối vì tôi phải di chuyển rất nhiều. Bạn có thể giúp tôi đi uống cà phê được không?
+682. Đáng lẽ tôi đã tập trung giải quyết từng việc một, nhưng đột nhiên tâm trạng không ổn định khiến mọi thứ bị đảo lộn.
+683. Sở dĩ tôi tập thể dục nhiều hơn là vì gần đây tài chính có chút vấn đề, nên tôi muốn thay đổi một chút.
+684. Sở dĩ tôi đi uống cà phê là vì gần đây tài chính có chút vấn đề, nên tôi muốn thay đổi một chút.
+685. Mặc dù gia đình có việc đột xuất, tôi vẫn cố gắng đi dạo cho thư giãn mỗi ngày.
+686. Gần đây tôi cảm thấy lịch trình bị xáo trộn, nên tôi nghĩ mình nên học thêm một kỹ năng mới để cải thiện tình hình.
+687. Tôi đang phân vân không biết có nên đi uống cà phê hay không, nhất là khi thời tiết thay đổi thất thường.
+688. Đáng lẽ tôi đã học thêm một kỹ năng mới, nhưng đột nhiên công việc quá bận rộn khiến mọi thứ bị đảo lộn.
+689. Mặc dù sức khỏe không được tốt, tôi vẫn cố gắng đi uống cà phê mỗi ngày.
+690. Theo bạn thì nếu công việc quá bận rộn, tôi nên gặp bác sĩ kiểm tra hay làm cách khác?
+691. Gần đây tôi cảm thấy sức khỏe không được tốt, nên tôi nghĩ mình nên sắp xếp lại lịch trình để cải thiện tình hình.
+692. Đáng lẽ tôi đã học thêm một kỹ năng mới, nhưng đột nhiên đường phố kẹt xe nghiêm trọng khiến mọi thứ bị đảo lộn.
+693. Mặc dù kế hoạch bị thay đổi phút chót, tôi vẫn cố gắng gặp bác sĩ kiểm tra mỗi ngày.
+694. Mặc dù tôi phải di chuyển rất nhiều, tôi vẫn cố gắng trò chuyện với bạn bè mỗi ngày.
+695. Ban đầu tôi định nghỉ ngơi một ngày, nhưng do tôi phải di chuyển rất nhiều nên có thể phải dời lại.
+696. Gần đây tôi cảm thấy công việc quá bận rộn, nên tôi nghĩ mình nên nghỉ ngơi một ngày để cải thiện tình hình.
+697. Đáng lẽ tôi đã nghỉ ngơi một ngày, nhưng đột nhiên tôi phải di chuyển rất nhiều khiến mọi thứ bị đảo lộn.
+698. Tôi đang gặp chút rắc rối vì kế hoạch bị thay đổi phút chót. Bạn có thể giúp tôi trò chuyện với bạn bè được không?
+699. Tôi muốn nghe ý kiến của bạn: với tình huống tôi phải di chuyển rất nhiều, liệu nghỉ ngơi một ngày có hợp lý không?
+700. Chào Hương, dạo này thời tiết thay đổi thất thường không? Tôi định trò chuyện với bạn bè sau giờ làm, bạn có muốn đi cùng không?
+701. Theo bạn thì nếu tôi phải di chuyển rất nhiều, tôi nên sắp xếp lại lịch trình hay làm cách khác?
+702. Sở dĩ tôi tập trung giải quyết từng việc một là vì gần đây sức khỏe không được tốt, nên tôi muốn thay đổi một chút.
+703. Đáng lẽ tôi đã trò chuyện với bạn bè, nhưng đột nhiên tôi phải di chuyển rất nhiều khiến mọi thứ bị đảo lộn.
+704. Mặc dù tài chính có chút vấn đề, tôi vẫn cố gắng gặp bác sĩ kiểm tra mỗi ngày.
+705. Tôi đang tính nghỉ ngơi một ngày vào cuối tuần, nhưng nếu tài chính có chút vấn đề xảy ra thì có lẽ phải thay đổi kế hoạch.
+706. Theo bạn thì nếu tài chính có chút vấn đề, tôi nên đi uống cà phê hay làm cách khác?
+707. Ban đầu tôi định trò chuyện với bạn bè, nhưng do tâm trạng không ổn định nên có thể phải dời lại.
+708. Đáng lẽ tôi đã đi dạo cho thư giãn, nhưng đột nhiên sức khỏe không được tốt khiến mọi thứ bị đảo lộn.
+709. Nếu bạn thấy khó khăn khi thời tiết thay đổi thất thường, cứ nói nhé, tôi sẵn sàng nghỉ ngơi một ngày bất cứ lúc nào.
+710. Gần đây tôi cảm thấy tài chính có chút vấn đề, nên tôi nghĩ mình nên trò chuyện với bạn bè để cải thiện tình hình.
+711. Mặc dù tài chính có chút vấn đề, tôi vẫn cố gắng tập trung giải quyết từng việc một mỗi ngày.
+712. Ban đầu tôi định trò chuyện với bạn bè, nhưng do thời tiết thay đổi thất thường nên có thể phải dời lại.
+713. Không phải tôi không muốn trò chuyện với bạn bè, chỉ là tài chính có chút vấn đề khiến tôi khó thực hiện.
+714. Đáng lẽ tôi đã đi uống cà phê, nhưng đột nhiên kế hoạch bị thay đổi phút chót khiến mọi thứ bị đảo lộn.
+715. Tôi đang phân vân không biết có nên đi dạo cho thư giãn hay không, nhất là khi tâm trạng không ổn định.
+716. Tôi đang gặp chút rắc rối vì kế hoạch bị thay đổi phút chót. Bạn có thể giúp tôi đi dạo cho thư giãn được không?
+717. Tôi muốn nghe ý kiến của bạn: với tình huống đường phố kẹt xe nghiêm trọng, liệu trò chuyện với bạn bè có hợp lý không?
+718. Không phải tôi không muốn gặp bác sĩ kiểm tra, chỉ là tài chính có chút vấn đề khiến tôi khó thực hiện.
+719. Thực ra tôi đã quyết định gặp bác sĩ kiểm tra, nhưng vì sức khỏe không được tốt nên tôi vẫn hơi lo lắng.
+720. Không phải tôi không muốn gặp bác sĩ kiểm tra, chỉ là kế hoạch bị thay đổi phút chót khiến tôi khó thực hiện.
+721. Tôi đang tính sắp xếp lại lịch trình vào cuối tuần, nhưng nếu lịch trình bị xáo trộn xảy ra thì có lẽ phải thay đổi kế hoạch.
+722. Ban đầu tôi định học thêm một kỹ năng mới, nhưng do lịch trình bị xáo trộn nên có thể phải dời lại.
+723. Tôi đang phân vân không biết có nên sắp xếp lại lịch trình hay không, nhất là khi đường phố kẹt xe nghiêm trọng.
+724. Tôi đang phân vân không biết có nên gặp bác sĩ kiểm tra hay không, nhất là khi đường phố kẹt xe nghiêm trọng.
+725. Thực ra tôi đã quyết định đi dạo cho thư giãn, nhưng vì tâm trạng không ổn định nên tôi vẫn hơi lo lắng.
+726. Nếu bạn thấy khó khăn khi tâm trạng không ổn định, cứ nói nhé, tôi sẵn sàng tập thể dục nhiều hơn bất cứ lúc nào.
+727. Theo bạn thì nếu kế hoạch bị thay đổi phút chót, tôi nên tập thể dục nhiều hơn hay làm cách khác?
+728. Thực ra tôi đã quyết định tập trung giải quyết từng việc một, nhưng vì công việc quá bận rộn nên tôi vẫn hơi lo lắng.
+729. Ngay khi tôi chuẩn bị gặp bác sĩ kiểm tra, thì sức khỏe không được tốt xảy ra khiến tôi không kịp trở tay.
+730. Lâu rồi không gặp, Khôi! Nghe nói gần đây bạn thời tiết thay đổi thất thường, có ổn không? Nếu cần thì tôi có thể gặp bác sĩ kiểm tra.
+731. Thực ra tôi đã quyết định đi uống cà phê, nhưng vì lịch trình bị xáo trộn nên tôi vẫn hơi lo lắng.
+732. Theo bạn thì nếu tâm trạng không ổn định, tôi nên đi uống cà phê hay làm cách khác?
+733. Theo bạn thì nếu thời tiết thay đổi thất thường, tôi nên đi uống cà phê hay làm cách khác?
+734. Mặc dù đường phố kẹt xe nghiêm trọng, tôi vẫn cố gắng dành thời gian cho bản thân mỗi ngày.
+735. Ngay khi tôi chuẩn bị trò chuyện với bạn bè, thì tôi phải di chuyển rất nhiều xảy ra khiến tôi không kịp trở tay.
+736. Không phải tôi không muốn nghỉ ngơi một ngày, chỉ là kế hoạch bị thay đổi phút chót khiến tôi khó thực hiện.
+737. Không phải tôi không muốn đi uống cà phê, chỉ là kế hoạch bị thay đổi phút chót khiến tôi khó thực hiện.
+738. Tôi muốn nghe ý kiến của bạn: với tình huống kế hoạch bị thay đổi phút chót, liệu tập trung giải quyết từng việc một có hợp lý không?
+739. Ban đầu tôi định đi uống cà phê, nhưng do lịch trình bị xáo trộn nên có thể phải dời lại.
+740. Tôi đang tính đi uống cà phê vào cuối tuần, nhưng nếu kế hoạch bị thay đổi phút chót xảy ra thì có lẽ phải thay đổi kế hoạch.
+741. Tôi muốn nghe ý kiến của bạn: với tình huống tôi phải di chuyển rất nhiều, liệu nghỉ ngơi một ngày có hợp lý không?
+742. Gần đây tôi cảm thấy tôi phải di chuyển rất nhiều, nên tôi nghĩ mình nên trò chuyện với bạn bè để cải thiện tình hình.
+743. Gần đây tôi cảm thấy thời tiết thay đổi thất thường, nên tôi nghĩ mình nên tập thể dục nhiều hơn để cải thiện tình hình.
+744. Lâu rồi không gặp, Nam! Nghe nói gần đây bạn công việc quá bận rộn, có ổn không? Nếu cần thì tôi có thể sắp xếp lại lịch trình.
+745. Gần đây tôi cảm thấy tôi phải di chuyển rất nhiều, nên tôi nghĩ mình nên trò chuyện với bạn bè để cải thiện tình hình.
+746. Theo bạn thì nếu công việc quá bận rộn, tôi nên trò chuyện với bạn bè hay làm cách khác?
+747. Ngay khi tôi chuẩn bị dành thời gian cho bản thân, thì gia đình có việc đột xuất xảy ra khiến tôi không kịp trở tay.
+748. Chào Khôi, dạo này thời tiết thay đổi thất thường không? Tôi định đi dạo cho thư giãn sau giờ làm, bạn có muốn đi cùng không?
+749. Nếu bạn thấy khó khăn khi kế hoạch bị thay đổi phút chót, cứ nói nhé, tôi sẵn sàng gặp bác sĩ kiểm tra bất cứ lúc nào.
+750. Tôi đang tính đi uống cà phê vào cuối tuần, nhưng nếu công việc quá bận rộn xảy ra thì có lẽ phải thay đổi kế hoạch.
+751. Không phải tôi không muốn trò chuyện với bạn bè, chỉ là kế hoạch bị thay đổi phút chót khiến tôi khó thực hiện.
+752. Tôi đang phân vân không biết có nên gặp bác sĩ kiểm tra hay không, nhất là khi kế hoạch bị thay đổi phút chót.
+753. Tôi đang tính tập thể dục nhiều hơn vào cuối tuần, nhưng nếu tâm trạng không ổn định xảy ra thì có lẽ phải thay đổi kế hoạch.
+754. Thực ra tôi đã quyết định đi uống cà phê, nhưng vì tâm trạng không ổn định nên tôi vẫn hơi lo lắng.
+755. Theo bạn thì nếu lịch trình bị xáo trộn, tôi nên nghỉ ngơi một ngày hay làm cách khác?
+756. Không phải tôi không muốn tập trung giải quyết từng việc một, chỉ là tâm trạng không ổn định khiến tôi khó thực hiện.
+757. Không phải tôi không muốn tập thể dục nhiều hơn, chỉ là thời tiết thay đổi thất thường khiến tôi khó thực hiện.
+758. Tôi đang gặp chút rắc rối vì kế hoạch bị thay đổi phút chót. Bạn có thể giúp tôi gặp bác sĩ kiểm tra được không?
+759. Ban đầu tôi định học thêm một kỹ năng mới, nhưng do kế hoạch bị thay đổi phút chót nên có thể phải dời lại.
+760. Theo bạn thì nếu kế hoạch bị thay đổi phút chót, tôi nên tập trung giải quyết từng việc một hay làm cách khác?
+761. Chào Lan, dạo này tâm trạng không ổn định không? Tôi định tập trung giải quyết từng việc một sau giờ làm, bạn có muốn đi cùng không?
+762. Ban đầu tôi định đi dạo cho thư giãn, nhưng do tôi phải di chuyển rất nhiều nên có thể phải dời lại.
+763. Theo bạn thì nếu thời tiết thay đổi thất thường, tôi nên nghỉ ngơi một ngày hay làm cách khác?
+764. Tôi muốn nghe ý kiến của bạn: với tình huống kế hoạch bị thay đổi phút chót, liệu gặp bác sĩ kiểm tra có hợp lý không?
+765. Nếu bạn thấy khó khăn khi tâm trạng không ổn định, cứ nói nhé, tôi sẵn sàng đi uống cà phê bất cứ lúc nào.
+766. Gần đây tôi cảm thấy tâm trạng không ổn định, nên tôi nghĩ mình nên tập thể dục nhiều hơn để cải thiện tình hình.
+767. Mặc dù kế hoạch bị thay đổi phút chót, tôi vẫn cố gắng học thêm một kỹ năng mới mỗi ngày.
+768. Không phải tôi không muốn sắp xếp lại lịch trình, chỉ là kế hoạch bị thay đổi phút chót khiến tôi khó thực hiện.
+769. Ngay khi tôi chuẩn bị học thêm một kỹ năng mới, thì gia đình có việc đột xuất xảy ra khiến tôi không kịp trở tay.
+770. Đáng lẽ tôi đã đi uống cà phê, nhưng đột nhiên đường phố kẹt xe nghiêm trọng khiến mọi thứ bị đảo lộn.
+771. Ban đầu tôi định tập trung giải quyết từng việc một, nhưng do thời tiết thay đổi thất thường nên có thể phải dời lại.
+772. Thực ra tôi đã quyết định trò chuyện với bạn bè, nhưng vì kế hoạch bị thay đổi phút chót nên tôi vẫn hơi lo lắng.
+773. Không phải tôi không muốn sắp xếp lại lịch trình, chỉ là lịch trình bị xáo trộn khiến tôi khó thực hiện.
+774. Lâu rồi không gặp, Vy! Nghe nói gần đây bạn thời tiết thay đổi thất thường, có ổn không? Nếu cần thì tôi có thể sắp xếp lại lịch trình.
+775. Ban đầu tôi định sắp xếp lại lịch trình, nhưng do thời tiết thay đổi thất thường nên có thể phải dời lại.
+776. Tôi đang gặp chút rắc rối vì gia đình có việc đột xuất. Bạn có thể giúp tôi đi dạo cho thư giãn được không?
+777. Chào Tú, dạo này kế hoạch bị thay đổi phút chót không? Tôi định đi dạo cho thư giãn sau giờ làm, bạn có muốn đi cùng không?
+778. Tôi muốn nghe ý kiến của bạn: với tình huống lịch trình bị xáo trộn, liệu dành thời gian cho bản thân có hợp lý không?
+779. Tôi đang gặp chút rắc rối vì công việc quá bận rộn. Bạn có thể giúp tôi trò chuyện với bạn bè được không?
+780. Tôi đang gặp chút rắc rối vì lịch trình bị xáo trộn. Bạn có thể giúp tôi gặp bác sĩ kiểm tra được không?
+781. Gần đây tôi cảm thấy tâm trạng không ổn định, nên tôi nghĩ mình nên trò chuyện với bạn bè để cải thiện tình hình.
+782. Gần đây tôi cảm thấy kế hoạch bị thay đổi phút chót, nên tôi nghĩ mình nên đi dạo cho thư giãn để cải thiện tình hình.
+783. Nếu bạn thấy khó khăn khi công việc quá bận rộn, cứ nói nhé, tôi sẵn sàng học thêm một kỹ năng mới bất cứ lúc nào.
+784. Mặc dù công việc quá bận rộn, tôi vẫn cố gắng trò chuyện với bạn bè mỗi ngày.
+785. Tôi đang gặp chút rắc rối vì sức khỏe không được tốt. Bạn có thể giúp tôi đi uống cà phê được không?
+786. Tôi muốn nghe ý kiến của bạn: với tình huống kế hoạch bị thay đổi phút chót, liệu trò chuyện với bạn bè có hợp lý không?
+787. Đáng lẽ tôi đã đi dạo cho thư giãn, nhưng đột nhiên sức khỏe không được tốt khiến mọi thứ bị đảo lộn.
+788. Thực ra tôi đã quyết định trò chuyện với bạn bè, nhưng vì tâm trạng không ổn định nên tôi vẫn hơi lo lắng.
+789. Tôi muốn nghe ý kiến của bạn: với tình huống tâm trạng không ổn định, liệu dành thời gian cho bản thân có hợp lý không?
+790. Gần đây tôi cảm thấy công việc quá bận rộn, nên tôi nghĩ mình nên tập trung giải quyết từng việc một để cải thiện tình hình.
+791. Chào Tú, dạo này tôi phải di chuyển rất nhiều không? Tôi định đi uống cà phê sau giờ làm, bạn có muốn đi cùng không?
+792. Tôi đang phân vân không biết có nên gặp bác sĩ kiểm tra hay không, nhất là khi tài chính có chút vấn đề.
+793. Tôi đang phân vân không biết có nên tập trung giải quyết từng việc một hay không, nhất là khi lịch trình bị xáo trộn.
+794. Theo bạn thì nếu sức khỏe không được tốt, tôi nên trò chuyện với bạn bè hay làm cách khác?
+795. Chào Tú, dạo này công việc quá bận rộn không? Tôi định tập thể dục nhiều hơn sau giờ làm, bạn có muốn đi cùng không?
+796. Nếu bạn thấy khó khăn khi công việc quá bận rộn, cứ nói nhé, tôi sẵn sàng tập trung giải quyết từng việc một bất cứ lúc nào.
+797. Không phải tôi không muốn tập thể dục nhiều hơn, chỉ là công việc quá bận rộn khiến tôi khó thực hiện.
+798. Mặc dù gia đình có việc đột xuất, tôi vẫn cố gắng đi uống cà phê mỗi ngày.
+799. Đáng lẽ tôi đã trò chuyện với bạn bè, nhưng đột nhiên sức khỏe không được tốt khiến mọi thứ bị đảo lộn.
+800. Ban đầu tôi định nghỉ ngơi một ngày, nhưng do tài chính có chút vấn đề nên có thể phải dời lại.
+801. Thực ra tôi đã quyết định sắp xếp lại lịch trình, nhưng vì thời tiết thay đổi thất thường nên tôi vẫn hơi lo lắng.
+802. Ban đầu tôi định dành thời gian cho bản thân, nhưng do lịch trình bị xáo trộn nên có thể phải dời lại.
+803. Đáng lẽ tôi đã sắp xếp lại lịch trình, nhưng đột nhiên lịch trình bị xáo trộn khiến mọi thứ bị đảo lộn.
+804. Nếu bạn thấy khó khăn khi kế hoạch bị thay đổi phút chót, cứ nói nhé, tôi sẵn sàng trò chuyện với bạn bè bất cứ lúc nào.
+805. Tôi đang gặp chút rắc rối vì kế hoạch bị thay đổi phút chót. Bạn có thể giúp tôi trò chuyện với bạn bè được không?
+806. Tôi đang gặp chút rắc rối vì tôi phải di chuyển rất nhiều. Bạn có thể giúp tôi dành thời gian cho bản thân được không?
+807. Ban đầu tôi định đi dạo cho thư giãn, nhưng do thời tiết thay đổi thất thường nên có thể phải dời lại.
+808. Theo bạn thì nếu kế hoạch bị thay đổi phút chót, tôi nên trò chuyện với bạn bè hay làm cách khác?
+809. Đáng lẽ tôi đã trò chuyện với bạn bè, nhưng đột nhiên đường phố kẹt xe nghiêm trọng khiến mọi thứ bị đảo lộn.
+810. Đáng lẽ tôi đã dành thời gian cho bản thân, nhưng đột nhiên tài chính có chút vấn đề khiến mọi thứ bị đảo lộn.
+811. Tôi đang phân vân không biết có nên đi uống cà phê hay không, nhất là khi tâm trạng không ổn định.
+812. Ngay khi tôi chuẩn bị học thêm một kỹ năng mới, thì đường phố kẹt xe nghiêm trọng xảy ra khiến tôi không kịp trở tay.
+813. Ban đầu tôi định đi dạo cho thư giãn, nhưng do công việc quá bận rộn nên có thể phải dời lại.
+814. Không phải tôi không muốn sắp xếp lại lịch trình, chỉ là tôi phải di chuyển rất nhiều khiến tôi khó thực hiện.
+815. Tôi muốn nghe ý kiến của bạn: với tình huống tâm trạng không ổn định, liệu dành thời gian cho bản thân có hợp lý không?
+816. Chào Vy, dạo này lịch trình bị xáo trộn không? Tôi định đi dạo cho thư giãn sau giờ làm, bạn có muốn đi cùng không?
+817. Gần đây tôi cảm thấy lịch trình bị xáo trộn, nên tôi nghĩ mình nên học thêm một kỹ năng mới để cải thiện tình hình.
+818. Ban đầu tôi định nghỉ ngơi một ngày, nhưng do tôi phải di chuyển rất nhiều nên có thể phải dời lại.
+819. Đáng lẽ tôi đã dành thời gian cho bản thân, nhưng đột nhiên đường phố kẹt xe nghiêm trọng khiến mọi thứ bị đảo lộn.
+820. Tôi đang phân vân không biết có nên dành thời gian cho bản thân hay không, nhất là khi tôi phải di chuyển rất nhiều.
+821. Tôi đang gặp chút rắc rối vì đường phố kẹt xe nghiêm trọng. Bạn có thể giúp tôi dành thời gian cho bản thân được không?
+822. Không phải tôi không muốn sắp xếp lại lịch trình, chỉ là tôi phải di chuyển rất nhiều khiến tôi khó thực hiện.
+823. Nếu bạn thấy khó khăn khi lịch trình bị xáo trộn, cứ nói nhé, tôi sẵn sàng gặp bác sĩ kiểm tra bất cứ lúc nào.
+824. Ban đầu tôi định gặp bác sĩ kiểm tra, nhưng do tôi phải di chuyển rất nhiều nên có thể phải dời lại.
+825. Tôi đang phân vân không biết có nên tập trung giải quyết từng việc một hay không, nhất là khi gia đình có việc đột xuất.
+826. Tôi đang phân vân không biết có nên trò chuyện với bạn bè hay không, nhất là khi gia đình có việc đột xuất.
+827. Lâu rồi không gặp, Khôi! Nghe nói gần đây bạn sức khỏe không được tốt, có ổn không? Nếu cần thì tôi có thể tập trung giải quyết từng việc một.
+828. Ban đầu tôi định trò chuyện với bạn bè, nhưng do tài chính có chút vấn đề nên có thể phải dời lại.
+829. Tôi đang gặp chút rắc rối vì tài chính có chút vấn đề. Bạn có thể giúp tôi đi uống cà phê được không?
+830. Gần đây tôi cảm thấy kế hoạch bị thay đổi phút chót, nên tôi nghĩ mình nên đi uống cà phê để cải thiện tình hình.
+831. Chào Vy, dạo này gia đình có việc đột xuất không? Tôi định sắp xếp lại lịch trình sau giờ làm, bạn có muốn đi cùng không?
+832. Không phải tôi không muốn đi dạo cho thư giãn, chỉ là thời tiết thay đổi thất thường khiến tôi khó thực hiện.
+833. Gần đây tôi cảm thấy lịch trình bị xáo trộn, nên tôi nghĩ mình nên tập trung giải quyết từng việc một để cải thiện tình hình.
+834. Không phải tôi không muốn tập trung giải quyết từng việc một, chỉ là thời tiết thay đổi thất thường khiến tôi khó thực hiện.
+835. Không phải tôi không muốn gặp bác sĩ kiểm tra, chỉ là tài chính có chút vấn đề khiến tôi khó thực hiện.
+836. Đáng lẽ tôi đã trò chuyện với bạn bè, nhưng đột nhiên sức khỏe không được tốt khiến mọi thứ bị đảo lộn.
+837. Ban đầu tôi định sắp xếp lại lịch trình, nhưng do kế hoạch bị thay đổi phút chót nên có thể phải dời lại.
+838. Đáng lẽ tôi đã tập thể dục nhiều hơn, nhưng đột nhiên tôi phải di chuyển rất nhiều khiến mọi thứ bị đảo lộn.
+839. Ngay khi tôi chuẩn bị dành thời gian cho bản thân, thì công việc quá bận rộn xảy ra khiến tôi không kịp trở tay.
+840. Sở dĩ tôi gặp bác sĩ kiểm tra là vì gần đây sức khỏe không được tốt, nên tôi muốn thay đổi một chút.
+841. Chào Hương, dạo này gia đình có việc đột xuất không? Tôi định dành thời gian cho bản thân sau giờ làm, bạn có muốn đi cùng không?
+842. Lâu rồi không gặp, Tú! Nghe nói gần đây bạn lịch trình bị xáo trộn, có ổn không? Nếu cần thì tôi có thể tập trung giải quyết từng việc một.
+843. Tôi đang phân vân không biết có nên dành thời gian cho bản thân hay không, nhất là khi công việc quá bận rộn.
+844. Ban đầu tôi định sắp xếp lại lịch trình, nhưng do công việc quá bận rộn nên có thể phải dời lại.
+845. Mặc dù gia đình có việc đột xuất, tôi vẫn cố gắng tập thể dục nhiều hơn mỗi ngày.
+846. Chào Vy, dạo này tài chính có chút vấn đề không? Tôi định học thêm một kỹ năng mới sau giờ làm, bạn có muốn đi cùng không?
+847. Ban đầu tôi định nghỉ ngơi một ngày, nhưng do kế hoạch bị thay đổi phút chót nên có thể phải dời lại.
+848. Tôi đang gặp chút rắc rối vì gia đình có việc đột xuất. Bạn có thể giúp tôi đi uống cà phê được không?
+849. Gần đây tôi cảm thấy thời tiết thay đổi thất thường, nên tôi nghĩ mình nên sắp xếp lại lịch trình để cải thiện tình hình.
+850. Tôi đang phân vân không biết có nên đi uống cà phê hay không, nhất là khi thời tiết thay đổi thất thường.
+851. Lâu rồi không gặp, Hưng! Nghe nói gần đây bạn lịch trình bị xáo trộn, có ổn không? Nếu cần thì tôi có thể học thêm một kỹ năng mới.
+852. Chào Minh, dạo này công việc quá bận rộn không? Tôi định đi uống cà phê sau giờ làm, bạn có muốn đi cùng không?
+853. Lâu rồi không gặp, Vy! Nghe nói gần đây bạn thời tiết thay đổi thất thường, có ổn không? Nếu cần thì tôi có thể gặp bác sĩ kiểm tra.
+854. Ban đầu tôi định tập trung giải quyết từng việc một, nhưng do lịch trình bị xáo trộn nên có thể phải dời lại.
+855. Ngay khi tôi chuẩn bị đi uống cà phê, thì tôi phải di chuyển rất nhiều xảy ra khiến tôi không kịp trở tay.
+856. Sở dĩ tôi gặp bác sĩ kiểm tra là vì gần đây tài chính có chút vấn đề, nên tôi muốn thay đổi một chút.
+857. Tôi đang tính sắp xếp lại lịch trình vào cuối tuần, nhưng nếu tôi phải di chuyển rất nhiều xảy ra thì có lẽ phải thay đổi kế hoạch.
+858. Đáng lẽ tôi đã tập trung giải quyết từng việc một, nhưng đột nhiên tài chính có chút vấn đề khiến mọi thứ bị đảo lộn.
+859. Không phải tôi không muốn dành thời gian cho bản thân, chỉ là tâm trạng không ổn định khiến tôi khó thực hiện.
+860. Tôi muốn nghe ý kiến của bạn: với tình huống thời tiết thay đổi thất thường, liệu học thêm một kỹ năng mới có hợp lý không?
+861. Ban đầu tôi định dành thời gian cho bản thân, nhưng do tâm trạng không ổn định nên có thể phải dời lại.
+862. Chào Khôi, dạo này gia đình có việc đột xuất không? Tôi định sắp xếp lại lịch trình sau giờ làm, bạn có muốn đi cùng không?
+863. Đáng lẽ tôi đã tập trung giải quyết từng việc một, nhưng đột nhiên gia đình có việc đột xuất khiến mọi thứ bị đảo lộn.
+864. Gần đây tôi cảm thấy tâm trạng không ổn định, nên tôi nghĩ mình nên đi uống cà phê để cải thiện tình hình.
+865. Sở dĩ tôi trò chuyện với bạn bè là vì gần đây tôi phải di chuyển rất nhiều, nên tôi muốn thay đổi một chút.
+866. Sở dĩ tôi trò chuyện với bạn bè là vì gần đây sức khỏe không được tốt, nên tôi muốn thay đổi một chút.
+867. Tôi đang gặp chút rắc rối vì tâm trạng không ổn định. Bạn có thể giúp tôi tập thể dục nhiều hơn được không?
+868. Ban đầu tôi định tập trung giải quyết từng việc một, nhưng do công việc quá bận rộn nên có thể phải dời lại.
+869. Không phải tôi không muốn dành thời gian cho bản thân, chỉ là kế hoạch bị thay đổi phút chót khiến tôi khó thực hiện.
+870. Tôi đang tính đi dạo cho thư giãn vào cuối tuần, nhưng nếu lịch trình bị xáo trộn xảy ra thì có lẽ phải thay đổi kế hoạch.
+871. Theo bạn thì nếu tài chính có chút vấn đề, tôi nên gặp bác sĩ kiểm tra hay làm cách khác?
+872. Tôi đang gặp chút rắc rối vì gia đình có việc đột xuất. Bạn có thể giúp tôi nghỉ ngơi một ngày được không?
+873. Không phải tôi không muốn nghỉ ngơi một ngày, chỉ là kế hoạch bị thay đổi phút chót khiến tôi khó thực hiện.
+874. Tôi đang gặp chút rắc rối vì gia đình có việc đột xuất. Bạn có thể giúp tôi tập trung giải quyết từng việc một được không?
+875. Lâu rồi không gặp, Minh! Nghe nói gần đây bạn sức khỏe không được tốt, có ổn không? Nếu cần thì tôi có thể gặp bác sĩ kiểm tra.
+876. Không phải tôi không muốn sắp xếp lại lịch trình, chỉ là lịch trình bị xáo trộn khiến tôi khó thực hiện.
+877. Chào Hưng, dạo này thời tiết thay đổi thất thường không? Tôi định đi dạo cho thư giãn sau giờ làm, bạn có muốn đi cùng không?
+878. Mặc dù kế hoạch bị thay đổi phút chót, tôi vẫn cố gắng trò chuyện với bạn bè mỗi ngày.
+879. Ngay khi tôi chuẩn bị đi uống cà phê, thì kế hoạch bị thay đổi phút chót xảy ra khiến tôi không kịp trở tay.
+880. Sở dĩ tôi tập trung giải quyết từng việc một là vì gần đây tâm trạng không ổn định, nên tôi muốn thay đổi một chút.
+881. Chào Vy, dạo này công việc quá bận rộn không? Tôi định trò chuyện với bạn bè sau giờ làm, bạn có muốn đi cùng không?
+882. Đáng lẽ tôi đã học thêm một kỹ năng mới, nhưng đột nhiên tâm trạng không ổn định khiến mọi thứ bị đảo lộn.
+883. Tôi đang tính dành thời gian cho bản thân vào cuối tuần, nhưng nếu tài chính có chút vấn đề xảy ra thì có lẽ phải thay đổi kế hoạch.
+884. Theo bạn thì nếu lịch trình bị xáo trộn, tôi nên học thêm một kỹ năng mới hay làm cách khác?
+885. Ngay khi tôi chuẩn bị học thêm một kỹ năng mới, thì kế hoạch bị thay đổi phút chót xảy ra khiến tôi không kịp trở tay.
+886. Thực ra tôi đã quyết định gặp bác sĩ kiểm tra, nhưng vì thời tiết thay đổi thất thường nên tôi vẫn hơi lo lắng.
+887. Thực ra tôi đã quyết định đi uống cà phê, nhưng vì tâm trạng không ổn định nên tôi vẫn hơi lo lắng.
+888. Mặc dù thời tiết thay đổi thất thường, tôi vẫn cố gắng dành thời gian cho bản thân mỗi ngày.
+889. Chào Vy, dạo này tôi phải di chuyển rất nhiều không? Tôi định tập trung giải quyết từng việc một sau giờ làm, bạn có muốn đi cùng không?
+890. Đáng lẽ tôi đã nghỉ ngơi một ngày, nhưng đột nhiên tài chính có chút vấn đề khiến mọi thứ bị đảo lộn.
+891. Gần đây tôi cảm thấy kế hoạch bị thay đổi phút chót, nên tôi nghĩ mình nên tập thể dục nhiều hơn để cải thiện tình hình.
+892. Lâu rồi không gặp, Tú! Nghe nói gần đây bạn kế hoạch bị thay đổi phút chót, có ổn không? Nếu cần thì tôi có thể gặp bác sĩ kiểm tra.
+893. Gần đây tôi cảm thấy tôi phải di chuyển rất nhiều, nên tôi nghĩ mình nên tập thể dục nhiều hơn để cải thiện tình hình.
+894. Nếu bạn thấy khó khăn khi sức khỏe không được tốt, cứ nói nhé, tôi sẵn sàng nghỉ ngơi một ngày bất cứ lúc nào.
+895. Ban đầu tôi định dành thời gian cho bản thân, nhưng do sức khỏe không được tốt nên có thể phải dời lại.
+896. Tôi muốn nghe ý kiến của bạn: với tình huống kế hoạch bị thay đổi phút chót, liệu dành thời gian cho bản thân có hợp lý không?
+897. Tôi đang tính dành thời gian cho bản thân vào cuối tuần, nhưng nếu công việc quá bận rộn xảy ra thì có lẽ phải thay đổi kế hoạch.
+898. Ban đầu tôi định đi uống cà phê, nhưng do thời tiết thay đổi thất thường nên có thể phải dời lại.
+899. Không phải tôi không muốn nghỉ ngơi một ngày, chỉ là gia đình có việc đột xuất khiến tôi khó thực hiện.
+900. Đáng lẽ tôi đã tập trung giải quyết từng việc một, nhưng đột nhiên lịch trình bị xáo trộn khiến mọi thứ bị đảo lộn.
+901. Lâu rồi không gặp, Hưng! Nghe nói gần đây bạn sức khỏe không được tốt, có ổn không? Nếu cần thì tôi có thể tập thể dục nhiều hơn.
+902. Lâu rồi không gặp, Nam! Nghe nói gần đây bạn sức khỏe không được tốt, có ổn không? Nếu cần thì tôi có thể dành thời gian cho bản thân.
+903. Gần đây tôi cảm thấy kế hoạch bị thay đổi phút chót, nên tôi nghĩ mình nên dành thời gian cho bản thân để cải thiện tình hình.
+904. Theo bạn thì nếu thời tiết thay đổi thất thường, tôi nên nghỉ ngơi một ngày hay làm cách khác?
+905. Chào Minh, dạo này sức khỏe không được tốt không? Tôi định tập trung giải quyết từng việc một sau giờ làm, bạn có muốn đi cùng không?
+906. Không phải tôi không muốn đi uống cà phê, chỉ là tâm trạng không ổn định khiến tôi khó thực hiện.
+907. Tôi muốn nghe ý kiến của bạn: với tình huống tâm trạng không ổn định, liệu sắp xếp lại lịch trình có hợp lý không?
+908. Tôi muốn nghe ý kiến của bạn: với tình huống thời tiết thay đổi thất thường, liệu đi dạo cho thư giãn có hợp lý không?
+909. Đáng lẽ tôi đã đi dạo cho thư giãn, nhưng đột nhiên công việc quá bận rộn khiến mọi thứ bị đảo lộn.
+910. Tôi đang gặp chút rắc rối vì sức khỏe không được tốt. Bạn có thể giúp tôi nghỉ ngơi một ngày được không?
+911. Chào Tú, dạo này đường phố kẹt xe nghiêm trọng không? Tôi định tập trung giải quyết từng việc một sau giờ làm, bạn có muốn đi cùng không?
+912. Lâu rồi không gặp, Tú! Nghe nói gần đây bạn tâm trạng không ổn định, có ổn không? Nếu cần thì tôi có thể sắp xếp lại lịch trình.
+913. Tôi đang phân vân không biết có nên đi uống cà phê hay không, nhất là khi đường phố kẹt xe nghiêm trọng.
+914. Tôi đang phân vân không biết có nên đi dạo cho thư giãn hay không, nhất là khi tâm trạng không ổn định.
+915. Lâu rồi không gặp, Khôi! Nghe nói gần đây bạn tài chính có chút vấn đề, có ổn không? Nếu cần thì tôi có thể nghỉ ngơi một ngày.
+916. Tôi đang tính đi dạo cho thư giãn vào cuối tuần, nhưng nếu gia đình có việc đột xuất xảy ra thì có lẽ phải thay đổi kế hoạch.
+917. Gần đây tôi cảm thấy tài chính có chút vấn đề, nên tôi nghĩ mình nên tập thể dục nhiều hơn để cải thiện tình hình.
+918. Mặc dù thời tiết thay đổi thất thường, tôi vẫn cố gắng gặp bác sĩ kiểm tra mỗi ngày.
+919. Tôi muốn nghe ý kiến của bạn: với tình huống tâm trạng không ổn định, liệu nghỉ ngơi một ngày có hợp lý không?
+920. Không phải tôi không muốn tập thể dục nhiều hơn, chỉ là kế hoạch bị thay đổi phút chót khiến tôi khó thực hiện.
+921. Lâu rồi không gặp, Hương! Nghe nói gần đây bạn kế hoạch bị thay đổi phút chót, có ổn không? Nếu cần thì tôi có thể tập trung giải quyết từng việc một.
+922. Mặc dù gia đình có việc đột xuất, tôi vẫn cố gắng gặp bác sĩ kiểm tra mỗi ngày.
+923. Chào Khôi, dạo này tôi phải di chuyển rất nhiều không? Tôi định tập thể dục nhiều hơn sau giờ làm, bạn có muốn đi cùng không?
+924. Ngay khi tôi chuẩn bị đi dạo cho thư giãn, thì gia đình có việc đột xuất xảy ra khiến tôi không kịp trở tay.
+925. Tôi muốn nghe ý kiến của bạn: với tình huống tâm trạng không ổn định, liệu học thêm một kỹ năng mới có hợp lý không?
+926. Gần đây tôi cảm thấy kế hoạch bị thay đổi phút chót, nên tôi nghĩ mình nên tập thể dục nhiều hơn để cải thiện tình hình.
+927. Đáng lẽ tôi đã dành thời gian cho bản thân, nhưng đột nhiên tài chính có chút vấn đề khiến mọi thứ bị đảo lộn.
+928. Mặc dù tài chính có chút vấn đề, tôi vẫn cố gắng nghỉ ngơi một ngày mỗi ngày.
+929. Không phải tôi không muốn đi uống cà phê, chỉ là lịch trình bị xáo trộn khiến tôi khó thực hiện.
+930. Tôi đang phân vân không biết có nên đi uống cà phê hay không, nhất là khi sức khỏe không được tốt.
+931. Tôi đang gặp chút rắc rối vì thời tiết thay đổi thất thường. Bạn có thể giúp tôi đi dạo cho thư giãn được không?
+932. Ban đầu tôi định học thêm một kỹ năng mới, nhưng do sức khỏe không được tốt nên có thể phải dời lại.
+933. Nếu bạn thấy khó khăn khi lịch trình bị xáo trộn, cứ nói nhé, tôi sẵn sàng trò chuyện với bạn bè bất cứ lúc nào.
+934. Đáng lẽ tôi đã đi dạo cho thư giãn, nhưng đột nhiên sức khỏe không được tốt khiến mọi thứ bị đảo lộn.
+935. Không phải tôi không muốn dành thời gian cho bản thân, chỉ là kế hoạch bị thay đổi phút chót khiến tôi khó thực hiện.
+936. Không phải tôi không muốn đi dạo cho thư giãn, chỉ là lịch trình bị xáo trộn khiến tôi khó thực hiện.
+937. Sở dĩ tôi đi dạo cho thư giãn là vì gần đây thời tiết thay đổi thất thường, nên tôi muốn thay đổi một chút.
+938. Chào Nam, dạo này đường phố kẹt xe nghiêm trọng không? Tôi định học thêm một kỹ năng mới sau giờ làm, bạn có muốn đi cùng không?
+939. Đáng lẽ tôi đã đi uống cà phê, nhưng đột nhiên tài chính có chút vấn đề khiến mọi thứ bị đảo lộn.
+940. Ngay khi tôi chuẩn bị đi dạo cho thư giãn, thì gia đình có việc đột xuất xảy ra khiến tôi không kịp trở tay.
+941. Mặc dù tài chính có chút vấn đề, tôi vẫn cố gắng đi dạo cho thư giãn mỗi ngày.
+942. Tôi đang tính tập trung giải quyết từng việc một vào cuối tuần, nhưng nếu thời tiết thay đổi thất thường xảy ra thì có lẽ phải thay đổi kế hoạch.
+943. Theo bạn thì nếu thời tiết thay đổi thất thường, tôi nên tập thể dục nhiều hơn hay làm cách khác?
+944. Ban đầu tôi định học thêm một kỹ năng mới, nhưng do công việc quá bận rộn nên có thể phải dời lại.
+945. Ngay khi tôi chuẩn bị sắp xếp lại lịch trình, thì gia đình có việc đột xuất xảy ra khiến tôi không kịp trở tay.
+946. Đáng lẽ tôi đã đi uống cà phê, nhưng đột nhiên gia đình có việc đột xuất khiến mọi thứ bị đảo lộn.
+947. Theo bạn thì nếu tôi phải di chuyển rất nhiều, tôi nên đi uống cà phê hay làm cách khác?
+948. Tôi đang tính dành thời gian cho bản thân vào cuối tuần, nhưng nếu sức khỏe không được tốt xảy ra thì có lẽ phải thay đổi kế hoạch.
+949. Mặc dù thời tiết thay đổi thất thường, tôi vẫn cố gắng trò chuyện với bạn bè mỗi ngày.
+950. Đáng lẽ tôi đã đi uống cà phê, nhưng đột nhiên gia đình có việc đột xuất khiến mọi thứ bị đảo lộn.
+951. Mặc dù gia đình có việc đột xuất, tôi vẫn cố gắng học thêm một kỹ năng mới mỗi ngày.
+952. Ban đầu tôi định trò chuyện với bạn bè, nhưng do sức khỏe không được tốt nên có thể phải dời lại.
+953. Đáng lẽ tôi đã đi dạo cho thư giãn, nhưng đột nhiên tâm trạng không ổn định khiến mọi thứ bị đảo lộn.
+954. Chào Tú, dạo này sức khỏe không được tốt không? Tôi định sắp xếp lại lịch trình sau giờ làm, bạn có muốn đi cùng không?
+955. Theo bạn thì nếu công việc quá bận rộn, tôi nên nghỉ ngơi một ngày hay làm cách khác?
+956. Tôi đang gặp chút rắc rối vì tâm trạng không ổn định. Bạn có thể giúp tôi đi dạo cho thư giãn được không?
+957. Sở dĩ tôi dành thời gian cho bản thân là vì gần đây tài chính có chút vấn đề, nên tôi muốn thay đổi một chút.
+958. Tôi đang phân vân không biết có nên dành thời gian cho bản thân hay không, nhất là khi tài chính có chút vấn đề.
+959. Nếu bạn thấy khó khăn khi sức khỏe không được tốt, cứ nói nhé, tôi sẵn sàng học thêm một kỹ năng mới bất cứ lúc nào.
+960. Tôi đang tính đi dạo cho thư giãn vào cuối tuần, nhưng nếu kế hoạch bị thay đổi phút chót xảy ra thì có lẽ phải thay đổi kế hoạch.
+961. Lâu rồi không gặp, Hưng! Nghe nói gần đây bạn kế hoạch bị thay đổi phút chót, có ổn không? Nếu cần thì tôi có thể trò chuyện với bạn bè.
+962. Nếu bạn thấy khó khăn khi lịch trình bị xáo trộn, cứ nói nhé, tôi sẵn sàng trò chuyện với bạn bè bất cứ lúc nào.
+963. Đáng lẽ tôi đã gặp bác sĩ kiểm tra, nhưng đột nhiên tài chính có chút vấn đề khiến mọi thứ bị đảo lộn.
+964. Nếu bạn thấy khó khăn khi kế hoạch bị thay đổi phút chót, cứ nói nhé, tôi sẵn sàng tập thể dục nhiều hơn bất cứ lúc nào.
+965. Gần đây tôi cảm thấy tài chính có chút vấn đề, nên tôi nghĩ mình nên sắp xếp lại lịch trình để cải thiện tình hình.
+966. Tôi đang phân vân không biết có nên gặp bác sĩ kiểm tra hay không, nhất là khi công việc quá bận rộn.
+967. Tôi muốn nghe ý kiến của bạn: với tình huống tâm trạng không ổn định, liệu gặp bác sĩ kiểm tra có hợp lý không?
+968. Ban đầu tôi định dành thời gian cho bản thân, nhưng do công việc quá bận rộn nên có thể phải dời lại.
+969. Mặc dù công việc quá bận rộn, tôi vẫn cố gắng trò chuyện với bạn bè mỗi ngày.
+970. Không phải tôi không muốn nghỉ ngơi một ngày, chỉ là tâm trạng không ổn định khiến tôi khó thực hiện.
+971. Tôi muốn nghe ý kiến của bạn: với tình huống tài chính có chút vấn đề, liệu nghỉ ngơi một ngày có hợp lý không?
+972. Nếu bạn thấy khó khăn khi công việc quá bận rộn, cứ nói nhé, tôi sẵn sàng học thêm một kỹ năng mới bất cứ lúc nào.
+973. Mặc dù gia đình có việc đột xuất, tôi vẫn cố gắng gặp bác sĩ kiểm tra mỗi ngày.
+974. Tôi đang tính đi dạo cho thư giãn vào cuối tuần, nhưng nếu sức khỏe không được tốt xảy ra thì có lẽ phải thay đổi kế hoạch.
+975. Gần đây tôi cảm thấy tôi phải di chuyển rất nhiều, nên tôi nghĩ mình nên đi uống cà phê để cải thiện tình hình.
+976. Mặc dù kế hoạch bị thay đổi phút chót, tôi vẫn cố gắng gặp bác sĩ kiểm tra mỗi ngày.
+977. Theo bạn thì nếu sức khỏe không được tốt, tôi nên dành thời gian cho bản thân hay làm cách khác?
+978. Tôi đang gặp chút rắc rối vì gia đình có việc đột xuất. Bạn có thể giúp tôi gặp bác sĩ kiểm tra được không?
+979. Đáng lẽ tôi đã đi uống cà phê, nhưng đột nhiên lịch trình bị xáo trộn khiến mọi thứ bị đảo lộn.
+980. Mặc dù tôi phải di chuyển rất nhiều, tôi vẫn cố gắng sắp xếp lại lịch trình mỗi ngày.
+981. Chào Tú, dạo này tài chính có chút vấn đề không? Tôi định học thêm một kỹ năng mới sau giờ làm, bạn có muốn đi cùng không?
+982. Sở dĩ tôi tập thể dục nhiều hơn là vì gần đây thời tiết thay đổi thất thường, nên tôi muốn thay đổi một chút.
+983. Tôi đang gặp chút rắc rối vì thời tiết thay đổi thất thường. Bạn có thể giúp tôi học thêm một kỹ năng mới được không?
+984. Đáng lẽ tôi đã dành thời gian cho bản thân, nhưng đột nhiên thời tiết thay đổi thất thường khiến mọi thứ bị đảo lộn.
+985. Đáng lẽ tôi đã đi uống cà phê, nhưng đột nhiên thời tiết thay đổi thất thường khiến mọi thứ bị đảo lộn.
+986. Không phải tôi không muốn tập trung giải quyết từng việc một, chỉ là tài chính có chút vấn đề khiến tôi khó thực hiện.
+987. Sở dĩ tôi đi uống cà phê là vì gần đây tài chính có chút vấn đề, nên tôi muốn thay đổi một chút.
+988. Theo bạn thì nếu tâm trạng không ổn định, tôi nên trò chuyện với bạn bè hay làm cách khác?
+989. Đáng lẽ tôi đã đi uống cà phê, nhưng đột nhiên tài chính có chút vấn đề khiến mọi thứ bị đảo lộn.
+990. Sở dĩ tôi gặp bác sĩ kiểm tra là vì gần đây thời tiết thay đổi thất thường, nên tôi muốn thay đổi một chút.
+991. Theo bạn thì nếu tài chính có chút vấn đề, tôi nên sắp xếp lại lịch trình hay làm cách khác?
+992. Không phải tôi không muốn đi dạo cho thư giãn, chỉ là tài chính có chút vấn đề khiến tôi khó thực hiện.
+993. Mặc dù tâm trạng không ổn định, tôi vẫn cố gắng nghỉ ngơi một ngày mỗi ngày.
+994. Ngay khi tôi chuẩn bị tập thể dục nhiều hơn, thì kế hoạch bị thay đổi phút chót xảy ra khiến tôi không kịp trở tay.
+995. Thực ra tôi đã quyết định tập trung giải quyết từng việc một, nhưng vì thời tiết thay đổi thất thường nên tôi vẫn hơi lo lắng.
+996. Tôi muốn nghe ý kiến của bạn: với tình huống lịch trình bị xáo trộn, liệu đi dạo cho thư giãn có hợp lý không?
+997. Thực ra tôi đã quyết định tập thể dục nhiều hơn, nhưng vì gia đình có việc đột xuất nên tôi vẫn hơi lo lắng.
+998. Mặc dù đường phố kẹt xe nghiêm trọng, tôi vẫn cố gắng nghỉ ngơi một ngày mỗi ngày.
+999. Sở dĩ tôi trò chuyện với bạn bè là vì gần đây thời tiết thay đổi thất thường, nên tôi muốn thay đổi một chút.
+1000. Ngay khi tôi chuẩn bị đi dạo cho thư giãn, thì đường phố kẹt xe nghiêm trọng xảy ra khiến tôi không kịp trở tay.
